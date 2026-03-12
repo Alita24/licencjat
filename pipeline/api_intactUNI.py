@@ -32,13 +32,14 @@ def process_all_uniprot_id_files(ids_dir, out_dir):
                 fetch_intact_interactions(uniprot_id, out_tsv_path=out_file)
             except Exception as e:
                 print(f"Failed to fetch for {uniprot_id}: {e}")
+                pass
 
 def main():
     """
-    Fetches IntAct interaction data for all UniProt IDs listed in pipeline/alphaknot_uniprot_ids/*.txt,
+    Fetches IntAct interaction data for all UniProt IDs listed in pipeline/uniprot_ids/*.txt,
     and stores the results as TSV files in 'intact_uniprot_results'.
     """
-    ids_dir = Path(__file__).resolve().parent / "alphaknot_uniprot_ids"
+    ids_dir = Path(__file__).resolve().parent / "uniprot_ids"
     out_dir = Path(__file__).resolve().parent / "intact_uniprot_results"
     process_all_uniprot_id_files(ids_dir, out_dir)
 
