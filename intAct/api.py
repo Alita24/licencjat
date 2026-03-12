@@ -55,7 +55,7 @@ def fetch_intact_interactions(query, out_tsv_path=None):
 
 if __name__ == "__main__":
     # Example usage: fetch for gene 'Trmd' and save output to 'intact_Trmd.tsv'
-    query = "trmd"
+    query = "trm5"
     out_file = f"try_intact_{query}.tsv"
     print(f"Fetching IntAct interactions for query: '{query}'")
     df = fetch_intact_interactions(query, out_tsv_path=out_file)

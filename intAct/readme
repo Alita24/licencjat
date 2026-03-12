@@ -1,4 +1,5 @@
 api.py - download through api
+
 check_id.py - tworza liste id z uniprot id, ktore wchodza ze soba w interakcje
     #jest takie cos jak batch search na intact, w ktorym mozna podac liste uniprot id i uzyskac wyniki dla kazdego z nich
     # https://www.ebi.ac.uk/intact/home#batch-search
