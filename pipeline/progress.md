@@ -7,6 +7,5 @@ jest problem gdyz api intact nie dziala jak uprzednio, wiec teraz jest inny pomy
 ??co zrobic dla trm5
 
 dobra, jednak moze sprobuje sciagnac dla rodziny po nazwie 
-    search?query=trmd#interactors
 
 

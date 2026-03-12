@@ -9,6 +9,18 @@ api_alphaknot.py
 // pobiera dane z bazy AlphaKnot i zapisuje wynikowe dane (TSV) zawierające kolumny:
 // Knot_type; Category; Uniprot; Organism; pLDDT_knotcore; Protein_name; InterPro; Gene_name
 
+
+
+\\ this yet to be implemented
+\\api_intactGENE.py
+\\--> sciagnac dane z intact, kotrzystajac z nazwy grupy bialek
+\\link: do dokumentacji https://www.ebi.ac.uk/intact/ws/graph/swagger-ui/index.html#/export-controller/exportInteraction_1 
+
+
+api_intactUNI.py
+--> sciagnac dane z intact, kotrzystajac z listy uniprot id (nie mam dla niezawezlonych zrobionych list uniprot id)
+
+
 api_interpro.py
 // --> dla każdej grupy białek (gene/protein group) zdefiniowanej w targets.py
 // pobiera dane z InterPro, tworzy/zapisuje scalone pliki TSV z adnotacją do grupy/proteiny
