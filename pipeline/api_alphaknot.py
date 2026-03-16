@@ -11,16 +11,18 @@ from pipeline.targets import GENE_TO_IPRS
 
 def alphaknot_pipeline(out_dir: Path):
     """
-    Orchestrates the complete AlphaKnot workflow:
-    1. Fetch AlphaKnot data for all gene/IPR sets, storing TSVs in 'alphaknot_results'..
+    pobiera dane z AlphaKnot dla danych genów i IPR
+    i zapisuje je w pliku TSV
+    Args:
+        out_dir: ścieżka do katalogu, w którym będą zapisywane wyniki
+    Returns:
+        None
     """
-    results_dir = out_dir
-
-    results_dir.mkdir(parents=True, exist_ok=True)
-
+    out_dir = Path(out_dir)
+    out_dir.mkdir(parents=True, exist_ok=True)
     print("Fetching AlphaKnot data for genes/IPRs and writing results...")
     for gene_name, iprs in GENE_TO_IPRS.items():
-        fetch_alphaknot_for_gene(gene_name=gene_name, iprs=iprs, out_dir=results_dir)
+        fetch_alphaknot_for_gene(gene_name=gene_name, iprs=iprs, out_dir=out_dir)
     print("Done fetching AlphaKnot results.\n")
 
 if __name__ == "__main__":

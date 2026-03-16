@@ -10,3 +10,6 @@ jest problem gdyz api intact nie dziala jak uprzednio, wiec teraz jest inny pomy
 
 
 
+
+
+
