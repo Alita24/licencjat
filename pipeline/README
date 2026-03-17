@@ -1,3 +1,7 @@
+pipeline.py
+--> pipeline bioinformatyczny do uzyskania najczęściej występujących domen w białkach wchodzących w interakcje z daną rodziną białek
+wymagania: uzupełnić plik targets.py
+
 targets.py
 --> zawiera nazwy docelowych genów oraz przypisanych im identyfikatorów InterPro (IPR).
 // Zmienna GENE_TO_IPRS definiuje słownik, w którym kluczem jest nazwa genu (np. "trmD", "trm5", "nep1"),
@@ -59,5 +63,4 @@ annotate_interactors.py
 // wyniki zapisane w : ~/isolated_partners.py jako pliki:
     - {GENE_NAME}_interactor_IPR.csv
     - {GENE_NAME}_count_interacter_IPR.csv
-
 

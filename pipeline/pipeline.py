@@ -14,8 +14,6 @@ from isolate_interactors import isolate_partners
 from anotate_interactors import annotate_pipeline, count_interpro
 
 
-
-
 def pipeline_main():
     """
     ZMIEN TO POZNIEJ
