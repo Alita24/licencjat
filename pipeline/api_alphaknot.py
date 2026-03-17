@@ -7,7 +7,7 @@ if str(parent_dir) not in sys.path:
     sys.path.append(str(parent_dir))
 
 from alphaknot.api import fetch_alphaknot_for_gene
-from pipeline.targets import GENE_TO_IPRS
+from targets import GENE_TO_IPRS
 
 def alphaknot_pipeline(out_dir: Path):
     """
@@ -27,3 +27,4 @@ def alphaknot_pipeline(out_dir: Path):
 
 if __name__ == "__main__":
     alphaknot_pipeline(out_dir=Path("alphaknot_results"))
+    # print('lets go')

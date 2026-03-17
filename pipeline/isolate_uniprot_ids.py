@@ -86,4 +86,5 @@ if __name__ == "__main__":
         output_dir=Path("pipeline/uniprot_ids"),
         interpro=True
     )
+    combine_list(Path(parent_dir / 'pipeline'/ 'uniprot_ids'))
     # print('oo')

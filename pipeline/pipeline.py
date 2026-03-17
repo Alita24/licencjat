@@ -10,19 +10,18 @@ from api_intactGENE import intact_gene_pipeline
 from isolate_uniprot_ids import isolate_uniprot_ids, combine_list
 from combine_intact import combine_intact_gene_interpro
 
+from isolate_interactors import isolate_partners
+from anotate_interactors import annotate_pipeline, count_interpro
+
 
 
 
 def pipeline_main():
     """
-    Orchestrates the complete pipeline:
-    1. Prepare alphaknot results (manual or custom parser)
-    2. Download group proteins from InterPro
-    3. Extract UniProt IDs per group from alphaknot (should already be in uniprot_ids/*.txt)
-    4. Fetch IntAct interaction data per UniProt ID
-    5. Isolate interaction partners from IntAct and annotate with InterPro domains
+    ZMIEN TO POZNIEJ
     """
     here = Path(__file__).resolve().parent
+    
     # 1. Prepare alphaknot results
     alphaknot_pipeline(
         out_dir=here / "alphaknot_results"
@@ -68,6 +67,23 @@ def pipeline_main():
     print("IntAct interaction data combined per UniProt ID and via gene name.")
 
     # 6. isolate interactors
+    isolate_partners(
+        intact_dir=here/'combined_intact_results',
+        output_dir=here/'isolated_partners'
+    )
+
+    #7. uniprot --> interpro domains
+    annotate_pipeline(
+        uniprot_partner_dir=here/'isolated_partners',
+        output_dir=here/'isolated_partners'
+    )
+
+    count_interpro(
+        input_dir=here/'isolated_partners', 
+        output_dir=here/'isolated_partners'
+    )
+
+    
 
 if __name__ == "__main__":
     pipeline_main()
