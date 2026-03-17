@@ -19,7 +19,7 @@ def intact_uniprot_pipeline(ids_dir, out_dir):
 
     for file in ids_dir.glob("*_uniprot_ids_COMBINED.txt"):
         gene_name = file.stem.replace("_uniprot_ids_COMBINED", "")
-        # Combine reading IDs and fetching in this function
+
         with open(file, 'r') as f:
             uniprot_ids = [line.strip() for line in f if line.strip()]
         for uniprot_id in uniprot_ids:
@@ -31,7 +31,6 @@ def intact_uniprot_pipeline(ids_dir, out_dir):
                 print(f"Failed to fetch for {uniprot_id}: {e}")
                 pass
 
-        # Combine all results into one file
         all_results = []
         files_to_remove = []
         for file in out_dir.glob(f"intact_{gene_name}_*.tsv"):
@@ -40,7 +39,7 @@ def intact_uniprot_pipeline(ids_dir, out_dir):
             files_to_remove.append(file)
         combined_file = out_dir / f"intact_{gene_name}_UNIPROT.tsv"
         pd.concat(all_results).to_csv(combined_file, sep="\t", index=False)
-        # Remove the singular files after combining
+  
         for file in files_to_remove:
             if file != combined_file:
                 file.unlink()

@@ -1,30 +1,63 @@
 targets.py
---> zawiera definicje docelowych genów oraz przypisanych im identyfikatorów InterPro (IPR).
+--> zawiera nazwy docelowych genów oraz przypisanych im identyfikatorów InterPro (IPR).
 // Zmienna GENE_TO_IPRS definiuje słownik, w którym kluczem jest nazwa genu (np. "trmD", "trm5", "nep1"),
 // a wartością — lista odpowiednich identyfikatorów InterPro związanych z danym genem/białkiem.
-// łatwą modyfikację listy wyszukiwania AlphaKnot
 
 api_alphaknot.py
---> dla każdej grupy białek zdefiniowanej w pliku alphaknot_targets.py (wraz z przypisanymi identyfikatorami InterPro),
-// pobiera dane z bazy AlphaKnot i zapisuje wynikowe dane (TSV) zawierające kolumny:
+--> dla każdej grupy białek (gene/protein group) zdefiniowanej w targets.py, pobiera dane z bazy AlphaKnot i zapisuje wynikowe dane (TSV) zawierające kolumny:
 // Knot_type; Category; Uniprot; Organism; pLDDT_knotcore; Protein_name; InterPro; Gene_name
-
-
+// wyniki zapisane w : ~/"alphaknot_results"
 
 api_interpro.py
 --> dla każdej grupy białek (gene/protein group) zdefiniowanej w targets.py
-pobiera dane z InterPro, tworzy/zapisuje scalone pliki TSV z adnotacją do grupy/proteiny
-(np. trmD_interpro.tsv, trm5_interpro.tsv, ...). Pliki wynikowe są w katalogu out/interpro/.
-Pozwala na ułatwioną agregację oraz eksport białek powiązanych z danym genem/IPR.
+// pobiera dane z InterPro, tworzy/zapisuje scalone pliki TSV z adnotacją do grupy/proteiny
+// (np. trmD_interpro.tsv, trm5_interpro.tsv, ...). Pliki wynikowe są w katalogu out/interpro/.
+// wyniki zapisane w : ~/"interpro_results"
 
 isolate_uniprot_ids.py
---> isolate uniprot ids from alphaknot and interpro results
+--> funckcje do:
+- izolacji kodów Uniprot ID zarówno z danych ściągniętych z AlphaKnot jak i za pośrednictwem kodu InterPro
+- łączeniu tych dwóch list 
+
+// wyniki zapisane w : ~/uniprot_ids jako pliki:
+    - {GENE_NAME}_uniprot_ids_GE.txt - kody UniProt pochodzące z danych z AlphaKnota (GE jak GEne)
+    - {GENE_NAME}_uniprot_ids_IN.txt - kody UniProt pochodzące z danych z InterPro
+    - {GENE_NAME}_uniprot_ids_COMBINED.txt - połączenie poprzednich dwóch list tworząc spis unikatowych UniProt IDs dla danej grupy białek
 
 
 api_intactUNI.py
---> sciagnac dane z intact, kotrzystajac z listy uniprot id 
-this needs to be run in the background with a log.out file
+--> funkcja do sciągnięcia danych z IntAct, korzystając z listy UniProt ID
+dla konkretnego UniProt ID ściąga wszystkie interakcje, później łączy w jeden plik dla konkretnej grupy białek
+
+// wyniki zapisane w : ~/intact_uniprot_results jako pliki:
+    - intact_{GENE_NAME}_UNIPROT.tsv
 
 
+api_intactGENE.py
+--> funkcja do sciągnięcia danych z IntAct, korzystając z nazwy grupy białek
+
+// wyniki zapisane w : ~/intact_gene_results jako pliki:
+    - intact_{GENE_NAME}_GENE.tsv
+
+combine_intact.py
+--> łączenie unikatowych interakcji pozyskanych z pojedyńczych białek z danej grupy wraz z interakcjami pochodzącymi z ściągnięcia danych bezpośrednio po nazwie grupy białek
+
+// wyniki zapisane w : ~/combined_intact_results jako pliki:
+    - intact_{GENE_NAME}_combined.tsv
+
+isolate_partners.py
+--> funkcje do izolacji kodów UniProt dla białek, które wchodzą w interakcje z poszczególnymi grupami białek 
+
+// wyniki zapisane w : ~/isolated_partners.py jako pliki:
+    - {GENE_NAME}_partners.txt
+
+annotate_interactors.py
+--> funkcje do :
+- uzyskania kodów InterPro dla domen występujących w białku z bazy UniProt,
+- zliczenie występowania domen wraz z dołączeniem nazwy domeny
+
+// wyniki zapisane w : ~/isolated_partners.py jako pliki:
+    - {GENE_NAME}_interactor_IPR.csv
+    - {GENE_NAME}_count_interacter_IPR.csv
 
 

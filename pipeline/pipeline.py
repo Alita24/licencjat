@@ -28,7 +28,9 @@ def pipeline_main():
     )
 
     # 2. Download group proteins from InterPro
-    interpro_pipeline() 
+    interpro_pipeline(
+        out_dir=here/ "interpro_results"
+    ) 
 
     # 3. Extract UniProt IDs per group from alphaknot (should already be in uniprot_ids/*.txt)
     isolate_uniprot_ids(
@@ -82,7 +84,6 @@ def pipeline_main():
         input_dir=here/'isolated_partners', 
         output_dir=here/'isolated_partners'
     )
-
     
 
 if __name__ == "__main__":
