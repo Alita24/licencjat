@@ -3,18 +3,23 @@ import csv
 import time
 
 def get_reviewed_proteins_for_interpro(interpro_id):
+    """
+    Pobiera wszystkie białka powiązane z danym IPR
+    Args:
+        interpro_id: identyfikator IPR
+    Returns:
+        list of proteins
+    """
     url = f"https://www.ebi.ac.uk/interpro/api/protein/uniprot/entry/interpro/{interpro_id}"
     results = []
     params = {"page_size": 200}
 
     page = 0
-    start_time = time.time()
 
     print(f"Downloading proteins for {interpro_id}...\n")
 
     while url:
         page += 1
-        t0 = time.time()
 
         r = requests.get(url, params=params)
         if r.status_code != 200:
@@ -24,7 +29,7 @@ def get_reviewed_proteins_for_interpro(interpro_id):
         batch = d.get("results", [])
         results.extend(batch)
 
-        print(f"Page {page} | {len(batch)} proteins | total: {len(results)} | {time.time()-t0:.2f}s")
+        print(f"Page {page} | {len(batch)} proteins | total: {len(results)}")
 
         url = d.get("next")
         params = {}     # remove params after first request
@@ -35,8 +40,11 @@ def get_reviewed_proteins_for_interpro(interpro_id):
 
 def extract_rows(protein):
     """
-    protein = full InterPro API item from 'results'
-    returns flat rows suitable for CSV
+    wyciaga dane z jsona i zwraca liste slownikow
+    Args:
+        protein: json object
+    Returns:
+        list of dictionaries
     """
 
     metadata = protein.get("metadata", {})
@@ -71,11 +79,24 @@ def extract_rows(protein):
 
 
 def write_combined_csv(all_proteins, output_file="interpro_output.csv"):
+    """
+    zapisuje dane do csv
+    Args:
+        all_proteins: list of proteins
+        output_file: ścieżka do pliku csv
+    Returns:
+        None
+    """
     all_rows = []
+        # list of dictionaries
+        # each dictionary is a protein and has the following keys:
+        # protein_accession, protein_name, protein_length, gene, organism_taxid, organism_name, organism_fullname, in_alphafold, interpro_accession, entry_type, entry_integrated, interpro_protein_length, fragment_start, fragment_end, fragment_status
 
     for protein in all_proteins:
         rows = extract_rows(protein)
         all_rows.extend(rows)
+    
+
 
     if not all_rows:
         print("No annotation rows extracted.")

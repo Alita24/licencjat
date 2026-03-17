@@ -2,12 +2,11 @@ import sys
 from pathlib import Path
 import requests
 
-# Ensure project root is in sys.path for imports
 parent_dir = Path(__file__).resolve().parents[1]
 if str(parent_dir) not in sys.path:
     sys.path.append(str(parent_dir))
 
-from targets import GENE_TO_IPRS  # assumes gene family names are keys
+from targets import GENE_TO_IPRS 
 
 def intact_gene_pipeline(output_dir):
     """

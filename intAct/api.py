@@ -17,7 +17,7 @@ def fetch_intact_interactions(query, out_tsv_path=None):
         "https://www.ebi.ac.uk/Tools/webservices/psicquic/intact/"
         f"webservices/current/search/query/{query}?format=tab25"
     )
-    print(url)
+    # print(url)
     resp = requests.get(url)
     resp.raise_for_status()
 
