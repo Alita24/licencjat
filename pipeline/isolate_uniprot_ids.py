@@ -22,7 +22,7 @@ def isolate_uniprot_ids(
     Returns:
         None
     """
-    print("rozpoczynam isolate_uniprot_ids...")
+    print(f"rozpoczynam isolating uniprot ids dla interpro {'yes' if interpro else 'no'}...")
     input_dir = Path(input_dir)
     output_dir = Path(output_dir)
     output_dir.mkdir(parents=True, exist_ok=True)
