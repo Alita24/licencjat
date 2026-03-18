@@ -22,6 +22,12 @@ def intact_uniprot_pipeline(ids_dir, out_dir, file_pattern="_uniprot_ids_COMBINE
     for file in ids_dir.glob('*'+file_pattern+".txt"):
         gene_name = file.stem.replace(file_pattern, "")
 
+        combined_file = out_dir / f"intact_{gene_name}_UNIPROT.tsv"
+        # Skip if the combined file for this gene already exists
+        if combined_file.exists():
+            print(f"Skipping {gene_name}: combined file already exists.")
+            continue
+
         with open(file, 'r') as f:
             uniprot_ids = [line.strip() for line in f if line.strip()]
         for uniprot_id in uniprot_ids:
@@ -40,7 +46,6 @@ def intact_uniprot_pipeline(ids_dir, out_dir, file_pattern="_uniprot_ids_COMBINE
             all_results.append(df)
             files_to_remove.append(file)
         if all_results:
-            combined_file = out_dir / f"intact_{gene_name}_UNIPROT.tsv"
             pd.concat(all_results).to_csv(combined_file, sep="\t", index=False)
     
             for file in files_to_remove:
