@@ -1,12 +1,13 @@
 import sys
 from pathlib import Path
+import csv
+import requests
+from collections import Counter
 
 parent_dir = Path(__file__).resolve().parents[1]
 if str(parent_dir) not in sys.path:
     sys.path.append(str(parent_dir))
-import csv
-import requests
-from collections import Counter
+
 
 def get_uniprot_data(uniprot_id):
     headers = {
@@ -65,6 +66,7 @@ def uniprot_ids_to_interpro(txt_file, output_file):
     for uid in uniprot_ids:
         if uid == '':
             continue
+        
         print(f"\nDane dla {uid}:")
         try:
             data = get_uniprot_data(uid)
@@ -130,6 +132,7 @@ def count_interpro(input_dir, output_dir):
     for reactor_file in input_dir.glob("*_interactor_IPR.csv"):
         protein = reactor_file.stem.replace("_interactor_IPR", "")
         output_file = output_dir / f"{protein}_count_interacter_IPR.csv"
+        print(f"Processing file: {reactor_file} for protein: {protein}")
         interpro_counts = Counter()
         with open(reactor_file, encoding='utf-8', newline='') as f:
             reader = csv.reader(f)
@@ -141,12 +144,15 @@ def count_interpro(input_dir, output_dir):
                     continue
                 codes = {c.strip() for c in interpro_raw.split('|') if c.strip()}
                 interpro_counts.update(codes)
+        print(f"Writing InterPro domain counts to: {output_file}")
         with open(output_file, 'w', encoding='utf-8', newline='') as out:
             writer = csv.writer(out, delimiter=';')
             writer.writerow(["Count", "InterProID", "Name", "ShortDescription"])
             for code, count in interpro_counts.most_common():
+                print(f"Writing InterPro code: {code} ({count} occurrences)")
                 name, short_desc = get_interpro_data(code)
                 writer.writerow([count, code, name, short_desc])
+    print("Finished counting InterPro domains for all processed files.")
 
 
 if __name__ == "__main__":

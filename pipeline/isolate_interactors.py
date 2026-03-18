@@ -1,11 +1,12 @@
 from pathlib import Path
 import sys
 import pandas as pd
-from targets import GENE_TO_IPRS
 
 parent_dir = Path(__file__).resolve().parents[1]
 if str(parent_dir) not in sys.path:
     sys.path.append(str(parent_dir))
+
+from pipeline.targets import GENE_TO_IPRS
 
 def isolate_all_uniprot_ids(group_name, intact_dir):
     """
@@ -26,6 +27,8 @@ def isolate_all_uniprot_ids(group_name, intact_dir):
                     id1 = str(id1).split(':', 1)[1]
                 if str(id2).startswith('uniprotkb'):
                     id2 = str(id2).split(':', 1)[1]
+                if str(id1).startswith('intact:') and str(id2).startswith('intact:'):
+                    continue
                 partner_ids.add(id1)
                 partner_ids.add(id2)
         except Exception as e:
@@ -64,13 +67,12 @@ def write_partner_ids_for_group(group_name, intact_dir, out_path):
         with open(f, "r") as fin:
             group_uniprot_ids.update(line.strip() for line in fin if line.strip())
     partners = all_uniprot_ids - group_uniprot_ids
-# 
+
     print(f"Total partner UniProt IDs (excluding already present): {len(partners)}")
     with open(out_file, "w") as f:
         for pid in sorted(partners):
             f.write(pid + "\n")
     print(f"Partner UniProt IDs for group '{group_name}' written to {out_file}")
-    return partners
 
 def isolate_partners(intact_dir, output_dir):
     for fam in GENE_TO_IPRS.keys():
