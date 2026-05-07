@@ -20,7 +20,7 @@ def pipeline_main():
     """
     here = Path(__file__).resolve().parent
     
-    # # 1. Prepare alphaknot results
+    # 1. Prepare alphaknot results
     alphaknot_pipeline(
         out_dir=here / "alphaknot_results"
     )
@@ -43,7 +43,7 @@ def pipeline_main():
     combine_list(
         ids_dir=here/"uniprot_ids"
     )
-    print("UniProt IDs extracted from alphaknot.")
+    print("UniProt IDs combined from alphaknot and interpro (if applicable)")
 
     # 4. Fetch IntAct interaction data per UniProt ID and via gene name
     print("Fetching IntAct interaction data per UniProt ID and via gene name...")

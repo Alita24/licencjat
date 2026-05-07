@@ -31,18 +31,9 @@ def isolate_ids(list_families, delimiter=';', row_number=0):
 			for uniID in uniprot_ids:
 				out.write(uniID + '\n')
 
-
-def fetch_intact():
-	print('fetching intact')
-	intact_uniprot_pipeline(
-		ids_dir=here,
-		out_dir=here,
-		file_pattern = '_uniprot'
-	)
-	print('finished fetching')
-
 def partners(group_name, intact_dir, out_path):
     """
+	TODO: napisz
     """
     print(f"Starting collection for group: {group_name}")
 
@@ -75,10 +66,24 @@ def partners(group_name, intact_dir, out_path):
     print(f"Partner data written successfully.")
 
 def pipeline():
+	'''
+	TODO: napisz komentarz
+	TODO: change to change_here
+	TODO: change the numbers of the comments
+	'''
 	list_families = ['data.tsv']
 	
 	isolate_ids(list_families, delimiter=',', row_number=0)
-	fetch_intact()
+	
+	# 4. Fetch IntAct interaction data per UniProt ID
+	print('fetching intact')
+	intact_uniprot_pipeline(
+		ids_dir=here,
+		out_dir=here,
+		file_pattern = '_uniprot'
+	)
+	print('finished fetching')
+
 	# 6. isolate interactors
 	for fam in list_families:
 		file_stem = Path(fam).stem

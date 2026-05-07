@@ -93,7 +93,7 @@ def uniprot_ids_to_interpro(csv_file, output_file):
             write_failure_to_file(output_file, uid)
 
 
-def process_directory_of_reactors(input_dir):
+def annotate_pipeline(input_dir):
     """
     processes all reactors_*.csv files in the given directory,
     writing output interpro_kody_{protein}.csv for each.
@@ -104,8 +104,6 @@ def process_directory_of_reactors(input_dir):
         output_file = input_dir / f"{protein}_interactor_IPR.csv"
         uniprot_ids_to_interpro(reactor_file, output_file)
 
-def annotate_pipeline(uniprot_partner_dir, output_dir=None):
-    process_directory_of_reactors(uniprot_partner_dir)
 
 # zliczanie wystepujacych domen interpro i sortowanie po czestosci
 def get_interpro_data(interpro_id):
