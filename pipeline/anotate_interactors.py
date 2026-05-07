@@ -46,6 +46,7 @@ def write_interpro_to_file(output_file, uid, nazwa, organizm, interpro_list, pub
             outf.write(f"{uid},{nazwa},{organizm},{interpro_list},{publications}\n")
         else:
             outf.write(f"{uid},{nazwa},{organizm},{interpro_list}\n")
+
 def write_failure_to_file(output_file, uid):
     """
     Record a failure to the output file.
@@ -55,7 +56,7 @@ def write_failure_to_file(output_file, uid):
 
 def uniprot_ids_to_interpro(csv_file, output_file):
     """
-    Process all UniProt IDs from a CSV and write InterPro and metadata results to output_file.
+    process all UniProt IDs from a CSV and write InterPro and metadata results to output_file.
     """
     uniprot_ids = {}
 
@@ -94,7 +95,7 @@ def uniprot_ids_to_interpro(csv_file, output_file):
 
 def process_directory_of_reactors(input_dir):
     """
-    Processes all reactors_*.csv files in the given directory,
+    processes all reactors_*.csv files in the given directory,
     writing output interpro_kody_{protein}.csv for each.
     """
     input_dir = Path(input_dir)
@@ -173,7 +174,7 @@ def count_interpro(input_dir, output_dir):
         print(f"Writing InterPro domain counts to: {output_file}")
         with open(output_file, 'w', encoding='utf-8', newline='') as out:
             writer = csv.writer(out, delimiter=';')
-            writer.writerow(["Count", "InterProID", "Name", "ShortDescription",'pubmeds'])
+            writer.writerow(["Count", "InterProID", "pubmeds", "Name", "ShortDescription"])
             for code, count in interpro_counts.most_common():
                 print(f"Writing InterPro code: {code} ({count} occurrences)")
                 name, short_desc = get_interpro_data(code)

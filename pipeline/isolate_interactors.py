@@ -9,7 +9,7 @@ if str(parent_dir) not in sys.path:
 
 from pipeline.targets import GENE_TO_IPRS
 
-def isolate_all_uniprot_ids(group_name, intact_dir, add_publication_col=False):
+def isolate_all_uniprot_ids(group_name, intact_dir, add_publication_col=True):
     """
     Zwraca wszytskie UniProt ID dla podanej grupy białek,
     przeszukując pliki wynikowe IntAct dla tej grupy w zadanym katalogu.
@@ -71,7 +71,7 @@ def isolate_all_uniprot_ids(group_name, intact_dir, add_publication_col=False):
     else:
         return partner_ids
 
-def write_partner_ids_for_group(group_name, intact_dir, out_path, add_publication_col=False):
+def write_partner_ids_for_group(group_name, intact_dir, out_path, add_publication_col=True):
     """
     Collects UniProt IDs of all proteins that interact with the given protein group, writes to file.
     Parameters:
@@ -133,6 +133,9 @@ def write_partner_ids_for_group(group_name, intact_dir, out_path, add_publicatio
 
 def isolate_partners(intact_dir, output_dir,add_publication=False):
     for fam in GENE_TO_IPRS.keys():
+        if '/' in fam:
+            print('changed family name:', fam )
+            fam = fam.replace('/', '-')
         write_partner_ids_for_group(fam, intact_dir=intact_dir, out_path=output_dir, add_publication_col=add_publication)
 
 if __name__ == "__main__":
