@@ -71,7 +71,7 @@ def pipeline():
 	TODO: change to change_here
 	TODO: change the numbers of the comments
 	'''
-	list_families = ['data.tsv']
+	list_families = ['data/list.tsv']
 	
 	isolate_ids(list_families, delimiter=',', row_number=0)
 	
