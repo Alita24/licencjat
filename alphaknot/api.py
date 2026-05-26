@@ -64,6 +64,9 @@ def fetch_alphaknot_for_gene(
     out_path.mkdir(parents=True, exist_ok=True)
     tsv_path = out_path / f"{gene_name}.tsv"
     tsv_path.write_text(resp.text, encoding="utf-8")
+    if tsv_path.exists():
+        print(f"{gene_name}: TSV file already exists at {tsv_path}, skipping fetch.")
+        return tsv_path
 
     lines = [ln for ln in resp.text.splitlines() if ln.strip() != ""] #liczenie wierszy 
     row_count = max(0, len(lines) - 1)
