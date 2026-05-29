@@ -7,7 +7,7 @@ if str(parent_dir) not in sys.path:
 
 import pandas as pd
 from interpro.api import get_reviewed_proteins_for_interpro, write_combined_csv
-from targets import GENE_TO_IPRS
+from data.targets import GENE_TO_IPRS
 
 def download_ipr_csv(interpro_id: str, out_dir: Path) -> Path:
     """

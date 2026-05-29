@@ -1,13 +1,12 @@
 import sys
 from pathlib import Path
 
-# Ensure project root is in sys.path for imports
 parent_dir = Path(__file__).resolve().parents[1]
 if str(parent_dir) not in sys.path:
     sys.path.append(str(parent_dir))
 
 from alphaknot.api import fetch_alphaknot_for_gene
-from targets import GENE_TO_IPRS
+from data.targets import GENE_TO_IPRS
 
 def alphaknot_pipeline(out_dir: Path):
     """

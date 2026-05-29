@@ -7,7 +7,7 @@ parent_dir = Path(__file__).resolve().parents[1]
 if str(parent_dir) not in sys.path:
     sys.path.append(str(parent_dir))
 
-from pipeline.targets import GENE_TO_IPRS
+from data.targets import GENE_TO_IPRS
 
 def isolate_all_uniprot_ids(group_name, intact_dir, add_publication_col=True):
     """

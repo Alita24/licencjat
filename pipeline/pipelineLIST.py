@@ -68,10 +68,9 @@ def partners(group_name, intact_dir, out_path):
 def pipeline():
 	'''
 	TODO: napisz komentarz
-	TODO: change to change_here
-	TODO: change the numbers of the comments
 	'''
-	list_families = ['data/list.tsv']
+	data_path = parent_dir / "data"
+	list_families = [data_path / "data.csv"]
 	
 	isolate_ids(list_families, delimiter=',', row_number=0)
 	
@@ -91,8 +90,7 @@ def pipeline():
 
 	# #7. uniprot --> interpro domains
 	annotate_pipeline(
-		uniprot_partner_dir=here/'isolated_partners',
-		output_dir=here/'isolated_partners'
+		input_dir=here/'isolated_partners'
 	)
 
 	count_interpro(
