@@ -70,15 +70,15 @@ def pipeline():
 	TODO: napisz komentarz
 	'''
 	data_path = parent_dir / "data"
-	list_families = [data_path / "data.csv"]
+	list_families = [data_path / "solenoid.csv"]
 	
-	isolate_ids(list_families, delimiter=',', row_number=0)
+	isolate_ids(list_families, delimiter=';', row_number=0)
 	
 	# 4. Fetch IntAct interaction data per UniProt ID
 	print('fetching intact')
 	intact_uniprot_pipeline(
 		ids_dir=here,
-		out_dir=here,
+		out_dir=here / 'intact_list',
 		file_pattern = '_uniprot'
 	)
 	print('finished fetching')
@@ -86,7 +86,7 @@ def pipeline():
 	# 6. isolate interactors
 	for fam in list_families:
 		file_stem = Path(fam).stem
-		partners(file_stem, intact_dir=here, out_path=here/'isolated_partners')
+		partners(file_stem, intact_dir=here / 'intact_list', out_path=here/'isolated_partners')
 
 	# #7. uniprot --> interpro domains
 	annotate_pipeline(
