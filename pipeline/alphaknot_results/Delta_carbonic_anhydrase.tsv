@@ -1,0 +1,643 @@
+#Knot_type	Category	Uniprot	Organism	pLDDT_knotcore	Protein_name	InterPro	Gene_name	#FILTER: InterPro=IPR018883 AND Category=AF4;
+3_1#3_1	AF4	A0A812L574-F1	Symbiodinium natans	79.5	Hypothetical protein	IPR018883	SNAT2548_LOCUS10976
+3_1	AF4	A0A0F4R6A1-F1	Marinomonas sp	97.7	Cadmium carbonic anhydrase	IPR018883,IPR036398	TW85_09695
+3_1	AF4	A0A1Y5E6N8-F1	Vibrio psychroerythus	97.7	Lipoprotein	IPR018883,IPR036398	A9Q75_13785
+3_1	AF4	A3YHG4-F1	Marinomonas sp	97.6	Cadmium carbonic anhydrase	IPR018883,IPR036398	MED121_23805
+3_1	AF4	U3A2Q2-F1	Vibrio azureus	97.6	Cadmium carbonic anhydrase	IPR018883,IPR036398	VAZ01S_008_00180
+3_1	AF4	A0A849E6K5-F1	Enterobacterales bacterium	97.6	Cadmium carbonic anhydrase	IPR018883,IPR036398	HKP09_10110
+3_1	AF4	A0A7C1TLG7-F1	Gammaproteobacteria bacterium	97.6	Cadmium carbonic anhydrase	IPR018883,IPR036398	ENI93_02640
+3_1	AF4	A0A7W4GCM9-F1	Shewanella sp	97.6	Cadmium carbonic anhydrase	IPR018883,IPR036398	H5181_08650
+3_1	AF4	A0A1R4B4D1-F1	Vibrio palustris	97.5	Cadmium carbonic anhydrase	IPR018883,IPR036398	VPAL9027_01741
+3_1	AF4	A0A135ICN0-F1	Enterovibrio coralii	97.5	Cadmium carbonic anhydrase	IPR018883,IPR036398	ATN88_05885
+3_1	AF4	A0A099KS52-F1	Vibrio psychroerythus	97.5	Lipoprotein	IPR018883,IPR036398	ND2E_2930
+3_1	AF4	A0A4R7DK39-F1	Idiomarina sp	97.5	Cadmium carbonic anhydrase	IPR018883,IPR036398	DET62_10917
+3_1	AF4	A0A2G2HPZ6-F1	Methylophaga sp	97.5	Lipoprotein	IPR018883,IPR036398	COA63_11930
+3_1	AF4	A0A1I5Q8B2-F1	Enterovibrio norvegicus	97.5	Cadmium carbonic anhydrase	IPR018883,IPR036398	SAMN03084138_02164
+3_1	AF4	A0A0S2JBM8-F1	Colwellia sp	97.5	Lipoprotein	IPR018883,IPR036398	CMT41_01090
+3_1	AF4	A0A2K1CG22-F1	Vibrio agarivorans	97.4	Cadmium carbonic anhydrase	IPR018883,IPR036398	C1141_14880
+3_1	AF4	A0A1Y5FG72-F1	Gammaproteobacteria bacterium	97.4	Cadmium carbonic anhydrase	IPR018883,IPR036398	A9Q90_05515
+3_1	AF4	A0A137SA20-F1	Moritella sp	97.4	Exported protein	IPR018883,IPR036398	AKG98_1504
+3_1	AF4	A0A1E5CAM3-F1	Enterovibrio norvegicus	97.4	Cadmium carbonic anhydrase	IPR018883,IPR036398	A1OK_07135
+3_1	AF4	A0A2N7LGZ1-F1	Enterovibrio norvegicus	97.4	Cadmium carbonic anhydrase	IPR018883,IPR036398	BCT23_01960
+3_1	AF4	A0A1Z5HZY8-F1	Colwellia marinimaniae	97.4	Lipoprotein	IPR018883,IPR036398	MTCD1_00688
+3_1	AF4	A0A0F6A0R7-F1	Grimontia sp	97.4	Cadmium carbonic anhydrase	IPR018883,IPR036398	RN22_04980
+3_1	AF4	A0A6I1EDA4-F1	Amylibacter sp	97.4	CHRD domain-containing protein	IPR018883,IPR036398	F9L33_03610
+3_1	AF4	A0A850RYS3-F1	Mariprofundus sp	97.4	Secreted protein	IPR018883,IPR036398	F3F93_07580
+3_1	AF4	A0A1H6LHC2-F1	Bathymodiolus azoricus	97.3	Cadmium carbonic anhydrase	IPR018883,IPR036398	BAZSYMB_SCAFFOLD00019_12
+3_1	AF4	A0A4P7JL61-F1	Thalassotalea sp	97.3	Cadmium carbonic anhydrase	IPR018883,IPR036398	E2K93_08165
+3_1	AF4	A0A2S7UMD6-F1	Vibrio splendidus	97.3	Cadmium carbonic anhydrase	IPR018883,IPR036398	BTO12_13090
+3_1	AF4	A0A5E5PQM1-F1	uncultured Gammaproteobacteria	97.3	Superoxide dismutase	IPR018883,IPR036398	BPUTSESOX_1142
+3_1	AF4	Q083D6-F1	strain NCIMB 400	97.3	Cadmium carbonic anhydrase	IPR018883,IPR036398	Sfri_1779
+3_1	AF4	A0A6M1RFU6-F1	Grimontia sedimenti	97.3	Cadmium carbonic anhydrase	IPR018883,IPR036398	G5S52_01950
+3_1	AF4	A0A1H5SWY5-F1	Thalassococcus halodurans	97.3	Cadmium carbonic anhydrase repeat-containing protein	IPR018883,IPR036398	SAMN04488045_0382
+3_1	AF4	A0A2D5VLI9-F1	Pseudomonas sp	97.3	Cadmium carbonic anhydrase	IPR018883,IPR036398	CMK92_01255
+3_1	AF4	A0A483AP18-F1	Logatchev	97.3	Superoxide dismutase	IPR018883,IPR036398	BPUTEOSOX_595
+3_1	AF4	A0A354XFG8-F1	Halomonas sp	97.3	Carbonic anhydrase	IPR018883,IPR036398	DDZ35_02415
+3_1	AF4	A0A1T4W5S3-F1	Enterovibrio nigricans	97.3	Cadmium carbonic anhydrase	IPR018883,IPR036398	SAMN02745132_04755
+3_1	AF4	A0A3M1WEM0-F1	Gammaproteobacteria bacterium	97.3	Cadmium carbonic anhydrase	IPR018883,IPR036398	D6717_13500
+3_1	AF4	A0A2N7K937-F1	Vibrio lentus	97.2	Cadmium carbonic anhydrase	IPR018883,IPR036398	BCT49_04170
+3_1	AF4	A0A120DHN5-F1	Vibrio toranzoniae	97.2	Cadmium carbonic anhydrase	IPR018883,IPR036398	APQ14_18635
+3_1	AF4	A0A1A6J0W1-F1	Vibrio tasmaniensis	97.2	Cadmium carbonic anhydrase	IPR018883,IPR036398	A9261_16175
+3_1	AF4	A0A558IBG3-F1	Vibrio tasmaniensis	97.2	Cadmium carbonic anhydrase	IPR018883,IPR036398	FQP87_04945
+3_1	AF4	A0A2E2BL52-F1	Halomonadaceae bacterium	97.2	Cadmium carbonic anhydrase	IPR018883,IPR036398	CME72_03030
+3_1	AF4	A0A847SI98-F1	Leeia aquatica	97.2	Secreted protein	IPR018883,IPR036398	HF682_10560
+3_1	AF4	A0A2A5BSH6-F1	Cellvibrionales bacterium	97.2	Signal peptide protein	IPR018883,IPR036398	COA75_13910
+3_1	AF4	A0A3D1Y8Y2-F1	Oceanospirillales bacterium	97.2	CHRD domain-containing protein	IPR018883,IPR036398	DE015_07905
+3_1	AF4	A0A1E7PVU8-F1	Marinobacter sp	97.2	Cadmium carbonic anhydrase	IPR018883,IPR036398	BG841_05475
+3_1	AF4	A0A2N0WVI4-F1	Alteromonadales bacterium	97.2	Secreted protein	IPR018883	CW748_00095
+3_1	AF4	A0A1B0ZW06-F1	Phaeobacter gallaeciensis	97.2	Secreted protein	IPR018883,IPR036398	JL2886_03352
+3_1	AF4	A0A559QTE1-F1	Alteromonadaceae bacterium 2753L	97.2	Cadmium carbonic anhydrase	IPR018883,IPR036398	P886_0483
+3_1	AF4	A0A4V0ZG89-F1	Litorilituus sediminis	97.2	Cadmium carbonic anhydrase	IPR018883,IPR036398	EMK97_12400
+3_1	AF4	A0A1J5TUQ4-F1	Bathymodiolus thermophilus	97.2	ZirS_C domain-containing protein	IPR018883,IPR036398	BGC33_14695 THERMOS_1151
+3_1	AF4	A0A837NPR1-F1	Vibrio splendidus	97.2	Cadmium carbonic anhydrase	IPR018883,IPR036398	AN168_09455
+3_1	AF4	A0A090IAU4-F1	Moritella viscosa	97.2	Putative exported protein	IPR018883,IPR036398	MVIS_1152 NVI5450_0710
+3_1	AF4	A0A1Y5TU44-F1	Falsiruegeria litorea	97.2	Secreted protein	IPR018883,IPR036398	TRL7639_04323
+3_1	AF4	A0A855J597-F1	Vibrio splendidus	97.2	Cadmium carbonic anhydrase	IPR018883,IPR036398	BCT10_18360
+3_1	AF4	A0A430KMD2-F1	Amphritea opalescens	97.2	Cadmium carbonic anhydrase	IPR018883,IPR036398	EH243_16160
+3_1	AF4	A0A2A5GZ58-F1	Alteromonadaceae bacterium	97.2	Cadmium carbonic anhydrase	IPR018883,IPR036398	COA42_24455
+3_1	AF4	A0A1R3FTW1-F1	Vibrio sp	97.2	Cadmium carbonic anhydrase	IPR018883,IPR036398	BH584_17610
+3_1	AF4	A0A545T6W0-F1	Aliikangiella marina	97.2	Cadmium carbonic anhydrase	IPR018883	FLL45_15975
+3_1	AF4	A0A2N0X064-F1	Psychromonas sp	97.2	Cadmium carbonic anhydrase	IPR018883,IPR036398	CW745_08325
+3_1	AF4	A0A2N7JLG1-F1	Vibrio splendidus	97.2	Cadmium carbonic anhydrase	IPR018883,IPR036398	BCT54_08965
+3_1	AF4	A0A1E5ERD9-F1	Vibrio tasmaniensis	97.2	Cadmium carbonic anhydrase	IPR018883,IPR036398	A152_19645
+3_1	AF4	A0A073J1D9-F1	Pseudosulfitobacter pseudonitzschiae	97.2	Secreted protein	IPR018883,IPR036398	SUH3_13690
+3_1	AF4	A0A1Y5DF06-F1	Marinomonas sp	97.2	Signal peptide protein	IPR018883,IPR036398	A9Q77_09025
+3_1	AF4	A0A4Q0YV57-F1	Veronia nyctiphanis	97.2	Cadmium carbonic anhydrase	IPR018883,IPR036398	CS022_13435
+3_1	AF4	A0A7W4C5U8-F1	Shewanella sp	97.2	Cadmium carbonic anhydrase	IPR018883,IPR036398	H5202_18845
+3_1	AF4	A0A7D4P6J2-F1	Thiomicrorhabdus xiamenensis	97.2	Cadmium carbonic anhydrase	IPR018883,IPR036398	HQN79_11980
+3_1	AF4	A0A1G7P8L1-F1	Halomonas taeanensis	97.2	Cadmium carbonic anhydrase	IPR018883,IPR036398	SAMN05216571_102179
+3_1	AF4	A0A545TRT5-F1	Denitrobaculum tricleocarpae	97.2	CHRD domain-containing protein	IPR018883,IPR036398	FKG95_14715
+3_1	AF4	A0A4U0ZVH1-F1	Desulforhopalus sp	97.2	Cadmium carbonic anhydrase	IPR018883,IPR036398	FCL48_13910
+3_1	AF4	A0A1Y0D296-F1	Oceanisphaera profunda	97.1	Cadmium carbonic anhydrase	IPR018883,IPR036398	CBP31_00785
+3_1	AF4	A0A7W2Y1N9-F1	Colwellia sp	97.1	Cadmium carbonic anhydrase	IPR018883,IPR036398	H4J48_03430
+3_1	AF4	A3UN97-F1	strain 12B01	97.1	Cadmium carbonic anhydrase	IPR018883,IPR036398	V12B01_13205
+3_1	AF4	A0A2E3U4T8-F1	Gammaproteobacteria bacterium	97.1	CHRD domain-containing protein	IPR018883	CMQ34_03780
+3_1	AF4	A0A2N7F6H0-F1	Vibrio splendidus	97.1	Cadmium carbonic anhydrase	IPR018883,IPR036398	BCU17_08685
+3_1	AF4	A4BHH6-F1	Reinekea blandensis	97.1	Cadmium carbonic anhydrase	IPR018883,IPR036398	MED297_16579
+3_1	AF4	A0A0T7DFP0-F1	Vibrio coralliirubri	97.1	Cadmium carbonic anhydrase	IPR018883,IPR036398	VCR4J2_550023
+3_1	AF4	F9RGF7-F1	strain N418	97.1	Fungalysin	IPR018883	VIBRN418_16938
+3_1	AF4	A0A1Y5H5E0-F1	Thalassotalea sp	97.1	Secreted protein	IPR018883,IPR036398	A9Q98_01555
+3_1	AF4	A0A3B0YB04-F1	hydrothermal vent	97.1	Cadmium carbonic anhydrase	IPR018883	MNBD_GAMMA14-868
+3_1	AF4	A0A2T5EDM9-F1	Vibrio splendidus	97.1	Cadmium carbonic anhydrase	IPR018883,IPR036398	A6D94_01015 CWO36_17160
+3_1	AF4	A0A5E5Q241-F1	uncultured Gammaproteobacteria	97.1	Cadmium carbonic anhydrase	IPR018883,IPR036398	BAZOLSSOX_3016
+3_1	AF4	A0A2N7GA23-F1	Vibrio sp	97.1	Cadmium carbonic anhydrase	IPR018883,IPR036398	BCU12_09385
+3_1	AF4	A0A5R9Q002-F1	Pseudoalteromonas phenolica	97.1	Cadmium carbonic anhydrase	IPR018883	C1E24_14055
+3_1	AF4	A0A2K8KPA8-F1	Reinekea forsetii	97.1	Secreted protein	IPR018883,IPR036398	REIFOR_00721
+3_1	AF4	A0A2A4W7I0-F1	Gammaproteobacteria bacterium	97.1	Secreted protein	IPR018883,IPR036398	COB38_10795
+3_1	AF4	A0A7W2SLE1-F1	Colwellia sp	97.1	Cadmium carbonic anhydrase	IPR018883,IPR036398	H4J44_17010
+3_1	AF4	A0A2D5T2C5-F1	Pseudoalteromonas sp	97.1	Cadmium carbonic anhydrase	IPR018883,IPR036398	CMK64_08970
+3_1	AF4	A0A511QDL3-F1	Vibrio sagamiensis	97.1	Cadmium carbonic anhydrase	IPR018883,IPR036398	VSA01S_15020
+3_1	AF4	F7ZH69-F1	Roseobacter litoralis 	97.1	Secreted protein	IPR018883,IPR036398	RLO149_c029550
+3_1	AF4	A0A1H6F9G6-F1	Thiotrichales bacterium	97.1	Cadmium carbonic anhydrase	IPR018883,IPR036398	MBHS_01886
+3_1	AF4	A0A855IKR7-F1	Vibrio lentus	97.1	Cadmium carbonic anhydrase	IPR018883,IPR036398	BCT50_12325
+3_1	AF4	A0A4U2F7F4-F1	Vibrio lentus	97.1	Cadmium carbonic anhydrase	IPR018883,IPR036398	FCV91_06855
+3_1	AF4	B1KH45-F1	Shewanella woodyi 	97.1	Signal peptide protein	IPR018883,IPR036398	Swoo_4101
+3_1	AF4	A0A1E5B7K8-F1	Vibrio splendidus	97.0	Cadmium carbonic anhydrase	IPR018883,IPR036398	A143_04035
+3_1	AF4	A0A2N7LMP8-F1	Vibrio splendidus	97.0	Cadmium carbonic anhydrase	IPR018883,IPR036398	BCT19_06380
+3_1	AF4	A0A2G6DBP5-F1	Proteobacteria bacterium	97.0	Cadmium carbonic anhydrase	IPR018883,IPR036398	CSB47_01735
+3_1	AF4	A0A6B2R138-F1	Orrella amnicola	97.0	Cadmium carbonic anhydrase	IPR018883,IPR036398	G3I67_14775
+3_1	AF4	A0A7W2RIQ4-F1	Colwellia sp	97.0	Cadmium carbonic anhydrase	IPR018883,IPR036398	H4J61_05340
+3_1	AF4	A0A6G8D3H9-F1	Vibrio sp	97.0	Cadmium carbonic anhydrase	IPR018883,IPR036398	G7083_06970
+3_1	AF4	A0A3M2C7G2-F1	Gammaproteobacteria bacterium	97.0	Cadmium carbonic anhydrase	IPR018883,IPR036398	D6698_04200
+3_1	AF4	A0A1B9QPV8-F1	Vibrio lentus	97.0	Cadmium carbonic anhydrase	IPR018883,IPR036398	A6E08_12095
+3_1	AF4	A0A5S3SJH2-F1	Pseudoalteromonas sp	97.0	Lipoprotein	IPR018883,IPR036398	CWB66_04280
+3_1	AF4	A0A1Y2K408-F1	Magnetofaba australis	97.0	Cadmium carbonic anhydrase	IPR018883,IPR036398	MAIT1_02512
+3_1	AF4	A0A2A5CRT6-F1	Gammaproteobacteria bacterium	97.0	Cadmium carbonic anhydrase	IPR018883,IPR036398	COA74_13525
+3_1	AF4	A0A1J5IV66-F1	Zetaproteobacteria bacterium	97.0	Cadmium carbonic anhydrase	IPR018883,IPR036398	AUK35_00745
+3_1	AF4	A0A833AJB1-F1	Pseudoalteromonas fuliginea	97.0	Cadmium carbonic anhydrase	IPR018883,IPR036398	EU509_05175
+3_1	AF4	C5BPF1-F1	Teredinibacter turnerae 	97.0	Cadmium carbonic anhydrase	IPR018883,IPR036398	TERTU_0762
+3_1	AF4	A0A3M1ILX2-F1	Alphaproteobacteria bacterium	97.0	Secreted protein	IPR018883,IPR036398	D6773_18870
+3_1	AF4	A0A0M3B8C0-F1	Rhizobium sp	97.0	Cadmium carbonic anhydrase	IPR018883	YH62_23290
+3_1	AF4	A0A7H1J9P6-F1	Marinomonas arctica	97.0	Cadmium carbonic anhydrase	IPR018883,IPR036398	IBG28_06155
+3_1	AF4	A0A7W2ND21-F1	Colwellia sp	97.0	Cadmium carbonic anhydrase	IPR018883,IPR036398	H4J65_01765
+3_1	AF4	A0A2D9DRY6-F1	Pseudohongiella sp	97.0	CHRD domain-containing protein	IPR018883	CMK70_05590
+3_1	AF4	A0A2S3V3W1-F1	Roseibium marinum	97.0	Secreted protein	IPR018883,IPR036398	CLV41_1011036
+3_1	AF4	G7EG42-F1	Pseudoalteromonas sp	97.0	Superoxide dismutase	IPR018883,IPR036398	P20652_1729
+3_1	AF4	A0A3L7DTB9-F1	Vibrio sp	97.0	Cadmium carbonic anhydrase	IPR018883,IPR036398	AYK60_05495
+3_1	AF4	A0A6S6SJ22-F1	uncultured Campylobacterales	97.0	Lipoprotein	IPR018883,IPR036398	HELGO_WM2660
+3_1	AF4	A0A7W2S6M9-F1	Colwellia sp	97.0	Cadmium carbonic anhydrase	IPR018883,IPR036398	H4J47_16225
+3_1	AF4	A0A553JV98-F1	Alteromonas hanedai	97.0	Superoxide dismutase	IPR018883,IPR036398	FN961_01780
+3_1	AF4	F3BG83-F1	Pseudoalteromonas distincta	97.0	Cadmium carbonic anhydrase	IPR018883,IPR036398	PH505_ag00640
+3_1	AF4	A0A562T9J6-F1	Roseibium hamelinense	97.0	Cadmium carbonic anhydrase-like repeat protein	IPR018883	JM93_01279
+3_1	AF4	A0A2N7HVK0-F1	Vibrio tasmaniensis	97.0	Cadmium carbonic anhydrase	IPR018883,IPR036398	BCT76_20910
+3_1	AF4	A0A4U6AEP5-F1	Rhizobiaceae bacterium	97.0	Cadmium carbonic anhydrase	IPR018883	FDR95_19220
+3_1	AF4	A0A318V7A3-F1	Marinomonas alcarazii	97.0	Cadmium carbonic anhydrase	IPR018883,IPR036398	DFP75_102573
+3_1	AF4	A0A1A6KSZ3-F1	Vibrio sp	97.0	Carbonic anhydrase	IPR018883,IPR036398	A9264_05815
+3_1	AF4	A0A2E1RXG2-F1	Rhodobacteraceae bacterium	97.0	Carbonate dehydratase	IPR018883,IPR036398	CML57_01380
+3_1	AF4	A0A1Y5S412-F1	Oceanibacterium hippocampi	97.0	Cadmium carbonic anhydrase	IPR018883	OCH7691_00999
+3_1	AF4	A0A1N7JI91-F1	Oleibacter marinus	97.0	Secreted protein	IPR018883,IPR036398	SAMN05421686_10223
+3_1	AF4	A0A4V5NVC8-F1	Ferrimonas sediminicola	97.0	Cadmium carbonic anhydrase	IPR018883,IPR036398	FCL40_09440
+3_1	AF4	A0A7W2SBG6-F1	Colwellia sp	97.0	Cadmium carbonic anhydrase	IPR018883,IPR036398	H4J46_08240
+3_1	AF4	A0A2D8ADB8-F1	Oleibacter sp	96.9	Cadmium carbonic anhydrase	IPR018883,IPR036398	CMI13_11915
+3_1	AF4	A0A1M3PKU7-F1	Rhodospirillales bacterium	96.9	Cadmium carbonic anhydrase	IPR018883	BGP12_14105
+3_1	AF4	A0A7C2RR43-F1	bacterium	96.9	Cadmium carbonic anhydrase	IPR018883	ENO09_05000
+3_1	AF4	A0A2D6DBI0-F1	Marinomonas sp	96.9	Cadmium carbonic anhydrase	IPR018883,IPR036398	DSY85_17100
+3_1	AF4	A0A1V3RVU2-F1	Hydrogenophaga sp	96.9	Lipoprotein	IPR018883,IPR036398	B0E41_19365
+3_1	AF4	A0A2A4S769-F1	Rhodobiaceae bacterium	96.9	CHRD domain-containing protein	IPR018883,IPR036398	COB70_03960
+3_1	AF4	A0A424LS07-F1	Gammaproteobacteria bacterium	96.9	Cadmium carbonic anhydrase	IPR018883,IPR036398	CBE03_004065
+3_1	AF4	A0A4V5QYD3-F1	Vibrio kanaloae	96.9	Cadmium carbonic anhydrase	IPR018883,IPR036398	FCV50_18160 FCV52_19200
+3_1	AF4	A0A1Y6BK61-F1	Alteromonadaceae bacterium	96.9	Cadmium carbonic anhydrase repeat-containing protein	IPR018883,IPR036398	SAMN02745866_00995
+3_1	AF4	A0A399R781-F1	Henriciella mobilis	96.9	Cadmium carbonic anhydrase	IPR018883	D1223_15215
+3_1	AF4	A0A2H0DFI3-F1	Gammaproteobacteria bacterium	96.9	Cadmium carbonic anhydrase	IPR018883	COW84_05575
+3_1	AF4	A0A6F8PUZ7-F1	Thiosulfatimonas sediminis	96.9	Cadmium carbonic anhydrase	IPR018883,IPR036398	THMIRHAS_12300
+3_1	AF4	A0A0P1G5I0-F1	Tropicibacter naphthalenivorans	96.9	Cadmium carbonic anhydrase	IPR018883	TRN7648_01184
+3_1	AF4	A0A345J2G3-F1	Malaciobacter mytili	96.9	Signal peptide protein	IPR018883,IPR036398	AMYT_0389
+3_1	AF4	A0A5S3RX70-F1	Pseudoalteromonas sp	96.9	Secreted protein	IPR018883	CWB85_00055
+3_1	AF4	B8EFK7-F1	strain OS223	96.9	Carbonic anhydrase	IPR018883,IPR036398	Sbal223_4342
+3_1	AF4	A0A1C3IKB4-F1	Vibrio atlanticus	96.9	Cadmium carbonic anhydrase	IPR018883,IPR036398	VAT7223_00870
+3_1	AF4	G4QE78-F1	Glaciecola nitratireducens 	96.9	Secreted protein	IPR018883,IPR036398	GNIT_3258
+3_1	AF4	A0A0F4RJL2-F1	Loktanella sp	96.9	Secreted protein	IPR018883,IPR036398	TW80_12720
+3_1	AF4	G7EXF5-F1	Pseudoalteromonas sp	96.9	Secreted protein	IPR018883	P20311_3389
+3_1	AF4	A0A5P9EVL0-F1	Microbulbifer sp	96.9	Cadmium carbonic anhydrase	IPR018883,IPR036398	FIU95_07580
+3_1	AF4	A0A0S2K106-F1	Pseudoalteromonas phenolica	96.9	Cadmium carbonic anhydrase	IPR018883	PP2015_1461
+3_1	AF4	A0A7C9P8T9-F1	Sulfuriferula multivorans	96.9	Cadmium carbonic anhydrase	IPR018883	GZ085_11125
+3_1	AF4	A0A7W2MC22-F1	Colwellia sp	96.9	Cadmium carbonic anhydrase	IPR018883,IPR036398	H4J41_08500
+3_1	AF4	A0A2G6HM93-F1	Thiothrix nivea	96.8	Cadmium carbonic anhydrase	IPR018883,IPR036398	CSA79_05750
+3_1	AF4	A0A7W3X8Y3-F1	Psychromonas sp	96.8	Cadmium carbonic anhydrase	IPR018883,IPR036398	H5084_01440
+3_1	AF4	A0A1E3WP22-F1	Vibrio scophthalmi	96.8	Fungalysin	IPR018883	VSF3289_01512
+3_1	AF4	A0A7Y4A6W2-F1	Vibrio sp	96.8	Cell surface protein	IPR018883,IPR036398	F0231_08835
+3_1	AF4	A0A1M4SRU2-F1	Marinomonas polaris	96.8	Cadmium carbonic anhydrase	IPR018883,IPR036398	SAMN02745753_00106
+3_1	AF4	A0A7W2SP59-F1	Colwellia sp	96.8	Cadmium carbonic anhydrase	IPR018883,IPR036398	H4J59_07175
+3_1	AF4	A0A4P9J7H1-F1	Pseudoalteromonas distincta	96.8	Cadmium carbonic anhydrase	IPR018883,IPR036398	FFU37_20005
+3_1	AF4	A0A1M5Z5J9-F1	Ferrimonas marina	96.8	Cadmium carbonic anhydrase	IPR018883,IPR036398	SAMN02745129_4691
+3_1	AF4	A0A367X9F0-F1	Thalassospira profundimaris	96.8	Catalase	IPR018883,IPR036398	TH30_03625
+3_1	AF4	A0A1R1MGM7-F1	Motiliproteus sp	96.8	Cadmium carbonic anhydrase	IPR018883,IPR036398	BGP75_00730
+3_1	AF4	A0A2K9LHM4-F1	Ketobacter alkanivorans	96.8	Cadmium carbonic anhydrase	IPR018883,IPR036398	Kalk_00465
+3_1	AF4	A0A0N1EVI8-F1	Pseudoalteromonas porphyrae	96.8	Secreted protein	IPR018883,IPR036398	ADS77_07645
+3_1	AF4	A0A7W4A8B1-F1	Pseudoalteromonas sp	96.8	Secreted protein	IPR018883,IPR036398	H5180_06730
+3_1	AF4	A0A2M8K4T2-F1	Marinomonas sp	96.8	Cadmium carbonic anhydrase	IPR018883,IPR036398	TY87_13050
+3_1	AF4	A0A4R3PQN2-F1	Vibrio crassostreae	96.8	Cadmium carbonic anhydrase	IPR018883,IPR036398	VCR5J5_240318
+3_1	AF4	A0A6S6SK74-F1	uncultured Sulfurovum	96.8	Superoxide dismutase	IPR018883,IPR036398	HELGO_WM2778
+3_1	AF4	A0A3B0ZXZ2-F1	hydrothermal vent	96.8	Cadmium carbonic anhydrase	IPR018883	MNBD_GAMMA16-1254
+3_1	AF4	A0A7Z7ESV5-F1	Pseudidiomarina aestuarii	96.8	Secreted protein	IPR018883	CWE22_09170
+3_1	AF4	A0A0F9XIV6-F1	marine sediment	96.8	CHRD domain-containing protein	IPR018883	LCGC14_0139890
+3_1	AF4	E3BNS4-F1	Vibrio caribbeanicus	96.8	Cadmium carbonic anhydrase	IPR018883,IPR036398	VIBC2010_14824
+3_1	AF4	A0A1L8CKP7-F1	Mariprofundus micogutta	96.8	Signal peptide protein	IPR018883,IPR036398	MMIC_P0420
+3_1	AF4	A0A2G2LN91-F1	Methylophaga sp	96.8	Cadmium carbonic anhydrase	IPR018883,IPR036398	COA83_08475
+3_1	AF4	A0A1I1KL32-F1	Pseudoalteromonas denitrificans	96.8	Superoxide dismutase	IPR018883,IPR036398	SAMN02745724_02020
+3_1	AF4	A0A0H2MU60-F1	Kiloniella spongiae	96.8	FTP domain-containing protein	IPR018883,IPR036398	WH96_13800
+3_1	AF4	A0A7Y4BUJ0-F1	Vibrio crassostreae	96.8	Cadmium carbonic anhydrase	IPR018883,IPR036398	EDB36_1011165 F0248_02975
+3_1	AF4	A0A128F6Z3-F1	Grimontia celer	96.8	Cadmium carbonic anhydrase	IPR018883,IPR036398	GCE9029_03008
+3_1	AF4	A9L6N8-F1	strain OS195	96.8	Carbonic anhydrase	IPR018883,IPR036398	Sbal195_4665
+3_1	AF4	A0A2E2G5H5-F1	Oceanospirillaceae bacterium	96.8	CHRD domain-containing protein	IPR018883,IPR036398	CMI07_09030
+3_1	AF4	A0A222GAW0-F1	Cognaticolwellia beringensis	96.8	Superoxide dismutase	IPR018883,IPR036398	B5D82_14285
+3_1	AF4	U1JGJ1-F1	Pseudoalteromonas citrea	96.8	Cadmium carbonic anhydrase	IPR018883	PCIT_01113
+3_1	AF4	B7VSL9-F1	strain LGP32	96.7	Cadmium carbonic anhydrase	IPR018883,IPR036398	VS_II0836
+3_1	AF4	A0A1C3JSZ2-F1	Marinomonas gallaica	96.7	Cadmium carbonic anhydrase	IPR018883,IPR036398	MGA5115_02358
+3_1	AF4	A0A7X4AAN5-F1	Acidobacteria bacterium	96.7	Cadmium carbonic anhydrase	IPR018883	F4198_06225
+3_1	AF4	A0A4R2FLA0-F1	Vibrio crassostreae	96.7	Cadmium carbonic anhydrase	IPR018883,IPR036398	EDB37_1003196
+3_1	AF4	A0A4R6XEX3-F1	Marinomonas communis	96.7	Cadmium carbonic anhydrase-like repeat protein	IPR018883,IPR036398	C8D85_0997
+3_1	AF4	E8LT86-F1	Vibrio brasiliensis	96.7	Cadmium carbonic anhydrase	IPR018883,IPR036398	VIBR0546_11712
+3_1	AF4	A0A510IST1-F1	Microbulbifer sp	96.7	Superoxide dismutase	IPR018883,IPR036398	GL2_18920
+3_1	AF4	A0A2T6B2K7-F1	Allosediminivita pacifica	96.7	Cadmium carbonic anhydrase-like repeat protein	IPR018883	C8N44_105151
+3_1	AF4	A0A2G4AZJ8-F1	Vibrio splendidus	96.7	Cadmium carbonic anhydrase	IPR018883,IPR036398	CWO28_09240 VSPL_24620
+3_1	AF4	A0A3S9Q4F9-F1	Colwellia sp	96.7	CHRD domain-containing protein	IPR018883,IPR036398	EKO29_06125
+3_1	AF4	A0A2T3JBQ7-F1	Photobacterium phosphoreum	96.7	FTP domain-containing protein	IPR018883,IPR036398	C9J18_20780
+3_1	AF4	A0A291G158-F1	Phaeobacter piscinae	96.7	CHRD domain-containing protein	IPR018883,IPR036398	PhaeoP13_01990
+3_1	AF4	A0A6G8AD04-F1	Acidovorax sp	96.7	Carbonic anhydrase	IPR018883,IPR036398	G7045_00955
+3_1	AF4	A0A558IG62-F1	Pseudoalteromonas neustonica	96.7	Carbonic anhydrase	IPR018883,IPR036398	FQP85_19745
+3_1	AF4	A0A1Y5FS45-F1	Gammaproteobacteria bacterium	96.7	Cadmium carbonic anhydrase	IPR018883,IPR036398	A9Q89_09040
+3_1	AF4	A0A2G2JQJ7-F1	Oceanobacter sp	96.7	Cadmium carbonic anhydrase	IPR018883,IPR036398	COA68_05405
+3_1	AF4	A0A3A3D9Z8-F1	Pseudoalteromonas sp	96.7	Cadmium carbonic anhydrase	IPR018883	BGP78_08260
+3_1	AF4	A0A3B0VF12-F1	hydrothermal vent	96.7	Cadmium carbonic anhydrase	IPR018883,IPR036398	MNBD_GAMMA01-670
+3_1	AF4	A0A4U1W7M0-F1	Vibrio sp	96.7	Cadmium carbonic anhydrase	IPR018883,IPR036398	FCV53_19800
+3_1	AF4	A0A379C9V9-F1	Phocoenobacter uteri	96.7	Lipoprotein	IPR018883,IPR036398	NCTC12872_00410
+3_1	AF4	A0A1W6VKF9-F1	Vibrio alginolyticus	96.7	Cadmium carbonic anhydrase	IPR018883,IPR036398	K08M4_38060
+3_1	AF4	A0A3T0N7H5-F1	Parasedimentitalea marina	96.7	Cadmium carbonic anhydrase	IPR018883	EBB79_20105
+3_1	AF4	I7EY68-F1	strain DSM 17395	96.7	CHRD domain-containing protein	IPR018883,IPR036398	PGA1_c21270
+3_1	AF4	A0A2N1I068-F1	Glaciecola sp	96.7	Cadmium carbonic anhydrase	IPR018883,IPR036398	CXF81_02395
+3_1	AF4	A0A356U3B7-F1	Alphaproteobacteria bacterium	96.7	Carbonate dehydratase	IPR018883,IPR036398	DD656_02350 DHV03_07015
+3_1	AF4	A0A368E2U2-F1	SAR116 cluster	96.7	Carbonate dehydratase	IPR018883,IPR036398	DBW67_07585
+3_1	AF4	A0A1Q2GTJ3-F1	Pseudoalteromonas aliena	96.7	Cadmium carbonic anhydrase	IPR018883,IPR036398	B0W48_00670
+3_1	AF4	Q169G0-F1	Erythrobacter sp. 	96.7	CHRD domain-containing protein	IPR018883,IPR036398	RD1_1764
+3_1	AF4	A0A4Q7IKG4-F1	Pseudoalteromonas phenolica	96.7	Cadmium carbonic anhydrase	IPR018883,IPR036398	C1E23_19470
+3_1	AF4	A0A523NQ45-F1	Nitrospina sp	96.7	Cadmium carbonic anhydrase	IPR018883	E2O41_03005
+3_1	AF4	A0A1Q3YAY1-F1	Thiobacillus sp	96.7	Cadmium carbonic anhydrase	IPR018883,IPR036398	BGO62_01725
+3_1	AF4	K6ZPE3-F1	Glaciecola pallidula	96.7	Cadmium carbonic anhydrase	IPR018883,IPR036398	GPAL_3913
+3_1	AF4	A0A7W4B4S6-F1	Pseudoalteromonas sp	96.6	FTP domain-containing protein	IPR018883,IPR036398	H5124_03330
+3_1	AF4	D4ZG09-F1	Shewanella violacea 	96.6	Carbonic anhydrase	IPR018883,IPR036398	SVI_0637
+3_1	AF4	Q48A90-F1	Vibrio psychroerythus	96.6	Cadmium carbonic anhydrase	IPR018883,IPR036398	CPS_0256
+3_1	AF4	A0A1Y5TJ40-F1	Pacificibacter marinus	96.6	Signal peptide protein	IPR018883	PAM7971_03437
+3_1	AF4	A0A3D4AQ89-F1	Pseudoalteromonas sp	96.6	Secreted protein	IPR018883	DIT74_05635
+3_1	AF4	A0A4Q5KH65-F1	Aliivibrio finisterrensis	96.6	FTP domain-containing protein	IPR018883	ERW49_14375
+3_1	AF4	A0A6B1EKU4-F1	Gammaproteobacteria bacterium	96.6	Cadmium carbonic anhydrase	IPR018883	F4036_10470 F4182_12555 F4Y31_05790
+3_1	AF4	A0A2N3L1I0-F1	Thalassospira lohafexi	96.6	Secreted protein	IPR018883,IPR036398	COO92_19865
+3_1	AF4	A0A369A9Q8-F1	Marinomonas foliarum	96.6	Cadmium carbonic anhydrase-like repeat protein	IPR018883	DFP77_110103
+3_1	AF4	A0A0F9QDW6-F1	marine sediment	96.6	Cadmium carbonic anhydrase	IPR018883,IPR036398	LCGC14_0715240
+3_1	AF4	A0A2U2C7N3-F1	Pararhodobacter marinus	96.6	DUF4198 domain-containing protein	IPR018883,IPR036398	C4N9_14685
+3_1	AF4	A0A2G2I0W9-F1	Henriciella sp	96.6	Cadmium carbonic anhydrase	IPR018883	COA64_05695
+3_1	AF4	A0A1E4HX23-F1	Thiobacillus sp	96.6	Cadmium carbonic anhydrase	IPR018883,IPR036398	ABS89_07660
+3_1	AF4	A0A317PYP8-F1	Pseudidiomarina maritima	96.6	Cadmium carbonic anhydrase	IPR018883	DET45_1263
+3_1	AF4	A0A4Z0SHN2-F1	Pseudoalteromonas sp	96.6	Cadmium carbonic anhydrase	IPR018883,IPR036398	C7Y70_14945
+3_1	AF4	A0A5E8GWY8-F1	Labrenzia alexandrii	96.6	Cadmium carbonic anhydrase	IPR018883	SADFL11_779
+3_1	AF4	A0LDG0-F1	Magnetococcus marinus 	96.6	Cadmium carbonic anhydrase	IPR018883	Mmc1_3518
+3_1	AF4	A0A2G6EH88-F1	Gammaproteobacteria bacterium	96.6	Lipoprotein	IPR018883,IPR036398	CR974_04205
+3_1	AF4	U1K960-F1	Pseudoalteromonas rubra	96.6	Cadmium carbonic anhydrase	IPR018883	PRUB_19387
+3_1	AF4	A0A1M3HL24-F1	Thiobacillus sp	96.6	Cadmium carbonic anhydrase	IPR018883,IPR036398	BGO60_13930
+3_1	AF4	A0A2N5Y243-F1	Kineobactrum sediminis	96.6	Secreted protein	IPR018883,IPR036398	CWI75_11925
+3_1	AF4	K6Z6Q1-F1	Paraglaciecola arctica	96.6	Superoxide dismutase family protein	IPR018883,IPR036398	GARC_2158
+3_1	AF4	A0A432D2Y3-F1	Vibrio aquaticus	96.6	Carbonic anhydrase	IPR018883,IPR036398	EJ063_05535
+3_1	AF4	A0A7Z1KGI0-F1	Pseudoalteromonas sp	96.6	Cadmium carbonic anhydrase	IPR018883,IPR036398	CSC79_13950
+3_1	AF4	A0A6L8FBN0-F1	Gammaproteobacteria bacterium	96.6	Cadmium carbonic anhydrase	IPR018883	F4X06_06805
+3_1	AF4	A0A5N8UJI5-F1	Shewanella sp	96.6	Cadmium carbonic anhydrase	IPR018883,IPR036398	FS373_10385
+3_1	AF4	A0A269PJB8-F1	Pseudoalteromonas sp	96.6	Exported protein	IPR018883,IPR036398	CJF42_21215
+3_1	AF4	A0A368USP3-F1	Pseudidiomarina tainanensis	96.6	Cadmium carbonic anhydrase	IPR018883	DFO79_10862
+3_1	AF4	A0A7W2PD92-F1	Colwellia sp	96.5	Cadmium carbonic anhydrase	IPR018883,IPR036398	H4J51_02930
+3_1	AF4	A0A5S3V758-F1	Pseudoalteromonas aurantia	96.5	Cadmium carbonic anhydrase	IPR018883	CWC19_16185
+3_1	AF4	A0A2N6FS82-F1	Arcobacter sp	96.5	Cadmium carbonic anhydrase	IPR018883,IPR036398	C0625_10660
+3_1	AF4	A0A541BC25-F1	Pseudoalteromonas luteoviolacea	96.5	Cadmium carbonic anhydrase	IPR018883	FLM44_01920
+3_1	AF4	A0A545U8G7-F1	Exilibacterium tricleocarpae	96.5	Cadmium carbonic anhydrase	IPR018883	FKG94_02155
+3_1	AF4	A0A3B1AJW2-F1	hydrothermal vent	96.5	Cadmium carbonic anhydrase	IPR018883,IPR036398	MNBD_GAMMA21-2445
+3_1	AF4	A0A2N7CDD2-F1	Vibrio splendidus	96.5	Cadmium carbonic anhydrase	IPR018883,IPR036398	BCV19_10235
+3_1	AF4	A0A2A4GHE1-F1	Salinivibrio sp	96.5	Exported protein	IPR018883,IPR036398	B6G00_03465
+3_1	AF4	A0A1Z7Z200-F1	Gammaproteobacteria bacterium	96.5	Secreted protein	IPR018883,IPR036398	A9Q81_16940
+3_1	AF4	A0A6L7P807-F1	Acidobacteria bacterium	96.5	Cadmium carbonic anhydrase	IPR018883	F4228_13560
+3_1	AF4	A0A3B8QU36-F1	Rhodobacteraceae bacterium	96.5	TonB-dependent receptor	IPR018883,IPR036398	DCE52_18760
+3_1	AF4	A0A5S3VN40-F1	Pseudoalteromonas spongiae	96.5	Cadmium carbonic anhydrase	IPR018883,IPR036398	CWC15_06465
+3_1	AF4	Q0VNZ5-F1	Alcanivorax borkumensis 	96.5	Cadmium carbonic anhydrase	IPR018883,IPR036398	ABO_1655
+3_1	AF4	A0A6L7VLQ2-F1	Gammaproteobacteria bacterium	96.5	Cadmium carbonic anhydrase	IPR018883	F4W90_06510
+3_1	AF4	A0A3A6QYE1-F1	Vibrio sinensis	96.5	Carbonate dehydratase	IPR018883,IPR036398	DZ860_02440
+3_1	AF4	A0A850S4Q8-F1	Mariprofundus sp	96.5	Secreted protein	IPR018883,IPR036398	F3F96_06775
+3_1	AF4	A0A1M4MX71-F1	Donghicola eburneus	96.5	Calcium carbonic anhydrase	IPR018883	KARMA_1331
+3_1	AF4	A0A0K6IMB9-F1	Marinomonas fungiae	96.5	Cadmium carbonic anhydrase	IPR018883,IPR036398	Ga0061065_10679
+3_1	AF4	A0A2E0A142-F1	Oceanospirillaceae bacterium	96.5	Cadmium carbonic anhydrase	IPR018883	CMI00_06840
+3_1	AF4	A0A2E7E902-F1	Oceanospirillaceae bacterium	96.5	Cadmium carbonic anhydrase	IPR018883	CMI09_07450
+3_1	AF4	A0A3T0W6F8-F1	Pseudoalteromonas sp	96.5	Cadmium carbonic anhydrase	IPR018883	ELR70_19140
+3_1	AF4	A0A7L4X283-F1	Shewanella sp	96.5	Secreted protein	IPR018883,IPR036398	FS418_22170
+3_1	AF4	A0A4R6MD10-F1	Marinomonas balearica	96.5	Cadmium carbonic anhydrase	IPR018883	DFP79_0415
+3_1	AF4	A0A837E6T3-F1	Phaeobacter piscinae	96.5	Plastocyanin-like domain-containing protein	IPR018883,IPR036398	OL67_05115
+3_1	AF4	A0A1S6HQS0-F1	Shewanella psychrophila	96.5	Carbonic anhydrase	IPR018883,IPR036398	Sps_02745
+3_1	AF4	A0A7C6BD04-F1	Campylobacterales bacterium	96.5	Cadmium carbonic anhydrase	IPR018883,IPR036398	ENK82_09665 ENK95_01840
+3_1	AF4	A0A7Y4D560-F1	Vibrio splendidus	96.5	Cadmium carbonic anhydrase	IPR018883,IPR036398	F0234_08680
+3_1	AF4	A0A7W4B0U3-F1	Shewanella sp	96.5	Secreted protein	IPR018883,IPR036398	H5185_14365
+3_1	AF4	H2G072-F1	Oceanimonas sp. 	96.5	Cadmium carbonic anhydrase	IPR018883,IPR036398	GU3_01565
+3_1	AF4	A0A2T7HJE9-F1	Labrenzia sp	96.4	Secreted protein	IPR018883,IPR036398	DCO57_01120
+3_1	AF4	A0A0P9I2C0-F1	Pseudoalteromonas sp	96.4	Cadmium carbonic anhydrase repeat protein	IPR018883,IPR036398	AN214_02573
+3_1	AF4	A0A4R8FIT1-F1	Rhodovulum visakhapatnamense	96.4	Cadmium carbonic anhydrase-like repeat protein	IPR018883	EV657_12553
+3_1	AF4	A0A5S3WP55-F1	Pseudoalteromonas rubra	96.4	Cadmium carbonic anhydrase	IPR018883	CWB99_06125
+3_1	AF4	A0A553L480-F1	Aliiglaciecola sp	96.4	Cadmium carbonic anhydrase	IPR018883,IPR036398	FM019_07780
+3_1	AF4	A0A498DI92-F1	Mariprofundus sp	96.4	Cadmium carbonic anhydrase	IPR018883,IPR036398	D8Y20_01095
+3_1	AF4	A0A259ERA0-F1	Hydrogenophilales bacterium	96.4	Cadmium carbonic anhydrase	IPR018883,IPR036398	B7X91_05640
+3_1	AF4	A0A2R8C3F0-F1	Falsiruegeria mediterranea	96.4	Cadmium carbonic anhydrase	IPR018883	TRM7615_00427
+3_1	AF4	A0A2M7H8X9-F1	Zetaproteobacteria bacterium	96.4	Signal peptide protein	IPR018883,IPR036398	COW19_10525
+3_1	AF4	A0A3G3IJV7-F1	Bathymodiolus thermophilus	96.4	ZirS_C domain-containing protein	IPR018883,IPR036398	MS2017_0093
+3_1	AF4	A0A238JJR4-F1	Actibacterium lipolyticum	96.4	CHRD domain-containing protein	IPR018883,IPR036398	COL8621_00086
+3_1	AF4	A0A7X4CE24-F1	Acidobacteria bacterium	96.4	Cadmium carbonic anhydrase	IPR018883	F4174_04190
+3_1	AF4	A0A1J5J3L9-F1	Zetaproteobacteria bacterium	96.4	Cadmium carbonic anhydrase	IPR018883,IPR036398	AUK36_02845
+3_1	AF4	A9CYX8-F1	Hoeflea phototrophica 	96.4	Secreted protein	IPR018883,IPR036398	HPDFL43_00665
+3_1	AF4	A0A6B2NPJ2-F1	Ruegeria sp	96.4	Cadmium carbonic anhydrase	IPR018883	G0P99_05775
+3_1	AF4	A0A5S3XM84-F1	Pseudoalteromonas citrea	96.4	Cadmium carbonic anhydrase	IPR018883	CWB96_14595
+3_1	AF4	A0A5B0TW79-F1	Pseudoalteromonas sp	96.4	Cadmium carbonic anhydrase	IPR018883,IPR036398	EU510_07905
+3_1	AF4	C9QE97-F1	Vibrio orientalis	96.4	Cadmium carbonic anhydrase	IPR018883,IPR036398	VIOR3934_20165
+3_1	AF4	A0A1V3GQ15-F1	Salinivibrio sp	96.4	Exported protein	IPR018883,IPR036398	BZG23_12805
+3_1	AF4	A0A2N7EKB7-F1	Vibrio splendidus	96.4	Cadmium carbonic anhydrase	IPR018883,IPR036398	BCU38_03315
+3_1	AF4	A0A1M7DPW7-F1	Roseovarius litoreus	96.4	CHRD domain-containing protein	IPR018883,IPR036398	SAMN05443432_1039
+3_1	AF4	A0A7Y0QKQ6-F1	Pseudoalteromonas sp	96.4	Secreted protein	IPR018883,IPR036398	HH219_09690
+3_1	AF4	A0A0F5ASE0-F1	Salinivibrio sp	96.4	Exported protein	IPR018883,IPR036398	WN56_00115
+3_1	AF4	A0A0A7EH23-F1	Pseudoalteromonas piratica	96.4	Cadmium carbonic anhydrase	IPR018883,IPR036398	OM33_12450
+3_1	AF4	B5ESF0-F1	strain MJ11	96.4	FTP domain-containing protein	IPR018883	VFMJ11_A0061
+3_1	AF4	A0A6L7SND7-F1	Acidobacteria bacterium	96.4	Cadmium carbonic anhydrase	IPR018883	F4023_09515 F4Z65_02565
+3_1	AF4	A0A166YEI2-F1	Pseudoalteromonas luteoviolacea	96.4	Cadmium carbonic anhydrase	IPR018883	N475_09525
+3_1	AF4	A0A0F4QK96-F1	Pseudoalteromonas rubra	96.4	Cadmium carbonic anhydrase	IPR018883	TW77_13370
+3_1	AF4	A0A285PDA5-F1	Cohaesibacter gelatinilyticus	96.4	Secreted protein	IPR018883,IPR036398	SAMN06265368_2283
+3_1	AF4	A0A0N7LZK6-F1	Tropicibacter naphthalenivorans	96.4	Secreted protein	IPR018883	TRN7648_01699
+3_1	AF4	A0A3D5NB65-F1	Thalassospira lucentensis	96.4	Secreted protein	IPR018883,IPR036398	DHR80_14480
+3_1	AF4	A0A2D5TDP3-F1	Gammaproteobacteria bacterium	96.4	CHRD domain-containing protein	IPR018883	CMP85_07940
+3_1	AF4	A0A4Q7E7K3-F1	Pseudoalteromonas rubra	96.4	Cadmium carbonic anhydrase	IPR018883	C3B51_15605
+3_1	AF4	A0A2S1JRI8-F1	Microbulbifer sp	96.4	Cadmium carbonic anhydrase	IPR018883,IPR036398	BTJ40_09380
+3_1	AF4	V4HBV3-F1	Pseudoalteromonas luteoviolacea	96.4	Cadmium carbonic anhydrase	IPR018883	PL2TA16_04722
+3_1	AF4	F2JVM1-F1	Marinomonas mediterranea 	96.4	Cadmium carbonic anhydrase	IPR018883	Marme_1292
+3_1	AF4	A0A366C3U2-F1	Rhodovulum sp	96.4	Cadmium carbonic anhydrase	IPR018883	DSD19_04200
+3_1	AF4	A0A1B8RYD5-F1	Leisingera sp	96.4	Secreted protein	IPR018883,IPR036398	A9D60_22005
+3_1	AF4	A0A6L7XPJ1-F1	Gammaproteobacteria bacterium	96.4	Cadmium carbonic anhydrase	IPR018883	F4Y01_01120
+3_1	AF4	A0A424TCW5-F1	Alphaproteobacteria bacterium	96.3	Carbonate dehydratase	IPR018883,IPR036398	CBD10_003585
+3_1	AF4	A0A2K8KYW1-F1	Mariprofundus aestuarium	96.3	Cadmium carbonic anhydrase	IPR018883,IPR036398	Ga0123461_1765
+3_1	AF4	A0A7Y2K8V1-F1	Pseudoalteromonas sp	96.3	Secreted protein	IPR018883,IPR036398	HJP15_02755
+3_1	AF4	A0A843YJC0-F1	Tritonibacter litoralis	96.3	Secreted protein	IPR018883,IPR036398	GFB49_15640
+3_1	AF4	A0A128F3V2-F1	Grimontia marina	96.3	Cadmium carbonic anhydrase	IPR018883,IPR036398	GMA8713_01659
+3_1	AF4	A0A4Y6RWW8-F1	Labrenzia sp	96.3	Cadmium carbonic anhydrase	IPR018883	FJ695_13130
+3_1	AF4	A0A2G1ATT3-F1	Vibrio splendidus	96.3	Cadmium carbonic anhydrase	IPR018883,IPR036398	CSB62_17625
+3_1	AF4	A0A5P1RBS2-F1	Neptunomonas concharum	96.3	Cadmium carbonic anhydrase	IPR018883,IPR036398	F0U83_08410
+3_1	AF4	A0A2N1CUU8-F1	Paraglaciecola sp	96.3	Cadmium carbonic anhydrase	IPR018883,IPR036398	CXF95_28660
+3_1	AF4	A0A167EEA4-F1	Pseudoalteromonas luteoviolacea	96.3	Cadmium carbonic anhydrase	IPR018883	N476_15225
+3_1	AF4	A0A4Z0LUQ5-F1	Haliea sp	96.3	Cadmium carbonic anhydrase	IPR018883,IPR036398	E4634_20510
+3_1	AF4	A0A0F6A9Z4-F1	Pseudoalteromonas luteoviolacea	96.3	Cadmium carbonic anhydrase	IPR018883	N479_01205
+3_1	AF4	A0A6L8AT48-F1	Gammaproteobacteria bacterium	96.3	Cadmium carbonic anhydrase	IPR018883	F4149_02665 F4220_08505 F4X81_17025
+3_1	AF4	A0A167LGE2-F1	Pseudoalteromonas luteoviolacea	96.3	Cadmium carbonic anhydrase	IPR018883	N473_14230
+3_1	AF4	A0A0L1L7M4-F1	Vibrio lentus	96.3	Secreted protein	IPR018883,IPR036398	ACS79_14155
+3_1	AF4	A0A4R2FW88-F1	Vibrio crassostreae	96.3	Cadmium carbonic anhydrase	IPR018883,IPR036398	EDB51_1125
+3_1	AF4	A0A094IMX9-F1	Pseudidiomarina atlantica	96.3	CHRD domain-containing protein	IPR018883,IPR036398	IDAT_09150
+3_1	AF4	E1SMY4-F1	Ferrimonas balearica 	96.3	Secreted protein	IPR018883,IPR036398	Fbal_2451
+3_1	AF4	A0A2G8RB38-F1	Puniceibacterium antarcticum	96.3	Cadmium carbonic anhydrase	IPR018883	P775_19540
+3_1	AF4	F6CSW6-F1	Marinomonas posidonica 	96.3	Cadmium carbonic anhydrase	IPR018883	Mar181_0906
+3_1	AF4	A0A6B1HIT3-F1	Gammaproteobacteria bacterium	96.3	Cadmium carbonic anhydrase	IPR018883	F4089_14400
+3_1	AF4	A0A545UCK1-F1	Aliikangiella coralliicola	96.3	Cadmium carbonic anhydrase	IPR018883	FLL46_15440
+3_1	AF4	A0A845HVN5-F1	Duganella fentianensis	96.3	Cadmium carbonic anhydrase	IPR018883,IPR036398	GTP23_08440
+3_1	AF4	A0A1N6EFP8-F1	Salinivibrio sp	96.3	Cadmium carbonic anhydrase	IPR018883,IPR036398	SAMN05444724_0677
+3_1	AF4	A0A0M7AB92-F1	Roseibium alexandrii	96.3	Cadmium carbonic anhydrase	IPR018883	LAX5112_02683
+3_1	AF4	A0A5S3UR74-F1	Pseudoalteromonas rubra	96.2	Cadmium carbonic anhydrase	IPR018883	CWC22_006125
+3_1	AF4	A0A0M6Y0M0-F1	Roseibium aggregatum	96.2	Cadmium carbonic anhydrase	IPR018883,IPR036398	LAL4801_01680
+3_1	AF4	A0A1L3I611-F1	Phaeobacter porticola	96.2	CHRD domain-containing protein	IPR018883,IPR036398	PhaeoP97_02092
+3_1	AF4	A0A640VQP1-F1	Roseobacter cerasinus	96.2	CHRD domain-containing protein	IPR018883,IPR036398	So717_17450
+3_1	AF4	A6VV95-F1	strain MWYL1	96.2	Cadmium carbonic anhydrase	IPR018883,IPR036398	Mmwyl1_1445
+3_1	AF4	B9NPR5-F1	Rhodobacteraceae bacterium	96.2	Cadmium carbonic anhydrase	IPR018883,IPR036398	RKLH11_208
+3_1	AF4	A0A2T7UYQ4-F1	Pararhodobacter aggregans	96.2	Peptidylprolyl isomerase	IPR018883,IPR036398	DDE23_00065
+3_1	AF4	A0A6M8VHM6-F1	Proteobacteria bacterium	96.2	CHRD domain-containing protein	IPR018883,IPR036398	HND55_12080
+3_1	AF4	A0A7Y6U1K8-F1	Pseudoalteromonas sp	96.2	Cadmium carbonic anhydrase	IPR018883	HUZ36_11895
+3_1	AF4	V9WFT9-F1	Phaeobacter gallaeciensis	96.2	Secreted protein	IPR018883,IPR036398	Gal_01275
+3_1	AF4	D0IKM8-F1	Vibrio sp	96.2	Cadmium carbonic anhydrase	IPR018883,IPR036398	VOA_002212
+3_1	AF4	A0A6L8BB87-F1	Proteobacteria bacterium	96.2	Cadmium carbonic anhydrase	IPR018883	F4053_02660 F4181_05795
+3_1	AF4	G7G4L5-F1	Pseudoalteromonas sp	96.2	Cadmium carbonic anhydrase	IPR018883,IPR036398	P20495_2852
+3_1	AF4	A0A850Q783-F1	Donghicola mangrovi	96.1	Cadmium carbonic anhydrase	IPR018883	HJ536_15585
+3_1	AF4	A0A1Y0CV22-F1	Oceanisphaera avium	96.1	Cadmium carbonic anhydrase	IPR018883,IPR036398	CBP12_02705
+3_1	AF4	A0A2N7IDY5-F1	Vibrio lentus	96.1	Cadmium carbonic anhydrase	IPR018883,IPR036398	BCT74_07650
+3_1	AF4	A0NPR5-F1	Stappia aggregata	96.1	Cadmium carbonic anhydrase	IPR018883	SIAM614_18924
+3_1	AF4	A0A6A8VZ65-F1	Pseudoduganella danionis	96.1	DUF1264 domain-containing protein	IPR018883,IPR036398	GM655_11810
+3_1	AF4	A0A2Z6UFR9-F1	strain KUL10	96.1	Cadmium carbonic anhydrase	IPR018883	KUL10_35030
+3_1	AF4	A0A238YK89-F1	Puniceibacterium sediminis	96.1	Cadmium carbonic anhydrase repeat-containing protein	IPR018883	SAMN06265370_11753
+3_1	AF4	A0A1Y5GKR9-F1	Gammaproteobacteria bacterium	96.1	Cadmium carbonic anhydrase	IPR018883,IPR036398	A9Q99_25540
+3_1	AF4	A0A2I7LWT3-F1	Phaeobacter inhibens	96.1	CHRD domain-containing protein	IPR018883,IPR036398	PhaeoP88_02172
+3_1	AF4	A0A2A5FIM7-F1	Zetaproteobacteria bacterium	96.1	Signal peptide protein	IPR018883	COA61_02950 COA61_12475
+3_1	AF4	A0A1C0TND9-F1	Pseudoalteromonas luteoviolacea	96.1	Cadmium carbonic anhydrase	IPR018883	A7985_15115
+3_1	AF4	A0A0S2TAA2-F1	Candidatus Tenderia	96.1	Cadmium carbonic anhydrase	IPR018883	Tel_02325
+3_1	AF4	A0A0N7M4G9-F1	Leisingera aquaemixtae	96.1	Secreted protein	IPR018883,IPR036398	PHA8399_01724
+3_1	AF4	A0A6N6L717-F1	Proteobacteria bacterium	96.1	Cadmium carbonic anhydrase	IPR018883,IPR036398	DWQ11_14905
+3_1	AF4	A0A238KEQ0-F1	Pelagimonas varians	96.1	Secreted protein	IPR018883,IPR036398	PEV8663_02233
+3_1	AF4	A0A1Q9QM79-F1	Rhodobacter sulfidophilus	96.1	Cadmium carbonic anhydrase	IPR018883	BV392_06210
+3_1	AF4	A0A0K2E0Q5-F1	Piscirickettsia salmonis	96.1	Cadmium carbonic anhydrase	IPR018883	KW89_2891 Psal009_00180
+3_1	AF4	A0A290T4G7-F1	Pseudoalteromonas spongiae	96.1	Cadmium carbonic anhydrase	IPR018883,IPR036398	PSPO_a2009
+3_1	AF4	A0A6N9FMD6-F1	Gammaproteobacteria bacterium	96.1	Cadmium carbonic anhydrase	IPR018883	F4013_06665 F4133_12510
+3_1	AF4	A0A0U3HUR4-F1	Pseudoalteromonas rubra	96.1	Cadmium carbonic anhydrase	IPR018883	AT705_18335
+3_1	AF4	A0A7W2IBK2-F1	Duganella sp	96.1	Cadmium carbonic anhydrase	IPR018883,IPR036398	H3H37_08260
+3_1	AF4	A0A7Y4C3A8-F1	Vibrio sp	96.1	FTP domain-containing protein	IPR018883,IPR036398	F0227_03715
+3_1	AF4	A0A291FPY0-F1	Phaeobacter piscinae	96.1	CHRD domain-containing protein	IPR018883,IPR036398	PhaeoP36_02012
+3_1	AF4	A0A1V0HY51-F1	strain MB263	96.1	Cadmium carbonic anhydrase	IPR018883	B5V46_09710
+3_1	AF4	A0A5S3WYG0-F1	Pseudoalteromonas rubra	96.1	Cadmium carbonic anhydrase	IPR018883	CWB98_16415
+3_1	AF4	A0A4Y8RV32-F1	Jiella endophytica	96.0	Cadmium carbonic anhydrase	IPR018883	E3C22_02235
+3_1	AF4	A0A3B6Y3G7-F1	Pseudoalteromonas piscicida	96.0	Cadmium carbonic anhydrase	IPR018883	D0N37_13680
+3_1	AF4	A0A7Z9UAW7-F1	Phycisphaerales bacterium	96.0	Cadmium carbonic anhydrase	IPR018883	EYO33_14055
+3_1	AF4	A0A6B0Z8H9-F1	Gammaproteobacteria bacterium	96.0	Cadmium carbonic anhydrase	IPR018883	F4222_01320 F4Y72_06100 F4Z95_11985
+3_1	AF4	A0A177W0K2-F1	Piscirickettsiaceae bacterium	96.0	Cadmium carbonic anhydrase	IPR018883	A0O36_02602
+3_1	AF4	A0A7W2MS45-F1	Colwellia sp	96.0	Cadmium carbonic anhydrase	IPR018883,IPR036398	H4J40_12940
+3_1	AF4	A0A1G0BG06-F1	Gallionellales bacterium	95.9	Cadmium carbonic anhydrase	IPR018883,IPR036398	A2063_01430
+3_1	AF4	A0A1W1Z9Z7-F1	Fulvimarina manganoxydans	95.9	Cadmium carbonic anhydrase	IPR018883	SAMN06297251_102275
+3_1	AF4	A0A5M6IEN9-F1	Roseospira marina	95.9	Cadmium carbonic anhydrase	IPR018883	F1188_05275
+3_1	AF4	A0A399R9T2-F1	Henriciella mobilis	95.9	Cadmium carbonic anhydrase	IPR018883	D1223_17740
+3_1	AF4	A0A2N7J3W7-F1	Vibrio sp	95.9	Cadmium carbonic anhydrase	IPR018883,IPR036398	BCT66_22665
+3_1	AF4	A0A7U4WYX7-F1	Piscirickettsia salmonis	95.9	Cadmium carbonic anhydrase	IPR018883	AVI55_13885
+3_1	AF4	K6Y571-F1	Paraglaciecola arctica	95.9	Cadmium carbonic anhydrase	IPR018883,IPR036398	GARC_2159
+3_1	AF4	A0A3D2FIG0-F1	Gallionellaceae bacterium	95.9	Cadmium carbonic anhydrase	IPR018883,IPR036398	DFK12_06210
+3_1	AF4	A0A2M7WS22-F1	Zetaproteobacteria bacterium	95.9	Secreted protein	IPR018883	CO187_03105
+3_1	AF4	A0A161XMU2-F1	Labrenzia sp	95.9	Secreted protein	IPR018883,IPR036398	OA90_22985
+3_1	AF4	A0A3M2FAK3-F1	Zetaproteobacteria bacterium	95.9	Cadmium carbonic anhydrase	IPR018883,IPR036398	D6678_06705
+3_1	AF4	A0A2C6CIX0-F1	Pseudoalteromonas sp	95.9	Cadmium carbonic anhydrase	IPR018883	CBQ28_16000
+3_1	AF4	A0A5R9GKY7-F1	Mariprofundus erugo	95.9	Cadmium carbonic anhydrase	IPR018883,IPR036398	FEF65_11930
+3_1	AF4	A0A7X0DNL4-F1	Aquaspirillum itersonii	95.9	Secreted protein	IPR018883,IPR036398	FHS48_001777
+3_1	AF4	A0A2K9JUY8-F1	Pseudoalteromonas sp	95.9	Cadmium carbonic anhydrase	IPR018883	PNC201_04895
+3_1	AF4	A0A849MKA8-F1	Proteobacteria bacterium	95.9	Cadmium carbonic anhydrase	IPR018883	HND53_08540
+3_1	AF4	A0A853IDL4-F1	Endozoicomonas sp	95.9	Cadmium carbonic anhydrase	IPR018883	H0A36_19180
+3_1	AF4	A0A1J4YUS0-F1	Zetaproteobacteria bacterium	95.9	Secreted protein	IPR018883,IPR036398	AUJ57_00430
+3_1	AF4	A0A099L5G6-F1	Vibrio psychroerythus	95.9	Cadmium carbonic anhydrase	IPR018883,IPR036398	GAB14E_1016
+3_1	AF4	A0A1C3ER30-F1	Enterovibrio pacificus	95.9	Cadmium carbonic anhydrase	IPR018883,IPR036398	A8L45_03660
+3_1	AF4	A0A2A2V016-F1	Pseudoalteromonas sp	95.8	Cadmium carbonic anhydrase	IPR018883	CKO50_05280
+3_1	AF4	A0A6L7MSJ0-F1	Gammaproteobacteria bacterium	95.8	Cadmium carbonic anhydrase	IPR018883	F4Y26_03030 F4Y86_04380
+3_1	AF4	A0A7I8MS99-F1	Olavius algarvensis	95.8	Cadmium carbonic anhydrase	IPR018883	D3OALGA1CA_1644
+3_1	AF4	A0A2K8L2J7-F1	Mariprofundus ferrinatatus	95.8	Secreted protein	IPR018883,IPR036398	Ga0123462_0647
+3_1	AF4	A0A1G3INC5-F1	Sideroxydans sp	95.8	Cadmium carbonic anhydrase	IPR018883,IPR036398	A3J87_01460
+3_1	AF4	A0A1Y5HBS4-F1	Rhodobacterales bacterium	95.8	Cadmium carbonic anhydrase	IPR018883	A9Q94_15030
+3_1	AF4	A0A233RDF1-F1	Oceanimonas doudoroffii	95.8	Secreted protein	IPR018883,IPR036398	B6S08_13080
+3_1	AF4	A0A2N7P5Z1-F1	Vibrio splendidus	95.8	Cadmium carbonic anhydrase	IPR018883,IPR036398	BCS83_02505
+3_1	AF4	A0A0T7EKH2-F1	Vibrio coralliirubri	95.7	Cadmium carbonic anhydrase	IPR018883,IPR036398	VCR14J2_300193
+3_1	AF4	A0A2N1HL81-F1	Colwellia sp	95.7	Cadmium carbonic anhydrase	IPR018883,IPR036398	CXF79_06600
+3_1	AF4	A0A6B2P5Z1-F1	Salipiger sp	95.7	Cadmium carbonic anhydrase	IPR018883	G0P98_02935
+3_1	AF4	A0A0F4PAL1-F1	Pseudoalteromonas piscicida	95.7	Cadmium carbonic anhydrase	IPR018883	TW75_01615
+3_1	AF4	A0A135ING3-F1	Phaeobacter inhibens	95.7	CHRD domain-containing protein	IPR018883,IPR036398	AT574_05575
+3_1	AF4	A0A099KGP0-F1	Thalassotalea sp	95.7	Cadmium carbonic anhydrase	IPR018883,IPR036398	ND16A_2343
+3_1	AF4	A0A2N1C6V8-F1	Colwellia sp	95.7	Secreted protein	IPR018883,IPR036398	CXF85_05515
+3_1	AF4	A0A7S0KBZ5-F1	Leptocylindrus aporus	95.7	Hypothetical protein	IPR018883	LDAN0322_LOCUS1111
+3_1	AF4	A0A2Z4UND1-F1	Rhodobiaceae bacterium	95.7	Cadmium carbonic anhydrase repeat protein	IPR018883	RHODOSMS8_03108
+3_1	AF4	A0A7Y3YKD1-F1	Vibrio chagasii	95.7	Cadmium carbonic anhydrase	IPR018883,IPR036398	F0245_00410
+3_1	AF4	A0A2T5F141-F1	Vibrio splendidus	95.6	Cadmium carbonic anhydrase	IPR018883,IPR036398	CWO07_02400
+3_1	AF4	A0A1V3H0Z7-F1	Salinivibrio sharmensis	95.6	Exported protein	IPR018883,IPR036398	BZG74_07680
+3_1	AF4	A0A3N5XXH8-F1	Alteromonas sediminis	95.6	DUF946 domain-containing protein	IPR018883,IPR036398	DRW07_16610
+3_1	AF4	A0A1I6P2J7-F1	Yangia pacifica	95.6	Cadmium carbonic anhydrase repeat-containing protein	IPR018883	SAMN04488050_101271
+3_1	AF4	A0A2E1RHJ5-F1	Halobacteriovoraceae bacterium	95.6	Secreted protein	IPR018883,IPR036398	CME61_08265
+3_1	AF4	A0A4U2A578-F1	Vibrio sp	95.6	Cadmium carbonic anhydrase	IPR018883,IPR036398	FCV67_03545
+3_1	AF4	A0A2P5KUP4-F1	Hyphomicrobium sp	95.6	Cadmium carbonic anhydrase	IPR018883	CTY40_05060
+3_1	AF4	A0A0D6B2D9-F1	Rhodobacter sulfidophilus	95.6	Cadmium carbonic anhydrase	IPR018883	NHU_02108
+3_1	AF4	A0A520MKK4-F1	Candidatus Thioglobus	95.6	Secreted protein	IPR018883	EVB05_07060
+3_1	AF4	A0A7S0KCR8-F1	Leptocylindrus aporus	95.6	Hypothetical protein	IPR018883	LDAN0322_LOCUS1114
+3_1	AF4	A0A418SDM0-F1	Pseudooceanicola algae	95.6	Cadmium carbonic anhydrase	IPR018883	PSAL_006390
+3_1	AF4	A0A5S3YVC5-F1	Pseudoalteromonas phenolica	95.6	Cadmium carbonic anhydrase	IPR018883,IPR036398	CWB73_09640
+3_1	AF4	A0A6L7G0J1-F1	Pseudooceanicola sp	95.6	Cadmium carbonic anhydrase	IPR018883	GR170_03795
+3_1	AF4	A0A2S7VPT1-F1	Vibrio chagasii	95.5	Cadmium carbonic anhydrase	IPR018883,IPR036398	BTO10_02220 F7Q91_15375
+3_1	AF4	A0A1G5PN50-F1	Epibacterium ulvae	95.5	Secreted protein	IPR018883,IPR036398	SAMN04488118_101385
+3_1	AF4	S6GJ28-F1	Osedax symbiont	95.5	Cadmium carbonic anhydrase	IPR018883,IPR036398	OFPII_28950
+3_1	AF4	A0A1P8UZE2-F1	Salipiger abyssi	95.5	Cadmium carbonic anhydrase repeat-containing protein	IPR018883	Ga0080574_TMP4417
+3_1	AF4	A0A1I2D4U9-F1	Roseivivax sediminis	95.5	Cadmium carbonic anhydrase repeat-containing protein	IPR018883	SAMN04515678_11570
+3_1	AF4	A0A0N8TXR8-F1	Shewanella sp	95.5	Carbonic anhydrase	IPR018883,IPR036398	AN944_04033
+3_1	AF4	A0A4U2D9M8-F1	Vibrio sp	95.5	Cell surface protein	IPR018883,IPR036398	FCV65_04400
+3_1	AF4	A0A2E1K040-F1	Legionellales bacterium	95.5	Cadmium carbonic anhydrase	IPR018883	CMF43_01880
+3_1	AF4	A0A2E9X4G6-F1	Gammaproteobacteria bacterium	95.5	Lipoprotein	IPR018883,IPR036398	CMQ13_03315
+3_1	AF4	A0A1I3GC59-F1	Albimonas pacifica	95.5	Cadmium carbonic anhydrase	IPR018883	SAMN05216258_10581
+3_1	AF4	A0A162AYI3-F1	Pseudoalteromonas luteoviolacea	95.5	Cadmium carbonic anhydrase	IPR018883	N478_24370
+3_1	AF4	A0A7S1UU45-F1	Grammatophora oceanica	95.4	Hypothetical protein	IPR018883	GOCE00092_LOCUS7412
+3_1	AF4	A0A0C1Q250-F1	Pseudoalteromonas luteoviolacea	95.4	Cadmium carbonic anhydrase	IPR018883	JF50_22320
+3_1	AF4	R1IUQ2-F1	Grimontia indica	95.4	Cadmium carbonic anhydrase	IPR018883,IPR036398	D515_04123
+3_1	AF4	A0A855I232-F1	Vibrio splendidus	95.4	Cadmium carbonic anhydrase	IPR018883,IPR036398	BCU61_16320
+3_1	AF4	A0A7Y4CM76-F1	Vibrio sp	95.4	Cadmium carbonic anhydrase	IPR018883,IPR036398	F0232_08625
+3_1	AF4	A0A3D2H852-F1	Gallionella sp	95.4	Cadmium carbonic anhydrase	IPR018883,IPR036398	DE312_11270
+3_1	AF4	A0A5S3R9F9-F1	Pseudoalteromonas sp	95.4	Cadmium carbonic anhydrase	IPR018883	CWC03_10885
+3_1	AF4	A0A7Y5APY8-F1	Rheinheimera lutimaris	95.4	Cadmium carbonic anhydrase	IPR018883,IPR036398	HRH59_07355
+3_1	AF4	A0A2T0VYJ5-F1	Yoonia maritima	95.4	Secreted protein	IPR018883,IPR036398	CLV80_106176
+3_1	AF4	A0A167DR65-F1	Pseudoalteromonas luteoviolacea	95.4	Cadmium carbonic anhydrase	IPR018883	N482_06725
+3_1	AF4	A0A290TQ82-F1	Pseudoalteromonas piscicida	95.4	Cadmium carbonic anhydrase	IPR018883	PPIS_a0208
+3_1	AF4	A0A1N7MAR0-F1	Rhodobacter aestuarii	95.4	Cadmium carbonic anhydrase	IPR018883,IPR036398	SAMN05421580_105223
+3_1	AF4	A0A1X0SY01-F1	Aurantimonas sp	95.4	Cadmium carbonic anhydrase	IPR018883	ATO4_21130
+3_1	AF4	A0A1V0PQ83-F1	Rhodovulum sp	95.3	Cadmium carbonic anhydrase	IPR018883	RGUI_0133
+3_1	AF4	A0A7Y7MZJ7-F1	Vibrio sp	95.3	Cadmium carbonic anhydrase	IPR018883,IPR036398	FLM51_06305
+3_1	AF4	A0A196NQ83-F1	Sulfitobacter sp	95.3	CHRD domain-containing protein	IPR018883,IPR036398	A8B82_22625
+3_1	AF4	A0A7Y7DR91-F1	Rhodobacteraceae bacterium	95.3	Cadmium carbonic anhydrase	IPR018883	HWE37_15220
+3_1	AF4	A0A854FHR5-F1	Salinivibrio kushneri	95.3	Exported protein	IPR018883,IPR036398	BZG19_01935
+3_1	AF4	A0A855GVN8-F1	Pseudoalteromonas arctica	95.3	Superoxide dismutase	IPR018883,IPR036398	CXF75_17965
+3_1	AF4	A0A315DT57-F1	Limnohabitans sp	95.2	Signal peptide protein	IPR018883,IPR036398	B9Z47_11860
+3_1	AF4	A0A7Z1MIN6-F1	Vibrio cyclitrophicus	95.2	Secreted protein	IPR018883,IPR036398	BCS90_18575
+3_1	AF4	A0A3R8U0F6-F1	Pseudoalteromonas sp	95.2	Cadmium carbonic anhydrase	IPR018883	EAG18_09775
+3_1	AF4	A0A1G8T7Z6-F1	Salipiger marinus	95.2	Cadmium carbonic anhydrase repeat-containing protein	IPR018883	SAMN04487993_102842
+3_1	AF4	A0A1B1C0M8-F1	Vibrio crassostreae	95.1	Cadmium carbonic anhydrase	IPR018883,IPR036398	A134_18425
+3_1	AF4	A0A357RWZ8-F1	Citreicella sp	95.1	Cadmium carbonic anhydrase	IPR018883	DEB47_25310
+3_1	AF4	A0A5B8BYD9-F1	Oceanicola sp	95.1	Peptidylprolyl isomerase	IPR018883	FHY55_14790
+3_1	AF4	A0A845UGJ4-F1	Salipiger sp	95.1	Cadmium carbonic anhydrase	IPR018883	G0D83_14765
+3_1	AF4	A0A315BI08-F1	Limnohabitans sp	95.1	Cadmium carbonic anhydrase	IPR018883,IPR036398	B9Z48_06970
+3_1	AF4	A0A1I1LXM6-F1	Pseudooceanicola nitratireducens	95.0	Cadmium carbonic anhydrase	IPR018883	SAMN05421762_2172
+3_1	AF4	A0A7Z1S2J4-F1	Vibrio cyclitrophicus	95.0	Cell surface protein	IPR018883,IPR036398	BCS90_16405
+3_1	AF4	A0A558GUR8-F1	Vibrio atlanticus	95.0	Cadmium carbonic anhydrase	IPR018883,IPR036398	FQP88_16870
+3_1	AF4	A0A1E5AET9-F1	ex Bugula neritina AB1	95.0	Secreted protein	IPR018883,IPR036398	AB838_11865
+3_1	AF4	A0A2A5JR16-F1	Pseudoalteromonas piscicida	95.0	Cadmium carbonic anhydrase	IPR018883	CEX98_10665
+3_1	AF4	A0A327YRR2-F1	Salipiger aestuarii	95.0	Cadmium carbonic anhydrase	IPR018883	ATI53_1002206
+3_1	AF4	A0A1M7GS86-F1	Roseibium suaedae	95.0	Cadmium carbonic anhydrase repeat-containing protein	IPR018883	SAMN05444272_1996
+3_1	AF4	W4LFV2-F1	Candidatus Entotheonella	95.0	Cadmium carbonic anhydrase	IPR018883,IPR036398	ETSY1_24905
+3_1	AF4	A0A1G7GQA1-F1	Salipiger thiooxidans	95.0	Cadmium carbonic anhydrase repeat-containing protein	IPR018883	SAMN04488105_109141
+3_1	AF4	A0A7G2TN58-F1	Salipiger sp	95.0	Cadmium carbonic anhydrase	IPR018883	CMP09_10870
+3_1	AF4	A0A6G9PW23-F1	Vibrio costicola	95.0	Exported protein	IPR018883,IPR036398	HBA18_08160
+3_1	AF4	A0A1B1A667-F1	Tritonibacter mobilis	94.9	Cadmium carbonic anhydrase	IPR018883	K529_014890
+3_1	AF4	D9SD75-F1	strain ES-2	94.8	Cadmium carbonic anhydrase	IPR018883,IPR036398	Galf_2677
+3_1	AF4	A0A367VU19-F1	Thalassospira lucentensis	94.8	CHRD domain-containing protein	IPR018883,IPR036398	TH1_06870
+3_1	AF4	A0A355QLW7-F1	Citreicella sp	94.8	Cadmium carbonic anhydrase	IPR018883	DD444_04410
+3_1	AF4	A0A844WAP3-F1	Pseudooceanicola pacificus	94.8	Cadmium carbonic anhydrase	IPR018883	GLS40_06900
+3_1	AF4	A0A166AEX2-F1	Vibrio sp	94.8	Cadmium carbonic anhydrase	IPR018883,IPR036398	A3712_07970
+3_1	AF4	A0A3D1XM55-F1	Gammaproteobacteria bacterium	94.8	Lipoprotein	IPR018883,IPR036398	DE147_09240
+3_1	AF4	A0A7C7W253-F1	Nitrospira sp	94.8	Cell surface protein	IPR018883,IPR036398	EYQ01_09300
+3_1	AF4	S6GD57-F1	Osedax symbiont	94.8	Cadmium carbonic anhydrase	IPR018883,IPR036398	OFPI_39830
+3_1	AF4	A0A6N7ZYF5-F1	Roseibium sp	94.7	CHRD domain-containing protein	IPR018883	E1297_15040
+3_1	AF4	X5I1I9-F1	Marine diatom	94.7	Delta carbonic anhydrase like protein	IPR018883	
+3_1	AF4	A0A1V0PQ74-F1	Rhodovulum sp	94.7	Cadmium carbonic anhydrase	IPR018883	RGUI_0132
+3_1	AF4	A0A317CE19-F1	Leucothrix pacifica	94.7	Cadmium carbonic anhydrase	IPR018883,IPR036398	DKW60_12600
+3_1	AF4	A0A7L5BWJ0-F1	Pikeienuella piscinae	94.7	Cadmium carbonic anhydrase	IPR018883	G5B40_01625
+3_1	AF4	A0A1G0ARF4-F1	Gallionellales bacterium	94.6	Cadmium carbonic anhydrase	IPR018883,IPR036398	A2Z87_00665
+3_1	AF4	A0A3S9QBL8-F1	Colwellia sp	94.6	Lipoprotein	IPR018883,IPR036398	EKO29_06120
+3_1	AF4	A0A1C3J9E0-F1	Vibrio celticus	94.6	Cadmium carbonic anhydrase	IPR018883,IPR036398	VCE7224_00383
+3_1	AF4	A0A5N8T8T9-F1	Salinivibrio sp	94.6	Cadmium carbonic anhydrase	IPR018883,IPR036398	EHW59_03245
+3_1	AF4	A0A366WDQ9-F1	Psychromonas sp	94.6	Cadmium carbonic anhydrase	IPR018883	DS885_03620
+3_1	AF4	A0A1B8RXT6-F1	Leisingera sp	94.5	Secreted protein	IPR018883,IPR036398	A9D60_22485
+3_1	AF4	A0A1Y5G918-F1	Rhodobacterales bacterium	94.5	Cadmium carbonic anhydrase	IPR018883	A9Q95_10390
+3_1	AF4	A0A2N7BQS7-F1	Vibrio lentus	94.5	Cadmium carbonic anhydrase	IPR018883,IPR036398	BCV30_11545
+3_1	AF4	A0A7S4JEK8-F1	Prymnesium polylepis	94.5	Hypothetical protein	IPR018883	CPOL0286_LOCUS16567
+3_1	AF4	A0A7X6KEE1-F1	Rhodobacteraceae bacterium	94.5	Cadmium carbonic anhydrase	IPR018883	HGG73_05675
+3_1	AF4	A0A7S4JEJ7-F1	Prymnesium polylepis	94.5	Hypothetical protein	IPR018883	CPOL0286_LOCUS16568
+3_1	AF4	A0P2K4-F1	Stappia aggregata	94.4	PPIase cyclophilin-type domain-containing protein	IPR018883	SIAM614_00407
+3_1	AF4	A0A177H5X1-F1	Rhodobacteraceae bacterium	94.4	Cadmium carbonic anhydrase	IPR018883	pfor_33c3034
+3_1	AF4	A0A2N7GRK9-F1	Vibrio lentus	94.3	Cadmium carbonic anhydrase	IPR018883,IPR036398	BCU02_15755
+3_1	AF4	A0A3D0CAH6-F1	Colwellia sp	94.2	Cadmium carbonic anhydrase	IPR018883,IPR036398	DEO86_13945
+3_1	AF4	A0A2T0WID3-F1	Donghicola tyrosinivorans	94.2	Secreted protein	IPR018883,IPR036398	CLV74_11254
+3_1	AF4	A0A5C6QCI3-F1	Colwellia demingiae	94.1	Cadmium carbonic anhydrase	IPR018883,IPR036398	ESZ36_15795
+3_1	AF4	A0A550AGC2-F1	Shewanella eurypsychrophilus	94.1	Secreted protein	IPR018883,IPR036398	FM038_020455
+3_1	AF4	A0A1E5FV15-F1	Vibrio splendidus	94.1	Cadmium carbonic anhydrase	IPR018883,IPR036398	A142_17620
+3_1	AF4	A0A7W2FCA0-F1	Duganella sp	94.1	Carbonic anhydrase	IPR018883,IPR036398	H3H39_18125
+3_1	AF4	A0A523KAN5-F1	Gammaproteobacteria bacterium	94.1	Cadmium carbonic anhydrase	IPR018883	E2O62_03800
+3_1	AF4	A0A2V4NVW8-F1	Litorivita pollutaquae	94.0	Cadmium carbonic anhydrase	IPR018883	DI396_01895
+3_1	AF4	A0A1B9QZ98-F1	Vibrio genomosp	93.9	Cadmium carbonic anhydrase	IPR018883,IPR036398	A6E14_10365
+3_1	AF4	A0A6N9T982-F1	Jiella pacifica	93.9	Cadmium carbonic anhydrase	IPR018883	GTK09_26815
+3_1	AF4	A0A2N7NLS8-F1	Vibrio tasmaniensis	93.9	Cadmium carbonic anhydrase	IPR018883,IPR036398	BCS92_08740
+3_1	AF4	A0A1R3FEB8-F1	Vibrio sp	93.9	Cadmium carbonic anhydrase	IPR018883,IPR036398	BH582_06910
+3_1	AF4	A0A0F4PPN0-F1	Pseudoalteromonas ruthenica	93.9	Cadmium carbonic anhydrase	IPR018883	TW72_14735
+3_1	AF4	A0A7S0CDJ9-F1	Proboscia inermis	93.9	Hypothetical protein	IPR018883	PINE0816_LOCUS15212
+3_1	AF4	K8EQL3-F1	Bathycoccus prasinos	93.9	YDG domain-containing protein	IPR018883	Bathy16g02320
+3_1	AF4	A0A4U2GC96-F1	Vibrio sp	93.9	Cadmium carbonic anhydrase	IPR018883,IPR036398	FCV85_17450
+3_1	AF4	A0A5M9P3B3-F1	Vibrio gigantis	93.9	Cadmium carbonic anhydrase	IPR018883,IPR036398	F4W18_05550
+3_1	AF4	A0A2N7K9X9-F1	Vibrio splendidus	93.8	Cadmium carbonic anhydrase	IPR018883,IPR036398	BCT47_05875
+3_1	AF4	A0A7S0CBU9-F1	Proboscia inermis	93.8	Hypothetical protein	IPR018883	PINE0816_LOCUS15191
+3_1	AF4	A0A1N7IWJ6-F1	Neptunomonas antarctica	93.8	Cadmium carbonic anhydrase	IPR018883,IPR036398	SAMN05421760_101227
+3_1	AF4	A0A830HI75-F1	Pycnococcus provasolii	93.8	Chitin-binding type-4 domain-containing protein	IPR018883	PPROV_000525700
+3_1	AF4	A0A7S0R5U4-F1	Pyramimonas obovata	93.8	Hypothetical protein	IPR018883	POBO1169_LOCUS9357
+3_1	AF4	A0A7W4C8X5-F1	Vibrio sp	93.7	Cadmium carbonic anhydrase	IPR018883,IPR036398	H5300_03540
+3_1	AF4	A0A1C3IMD4-F1	Vibrio splendidus	93.7	Secreted protein	IPR018883,IPR036398	BCT15_15890 BCT36_10870 VHE8714_01293
+3_1	AF4	A0A7T0E733-F1	Vibrio kanaloae	93.7	Secreted protein	IPR018883,IPR036398	BTD91_14345
+3_1	AF4	A0A2N7IQH5-F1	Vibrio sp	93.6	Cadmium carbonic anhydrase	IPR018883,IPR036398	BCT81_26805
+3_1	AF4	A0A222FHA2-F1	Bacterioplanes sanyensis	93.5	DUF1996 domain-containing protein	IPR018883,IPR036398	CHH28_07005
+3_1	AF4	A0A5S3Z7C4-F1	Pseudoalteromonas ruthenica	93.5	Cadmium carbonic anhydrase	IPR018883	CWC05_05610
+3_1	AF4	A0A0T7DTW9-F1	Vibrio coralliirubri	93.4	Cadmium carbonic anhydrase	IPR018883,IPR036398	VCR29J2_420025
+3_1	AF4	A0A7S4S7Z7-F1	Ditylum brightwellii	93.4	Hypothetical protein	IPR018883	DBRI00130_LOCUS29689
+3_1	AF4	B8LD32-F1	Marine diatom	93.4	Plastocyanin-like domain-containing protein	IPR018883	THAPSDRAFT_814
+3_1	AF4	A0A4U2EVB0-F1	Vibrio sp	93.4	Cadmium carbonic anhydrase	IPR018883,IPR036398	FCV76_00225
+3_1	AF4	A0A1S1MND3-F1	Pseudoalteromonas amylolytica	93.3	Cadmium carbonic anhydrase	IPR018883	BET10_00620
+3_1	AF4	A0A5P9IYK6-F1	Pseudoalteromonas sp	93.2	Cadmium carbonic anhydrase repeat protein	IPR018883	FIU82_11900
+3_1	AF4	A0A853RA53-F1	Vibrio splendidus	93.2	Cadmium carbonic anhydrase	IPR018883,IPR036398	A146_11335
+3_1	AF4	A0A7S2XUT0-F1	Fibrocapsa japonica	93.1	Hypothetical protein	IPR018883	FJAP1339_LOCUS450
+3_1	AF4	A7UC72-F1	Dinoflagellate	92.9	Delta carbonic anhydrase 1	IPR018883	ca1
+3_1	AF4	A0A6V2KCI5-F1	Ditylum brightwellii	92.9	Hypothetical protein	IPR018883	DBRI00130_LOCUS29690 DBRI00130_LOCUS29693 DBRI00130_LOCUS29695
+3_1	AF4	A0A7S2HVS4-F1	Helicotheca tamesis	92.9	Hypothetical protein	IPR018883	HTAM1171_LOCUS7751
+3_1	AF4	A0A4Q6Y914-F1	Pseudoalteromonas sp	92.8	Cadmium carbonic anhydrase	IPR018883	EXT46_17815
+3_1	AF4	A0A7S2LSL9-F1	Leptocylindrus danicus	92.8	Hypothetical protein	IPR018883	LDAN0321_LOCUS21354
+3_1	AF4	A0A6U2GEA0-F1	Cryptophyte alga	92.8	Hypothetical protein	IPR018883	HAND00432_LOCUS36755
+3_1	AF4	A0A849VAT9-F1	Pseudoalteromonas caenipelagi	92.8	DUF4148 domain-containing protein	IPR018883	HG263_04935
+3_1	AF4	A0A7S2FHI9-F1	Pycnococcus provasolii	92.7	Hypothetical protein	IPR018883	PPRO1471_LOCUS8035
+3_1	AF4	A0A7S0W3U2-F1	Hemiselmis tepida	92.7	Hypothetical protein	IPR018883	HTEP1355_LOCUS16320
+3_1	AF4	A0A7S1WJC0-F1	Red tide dinoflagellate	92.7	Hypothetical protein	IPR018883	ACAT0790_LOCUS48467
+3_1	AF4	A0A7S2U9R3-F1	Attheya septentrionalis	92.7	Hypothetical protein	IPR018883	ASEP1449_LOCUS4923
+3_1	AF4	A0A1M4MVA5-F1	Donghicola eburneus	92.6	Putative secreted protein	IPR018883,IPR036398	KARMA_0394
+3_1	AF4	A0A830HHC5-F1	Pycnococcus provasolii	92.5	N-acetylmuramoyl-L-alanine amidase	IPR018883	PPROV_000321100
+3_1	AF4	A0A2M7PZ54-F1	Zetaproteobacteria bacterium	92.5	CHRD domain-containing protein	IPR018883,IPR036398	COZ00_08270
+3_1	AF4	A0A7S2BCN7-F1	Pycnococcus provasolii	92.5	Hypothetical protein	IPR018883	PPRO1471_LOCUS8034
+3_1	AF4	A0A419J2H0-F1	Nitrospiraceae bacterium	92.3	Cadmium carbonic anhydrase	IPR018883	C4581_06105
+3_1	AF4	W8VUA7-F1	Thalassiosira pseudonana	92.3	Delta carbonic anhydrase	IPR018883	deltaCA
+3_1	AF4	A0A7S1RQI3-F1	Red tide dinoflagellate	92.3	Hypothetical protein	IPR018883	ACAT0790_LOCUS48469
+3_1	AF4	W8VYH0-F1	Thalassiosira pseudonana	92.2	Delta carbonic anhydrase	IPR018883	deltaCA
+3_1	AF4	K0RA12-F1	Marine diatom	92.1	Kringle domain-containing protein	IPR018883	THAOC_20766 THAOC_35571
+3_1	AF4	K0R419-F1	Marine diatom	91.8	Kringle domain-containing protein	IPR018883	THAOC_34986
+3_1	AF4	F7NUW2-F1	Rheinheimera sp	91.8	Carbonic anhydrase	IPR018883,IPR036398	Rhein_1782
+3_1	AF4	A0A7S2V5F9-F1	Fibrocapsa japonica	91.7	Hypothetical protein	IPR018883	FJAP1339_LOCUS8618
+3_1	AF4	A0A1Y6CF06-F1	Pseudobacteriovorax antillogorgiicola	91.5	Cadmium carbonic anhydrase	IPR018883	SAMN06296036_11932
+3_1	AF4	A0A356HZD3-F1	Deltaproteobacteria bacterium	91.1	Cadmium carbonic anhydrase	IPR018883	DD641_05770
+3_1	AF4	A0A7S2NBT4-F1	Haptolina brevifila	91.1	Hypothetical protein	IPR018883	CBRE1094_LOCUS37872
+3_1	AF4	A0A1G1F072-F1	Nitrospirae bacterium	90.8	Cadmium carbonic anhydrase	IPR018883	A2X59_05480
+3_1	AF4	A0A812XZF5-F1	Dinoflagellate	90.8	Hypothetical protein	IPR018883	SPIL2461_LOCUS21997
+3_1	AF4	A0A812RXA2-F1	Symbiodinium natans	90.7	Hypothetical protein	IPR018883	SNAT2548_LOCUS25264
+3_1	AF4	A0A812I674-F1	Symbiodinium natans	90.7	Hypothetical protein	IPR018883	SNAT2548_LOCUS3099
+3_1	AF4	A0A812JW14-F1	Symbiodinium natans	90.6	Hypothetical protein	IPR018883	SNAT2548_LOCUS7676
+3_1	AF4	A0A7S0UKW0-F1	Pseudo-nitzschia delicatissima	90.6	Hypothetical protein	IPR018883	PDEL1432_LOCUS3183
+3_1	AF4	A0A7S4MK07-F1	Prymnesium polylepis	90.5	Hypothetical protein	IPR018883	CPOL0286_LOCUS10452
+3_1	AF4	A0A812I8M2-F1	Symbiodinium natans	90.4	Hypothetical protein	IPR018883	SNAT2548_LOCUS3094 SNAT2548_LOCUS3096
+3_1	AF4	K0SZQ0-F1	Marine diatom	90.4	Kringle domain-containing protein	IPR018883	THAOC_12556
+3_1	AF4	A0A812TUP3-F1	Symbiodinium natans	90.4	Hypothetical protein	IPR018883	SNAT2548_LOCUS30468
+3_1	AF4	A0A812I695-F1	Symbiodinium natans	90.4	Hypothetical protein	IPR018883	SNAT2548_LOCUS3097 SNAT2548_LOCUS3098
+3_1	AF4	A0A812NPJ3-F1	Dinoflagellate	90.4	Hypothetical protein	IPR018883	SPIL2461_LOCUS7309
+3_1	AF4	A0A812RYT3-F1	Symbiodinium natans	90.3	Hypothetical protein	IPR018883	SNAT2548_LOCUS25260
+3_1	AF4	A0A7S2M259-F1	Skeletonema marinoi	90.1	Hypothetical protein	IPR018883	SMAR0320_LOCUS19066
+3_1	AF4	A0A1Q9D410-F1	Dinoflagellate	90.1	YHYH domain-containing protein	IPR018883	AK812_SmicGene28620
+3_1	AF4	A0A7S1FDB9-F1	Sea sparkle	90.0	Hypothetical protein	IPR018883	NSCI0253_LOCUS32922
+3_1	AF4	A0A7S1RP87-F1	Red tide dinoflagellate	90.0	Hypothetical protein	IPR018883	ACAT0790_LOCUS48468
+3_1	AF4	A0A7S1FD71-F1	Sea sparkle	89.9	Hypothetical protein	IPR018883	NSCI0253_LOCUS32921
+3_1	AF4	B8C250-F1	Marine diatom	89.9	Plastocyanin-like domain-containing protein	IPR018883	THAPSDRAFT_34125
+3_1	AF4	A0A1E5BDR7-F1	Vibrio genomosp	89.9	Cadmium carbonic anhydrase	IPR018883,IPR036398	A1QO_09875
+3_1	AF4	Q6V8K7-F1	Marine diatom	89.9	Intracellular carbonic anhydrase	IPR018883	
+3_1	AF4	A0A812ULI5-F1	Symbiodinium natans	89.8	Hypothetical protein	IPR018883	SNAT2548_LOCUS32392
+3_1	AF4	A0A7S3AZA3-F1	Haptolina ericina	89.8	Hypothetical protein	IPR018883	HERI1096_LOCUS18446
+3_1	AF4	A0A7S1FBW0-F1	Sea sparkle	89.7	Hypothetical protein	IPR018883	NSCI0253_LOCUS32920
+3_1	AF4	A0A7S3ZV04-F1	Pelagomonas calceolata	89.6	Hypothetical protein	IPR018883	PCAL00307_LOCUS10321
+3_1	AF4	A0A7S1FD63-F1	Sea sparkle	89.5	Hypothetical protein	IPR018883	NSCI0253_LOCUS32919
+3_1	AF4	A0A812U275-F1	Symbiodinium sp	89.4	Hypothetical protein	IPR018883	STRI2592_LOCUS28259
+3_1	AF4	A0A812NUI5-F1	Symbiodinium sp	89.3	Hypothetical protein	IPR018883	SLIN2456_LOCUS9405
+3_1	AF4	C1E037-F1	Picoplanktonic green alga	89.1	Carbonic anhydrase	IPR018883	MICPUN_99052
+3_1	AF4	A0A7S0QMS9-F1	Pyramimonas obovata	89.1	Hypothetical protein	IPR003613,IPR013083,IPR018883,IPR036537	POBO1169_LOCUS791
+3_1	AF4	A0A7S3L7P6-F1	Amphora coffeiformis	89.0	Hypothetical protein	IPR018883	ACOF00016_LOCUS10111
+3_1	AF4	A0A7S3L869-F1	Amphora coffeiformis	88.9	Hypothetical protein	IPR018883	ACOF00016_LOCUS10110
+3_1	AF4	A0A7S3T8M0-F1	Strombidinopsis acuminata	88.5	Hypothetical protein	IPR018883	SACU0126_LOCUS23258
+3_1	AF4	A0A812HUV3-F1	Symbiodinium natans	88.5	Hypothetical protein	IPR018883	SNAT2548_LOCUS2008
+3_1	AF4	A0A5P2ZW26-F1	Rhodobacteraceae bacterium	88.4	Cadmium carbonic anhydrase	IPR018883	LA6_002797
+3_1	AF4	A0A812V4V8-F1	Symbiodinium natans	88.2	Hypothetical protein	IPR005123,IPR018883,IPR032857,IPR037151	SNAT2548_LOCUS34045
+3_1	AF4	A0A2E2KVZ8-F1	Rhodobacteraceae bacterium	88.1	Cadmium carbonic anhydrase	IPR018883	CML66_30465
+3_1	AF4	A0A812NMU9-F1	Symbiodinium sp	87.9	Hypothetical protein	IPR018883	SLIN2456_LOCUS9404
+3_1	AF4	A0A448ZPF4-F1	Pseudo-nitzschia multistriata	87.8	Kringle domain-containing protein	IPR018883	PSNMU_V1.4_AUG-EV-PASAV3_0109370
+3_1	AF4	A0A7S3VUH7-F1	Strombidinopsis acuminata	87.7	Hypothetical protein	IPR018883	SACU0126_LOCUS575
+3_1	AF4	A0A0P1G5N9-F1	Tropicibacter naphthalenivorans	87.6	Cadmium carbonic anhydrase	IPR018883	TRN7648_01185
+3_1	AF4	A0A1E7EZ89-F1	Fragilariopsis cylindrus	87.6	Delta carbonic anhydrase	IPR018883	DCA2 FRACYDRAFT_246249
+3_1	AF4	A0A1E4HVW3-F1	Thiobacillus sp	87.6	Cadmium carbonic anhydrase	IPR018883,IPR036398	ABS89_08355
+3_1	AF4	F0XWW1-F1	Harmful bloom alga	87.4	C-type lectin domain-containing protein	IPR018883	AURANDRAFT_60948
+3_1	AF4	A0A812XTI8-F1	Dinoflagellate	87.4	Hypothetical protein	IPR018883	SPIL2461_LOCUS21826
+3_1	AF4	A0A7R9YIG8-F1	Unicellular marine alga	86.9	Hypothetical protein	IPR018883	PLUT1463_LOCUS2607
+3_1	AF4	A0A812VVC6-F1	Symbiodinium sp	86.8	Hypothetical protein	IPR018883	SMICCKB8_LOCUS17966
+3_1	AF4	A0A812UAJ1-F1	Dinoflagellate	86.3	Hypothetical protein	IPR018883	SMIC04503_LOCUS17745
+3_1	AF4	A0A090N4Y7-F1	Ostreococcus tauri	86.1	Carbonic anhydrase, cadmium-binding	IPR018883	OT_ostta08g04120
+3_1	AF4	B8C251-F1	Marine diatom	85.6	Kringle domain-containing protein	IPR018883	THAPSDRAFT_34094
+3_1	AF4	A0A1Q9DL12-F1	Dinoflagellate	85.5	Carbonic anhydrase	IPR018883	AK812_SmicGene21973
+3_1	AF4	A0A1E7EUG8-F1	Fragilariopsis cylindrus	85.4	Delta carbonic anhydrase	IPR000782,IPR018883,IPR036378	DCA1 FRACYDRAFT_264409
+3_1	AF4	A0A7S3WW75-F1	Coccolithophore	85.2	Hypothetical protein	IPR018883	EHUX00137_LOCUS36623
+3_1	AF4	A0A812H5T8-F1	Symbiodinium sp	84.9	Hypothetical protein	IPR018883	SMICCKB8_LOCUS640
+3_1	AF4	A0A812ZQG1-F1	Symbiodinium sp	84.3	Hypothetical protein	IPR018883	STRI2592_LOCUS44193
+3_1	AF4	A0A812U2K8-F1	Symbiodinium sp	84.0	Hypothetical protein	IPR018883	STRI2592_LOCUS28263
+3_1	AF4	A0A7S0IBT1-F1	Picoplanktonic green alga	83.4	Hypothetical protein	IPR018883	MCOM1403_LOCUS4458
+3_1	AF4	A4S200-F1	strain CCE9901	83.4	Putative delta carbonic anhydrase (Cobalt/zinc)	IPR018883	DCA1 OSTLU_33276
+3_1	AF4	Q0ZB86-F1	Coccolithophore	81.6	Delta-carbonic anhydrase	IPR018883,IPR040931	
+3_1	AF4	C1EG17-F1	Picoplanktonic green alga	80.5	VWFD domain-containing protein	IPR018883	MICPUN_109346
+3_1	AF4	A0A812TUB8-F1	Symbiodinium sp	80.1	Hypothetical protein	IPR018883	STRI2592_LOCUS28261
+3_1	AF4	A0A812U2Z4-F1	Symbiodinium sp	79.7	Hypothetical protein	IPR018883	STRI2592_LOCUS28262
+3_1	AF4	A0A812U325-F1	Symbiodinium sp	79.6	Hypothetical protein	IPR018883	STRI2592_LOCUS28260
+3_1	AF4	A0A812SR53-F1	Dinoflagellate	78.8	Hypothetical protein	IPR018883	SPIL2461_LOCUS12630
+3_1	AF4	F0XX50-F1	Harmful bloom alga	78.0	Uncharacterized protein CAH	IPR018883	CAH AURANDRAFT_60437
+3_1	AF4	A0A7S0R5S4-F1	Pyramimonas obovata	77.5	Sulfatase domain-containing protein	IPR018883	POBO1169_LOCUS9356
+3_1	AF4	A0A7S4GBX6-F1	Eutreptiella gymnastica	77.3	Hypothetical protein	IPR018883	EGYM00163_LOCUS43230
+3_1	AF4	A0A7S4GBX2-F1	Eutreptiella gymnastica	75.5	Hypothetical protein	IPR018883	EGYM00163_LOCUS43231
+3_1	AF4	A0A7S4S5I1-F1	Ditylum brightwellii	74.4	Hypothetical protein	IPR018883	DBRI00130_LOCUS29692
+3_1	AF4	R1FQT9-F1	Coccolithophore	73.4	C-type lectin domain-containing protein	IPR018883	EMIHUDRAFT_227360
+3_1	AF4	A0A812WC00-F1	Dinoflagellate	72.4	Hypothetical protein	IPR018883	SMIC04503_LOCUS21607

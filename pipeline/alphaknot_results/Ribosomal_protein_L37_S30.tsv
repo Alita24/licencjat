@@ -1,0 +1,1245 @@
+#Knot_type	Category	Uniprot	Organism	pLDDT_knotcore	Protein_name	InterPro	Gene_name	#FILTER: InterPro=IPR010793 AND Category=AF4;
+5_2	AF4	A0A0N4U971-F1	Guinea worm	79.8	39S ribosomal protein L37, mitochondrial	IPR010793,IPR039982	DME_LOCUS7624
+5_2	AF4	A0A7R9QUS2-F1	Oppiella nova	68.0	TPR_REGION domain-containing protein	IPR010793,IPR011990,IPR019734,IPR039982	ONB1V03_LOCUS15754
+5_1	AF4	A0A803WCJ9-F1	Collared flycatcher	82.3	Mitochondrial ribosomal protein L37	IPR010793	MRPL37
+5_1	AF4	A0A2J8NI02-F1	Chimpanzee	80.1	MRPL37 isoform 2	IPR010793	CK820_G0010556
+3_1	AF4	A0A6D2XYJ9-F1	Chimpanzee	96.3	MRPL37 isoform 3	IPR010793	CK820_G0010556
+3_1	AF4	A0A2R9C6B6-F1	Pygmy chimpanzee	96.3	Mitochondrial ribosomal protein L37	IPR010793	MRPL37
+3_1	AF4	K7DEP4-F1	Chimpanzee	96.2	Mitochondrial ribosomal protein L37	IPR010793	MRPL37
+3_1	AF4	A0A0D9S773-F1	Green monkey	95.8	Mitochondrial ribosomal protein L37	IPR010793	MRPL37
+3_1	AF4	A0A2K5WSP6-F1	Crab-eating macaque	95.8	Mitochondrial ribosomal protein L37	IPR010793	MRPL37
+3_1	AF4	G1QT17-F1	Northern white-cheeked gibbon	95.8	Mitochondrial ribosomal protein L37	IPR010793	MRPL37
+3_1	AF4	A0A2K5XRU2-F1	Drill	95.7	Mitochondrial ribosomal protein L37	IPR010793	MRPL37
+3_1	AF4	A0A2K5IQU3-F1	Peters' Angolan colobus	95.7	39S ribosomal protein L37, mitochondrial	IPR010793	
+3_1	AF4	A0A2K6ME39-F1	Black snub-nosed monkey	95.7	Mitochondrial ribosomal protein L37	IPR010793	MRPL37
+3_1	AF4	A0A2K5J1S2-F1	Peters' Angolan colobus	95.7	Mitochondrial ribosomal protein S30	IPR010793,IPR039982	
+3_1	AF4	A0A2K6CR64-F1	Pig-tailed macaque	95.7	Mitochondrial ribosomal protein L37	IPR010793	MRPL37
+3_1	AF4	A0A096N932-F1	Olive baboon	95.7	Mitochondrial ribosomal protein L37	IPR010793	MRPL37
+3_1	AF4	A0A2K6PGP1-F1	Golden snub-nosed monkey	95.7	Mitochondrial ribosomal protein L37	IPR010793	MRPL37
+3_1	AF4	A0A2K5P0M0-F1	Sooty mangabey	95.6	Mitochondrial ribosomal protein L37	IPR010793	MRPL37
+3_1	AF4	A0A7J7ZZD8-F1	Greater mouse-eared bat	95.4	Mitochondrial ribosomal protein L37	IPR010793	mMyoMyo1_013317
+3_1	AF4	A0A2K6EPJ5-F1	Coquerel's sifaka	95.3	Mitochondrial ribosomal protein L37	IPR010793	MRPL37
+3_1	AF4	A0A2K5D8M1-F1	Ma's night monkey	95.3	Mitochondrial ribosomal protein L37	IPR010793	MRPL37
+3_1	AF4	A4FUC0-F1	Bovine	95.2	39S ribosomal protein L37, mitochondrial (L37mt) (MRP-L37)	IPR010793	MRPL37
+3_1	AF4	F6YDG8-F1	Horse	95.2	Mitochondrial ribosomal protein L37	IPR010793	MRPL37
+3_1	AF4	A0A7J8A973-F1	Kuhl's pipistrelle	95.1	Mitochondrial ribosomal protein L37	IPR010793	mPipKuh1_011769
+3_1	AF4	A0A822ALA7-F1	mimic poison frog	95.1	(mimic poison frog) hypothetical protein	IPR010793	RIMITATOR_LOCUS6785842
+3_1	AF4	F7HDI3-F1	White-tufted-ear marmoset	95.1	Mitochondrial ribosomal protein L37	IPR010793	MRPL37
+3_1	AF4	A0A2K6T405-F1	Bolivian squirrel monkey	95.1	Mitochondrial ribosomal protein L37	IPR010793	MRPL37
+3_1	AF4	A0A480UEG3-F1	Pig	95.1	39S ribosomal protein L37, mitochondrial (39S ribosomal protein L37, mitochondrial isoform 2)	IPR010793	
+3_1	AF4	L9KZU9-F1	Chinese tree shrew	95.0	39S ribosomal protein L37, mitochondrial	IPR010793	TREES_T100006367
+3_1	AF4	G3RJ29-F1	Western lowland gorilla	95.0	Mitochondrial ribosomal protein S30	IPR010793,IPR039982	MRPS30
+3_1	AF4	A0A2D4JF33-F1	Micrurus lemniscatus	95.0	39S ribosomal protein L37, mitochondrial	IPR010793	
+3_1	AF4	A0A2K6PS38-F1	Golden snub-nosed monkey	95.0	Mitochondrial ribosomal protein S30	IPR010793,IPR039982	MRPS30
+3_1	AF4	A0A7J7F5U9-F1	South-central black rhinoceros	95.0	39S ribosomal protein L37, mitochondrial	IPR010793	HPG69_012223
+3_1	AF4	A0A671E2K3-F1	Greater horseshoe bat	94.9	Mitochondrial ribosomal protein L37	IPR010793	MRPL37 mRhiFer1_011243
+3_1	AF4	U3BYW7-F1	White-tufted-ear marmoset	94.9	28S ribosomal protein S30, mitochondrial (Mitochondrial ribosomal protein S30)	IPR010793,IPR039982	MRPS30
+3_1	AF4	A0A0D9RW07-F1	Green monkey	94.9	Mitochondrial ribosomal protein S30	IPR010793,IPR039982	MRPS30
+3_1	AF4	F7INF2-F1	White-tufted-ear marmoset	94.9	28S ribosomal protein S30, mitochondrial	IPR010793,IPR039982	MRPS30
+3_1	AF4	M3Y5N8-F1	European domestic ferret	94.9	Mitochondrial ribosomal protein L37	IPR010793	MRPL37
+3_1	AF4	W5PAT3-F1	Sheep	94.9	Mitochondrial ribosomal protein L37	IPR010793	MRPL37
+3_1	AF4	G7P7H0-F1	Crab-eating macaque	94.9	Mitochondrial ribosomal protein S30	IPR010793,IPR039982	EGM_15032
+3_1	AF4	A0A2K5W4T2-F1	Crab-eating macaque	94.9	Mitochondrial ribosomal protein S30	IPR010793,IPR039982	MRPS30
+3_1	AF4	U3EE41-F1	White-tufted-ear marmoset	94.9	28S ribosomal protein S30, mitochondrial	IPR010793,IPR039982	MRPS30
+3_1	AF4	A0A2D4KJD0-F1	Micrurus paraensis	94.9	39S ribosomal protein L37, mitochondrial	IPR010793	
+3_1	AF4	H9FP21-F1	Rhesus macaque	94.9	28S ribosomal protein S30, mitochondrial	IPR010793,IPR039982	MRPS30
+3_1	AF4	A0A6J3JF82-F1	Brown-capped capuchin	94.9	39S ribosomal protein L37, mitochondrial	IPR010793	MRPL37
+3_1	AF4	Q9BUN6-F1	Human	94.9	MRPS30 protein	IPR010793,IPR039982	MRPS30
+3_1	AF4	A0A5F8AQA5-F1	Rhesus macaque	94.8	Mitochondrial ribosomal protein S30	IPR010793,IPR039982	MRPS30
+3_1	AF4	A0A2Y9DBV7-F1	Florida manatee	94.8	39S ribosomal protein L37, mitochondrial	IPR010793	LOC101351402
+3_1	AF4	M3WQ36-F1	Cat	94.8	Mitochondrial ribosomal protein L37	IPR010793	MRPL37
+3_1	AF4	A0A673T301-F1	Meerkat	94.8	Mitochondrial ribosomal protein S30	IPR010793,IPR039982	
+3_1	AF4	A0A2K5NZX6-F1	Sooty mangabey	94.8	Mitochondrial ribosomal protein S30	IPR010793,IPR039982	MRPS30
+3_1	AF4	A0A2K5EY33-F1	Ma's night monkey	94.8	Mitochondrial ribosomal protein S30	IPR010793,IPR039982	MRPS30
+3_1	AF4	A0A2K5S0I8-F1	Panamanian white-faced capuchin	94.8	Mitochondrial ribosomal protein L37	IPR010793	MRPL37
+3_1	AF4	A0A2K6DGX3-F1	Pig-tailed macaque	94.8	Mitochondrial ribosomal protein S30	IPR010793,IPR039982	MRPS30
+3_1	AF4	A0A2Y9NJ53-F1	Beluga whale	94.8	39S ribosomal protein L37, mitochondrial	IPR010793	MRPL37
+3_1	AF4	A0A091DK13-F1	Damaraland mole rat	94.8	28S ribosomal protein S30, mitochondrial	IPR010793,IPR039982	H920_07772
+3_1	AF4	Q6AXT0-F1	Rat	94.8	39S ribosomal protein L37, mitochondrial	IPR010793	
+3_1	AF4	A0A4W2G408-F1	Hybrid cattle	94.8	Mitochondrial ribosomal protein L37	IPR010793	MRPL37
+3_1	AF4	A0A7J7ZYS9-F1	Greater mouse-eared bat	94.8	Mitochondrial ribosomal protein L37	IPR010793	mMyoMyo1_013317
+3_1	AF4	A0A2K5Y3M7-F1	Drill	94.8	Mitochondrial ribosomal protein S30	IPR010793,IPR039982	MRPS30
+3_1	AF4	A0A250YHZ1-F1	American beaver	94.8	39S ribosomal protein L37, mitochondrial (Mitochondrial ribosomal protein L37)	IPR010793	MRPL37 Mrpl37
+3_1	AF4	A0A6P6IRK4-F1	Mountain lion	94.7	39S ribosomal protein L37, mitochondrial	IPR010793	MRPL37
+3_1	AF4	G1P9X9-F1	Little brown bat	94.7	Mitochondrial ribosomal protein L37	IPR010793	MRPL37
+3_1	AF4	A0A7J7ZZ59-F1	Greater mouse-eared bat	94.7	Mitochondrial ribosomal protein L37	IPR010793	mMyoMyo1_013317
+3_1	AF4	A0A6I9ZTV4-F1	Cheetah	94.7	39S ribosomal protein L37, mitochondrial	IPR010793	MRPL37
+3_1	AF4	A0A6G1AES1-F1	Spotted hyena	94.7	RM37 protein	IPR010793	Mrpl37 FOF47_R12434
+3_1	AF4	A0A2Y9GLF2-F1	Hawaiian monk seal	94.7	39S ribosomal protein L37, mitochondrial	IPR010793	MRPL37
+3_1	AF4	A0A7J8KCN0-F1	Egyptian rousette	94.7	Mitochondrial ribosomal protein L37	IPR010793	HJG63_013546
+3_1	AF4	A0A1U7QSP5-F1	Golden hamster	94.7	39S ribosomal protein L37, mitochondrial	IPR010793	Mrpl37
+3_1	AF4	A0A4X2KBF1-F1	Common wombat	94.7	Mitochondrial ribosomal protein L37	IPR010793	MRPL37
+3_1	AF4	A0A485MG83-F1	Iberian lynx	94.7	39s ribosomal protein	IPR010793	LYPA_23C012775
+3_1	AF4	Q53H77-F1	Human	94.7	Mitochondrial ribosomal protein S30 variant	IPR010793,IPR039982	
+3_1	AF4	A0A6P3I3H2-F1	Bison bison	94.7	39S ribosomal protein L37, mitochondrial	IPR010793	MRPL37
+3_1	AF4	A0A452FMX9-F1	Goat	94.7	39S ribosomal protein L37, mitochondrial	IPR010793	
+3_1	AF4	A0A383YNQ2-F1	North Pacific minke whale	94.6	39S ribosomal protein L37, mitochondrial isoform X1	IPR010793	MRPL37
+3_1	AF4	A0A6G1S2M2-F1	Hypotaenidia okinawae	94.6	Mitochondrial ribosomal protein L37	IPR010793	
+3_1	AF4	I0FNN9-F1	Rhesus macaque	94.6	28S ribosomal protein S30, mitochondrial	IPR010793,IPR039982	MRPS30
+3_1	AF4	Q53GN7-F1	Human	94.6	Mitochondrial ribosomal protein S30 variant	IPR010793,IPR039982	
+3_1	AF4	A0A6P5B7V7-F1	Zebu	94.6	39S ribosomal protein L37, mitochondrial isoform X1	IPR010793	MRPL37
+3_1	AF4	A0A1U7V432-F1	Philippine tarsier	94.6	39S ribosomal protein L37, mitochondrial isoform X1	IPR010793	MRPL37
+3_1	AF4	A0A1A6HDN9-F1	Desert woodrat	94.6	39S ribosomal protein L37, mitochondrial	IPR010793	A6R68_16870
+3_1	AF4	A0A6I9L5W9-F1	Prairie deer mouse	94.6	39S ribosomal protein L37, mitochondrial isoform X1 (39S ribosomal protein L37, mitochondrial isoform X2) (Mitochondrial ribosomal protein L37)	IPR010793	Mrpl37
+3_1	AF4	L5K6R2-F1	Black flying fox	94.6	39S ribosomal protein L37, mitochondrial	IPR010793	PAL_GLEAN10023782
+3_1	AF4	A0A341B1R8-F1	Yangtze finless porpoise	94.6	39S ribosomal protein S30, mitochondrial	IPR010793,IPR039982	MRPS30
+3_1	AF4	A0A1U7TDP7-F1	Philippine tarsier	94.5	39S ribosomal protein S30, mitochondrial	IPR010793,IPR039982	MRPS30
+3_1	AF4	A0A484GN37-F1	Indo-pacific humpbacked dolphin	94.5	39S ribosomal protein L37, mitochondrial	IPR010793	DBR06_SOUSAS210393
+3_1	AF4	G1NFS6-F1	Wild turkey	94.5	Mitochondrial ribosomal protein L37	IPR010793	MRPL37
+3_1	AF4	A0A2R9AC55-F1	Pygmy chimpanzee	94.5	Mitochondrial ribosomal protein S30	IPR010793,IPR039982	MRPS30
+3_1	AF4	A0A2U4BJB3-F1	Atlantic bottle-nosed dolphin	94.5	39S ribosomal protein L37, mitochondrial	IPR010793	MRPL37
+3_1	AF4	G1T120-F1	Rabbit	94.5	Mitochondrial ribosomal protein L37	IPR010793	MRPL37
+3_1	AF4	A0A6B0RMW3-F1	wild yak	94.5	39S ribosomal protein L37, mitochondrial	IPR010793	E5288_WYG006847
+3_1	AF4	A0A6P3QZ14-F1	Large flying fox	94.5	39S ribosomal protein L37, mitochondrial	IPR010793	MRPL37
+3_1	AF4	A0A2Y9IKR1-F1	Enhydra lutris	94.5	39S ribosomal protein S30, mitochondrial	IPR010793,IPR039982	LOC111141141
+3_1	AF4	Q921S7-F1	Mouse	94.5	39S ribosomal protein L37, mitochondrial	IPR010793	
+3_1	AF4	A0A673TFJ6-F1	Meerkat	94.5	Mitochondrial ribosomal protein L37	IPR010793	
+3_1	AF4	A0A3Q7UHW5-F1	Red fox	94.5	39S ribosomal protein S30, mitochondrial	IPR010793,IPR039982	MRPS30
+3_1	AF4	A0A6P7E5H7-F1	Sheep	94.5	Uncharacterized protein	IPR010793	JEQ12_000368
+3_1	AF4	A0A2U3VY34-F1	Pacific walrus	94.5	39S ribosomal protein L37, mitochondrial	IPR010793	MRPL37
+3_1	AF4	A0A1S2ZEC3-F1	Western European hedgehog	94.5	39S ribosomal protein L37, mitochondrial	IPR010793	MRPL37
+3_1	AF4	A0A6P4W150-F1	Leopard	94.5	39S ribosomal protein L37, mitochondrial	IPR010793	MRPL37
+3_1	AF4	A0A7J8F1I2-F1	Egyptian rousette	94.5	Mitochondrial ribosomal protein S30	IPR010793,IPR039982	HJG63_013587
+3_1	AF4	A0A480SLQ8-F1	Pig	94.4	39S ribosomal protein L37, mitochondrial (39S ribosomal protein L37, mitochondrial isoform 2)	IPR010793	
+3_1	AF4	A0A341AWX9-F1	Yangtze finless porpoise	94.4	39S ribosomal protein L37, mitochondrial	IPR010793	MRPL37
+3_1	AF4	L5KKT4-F1	Black flying fox	94.4	28S ribosomal protein S30, mitochondrial	IPR010793,IPR039982	PAL_GLEAN10009644
+3_1	AF4	G3H213-F1	Chinese hamster	94.4	28S ribosomal protein S30, mitochondrial	IPR010793,IPR039982	I79_004213
+3_1	AF4	A0A6J2DZL5-F1	California sealion	94.4	39S ribosomal protein L37, mitochondrial	IPR010793	MRPL37
+3_1	AF4	A0A6G1BCK8-F1	Spotted hyena	94.4	RT30 protein	IPR010793,IPR039982	Mrps30 FOF47_R12760
+3_1	AF4	H0XFP1-F1	Small-eared galago	94.4	Mitochondrial ribosomal protein L37	IPR010793	MRPL37
+3_1	AF4	A0A6P3FM13-F1	Degu	94.4	39S ribosomal protein L37, mitochondrial	IPR010793	Mrpl37
+3_1	AF4	A0A6I9JSP3-F1	Cape golden mole	94.4	28S ribosomal protein S30, mitochondrial-like	IPR010793,IPR039982	LOC102827529
+3_1	AF4	A0A6P6HXC2-F1	Mountain lion	94.4	39S ribosomal protein S30, mitochondrial	IPR010793,IPR039982	MRPS30
+3_1	AF4	A0A287BIV6-F1	Pig	94.4	39S ribosomal protein L37, mitochondrial (39S ribosomal protein L37, mitochondrial isoform 2) (Mitochondrial ribosomal protein L37)	IPR010793	MRPL37
+3_1	AF4	A0A6D2X7U3-F1	Chimpanzee	94.4	MRPS30 isoform 1	IPR010793,IPR039982	CK820_G0044243
+3_1	AF4	A0A4W2DE61-F1	Hybrid cattle	94.4	Mitochondrial ribosomal protein L37	IPR010793	
+3_1	AF4	A0A340YIF9-F1	Yangtze river dolphin	94.4	39S ribosomal protein L37, mitochondrial	IPR010793	MRPL37
+3_1	AF4	G9KBC1-F1	European domestic ferret	94.4	39S ribosomal protein L37, mitochondrial (Mitochondrial ribosomal protein L37)	IPR010793	MRPL37
+3_1	AF4	U6CRH2-F1	American mink	94.4	39S ribosomal protein L37, mitochondrial (Mitochondrial ribosomal protein L37)	IPR010793	RM37
+3_1	AF4	U3I634-F1	Northern mallard	94.4	Mitochondrial ribosomal protein L37	IPR010793	MRPL37
+3_1	AF4	A0A6I9I376-F1	Alpaca	94.4	39S ribosomal protein L37, mitochondrial isoform X1	IPR010793	MRPL37
+3_1	AF4	W5PAT8-F1	Sheep	94.4	Mitochondrial ribosomal protein L37	IPR010793	MRPL37
+3_1	AF4	A0A4X1WCE8-F1	Pig	94.4	39S ribosomal protein L37, mitochondrial	IPR010793	
+3_1	AF4	H2QQU9-F1	Chimpanzee	94.4	Mitochondrial ribosomal protein S30	IPR010793,IPR039982	MRPS30
+3_1	AF4	A0A6J3I369-F1	Brown-capped capuchin	94.4	39S ribosomal protein S30, mitochondrial	IPR010793,IPR039982	MRPS30
+3_1	AF4	A0A6J3DD77-F1	Tufted duck	94.4	39S ribosomal protein L37, mitochondrial	IPR010793	MRPL37
+3_1	AF4	G7MTP4-F1	Rhesus macaque	94.4	Mitochondrial ribosomal protein S30	IPR010793,IPR039982	EGK_16463
+3_1	AF4	A0A7J8F9W2-F1	Pallas' mastiff bat	94.4	Mitochondrial ribosomal protein L37	IPR010793	HJG59_012458
+3_1	AF4	A0A2U3X1S0-F1	Pacific walrus	94.4	28S ribosomal protein S30, mitochondrial	IPR010793,IPR039982	MRPS30
+3_1	AF4	A0A6I9HJR7-F1	Medium ground-finch	94.4	39S ribosomal protein L37, mitochondrial	IPR010793	MRPL37
+3_1	AF4	A0A669PHY7-F1	Common pheasant	94.3	Mitochondrial ribosomal protein L37	IPR010793	
+3_1	AF4	G1RI57-F1	Northern white-cheeked gibbon	94.3	Mitochondrial ribosomal protein S30	IPR010793,IPR039982	MRPS30
+3_1	AF4	A0A384B7G9-F1	North Pacific minke whale	94.3	39S ribosomal protein S30, mitochondrial isoform X2	IPR010793,IPR039982	MRPS30
+3_1	AF4	A0A452EYL5-F1	Goat	94.3	39S ribosomal protein L37, mitochondrial	IPR010793	MRPL37
+3_1	AF4	A0A6P4XMU4-F1	Leopard	94.3	28S ribosomal protein S30, mitochondrial	IPR010793,IPR039982	MRPS30
+3_1	AF4	G5C9M1-F1	Naked mole rat	94.3	39S ribosomal protein L37, mitochondrial	IPR010793	MRPL37 GW7_12349
+3_1	AF4	Q5ZI69-F1	Chicken	94.2	39S ribosomal protein L37, mitochondrial (L37mt) (MRP-L37)	IPR010793	MRPL37 RCJMB04_29m8
+3_1	AF4	A0A2Y9J573-F1	Enhydra lutris	94.2	39S ribosomal protein L37, mitochondrial	IPR010793	LOC111143598 LOC111143403
+3_1	AF4	H9H804-F1	Gray short-tailed opossum	94.2	Mitochondrial ribosomal protein L37	IPR010793	MRPL37
+3_1	AF4	A0A670I5Y4-F1	Wall lizard	94.2	Mitochondrial ribosomal protein L37	IPR010793	MRPL37
+3_1	AF4	L8IJN9-F1	wild yak	94.2	39S ribosomal protein L37, mitochondrial	IPR010793	M91_07820
+3_1	AF4	A0A2Y9FSK9-F1	Sperm whale	94.2	39S ribosomal protein S30, mitochondrial isoform X1	IPR010793,IPR039982	MRPS30
+3_1	AF4	A0A1V4JXW8-F1	Patagioenas fasciata	94.2	39S ribosomal protein L37, mitochondrial	IPR010793	MRPL37 AV530_007465
+3_1	AF4	A0A6P3R0B1-F1	Large flying fox	94.2	39S ribosomal protein S30, mitochondrial	IPR010793,IPR039982	MRPS30
+3_1	AF4	V9KZ88-F1	Ghost shark	94.2	39S ribosomal protein L37, mitochondrial	IPR010793	
+3_1	AF4	A0A811ZKR1-F1	Raccoon dog	94.2	(raccoon dog) hypothetical protein	IPR010793	NYPRO_LOCUS22262
+3_1	AF4	A0A091CPI0-F1	Damaraland mole rat	94.1	39S ribosomal protein L37, mitochondrial	IPR010793	H920_17747
+3_1	AF4	V9KWH1-F1	Ghost shark	94.1	39S ribosomal protein L37, mitochondrial	IPR010793	
+3_1	AF4	A0A2K6UW66-F1	Bolivian squirrel monkey	94.1	Mitochondrial ribosomal protein S30	IPR010793,IPR039982	MRPS30
+3_1	AF4	A0A6J2VBK3-F1	Milkfish	94.1	39S ribosomal protein L37, mitochondrial	IPR010793	mrpl37
+3_1	AF4	A0A2U3V862-F1	Atlantic bottle-nosed dolphin	94.1	39S ribosomal protein S30, mitochondrial	IPR010793,IPR039982	MRPS30
+3_1	AF4	A0A6P9FKF7-F1	California sealion	94.1	39S ribosomal protein S30, mitochondrial	IPR010793,IPR039982	MRPS30
+3_1	AF4	A0A6I9J7K7-F1	Cape golden mole	94.1	39S ribosomal protein L37, mitochondrial	IPR010793	MRPL37
+3_1	AF4	A0A2K6FHY9-F1	Coquerel's sifaka	94.1	Mitochondrial ribosomal protein S30	IPR010793,IPR039982	MRPS30
+3_1	AF4	G5ARL4-F1	Naked mole rat	94.1	28S ribosomal protein S30, mitochondrial	IPR010793,IPR039982	GW7_16851
+3_1	AF4	A0A6I8PCT9-F1	Duckbill platypus	94.1	Mitochondrial ribosomal protein L37	IPR010793	MRPL37
+3_1	AF4	A0A6J0VU11-F1	Odocoileus virginianus	94.1	39S ribosomal protein L37, mitochondrial	IPR010793	MRPL37
+3_1	AF4	A0A3Q7NY06-F1	Northern fur seal	94.1	39S ribosomal protein S30, mitochondrial	IPR010793,IPR039982	MRPS30
+3_1	AF4	A0A6P8PUH6-F1	Gaboon caecilian	94.1	39S ribosomal protein S30, mitochondrial	IPR010793,IPR039982	MRPS30
+3_1	AF4	L5LLB6-F1	David's myotis	94.1	39S ribosomal protein L37, mitochondrial	IPR010793	MDA_GLEAN10024010
+3_1	AF4	A0A5N4DBX2-F1	Dromedary	94.1	39S ribosomal protein L37	IPR010793	Cadr_000013957
+3_1	AF4	F7F901-F1	Duckbill platypus	94.1	Mitochondrial ribosomal protein L37	IPR010793	MRPL37
+3_1	AF4	A0A3M0K6A2-F1	Hirundo rustica	94.0	39S ribosomal protein L37, mitochondrial	IPR010793	DUI87_14962
+3_1	AF4	A0A6P9FA80-F1	California sealion	94.0	28S ribosomal protein S30, mitochondrial-like	IPR010793,IPR039982	LOC113925695
+3_1	AF4	A0A671G373-F1	Greater horseshoe bat	94.0	Mitochondrial ribosomal protein S30	IPR010793,IPR039982	MRPS30 mRhiFer1_011283
+3_1	AF4	A0A3L7I6M7-F1	Chinese hamster	94.0	MRPL37 (Mitochondrial ribosomal protein L37)	IPR010793	Mrpl37 CgPICR_012661
+3_1	AF4	F1NDE0-F1	Chicken	94.0	39S ribosomal protein L37, mitochondrial	IPR010793	MRPL37
+3_1	AF4	A0A452HW63-F1	Agassiz's desert tortoise	94.0	Mitochondrial ribosomal protein L37	IPR010793	
+3_1	AF4	A0A6G1Q975-F1	northern snakehead	94.0	39S ribosomal protein L37, mitochondrial	IPR010793	EXN66_Car014570
+3_1	AF4	A0A6J2MYL3-F1	pale spear-nosed bat	94.0	39S ribosomal protein S30, mitochondrial (Mitochondrial ribosomal protein S30)	IPR010793,IPR039982	MRPS30 HJG60_013260
+3_1	AF4	G3SWY0-F1	African elephant	94.0	Mitochondrial ribosomal protein S30	IPR010793,IPR039982	MRPS30
+3_1	AF4	A0A452RZ56-F1	American black bear	94.0	Mitochondrial ribosomal protein L37	IPR010793	MRPL37
+3_1	AF4	A0A4W3IJC2-F1	Ghost shark	94.0	Mitochondrial ribosomal protein L37	IPR010793	mrpl37
+3_1	AF4	A0A484CRG6-F1	American yellow perch	94.0	39S ribosomal protein L37, mitochondrial	IPR010793	EPR50_G00131240
+3_1	AF4	A0A2Y9Q7L4-F1	Beluga whale	93.9	39S ribosomal protein S30, mitochondrial	IPR010793,IPR039982	MRPS30
+3_1	AF4	G1LT82-F1	Giant panda	93.9	Mitochondrial ribosomal protein L37	IPR010793	MRPL37
+3_1	AF4	A0A485N510-F1	Iberian lynx	93.9	28s ribosomal protein	IPR010793,IPR039982	LYPA_23C011418
+3_1	AF4	A0A811YFJ4-F1	Raccoon dog	93.9	(raccoon dog) hypothetical protein	IPR010793,IPR039982	NYPRO_LOCUS8104
+3_1	AF4	A0A663FFS7-F1	Aquila chrysaetos	93.9	Mitochondrial ribosomal protein L37	IPR010793	MRPL37
+3_1	AF4	L8IKC5-F1	wild yak	93.9	28S ribosomal protein S30, mitochondrial	IPR010793,IPR039982	E5288_WYG008627 M91_04956
+3_1	AF4	D2HSJ4-F1	Giant panda	93.9	RT30 protein	IPR010793,IPR039982	PANDA_015055
+3_1	AF4	A0A3Q7WTN5-F1	Ursus arctos	93.9	39S ribosomal protein L37, mitochondrial	IPR010793	MRPL37
+3_1	AF4	A0A6J2AUY0-F1	Cheetah	93.9	39S ribosomal protein S30, mitochondrial	IPR010793,IPR039982	MRPS30
+3_1	AF4	U3KC22-F1	Collared flycatcher	93.9	Mitochondrial ribosomal protein L37	IPR010793	MRPL37
+3_1	AF4	A0A2Y9DTW9-F1	Florida manatee	93.9	39S ribosomal protein S30, mitochondrial	IPR010793,IPR039982	LOC101345983
+3_1	AF4	A0A6P9BJK1-F1	Corn snake	93.9	39S ribosomal protein L37, mitochondrial	IPR010793	MRPL37
+3_1	AF4	A0A834AIM7-F1	pale spear-nosed bat	93.8	Mitochondrial ribosomal protein L37	IPR010793	HJG60_013218
+3_1	AF4	A0A5E4D183-F1	Woodchuck	93.8	28S ribosomal protein S30 mitochondrial	IPR010793,IPR039982	GHT09_006972 MONAX_5E013306
+3_1	AF4	A0A671XZS2-F1	Gilthead sea bream	93.8	Mitochondrial ribosomal protein L37	IPR010793	mrpl37
+3_1	AF4	A0A6P7WXV7-F1	Microcaecilia unicolor	93.8	39S ribosomal protein S30, mitochondrial	IPR010793,IPR039982	MRPS30
+3_1	AF4	A0A3Q0GRN8-F1	Chinese alligator	93.8	39S ribosomal protein L37, mitochondrial	IPR010793	MRPL37
+3_1	AF4	A0A667Y9I5-F1	pinecone soldierfish	93.8	Mitochondrial ribosomal protein S30	IPR010793,IPR039982	
+3_1	AF4	A0A2K5PK75-F1	Panamanian white-faced capuchin	93.8	Mitochondrial ribosomal protein S30	IPR010793,IPR039982	MRPS30
+3_1	AF4	A0A4D9EIV8-F1	big-headed turtle	93.8	Heterogeneous nuclear ribonucleoprotein A0	IPR010793	DR999_PMT06760
+3_1	AF4	K9IS68-F1	Vampire bat	93.8	Putative 28s ribosomal protein s30 mitochondrial	IPR010793,IPR039982	
+3_1	AF4	A0A667HJC4-F1	Canada lynx	93.7	Mitochondrial ribosomal protein S30	IPR010793,IPR039982	MRPS30
+3_1	AF4	G1L154-F1	Giant panda	93.7	Mitochondrial ribosomal protein S30	IPR010793,IPR039982	MRPS30
+3_1	AF4	K9IJT9-F1	Vampire bat	93.7	Putative 39s ribosomal protein l37 mitochondrial	IPR010793	
+3_1	AF4	A0A6P7KYS5-F1	Siamese fighting fish	93.7	39S ribosomal protein L37, mitochondrial	IPR010793	mrpl37
+3_1	AF4	A0A401PNH7-F1	Cloudy catshark	93.7	39S ribosomal protein L37, mitochondrial	IPR010793	scyTo_0003777
+3_1	AF4	A0A7N6BCM7-F1	Climbing perch	93.7	39S ribosomal protein L37, mitochondrial-like	IPR010793	
+3_1	AF4	A0A2I4DB21-F1	Austrofundulus limnaeus	93.7	39S ribosomal protein L37, mitochondrial	IPR010793	mrpl37
+3_1	AF4	A0A384CRF5-F1	Polar bear	93.7	39S ribosomal protein L37, mitochondrial (Mitochondrial ribosomal protein L37)	IPR010793	MRPL37
+3_1	AF4	A0A1S2ZDG3-F1	Western European hedgehog	93.7	28S ribosomal protein S30, mitochondrial	IPR010793,IPR039982	MRPS30
+3_1	AF4	A0A6I9YGU8-F1	Thamnophis sirtalis	93.7	39S ribosomal protein L37, mitochondrial	IPR010793	MRPL37
+3_1	AF4	A0A4W2HL66-F1	Hybrid cattle	93.7	Mitochondrial ribosomal protein S30	IPR010793,IPR039982	MRPS30
+3_1	AF4	F6WZL8-F1	Horse	93.7	Mitochondrial ribosomal protein S30	IPR010793,IPR039982	MRPS30
+3_1	AF4	A0A669EFZ0-F1	Nile tilapia	93.6	Mitochondrial ribosomal protein L37	IPR010793	mrpl37
+3_1	AF4	A0A673FP84-F1	Sinocyclocheilus rhinocerous	93.6	Mitochondrial ribosomal protein L37	IPR010793	mrpl37
+3_1	AF4	A0A7T3P0J5-F1	Gypsy moth	93.6	28S ribosomal protein S30	IPR010793,IPR039982	
+3_1	AF4	A0A4W4FF89-F1	Electric eel	93.6	Mitochondrial ribosomal protein L37	IPR010793	mrpl37
+3_1	AF4	A0A672LZK0-F1	Dianchi golden-line fish	93.6	Mitochondrial ribosomal protein S30	IPR010793,IPR039982	mrps30
+3_1	AF4	A0A6J2LM99-F1	pale spear-nosed bat	93.6	39S ribosomal protein L37, mitochondrial	IPR010793	MRPL37
+3_1	AF4	A0A3Q1HDD0-F1	Climbing perch	93.6	39S ribosomal protein L37, mitochondrial-like	IPR010793	
+3_1	AF4	A0A6J2RCR8-F1	Frogmouth	93.6	39S ribosomal protein L37, mitochondrial	IPR010793	mrpl37
+3_1	AF4	A0A5N3VRP7-F1	Barking deer	93.6	Mitochondrial ribosomal protein S30	IPR010793,IPR039982	FD754_016784
+3_1	AF4	A0A340YED5-F1	Yangtze river dolphin	93.6	28S ribosomal protein S30, mitochondrial	IPR010793,IPR039982	MRPS30
+3_1	AF4	A0A3Q7VNS5-F1	Ursus arctos	93.6	39S ribosomal protein S30, mitochondrial	IPR010793,IPR039982	MRPS30
+3_1	AF4	A0A218UWC2-F1	Bengalese finch	93.6	39S ribosomal protein L37, mitochondrial	IPR010793	MRPL37 RLOC_00002574
+3_1	AF4	H0ZGI8-F1	Zebra finch	93.5	Mitochondrial ribosomal protein L37	IPR010793	MRPL37
+3_1	AF4	A0A3B5LHQ8-F1	Monterrey platyfish	93.5	Mitochondrial ribosomal protein L37	IPR010793	
+3_1	AF4	G3PP19-F1	Three-spined stickleback	93.5	Mitochondrial ribosomal protein L37	IPR010793	
+3_1	AF4	A0A5N3X7T2-F1	Reeves' muntjac	93.5	Mitochondrial ribosomal protein S30	IPR010793,IPR039982	FD755_018717
+3_1	AF4	A0A668SBA8-F1	Israeli tilapia	93.5	Mitochondrial ribosomal protein L37	IPR010793	
+3_1	AF4	A0A6P3IJT9-F1	Bison bison	93.5	28S ribosomal protein S30, mitochondrial	IPR010793,IPR039982	MRPS30
+3_1	AF4	A0A452F664-F1	Goat	93.5	Mitochondrial ribosomal protein S30	IPR010793,IPR039982	MRPS30
+3_1	AF4	A0A212C8L8-F1	European red deer	93.5	MRPS30	IPR010793,IPR039982	Celaphus_00018009
+3_1	AF4	A0A3B4DDR5-F1	Red-bellied piranha	93.5	Mitochondrial ribosomal protein L37	IPR010793	
+3_1	AF4	A0A6J0XZE3-F1	Odocoileus virginianus	93.5	39S ribosomal protein S30, mitochondrial	IPR010793,IPR039982	MRPS30
+3_1	AF4	A0A480QIM3-F1	Pig	93.5	39S ribosomal protein S30, mitochondrial (Mitochondrial ribosomal protein S30)	IPR010793,IPR039982	MRPS30
+3_1	AF4	A0A1I8MAF7-F1	House fly	93.5	28S ribosomal protein S30, mitochondrial	IPR010793,IPR039982	101901205
+3_1	AF4	A0A665U0F4-F1	Live sharksucker	93.5	Mitochondrial ribosomal protein L37	IPR010793	mrpl37
+3_1	AF4	A0A3B4X8M5-F1	Seriola lalandi	93.5	Mitochondrial ribosomal protein L37	IPR010793	
+3_1	AF4	I3MQG7-F1	Thirteen-lined ground squirrel	93.5	Mitochondrial ribosomal protein S30	IPR010793,IPR039982	MRPS30
+3_1	AF4	A0A671RHW1-F1	Sinocyclocheilus anshuiensis	93.4	Mitochondrial ribosomal protein L37	IPR010793	mrpl37
+3_1	AF4	A0A672T9C8-F1	Dianchi golden-line fish	93.4	Mitochondrial ribosomal protein L37	IPR010793	mrpl37
+3_1	AF4	A0A836A0N6-F1	Sheep	93.4	Mitochondrial ribosomal protein S30	IPR010793,IPR039982	JEQ12_006877
+3_1	AF4	A0A665U0Q8-F1	Live sharksucker	93.4	Mitochondrial ribosomal protein L37	IPR010793	mrpl37
+3_1	AF4	H3DMX7-F1	Spotted green pufferfish	93.4	Mitochondrial ribosomal protein L37	IPR010793	
+3_1	AF4	A0A3Q2QD96-F1	Killifish	93.4	Mitochondrial ribosomal protein L37	IPR010793	
+3_1	AF4	D4A833-F1	Rat	93.4	Mitochondrial ribosomal protein S30	IPR039982,IPR010793	
+3_1	AF4	A0A671XVZ9-F1	Gilthead sea bream	93.4	Mitochondrial ribosomal protein L37	IPR010793	mrpl37
+3_1	AF4	A0A670XTA6-F1	Eastern brown snake	93.4	Mitochondrial ribosomal protein L37	IPR010793	MRPL37
+3_1	AF4	A0A7J6DCP4-F1	Onychostoma macrolepis	93.4	39S ribosomal protein L37, mitochondrial	IPR010793	G5714_001595
+3_1	AF4	M3WTY3-F1	Cat	93.4	Mitochondrial ribosomal protein S30	IPR010793,IPR039982	MRPS30
+3_1	AF4	A0A2U3XEM2-F1	Weddell seal	93.4	39S ribosomal protein S30, mitochondrial	IPR010793,IPR039982	MRPS30
+3_1	AF4	A0A673M4M2-F1	Sinocyclocheilus rhinocerous	93.4	Mitochondrial ribosomal protein S30	IPR010793,IPR039982	mrps30
+3_1	AF4	A0A556U5F3-F1	Goonch	93.4	28S ribosomal protein S30, mitochondrial	IPR010793,IPR039982	Baya_8177
+3_1	AF4	A0A212CG24-F1	European red deer	93.4	MRPL37	IPR010793	Celaphus_00002511
+3_1	AF4	A0A668S9Z2-F1	Israeli tilapia	93.3	Mitochondrial ribosomal protein L37	IPR010793	
+3_1	AF4	I3JY80-F1	Nile tilapia	93.3	Mitochondrial ribosomal protein L37	IPR010793	mrpl37
+3_1	AF4	A0A3P9CUL0-F1	zebra mbuna	93.3	Mitochondrial ribosomal protein L37	IPR010793	
+3_1	AF4	G1SLA5-F1	Rabbit	93.3	Mitochondrial ribosomal protein S30	IPR010793,IPR039982	MRPS30
+3_1	AF4	A0A4U5UYK7-F1	Big head croaker	93.3	39S ribosomal protein L37, mitochondrial	IPR010793	D9C73_013374
+3_1	AF4	A0A0S7L620-F1	blackstripe livebearer	93.3	RM37	IPR010793	RM37
+3_1	AF4	Q9BZE1-F1	Human	93.3	39S ribosomal protein L37, mitochondrial	IPR010793	
+3_1	AF4	A0A061IDJ3-F1	Chinese hamster	93.3	28S ribosomal protein S30 (Mitochondrial ribosomal protein S30)	IPR010793,IPR039982	Mrps30 H671_2g6881
+3_1	AF4	A0A671XTB8-F1	Gilthead sea bream	93.3	Mitochondrial ribosomal protein L37	IPR010793	mrpl37
+3_1	AF4	A0A5N5KA83-F1	Striped catfish	93.3	Mitochondrial ribosomal protein S30	IPR010793,IPR039982	PHYPO_G00140770
+3_1	AF4	A0A6P5KFQ1-F1	Koala	93.3	39S ribosomal protein L37, mitochondrial	IPR010793	MRPL37
+3_1	AF4	A0A3B4THC5-F1	Greater amberjack	93.3	Mitochondrial ribosomal protein L37	IPR010793	
+3_1	AF4	M3YSI8-F1	European domestic ferret	93.3	39S ribosomal protein S30, mitochondrial (Mitochondrial ribosomal protein S30)	IPR010793,IPR039982	MRPS30
+3_1	AF4	A0A2I0TH45-F1	Limosa lapponica	93.3	39s ribosomal protein mitochondrial	IPR010793	llap_16565
+3_1	AF4	A0A1S3FDS1-F1	Ord's kangaroo rat	93.2	28S ribosomal protein S30, mitochondrial	IPR010793,IPR039982	Mrps30
+3_1	AF4	A0A6P7K416-F1	Indian glassy fish	93.2	39S ribosomal protein L37, mitochondrial	IPR010793	mrpl37
+3_1	AF4	A0A6J0BWZ8-F1	Redheaded pine sawfly	93.2	39S ribosomal protein L37, mitochondrial	IPR010793	LOC107224040
+3_1	AF4	A0A2I3GMS3-F1	Northern white-cheeked gibbon	93.2	Mitochondrial ribosomal protein S30	IPR010793,IPR039982	MRPS30
+3_1	AF4	A0A6P5QPW9-F1	Ryukyu mouse	93.2	39S ribosomal protein S30, mitochondrial	IPR010793,IPR039982	Mrps30
+3_1	AF4	A0A6P6JQI2-F1	Goldfish	93.2	39S ribosomal protein L37, mitochondrial	IPR010793	mrpl37
+3_1	AF4	A0A3B1JVL2-F1	Blind cave fish	93.2	Mitochondrial ribosomal protein L37	IPR010793	
+3_1	AF4	A0A4W6E908-F1	Barramundi	93.2	Mitochondrial ribosomal protein L37	IPR010793	
+3_1	AF4	H2N7A8-F1	Sumatran orangutan	93.2	Mitochondrial ribosomal protein L37	IPR010793	MRPL37
+3_1	AF4	A0A0R1E2B2-F1	Fruit fly	93.2	39S ribosomal protein L37, mitochondrial	IPR010793	Dyak\GE27703 Dyak_GE27703
+3_1	AF4	A0A6P7YEH2-F1	Microcaecilia unicolor	93.2	39S ribosomal protein L37, mitochondrial	IPR010793	MRPL37
+3_1	AF4	A0A3Q3GLK9-F1	ballan wrasse	93.2	Mitochondrial ribosomal protein L37	IPR010793	
+3_1	AF4	A0A665U0R8-F1	Live sharksucker	93.2	Mitochondrial ribosomal protein L37	IPR010793	mrpl37
+3_1	AF4	M4AWM0-F1	Southern platyfish	93.2	Mitochondrial ribosomal protein L37	IPR010793	
+3_1	AF4	A0A6J1TTB4-F1	mainland tiger snake	93.1	39S ribosomal protein L37, mitochondrial	IPR010793	MRPL37
+3_1	AF4	A0A3Q3LQ28-F1	zig-zag eel	93.1	Mitochondrial ribosomal protein L37	IPR010793	
+3_1	AF4	A0A1A7X9V4-F1	Iconisemion striatum	93.1	Mitochondrial ribosomal protein L37	IPR010793	MRPL37
+3_1	AF4	A0A3B5LMY5-F1	Monterrey platyfish	93.1	Mitochondrial ribosomal protein L37	IPR010793	
+3_1	AF4	A0A5A9PDS9-F1	Triplophysa tibetana	93.1	39S ribosomal protein L37, mitochondrial	IPR010793	E1301_Tti007666
+3_1	AF4	A0A669BM00-F1	Nile tilapia	93.1	Mitochondrial ribosomal protein L37	IPR010793	mrpl37
+3_1	AF4	A0A7J6A309-F1	Black bullhead	93.1	39S ribosomal protein L37, mitochondrial	IPR010793	AMELA_G00212970
+3_1	AF4	P82924-F1	Bovine	93.1	28S ribosomal protein S30, mitochondrial (MRP-S30) (S30mt)	IPR010793,IPR039982	MRPS30
+3_1	AF4	A0A1I8P4J6-F1	Stable fly	93.1	28S ribosomal protein S30, mitochondrial	IPR010793,IPR039982	106087552
+3_1	AF4	A0A5E4BDI1-F1	Woodchuck	93.1	39S ribosomal protein L37, mitochondrial	IPR010793	MONAX_5E019831
+3_1	AF4	A0A4W5NAF5-F1	huchen	93.1	Mitochondrial ribosomal protein L37	IPR010793	
+3_1	AF4	A0A668S2B5-F1	Israeli tilapia	93.1	Mitochondrial ribosomal protein L37	IPR010793	
+3_1	AF4	A0A3Q3LYH3-F1	zig-zag eel	93.0	Mitochondrial ribosomal protein L37	IPR010793	
+3_1	AF4	A0A1A8IIF5-F1	Beira killifish	93.0	Mitochondrial ribosomal protein L37	IPR010793	MRPL37
+3_1	AF4	A0A6J2XVF2-F1	Rice weevil	93.0	28S ribosomal protein S30, mitochondrial	IPR010793,IPR039982	LOC115881929
+3_1	AF4	A0A672TVW0-F1	Kakapo	93.0	Mitochondrial ribosomal protein L37	IPR010793	MRPL37
+3_1	AF4	A0A674EEE4-F1	Brown trout	93.0	Mitochondrial ribosomal protein L37	IPR010793	mrpl37
+3_1	AF4	A0A7N8YJQ5-F1	zig-zag eel	93.0	Mitochondrial ribosomal protein L37	IPR010793	
+3_1	AF4	A0A3B5A6R1-F1	bicolor damselfish	93.0	39S ribosomal protein L37, mitochondrial-like	IPR010793	
+3_1	AF4	A0A834PYD1-F1	Woodchuck	93.0	39S ribosomal protein L37 mitochondrial	IPR010793	GHT09_000170
+3_1	AF4	A0A1A8EWY6-F1	Nothobranchius korthausae	93.0	Mitochondrial ribosomal protein L37	IPR010793	MRPL37
+3_1	AF4	Q9D0G0-F1	Mouse	93.0	28S ribosomal protein S30, mitochondrial	IPR039982,IPR010793	
+3_1	AF4	A0A2D0T8I0-F1	Channel catfish	93.0	39S ribosomal protein L37, mitochondrial	IPR010793	mrpl37
+3_1	AF4	A0A2D0PQJ0-F1	Channel catfish	93.0	28S ribosomal protein S30, mitochondrial	IPR010793,IPR039982	mrps30
+3_1	AF4	A0A3Q1FVY4-F1	spiny chromis	93.0	Mitochondrial ribosomal protein L37	IPR010793	
+3_1	AF4	A0A7J7E8H2-F1	South-central black rhinoceros	93.0	Mitochondrial ribosomal protein S30	IPR010793,IPR039982	HPG69_003366
+3_1	AF4	A0A6P8KCF2-F1	Fruit fly	92.9	39S ribosomal protein L37, mitochondrial	IPR010793	LOC117145080
+3_1	AF4	A0A553R134-F1	Danionella translucida	92.9	28S ribosomal protein S30, mitochondrial	IPR010793,IPR039982	DNTS_021405
+3_1	AF4	A0A6P8P9E9-F1	Gaboon caecilian	92.9	39S ribosomal protein L37, mitochondrial	IPR010793	MRPL37
+3_1	AF4	A0A232FDR0-F1	Trichomalopsis sarcophagae	92.9	28S ribosomal protein S30, mitochondrial	IPR010793,IPR039982	TSAR_013357
+3_1	AF4	A0A673B6C0-F1	orbiculate cardinalfish	92.9	Mitochondrial ribosomal protein L37	IPR010793	mrpl37
+3_1	AF4	A0A7J5ZVE8-F1	Black bullhead	92.9	Mitochondrial ribosomal protein S30	IPR010793,IPR039982	AMELA_G00239580
+3_1	AF4	A0A6B2EE99-F1	Phlebotomus kandelakii	92.9	Putative mitochondrial ribosomal protein s30	IPR010793,IPR039982	
+3_1	AF4	A0A7M7QQU5-F1	Parasitic wasp	92.9	28S ribosomal protein S30, mitochondrial	IPR010793,IPR039982	
+3_1	AF4	B0UYI3-F1	Danre	92.9	Mitochondrial ribosomal protein L37	IPR010793	
+3_1	AF4	A0A673B947-F1	orbiculate cardinalfish	92.9	Mitochondrial ribosomal protein L37	IPR010793	mrpl37
+3_1	AF4	G3TBZ6-F1	African elephant	92.9	Mitochondrial ribosomal protein L37	IPR010793	MRPL37
+3_1	AF4	A0A3N0Y8F9-F1	Kanglang fish	92.9	28S ribosomal protein S30, mitochondrial	IPR010793,IPR039982	DPX16_13923
+3_1	AF4	A0A2Y9HL75-F1	Hawaiian monk seal	92.9	39S ribosomal protein S30, mitochondrial	IPR010793,IPR039982	MRPS30
+3_1	AF4	Q9NP92-F1	Human	92.9	39S ribosomal protein S30, mitochondrial	IPR039982,IPR010793	
+3_1	AF4	A0A1B0CZF0-F1	Sandfly	92.8	Mitochondrial ribosomal protein s30	IPR010793,IPR039982	
+3_1	AF4	A0A3Q3A1M5-F1	Mangrove killifish	92.8	Mitochondrial ribosomal protein S30	IPR010793,IPR039982	
+3_1	AF4	A0A1A8CHX0-F1	Nothobranchius kadleci	92.8	Mitochondrial ribosomal protein L37	IPR010793	MRPL37
+3_1	AF4	A0A6J1U323-F1	mainland tiger snake	92.8	39S ribosomal protein S30, mitochondrial	IPR010793,IPR039982	MRPS30
+3_1	AF4	A0A6P6K7U8-F1	Goldfish	92.8	39S ribosomal protein S30, mitochondrial	IPR010793,IPR039982	mrps30
+3_1	AF4	A0A3B3YR39-F1	Poecilia mexicana	92.8	Mitochondrial ribosomal protein L37	IPR010793	
+3_1	AF4	A0A6M2DNR4-F1	oriental rat flea	92.8	Putative mitochondrial 28s ribosomal protein s30	IPR010793,IPR039982	
+3_1	AF4	A0A6J2Y6C8-F1	Rice weevil	92.8	39S ribosomal protein L37, mitochondrial	IPR010793	LOC115884834
+3_1	AF4	I3N0R8-F1	Thirteen-lined ground squirrel	92.8	Mitochondrial ribosomal protein L37	IPR010793	MRPL37
+3_1	AF4	A0A822FZ10-F1	mimic poison frog	92.8	(mimic poison frog) hypothetical protein	IPR010793,IPR039982	RIMITATOR_LOCUS10489549
+3_1	AF4	A0A3Q1AVH9-F1	Clown anemonefish	92.7	Mitochondrial ribosomal protein L37	IPR010793	
+3_1	AF4	A0A2T7P1U6-F1	Golden apple snail	92.7	39S ribosomal protein L37, mitochondrial	IPR010793	C0Q70_12549
+3_1	AF4	A0A4W5NAE6-F1	huchen	92.7	Mitochondrial ribosomal protein L37	IPR010793	
+3_1	AF4	A0A4W6EA79-F1	Barramundi	92.7	Mitochondrial ribosomal protein L37	IPR010793	
+3_1	AF4	A0A6J1M9G1-F1	Fruit fly	92.7	39S ribosomal protein L37, mitochondrial	IPR010793	LOC111601295
+3_1	AF4	W5M656-F1	Spotted gar	92.7	Mitochondrial ribosomal protein L37	IPR010793	
+3_1	AF4	A0A1A8JMC9-F1	Beira killifish	92.7	Mitochondrial ribosomal protein L37	IPR010793	MRPL37
+3_1	AF4	A0A1A9UX35-F1	Savannah tsetse fly	92.7	39S mitochondrial ribosomal protein L37	IPR010793	
+3_1	AF4	D3TPC7-F1	Savannah tsetse fly	92.7	Mitochondrial ribosomal protein L37	IPR010793	
+3_1	AF4	Q3B8G6-F1	African clawed frog	92.7	LOC733390 protein	IPR010793	LOC733390
+3_1	AF4	H2SG93-F1	Japanese pufferfish	92.7	Mitochondrial ribosomal protein L37	IPR010793	mrpl37
+3_1	AF4	A0A1A8UND4-F1	Turquoise killifish	92.7	Mitochondrial ribosomal protein L37	IPR010793	MRPL37 mrpl37
+3_1	AF4	A0A4X2JUB2-F1	Common wombat	92.7	Mitochondrial ribosomal protein S30	IPR010793,IPR039982	MRPS30
+3_1	AF4	H3DDQ9-F1	Spotted green pufferfish	92.7	Mitochondrial ribosomal protein S30	IPR010793,IPR039982	
+3_1	AF4	A0A834JWP5-F1	German yellow jacket	92.7	39S ribosomal protein L37, mitochondrial	IPR010793	HZH68_009877
+3_1	AF4	A0A6P4HVY3-F1	Fruit fly	92.7	39S ribosomal protein L37, mitochondrial	IPR010793	LOC108073312
+3_1	AF4	A0A822ELH3-F1	mimic poison frog	92.6	(mimic poison frog) hypothetical protein	IPR010793,IPR039982	RIMITATOR_LOCUS9448556
+3_1	AF4	A0A1S3R1Z0-F1	Atlantic salmon	92.6	39S ribosomal protein L37, mitochondrial	IPR010793	mrpl37
+3_1	AF4	A0A6P9E078-F1	Corn snake	92.6	39S ribosomal protein S30, mitochondrial	IPR010793,IPR039982	MRPS30
+3_1	AF4	A0A7N4PQW6-F1	Tasmanian devil	92.6	Mitochondrial ribosomal protein S30	IPR010793,IPR039982	MRPS30
+3_1	AF4	Q3B8C9-F1	African clawed frog	92.6	MGC131350 protein (uncharacterized protein LOC735199)	IPR010793,IPR039982	mrps30.L MGC131350 mrps30
+3_1	AF4	A0A1U7RA25-F1	Golden hamster	92.6	39S ribosomal protein S30, mitochondrial	IPR010793,IPR039982	Mrps30
+3_1	AF4	A0A3Q3M2A4-F1	zig-zag eel	92.6	Mitochondrial ribosomal protein L37	IPR010793	
+3_1	AF4	A0A3Q2Y662-F1	Tiger tail seahorse	92.6	Mitochondrial ribosomal protein L37	IPR010793	
+3_1	AF4	A0A822AXF7-F1	mimic poison frog	92.6	(mimic poison frog) hypothetical protein	IPR010793	RIMITATOR_LOCUS6890089
+3_1	AF4	A0A673BB44-F1	orbiculate cardinalfish	92.6	Mitochondrial ribosomal protein L37	IPR010793	mrpl37
+3_1	AF4	A0A7N8WQ38-F1	zig-zag eel	92.6	Mitochondrial ribosomal protein S30	IPR010793,IPR039982	
+3_1	AF4	A0A1B0GGG0-F1	Savannah tsetse fly	92.6	39S ribosomal protein L37, mitochondrial	IPR010793	
+3_1	AF4	A0A834IIJ4-F1	Red palm weevil	92.6	39S ribosomal protein L37, mitochondrial	IPR010793	GWI33_008217
+3_1	AF4	A0A182G4Q7-F1	Asian tiger mosquito	92.6	28S ribosomal protein S30, mitochondrial	IPR010793,IPR039982	RP20_CCG002890
+3_1	AF4	A0A7R9B207-F1	Walking stick	92.6	Hypothetical protein	IPR010793	TSIB3V08_LOCUS8469
+3_1	AF4	A0A4C1ZXI2-F1	Bagworm moth	92.6	28S ribosomal protein S30, mitochondrial	IPR010793,IPR039982	MRPS30 EVAR_57919_1
+3_1	AF4	A0A0R4IFK5-F1	Danre	92.5	Mitochondrial ribosomal protein S30	IPR039982,IPR010793	
+3_1	AF4	A0A6A1Q8C6-F1	Fin whale	92.5	39S ribosomal protein L37, mitochondrial	IPR010793	E2I00_002569
+3_1	AF4	A0A7N8Y2V3-F1	zig-zag eel	92.5	Mitochondrial ribosomal protein L37	IPR010793	
+3_1	AF4	A0A3B3SED8-F1	Paramormyrops kingsleyae	92.5	Mitochondrial ribosomal protein L37	IPR010793	
+3_1	AF4	A0A182IV80-F1	Anopheles atroparvus	92.5	28S ribosomal protein S30, mitochondrial	IPR010793,IPR039982	
+3_1	AF4	A0A834N1T1-F1	Yellow jacket	92.5	39S ribosomal protein L37, mitochondrial	IPR010793	HZH66_009075
+3_1	AF4	A0A821QP85-F1	Pieris macdunnoughi	92.5	Hypothetical protein	IPR010793,IPR039982	PMACD_LOCUS4904
+3_1	AF4	A0A3B4DHU5-F1	Red-bellied piranha	92.5	Mitochondrial ribosomal protein S30	IPR010793,IPR039982	
+3_1	AF4	A0A182JRH0-F1	Anopheles christyi	92.5	28S ribosomal protein S30, mitochondrial	IPR010793,IPR039982	
+3_1	AF4	A0A182UCV3-F1	Anopheles melas	92.5	28S ribosomal protein S30, mitochondrial	IPR010793,IPR039982	
+3_1	AF4	Q0D269-F1	African clawed frog	92.5	LOC733390 protein	IPR010793	LOC733390
+3_1	AF4	B4KCA1-F1	Fruit fly	92.5	39S ribosomal protein L37, mitochondrial	IPR010793	Dmoj\GI23861 Dmoj_GI23861
+3_1	AF4	A0A670YVY8-F1	Eastern brown snake	92.5	Mitochondrial ribosomal protein S30	IPR010793,IPR039982	MRPS30
+3_1	AF4	A0A6I9X7Q2-F1	Thamnophis sirtalis	92.5	28S ribosomal protein S30, mitochondrial	IPR010793,IPR039982	MRPS30
+3_1	AF4	A0A6I9IBT8-F1	Alpaca	92.5	39S ribosomal protein S30, mitochondrial	IPR010793,IPR039982	MRPS30
+3_1	AF4	Q90Z99-F1	African clawed frog	92.5	PDCD9 (mitochondrial ribosomal protein S30 S homeolog)	IPR010793,IPR039982	mrps30.S mrps30 PDCD9 pdcd9
+3_1	AF4	A0A667YAK7-F1	pinecone soldierfish	92.5	Mitochondrial ribosomal protein L37	IPR010793	mrpl37
+3_1	AF4	A0A670JQC8-F1	Wall lizard	92.5	Mitochondrial ribosomal protein S30	IPR010793,IPR039982	MRPS30
+3_1	AF4	A0A4Z2C1P1-F1	Takifugu bimaculatus	92.5	39S ribosomal protein L37, mitochondrial	IPR010793	fugu_014569
+3_1	AF4	J3S086-F1	Eastern diamondback rattlesnake	92.5	28S ribosomal protein S30, mitochondrial-like	IPR010793,IPR039982	
+3_1	AF4	Q4RU16-F1	Spotted green pufferfish	92.5	(spotted green pufferfish) hypothetical protein	IPR010793,IPR039982	GSTENG00028993001
+3_1	AF4	A0A6I9W018-F1	red harvester ant	92.5	39S ribosomal protein S30, mitochondrial-like	IPR010793,IPR039982	LOC105423573
+3_1	AF4	A0A2G8JVC1-F1	Sea cucumber	92.5	Putative 28S ribosomal protein S30, mitochondrial	IPR010793,IPR039982	BSL78_23512
+3_1	AF4	A2BD80-F1	African clawed frog	92.4	LOC733390 protein (mitochondrial ribosomal protein L37 L homeolog)	IPR010793	mrpl37.L LOC733390 mrpl37
+3_1	AF4	A0A0L0BSG0-F1	Green bottle fly	92.4	39S ribosomal protein L37, mitochondrial	IPR010793	FF38_01849
+3_1	AF4	F7GCW5-F1	Duckbill platypus	92.4	Mitochondrial ribosomal protein S30	IPR010793,IPR039982	MRPS30
+3_1	AF4	A0A1A9WPS2-F1	Glossina brevipalpis	92.4	39S ribosomal protein L37, mitochondrial	IPR010793	
+3_1	AF4	A0A401SRU9-F1	Brownbanded bambooshark	92.4	39S ribosomal protein L37, mitochondrial	IPR010793	chiPu_0011559
+3_1	AF4	A0A662YPM8-F1	Sterlet sturgeon	92.4	39S ribosomal protein L37, mitochondrial	IPR010793	EOD39_12952
+3_1	AF4	A0A6P8ZI68-F1	Melon thrips	92.4	39S ribosomal protein L37, mitochondrial	IPR010793	LOC117640595
+3_1	AF4	A0A182HK35-F1	Mosquito	92.4	28S ribosomal protein S30, mitochondrial	IPR010793,IPR039982	
+3_1	AF4	A0A3P8SSV9-F1	Orange clownfish	92.4	Mitochondrial ribosomal protein L37	IPR010793	
+3_1	AF4	A0A7R9CJI9-F1	Walking stick	92.4	Hypothetical protein	IPR010793	TCEB3V08_LOCUS3612
+3_1	AF4	F6R7P1-F1	Western clawed frog	92.4	39S ribosomal protein L37, mitochondrial (Mitochondrial ribosomal protein L37)	IPR010793	mrpl37
+3_1	AF4	A0A6E8V3B9-F1	African malaria mosquito	92.4	28S ribosomal protein S30, mitochondrial	IPR010793,IPR039982	
+3_1	AF4	A0A7K7LN06-F1	Asarcornis scutulata	92.4	RT30 protein	IPR010793,IPR039982	Mrps30 ASASCU_R09323
+3_1	AF4	A0A834NYA3-F1	Western yellow jacket	92.3	28S ribosomal protein S30, mitochondrial	IPR010793,IPR039982	H0235_010983
+3_1	AF4	A3KP51-F1	Danre	92.3	39S ribosomal protein L37, mitochondrial (Mrpl37 protein)	IPR010793	im:6895748 zgc:162947 mrpl37 SO:0001217
+3_1	AF4	A0A4X1SR32-F1	Pig	92.3	Mitochondrial ribosomal protein S30	IPR010793,IPR039982	
+3_1	AF4	A0A834U7J8-F1	Western yellow jacket	92.3	39S ribosomal protein L37, mitochondrial	IPR010793	H0235_010289
+3_1	AF4	G1KPL1-F1	Green anole	92.3	Mitochondrial ribosomal protein L37	IPR010793	MRPL37
+3_1	AF4	A0A1B6G2X7-F1	Cuerna arida	92.3	39S ribosomal protein L37, mitochondrial	IPR010793	g.33950
+3_1	AF4	A0A250Y0V9-F1	American beaver	92.3	28S ribosomal protein S30, mitochondrial	IPR010793,IPR039982	MRPS30
+3_1	AF4	A0A7J8FA48-F1	Pallas' mastiff bat	92.3	Mitochondrial ribosomal protein L37	IPR010793	HJG59_012458
+3_1	AF4	A0A0P7UIN8-F1	Asian bonytongue	92.3	39S ribosomal protein L37, mitochondrial-like	IPR010793	Z043_123066
+3_1	AF4	A0A7E5WKH0-F1	Cabbage looper	92.3	28S ribosomal protein S30, mitochondrial	IPR010793,IPR039982	LOC113503435
+3_1	AF4	D3TMJ0-F1	Savannah tsetse fly	92.3	Mitochondrial 28S ribosomal protein S30	IPR010793,IPR039982	
+3_1	AF4	A0A6J0U3H6-F1	central bearded dragon	92.3	39S ribosomal protein L37, mitochondrial	IPR010793	MRPL37
+3_1	AF4	A0A1A8MTD3-F1	Nothobranchius pienaari	92.3	Mitochondrial ribosomal protein L37	IPR010793	MRPL37
+3_1	AF4	A0A0Q9X495-F1	Fruit fly	92.3	39S ribosomal protein L37, mitochondrial	IPR010793	Dwil\GK27784 Dwil_GK27784
+3_1	AF4	A0A3P9P1M1-F1	Guppy	92.3	Mitochondrial ribosomal protein L37	IPR010793	
+3_1	AF4	A2VDD3-F1	African clawed frog	92.3	PDCD9 protein	IPR010793,IPR039982	PDCD9
+3_1	AF4	C1BMA0-F1	Rainbow smelt	92.3	39S ribosomal protein L37, mitochondrial	IPR010793	RM37
+3_1	AF4	A0A0P8XY51-F1	Fruit fly	92.3	Mitochondrial ribosomal protein L37	IPR010793	Dana\GF27392 Dana_GF27392 GF27392
+3_1	AF4	A0A2A4K3Y3-F1	Tobacco budworm moth	92.3	28S ribosomal protein S30, mitochondrial	IPR010793,IPR039982	B5V51_4410
+3_1	AF4	A0A0P4VYU3-F1	Rhodnius neglectus	92.3	Putative mitochondrial ribosomal protein l37	IPR010793	
+3_1	AF4	A0A5N4EBN3-F1	Dromedary	92.3	28S ribosomal protein S30	IPR010793,IPR039982	Cadr_000004136
+3_1	AF4	W5J6Z7-F1	Mosquito	92.3	28S ribosomal protein S30, mitochondrial (Mitochondrial ribosomal protein, S30)	IPR010793,IPR039982	AND_009266
+3_1	AF4	G1KKX7-F1	Green anole	92.2	Mitochondrial ribosomal protein S30	IPR010793,IPR039982	MRPS30
+3_1	AF4	A0A087Y6Y2-F1	Amazon molly	92.2	Mitochondrial ribosomal protein L37	IPR010793	
+3_1	AF4	A0A6J2JBL4-F1	Wild silk moth	92.2	39S ribosomal protein S30, mitochondrial	IPR010793,IPR039982	LOC114240247
+3_1	AF4	A0A7R9HMV6-F1	Timema monikensis	92.2	Hypothetical protein	IPR010793,IPR039982	TMSB3V08_LOCUS5041
+3_1	AF4	W5PFC1-F1	Sheep	92.2	Mitochondrial ribosomal protein S30	IPR010793,IPR039982	MRPS30
+3_1	AF4	A0A182MWG8-F1	Anopheles culicifacies	92.2	28S ribosomal protein S30, mitochondrial	IPR010793,IPR039982	
+3_1	AF4	A0A6P8IIN6-F1	Australian red waratah sea anemone	92.2	39S ribosomal protein L37, mitochondrial-like	IPR010793	LOC116301465
+3_1	AF4	A0A553QC56-F1	Danionella translucida	92.2	39S ribosomal protein L37, mitochondrial	IPR010793	DNTS_007080
+3_1	AF4	M7BX37-F1	Green sea-turtle	92.1	28S ribosomal protein S30	IPR010793,IPR039982	UY3_00338
+3_1	AF4	A0A672HEV7-F1	Jewelled blenny	92.1	Mitochondrial ribosomal protein L37	IPR010793	mrpl37
+3_1	AF4	A0A669D771-F1	Nile tilapia	92.1	Mitochondrial ribosomal protein S30	IPR010793,IPR039982	mrps30
+3_1	AF4	A0A3Q2Z2T3-F1	Tiger tail seahorse	92.1	Mitochondrial ribosomal protein L37	IPR010793	
+3_1	AF4	A9ULT4-F1	African clawed frog	92.1	PDCD9 protein	IPR010793,IPR039982	PDCD9
+3_1	AF4	A3KP99-F1	Danre	92.1	39S ribosomal protein S30, mitochondrial (Zgc:163093) (Zgc:163093 protein)	IPR010793,IPR039982	zgc:163093 im:6907149 mrps30 SO:0001217
+3_1	AF4	A0A1Y1LLQ6-F1	Common eastern firefly	92.1	39S ribosomal protein L37, mitochondrial	IPR010793	PPYR_01321
+3_1	AF4	A0A1B0FQS8-F1	Savannah tsetse fly	92.1	28S ribosomal protein S30, mitochondrial	IPR010793,IPR039982	
+3_1	AF4	A0A6J3EKJ8-F1	Tufted duck	92.1	39S ribosomal protein S30, mitochondrial	IPR010793,IPR039982	MRPS30
+3_1	AF4	A0A182PR67-F1	Anopheles epiroticus	92.1	28S ribosomal protein S30, mitochondrial	IPR010793,IPR039982	
+3_1	AF4	A0A1S4GB15-F1	African malaria mosquito	92.0	28S ribosomal protein S30, mitochondrial	IPR010793,IPR039982	
+3_1	AF4	A0A6P3UIG1-F1	Buff-tailed bumblebee	92.0	39S ribosomal protein L37, mitochondrial	IPR010793	LOC100642626
+3_1	AF4	A0A7R8V1V7-F1	Black soldier fly	92.0	Hypothetical protein	IPR010793	HERILL_LOCUS13694
+3_1	AF4	W5N268-F1	Spotted gar	92.0	Mitochondrial ribosomal protein S30	IPR010793,IPR039982	
+3_1	AF4	A0A6J1THK9-F1	Western flower thrips	92.0	39S ribosomal protein L37, mitochondrial	IPR010793	LOC113216664
+3_1	AF4	A0A1A8NBA4-F1	bluefin notho	92.0	Mitochondrial ribosomal protein L37	IPR010793	MRPL37
+3_1	AF4	A0A7R8YW71-F1	Black soldier fly	92.0	Hypothetical protein	IPR010793,IPR039982	HERILL_LOCUS9762
+3_1	AF4	R7V9K8-F1	Polychaete worm	92.0	39S ribosomal protein L37, mitochondrial	IPR010793	CAPTEDRAFT_220488
+3_1	AF4	A0A182UXQ3-F1	Mosquito	92.0	28S ribosomal protein S30, mitochondrial	IPR010793,IPR039982	
+3_1	AF4	A0A5E4QXM5-F1	Leptidea sinapis	92.0	28S ribosomal protein S30, mitochondrial	IPR010793,IPR039982	LSINAPIS_LOCUS12620
+3_1	AF4	A0A6J2IZ46-F1	Wire-tailed manakin	92.0	39S ribosomal protein L37, mitochondrial	IPR010793	MRPL37
+3_1	AF4	A0A674JHX6-F1	Three-toed box turtle	92.0	Mitochondrial ribosomal protein S30	IPR010793,IPR039982	MRPS30
+3_1	AF4	A0A498MQM3-F1	Indian major carp	92.0	28S ribosomal mitochondrial	IPR010793,IPR039982	ROHU_023379
+3_1	AF4	A0A6I9VJP2-F1	Oriental fruit fly	92.0	39S ribosomal protein S30, mitochondrial	IPR010793,IPR039982	LOC105231392
+3_1	AF4	A0A1A9W313-F1	Glossina brevipalpis	92.0	28S ribosomal protein S30, mitochondrial	IPR010793,IPR039982	
+3_1	AF4	A0A1A8S4G5-F1	bluefin notho	92.0	Mitochondrial ribosomal protein L37	IPR010793	MRPL37
+3_1	AF4	A0A668UWP3-F1	Israeli tilapia	91.9	Mitochondrial ribosomal protein S30	IPR010793,IPR039982	
+3_1	AF4	A0A154P4Q6-F1	Sweat bee	91.9	28S ribosomal protein S30, mitochondrial	IPR010793,IPR039982	WN55_07790
+3_1	AF4	A0A482W3P7-F1	Asbolus verrucosus	91.9	28S ribosomal protein S30, mitochondrial	IPR010793,IPR039982	BDFB_001325
+3_1	AF4	A0A6M2DJ29-F1	oriental rat flea	91.9	Putative 39s ribosomal protein l37 mitochondrial	IPR010793	
+3_1	AF4	A0A6J1WA29-F1	Greater wax moth	91.9	28S ribosomal protein S30, mitochondrial	IPR010793,IPR039982	LOC113510727
+3_1	AF4	A7SD45-F1	Starlet sea anemone	91.9	39S ribosomal protein L39, mitochondrial	IPR010793	NEMVEDRAFT_v1g237130
+3_1	AF4	A0A6J1RJU1-F1	Temnothorax curvispinosus	91.9	39S ribosomal protein S30, mitochondrial	IPR010793,IPR039982	LOC112468192
+3_1	AF4	A0A1A9ZK16-F1	Tsetse fly	91.9	28S ribosomal protein S30, mitochondrial	IPR010793,IPR039982	
+3_1	AF4	A0A6H5I0R2-F1	Trichogramma brassicae	91.9	39S ribosomal protein L37, mitochondrial	IPR010793	TBRA_LOCUS2080
+3_1	AF4	A0A0A1WMG0-F1	Melon fruit fly	91.9	28S ribosomal protein S30, mitochondrial	IPR010793,IPR039982	MRPS30 g.57645
+3_1	AF4	A0A7J7BR71-F1	Abscondita terminalis	91.9	39S ribosomal protein L37, mitochondrial	IPR010793	FQR65_LT06331
+3_1	AF4	A0A3Q3XRI6-F1	Ocean sunfish	91.9	Mitochondrial ribosomal protein L37	IPR010793	
+3_1	AF4	A0A3Q2D9A9-F1	Sheepshead minnow	91.9	Mitochondrial ribosomal protein L37	IPR010793	
+3_1	AF4	U4UB58-F1	Mountain pine beetle	91.9	28S ribosomal protein S30, mitochondrial	IPR010793,IPR039982	D910_04594
+3_1	AF4	A0A6P7F3E2-F1	western corn rootworm	91.9	28S ribosomal protein S30, mitochondrial	IPR010793,IPR039982	LOC114326140
+3_1	AF4	A0A182RG12-F1	African malaria mosquito	91.9	28S ribosomal protein S30, mitochondrial	IPR010793,IPR039982	
+3_1	AF4	A0A0Q9W0D4-F1	Fruit fly	91.9	39S ribosomal protein L37, mitochondrial	IPR010793	Dvir\GJ26035 Dvir_GJ26035
+3_1	AF4	A0A060WNL3-F1	Rainbow trout	91.8	39S ribosomal protein L37, mitochondrial	IPR010793	GSONMT00037187001
+3_1	AF4	A0A034W8W1-F1	Oriental fruit fly	91.8	28S ribosomal protein S30, mitochondrial	IPR010793,IPR039982	RT30
+3_1	AF4	A0A6L2Q277-F1	Formosan subterranean termite	91.8	39S ribosomal protein L37, mitochondrial	IPR010793	Cfor_08006
+3_1	AF4	A0A1B0BXN4-F1	Glossina palpalis	91.8	39S ribosomal protein L37, mitochondrial	IPR010793	
+3_1	AF4	A0A6J0GH09-F1	blue-crowned manakin	91.8	39S ribosomal protein L37, mitochondrial	IPR010793	MRPL37
+3_1	AF4	A0A1A9VU90-F1	Savannah tsetse fly	91.8	28S ribosomal protein S30, mitochondrial	IPR010793,IPR039982	
+3_1	AF4	A0A2M4AIY5-F1	Anopheles triannulatus	91.8	Putative mitochondrial ribosomal protein s30	IPR010793,IPR039982	
+3_1	AF4	A0A182QUW5-F1	Anopheles farauti	91.8	28S ribosomal protein S30, mitochondrial	IPR010793,IPR039982	
+3_1	AF4	A0A452HVS7-F1	Agassiz's desert tortoise	91.8	Mitochondrial ribosomal protein S30	IPR010793,IPR039982	
+3_1	AF4	A0A836EQL6-F1	Acromyrmex insinuator	91.7	RM37 protein	IPR010793	Mrpl37 G6Z75_0010653
+3_1	AF4	A0A0L0BNL0-F1	Green bottle fly	91.7	28S ribosomal protein S30, mitochondrial	IPR010793,IPR039982	FF38_11282
+3_1	AF4	W5L9U8-F1	Blind cave fish	91.7	Mitochondrial ribosomal protein S30	IPR010793,IPR039982	
+3_1	AF4	A0A834JR05-F1	Yellow jacket	91.7	28S ribosomal protein S30, mitochondrial	IPR010793,IPR039982	HZH66_008764
+3_1	AF4	A0A084W073-F1	Mosquito	91.7	AGAP001134-PA-like protein	IPR010793,IPR039982	ZHAS_00011558
+3_1	AF4	A0A3P9AP15-F1	Northern pike	91.7	Mitochondrial ribosomal protein L37	IPR010793	
+3_1	AF4	A0A401SM35-F1	Brownbanded bambooshark	91.7	Mitochondrial ribosomal protein S30	IPR010793,IPR039982	chiPu_0009896
+3_1	AF4	A0A182VW83-F1	Anopheles minimus	91.7	28S ribosomal protein S30, mitochondrial	IPR010793,IPR039982	
+3_1	AF4	Q7PUT8-F1	African malaria mosquito	91.7	AGAP001134-PA	IPR010793,IPR039982	AgaP_AGAP001134
+3_1	AF4	D6WCM7-F1	Red flour beetle	91.7	28S ribosomal protein S30, mitochondrial-like Protein	IPR010793,IPR039982	AUGUSTUS-3.0.2_01366 TcasGA2_TC001366
+3_1	AF4	A0A834JVR0-F1	German yellow jacket	91.7	28S ribosomal protein S30, mitochondrial	IPR010793,IPR039982	HZH68_009624
+3_1	AF4	A0A1B0B5Y3-F1	Glossina palpalis	91.7	28S ribosomal protein S30, mitochondrial	IPR010793,IPR039982	
+3_1	AF4	A0A6P3CYU8-F1	Black-legged tick	91.6	28S ribosomal protein S30, mitochondrial	IPR010793,IPR039982	LOC8031714
+3_1	AF4	A0A3Q0T8T4-F1	Midas cichlid	91.6	Mitochondrial ribosomal protein S30	IPR010793,IPR039982	
+3_1	AF4	A0A7I0Z1G8-F1	Danaus plexippus	91.6	28S ribosomal protein S30, mitochondrial	IPR010793,IPR039982	LOC116768253
+3_1	AF4	A0A7J6YT96-F1	Lamprigera yunnana	91.6	39S ribosomal protein L37, mitochondrial	IPR010793	FQA39_LY07904
+3_1	AF4	A0A1E1XAI1-F1	Amblyomma aureolatum	91.6	Putative ribosomal protein s30	IPR010793,IPR039982	
+3_1	AF4	A0A151WMT3-F1	Trachymyrmex zeteki	91.6	28S ribosomal protein S30, mitochondrial	IPR010793,IPR039982	ALC60_11744
+3_1	AF4	J3JXX0-F1	Mountain pine beetle	91.6	39S ribosomal protein L37, mitochondrial	IPR010793	
+3_1	AF4	A0A4D9EYG4-F1	big-headed turtle	91.6	Multiple C2 and transmembrane domain-containing protein 1	IPR010793,IPR039982	DR999_PMT00613
+3_1	AF4	N6UMX6-F1	Mountain pine beetle	91.6	39S ribosomal protein L37, mitochondrial	IPR010793	109534107 D910_06116 YQE_03538
+3_1	AF4	A0A811U9H9-F1	Mediterranean fruit fly	91.6	(Mediterranean fruit fly) hypothetical protein	IPR010793	CCAP1982_LOCUS3507
+3_1	AF4	A0A1L8E089-F1	Nyssomyia neivai	91.6	Putative mitochondrial 28s ribosomal protein s30	IPR010793,IPR039982	
+3_1	AF4	A0A0K8W4P1-F1	Malaysian fruit fly	91.6	28S ribosomal protein S30, mitochondrial	IPR010793,IPR039982	MRPS30 c1_g1_i2
+3_1	AF4	A0A3B3H6K1-F1	Japanese rice fish	91.6	Mitochondrial ribosomal protein L37	IPR010793	mrpl37
+3_1	AF4	A0A7M6UN81-F1	Parasitic wasp	91.6	39S ribosomal protein L37, mitochondrial	IPR010793	100120662
+3_1	AF4	A0A6P8N8T4-F1	Bombus bifarius	91.6	39S ribosomal protein L37, mitochondrial	IPR010793	LOC117211403
+3_1	AF4	A0A182NR04-F1	Anopheles dirus	91.6	28S ribosomal protein S30, mitochondrial	IPR010793,IPR039982	
+3_1	AF4	A0A672HFP9-F1	Jewelled blenny	91.6	Mitochondrial ribosomal protein L37	IPR010793	mrpl37
+3_1	AF4	A0A195CLH6-F1	Cyphomyrmex costatus	91.6	28S ribosomal protein S30, mitochondrial	IPR010793,IPR039982	ALC62_07946
+3_1	AF4	A0A834IAR6-F1	Red palm weevil	91.6	MYND-type domain-containing protein	IPR002893,IPR010793,IPR011990,IPR039982,IPR046341	GWI33_016648
+3_1	AF4	A0A5A9P379-F1	Triplophysa tibetana	91.5	28S ribosomal protein S30, mitochondrial	IPR010793,IPR039982	E1301_Tti001697
+3_1	AF4	A0A2M4AHX2-F1	Anopheles triannulatus	91.5	Putative mitochondrial ribosomal protein s30	IPR010793,IPR039982	
+3_1	AF4	A0A2M4BJ43-F1	Anopheles marajoara	91.5	Putative mitochondrial ribosomal protein s30	IPR010793,IPR039982	
+3_1	AF4	A0A6J1NP01-F1	Squinting bush brown butterfly	91.5	28S ribosomal protein S30, mitochondrial	IPR010793,IPR039982	LOC112054032
+3_1	AF4	A0A182FRZ2-F1	New world malaria mosquito	91.5	28S ribosomal protein S30, mitochondrial	IPR010793,IPR039982	
+3_1	AF4	A0A6J3K866-F1	Bombus vosnesenskii	91.5	39S ribosomal protein S30, mitochondrial	IPR010793,IPR039982	LOC117233261
+3_1	AF4	A0A3P9KYX6-F1	Japanese rice fish	91.5	Mitochondrial ribosomal protein L37	IPR010793	
+3_1	AF4	A0A2J7RC89-F1	Cryptotermes secundus	91.5	39S ribosomal protein L37, mitochondrial	IPR010793	B7P43_G04033
+3_1	AF4	W8CD51-F1	Mediterranean fruit fly	91.5	39S ribosomal protein L37, mitochondrial	IPR010793	RM37
+3_1	AF4	A0A3B3UQD5-F1	sailfin molly	91.5	Mitochondrial ribosomal protein L37	IPR010793	
+3_1	AF4	A0A194PZG0-F1	Asian swallowtail butterfly	91.5	28S ribosomal protein S30, mitochondrial	IPR010793,IPR039982	RR46_09644
+3_1	AF4	A0A3P9HPZ1-F1	Japanese rice fish	91.5	Mitochondrial ribosomal protein L37	IPR010793	
+3_1	AF4	F7C1A5-F1	Gray short-tailed opossum	91.5	Mitochondrial ribosomal protein S30	IPR010793,IPR039982	MRPS30
+3_1	AF4	A0A1E1XUP0-F1	Tick	91.5	Putative ribosomal protein s30	IPR010793,IPR039982	
+3_1	AF4	H2LUP4-F1	Japanese rice fish	91.5	Mitochondrial ribosomal protein L37	IPR010793	mrpl37
+3_1	AF4	J3JVY3-F1	Mountain pine beetle	91.4	28S ribosomal protein S30, mitochondrial	IPR010793,IPR039982	109543956 YQE_11648
+3_1	AF4	A0A077ZB81-F1	Whipworm	91.4	Ribosomal protein mitochondrial putative mitocho ndrial ribosomal protein	IPR010793,IPR039982	TTRE_0000512001
+3_1	AF4	D6WP57-F1	Red flour beetle	91.4	39S ribosomal protein L37, mitochondrial-like Protein	IPR010793	AUGUSTUS-3.0.2_14515 TcasGA2_TC014515
+3_1	AF4	A0A1L8E004-F1	Nyssomyia neivai	91.4	Putative mitochondrial 28s ribosomal protein s30	IPR010793,IPR039982	
+3_1	AF4	A0A1W4WMJ6-F1	Emerald ash borer	91.4	39S ribosomal protein S30, mitochondrial	IPR010793,IPR039982	LOC108734287
+3_1	AF4	A0A194RPF7-F1	Old World swallowtail butterfly	91.4	28S ribosomal protein S30, mitochondrial	IPR010793,IPR039982	RR48_11019
+3_1	AF4	A0A6I8V5X3-F1	Fruit fly	91.4	39S ribosomal protein L37, mitochondrial	IPR010793	LOC13036531
+3_1	AF4	A0A3Q3XCU4-F1	Ocean sunfish	91.4	Mitochondrial ribosomal protein S30	IPR010793,IPR039982	
+3_1	AF4	A0A0C9R2E5-F1	Fopius arisanus	91.4	MRPS30 protein	IPR010793,IPR039982	MRPS30 g.11369
+3_1	AF4	A0A369S4D4-F1	Trichoplax sp	91.4	39S ribosomal protein L37, mitochondrial	IPR010793	TrispH2_007182
+3_1	AF4	A0A067R2A7-F1	Dampwood termite	91.4	28S ribosomal protein S30, mitochondrial	IPR010793,IPR039982	L798_09998
+3_1	AF4	A0A182YNB4-F1	Indo-Pakistan malaria mosquito	91.4	28S ribosomal protein S30, mitochondrial	IPR010793,IPR039982	
+3_1	AF4	A0A4W4HFV6-F1	Electric eel	91.4	Mitochondrial ribosomal protein S30	IPR010793,IPR039982	mrps30
+3_1	AF4	A0A3P9HPR9-F1	Japanese rice fish	91.4	Mitochondrial ribosomal protein L37	IPR010793	
+3_1	AF4	A0A3Q3XB83-F1	Ocean sunfish	91.3	Mitochondrial ribosomal protein L37	IPR010793	
+3_1	AF4	A0A6J1LIW9-F1	Fruit fly	91.3	28S ribosomal protein S30, mitochondrial	IPR010793,IPR039982	LOC111595964
+3_1	AF4	A0A0E9X9B7-F1	European freshwater eel	91.3	28S ribosomal protein S30, mitochondrial	IPR010793,IPR039982	
+3_1	AF4	A0A3Q3XH85-F1	Ocean sunfish	91.3	Mitochondrial ribosomal protein L37	IPR010793	
+3_1	AF4	A0A3M6TNH0-F1	Cauliflower coral	91.3	39S ribosomal protein L37, mitochondrial	IPR010793	pdam_00001856
+3_1	AF4	A0A4Z2BBQ0-F1	Takifugu bimaculatus	91.3	Mitochondrial ribosomal protein S30	IPR010793,IPR039982	fugu_003533
+3_1	AF4	A0A3P8QJD1-F1	Eastern happy	91.3	Mitochondrial ribosomal protein S30	IPR010793,IPR039982	
+3_1	AF4	A0A3P9MB14-F1	Japanese rice fish	91.3	Mitochondrial ribosomal protein L37	IPR010793	
+3_1	AF4	A0A6P4GAW5-F1	Fruit fly	91.3	28S ribosomal protein S30, mitochondrial	IPR010793,IPR039982	LOC108056754
+3_1	AF4	A0A232EWJ1-F1	Trichomalopsis sarcophagae	91.3	39S ribosomal protein L37, mitochondrial	IPR010793	TSAR_011329
+3_1	AF4	W8C020-F1	Mediterranean fruit fly	91.3	28S ribosomal protein S30, mitochondrial	IPR010793,IPR039982	RT30
+3_1	AF4	A0A0C9SCI3-F1	Lone star tick	91.3	Putative ribosomal protein s30	IPR010793,IPR039982	
+3_1	AF4	A0A0P5HGS3-F1	Daphnia magna	91.2	28S ribosomal protein S30, mitochondrial	IPR010793,IPR039982	
+3_1	AF4	A0A836FD36-F1	Pseudoatta argentina	91.2	RT30 protein	IPR010793,IPR039982	Mrps30 G6Z78_0008678
+3_1	AF4	A0A1B0CGP4-F1	Sand fly	91.2	Putative 28s ribosomal protein s30	IPR010793,IPR039982	
+3_1	AF4	F6XXY4-F1	Western clawed frog	91.2	Mitochondrial ribosomal protein S30	IPR010793,IPR039982	mrps30
+3_1	AF4	A0A0P5NL01-F1	Daphnia magna	91.2	28S ribosomal protein S30, mitochondrial	IPR010793,IPR039982	
+3_1	AF4	A0A3B5AXA9-F1	bicolor damselfish	91.2	Mitochondrial ribosomal protein S30	IPR010793,IPR039982	
+3_1	AF4	A0A0P5G1N9-F1	Daphnia magna	91.2	28S ribosomal protein S30, mitochondrial	IPR010793,IPR039982	
+3_1	AF4	A0A6P8X967-F1	Fruit fly	91.2	28S ribosomal protein S30, mitochondrial	IPR010793,IPR039982	LOC117570366
+3_1	AF4	A0A7J6D137-F1	Onychostoma macrolepis	91.2	Mitochondrial ribosomal protein S30	IPR010793,IPR039982	G5714_005462
+3_1	AF4	A0A2R5LLV7-F1	Ornithodoros turicata	91.2	Putative ribosomal protein s30	IPR010793,IPR039982	
+3_1	AF4	H0UXP1-F1	Guinea pig	91.2	Mitochondrial ribosomal protein S30	IPR010793,IPR039982	MRPS30
+3_1	AF4	A0A484B0T1-F1	Fruit fly	91.2	28S ribosomal protein S30, mitochondrial	IPR010793,IPR039982	AWZ03_012142
+3_1	AF4	A0A834Y5W8-F1	Aphidius gifuensis	91.2	28S ribosomal protein S30, mitochondrial	IPR010793,IPR039982	HCN44_009222
+3_1	AF4	H3A534-F1	Coelacanth	91.2	Mitochondrial ribosomal protein L37	IPR010793	MRPL37
+3_1	AF4	A0A158NLK9-F1	Leafcutter ant	91.1	39S ribosomal protein L37, mitochondrial	IPR010793	105621554
+3_1	AF4	A0A2J7R262-F1	Cryptotermes secundus	91.1	28S ribosomal protein S30, mitochondrial	IPR010793,IPR039982	B7P43_G01396
+3_1	AF4	A0A437CZ97-F1	Javanese ricefish	91.1	Mitochondrial ribosomal protein S30	IPR010793,IPR039982	OJAV_G00086250
+3_1	AF4	A0A3Q2NVS3-F1	Killifish	91.1	Mitochondrial ribosomal protein S30	IPR010793,IPR039982	
+3_1	AF4	A0A4W5QS42-F1	huchen	91.1	Mitochondrial ribosomal protein S30	IPR010793,IPR039982	
+3_1	AF4	A0A0P5NDL1-F1	Daphnia magna	91.1	28S ribosomal protein S30, mitochondrial	IPR010793,IPR039982	
+3_1	AF4	A0A6J0BDL5-F1	Redheaded pine sawfly	91.1	28S ribosomal protein S30, mitochondrial	IPR010793,IPR039982	LOC107218923
+3_1	AF4	A0A6P3DTQ8-F1	Bumblebee	91.0	39S ribosomal protein S30, mitochondrial	IPR010793,IPR039982	LOC100749249
+3_1	AF4	A0A0P5GTI9-F1	Daphnia magna	91.0	28S ribosomal protein S30, mitochondrial	IPR010793,IPR039982	
+3_1	AF4	A0A0P5MMC6-F1	Daphnia magna	91.0	28S ribosomal protein S30, mitochondrial	IPR010793,IPR039982	
+3_1	AF4	A0A0R3Q102-F1	Nematode worm	91.0	Uncharacterized protein	IPR010793,IPR039982	ACOC_LOCUS12648
+3_1	AF4	A0A3Q4I7M4-F1	Fairy cichlid	91.0	28S ribosomal protein S30, mitochondrial-like	IPR010793,IPR039982	
+3_1	AF4	A0A3B5K3G9-F1	Japanese pufferfish	91.0	Mitochondrial ribosomal protein S30	IPR010793,IPR039982	mrps30
+3_1	AF4	A0A5C6MZ23-F1	sansaifugu	91.0	28S ribosomal protein S30, mitochondrial	IPR010793,IPR039982	D4764_05G0003560
+3_1	AF4	A0A3Q2V589-F1	Burton's mouthbrooder	91.0	Mitochondrial ribosomal protein S30	IPR010793,IPR039982	
+3_1	AF4	E2C4A5-F1	Jerdon's jumping ant	91.0	28S ribosomal protein S30, mitochondrial	IPR010793,IPR039982	EAI_05917
+3_1	AF4	A0A7M7FZP9-F1	Honeybee	91.0	Uncharacterized protein	IPR010793	725854
+3_1	AF4	F4X219-F1	Panamanian leafcutter ant	91.0	28S ribosomal protein S30, mitochondrial	IPR010793,IPR039982	G5I_12338
+3_1	AF4	A0A6J0SW91-F1	central bearded dragon	91.0	39S ribosomal protein S30, mitochondrial	IPR010793,IPR039982	MRPS30
+3_1	AF4	A0A0P5NLK5-F1	Daphnia magna	91.0	28S ribosomal protein S30, mitochondrial	IPR010793,IPR039982	APZ42_028688
+3_1	AF4	A0A0P5S287-F1	Daphnia magna	91.0	28S ribosomal protein S30, mitochondrial	IPR010793,IPR039982	
+3_1	AF4	A0A023FLT4-F1	Cayenne tick	91.0	Putative ribosomal protein	IPR010793,IPR039982	
+3_1	AF4	A0A7M7RF10-F1	Purple sea urchin	91.0	39S ribosomal protein L37, mitochondrial	IPR010793,IPR039982	
+3_1	AF4	A0A2A3E2E1-F1	Oriental honeybee	90.9	39S ribosomal protein L37	IPR010793	APICC_01830
+3_1	AF4	A0A023FJT9-F1	Cayenne tick	90.9	Putative ribosomal protein	IPR010793	
+3_1	AF4	A0A1U7S9S7-F1	Chinese alligator	90.9	39S ribosomal protein S30, mitochondrial	IPR010793,IPR039982	MRPS30
+3_1	AF4	A0A2H8TFQ9-F1	Melanaphis sacchari	90.9	39S ribosomal protein L37, mitochondrial	IPR010793	Mrpl37
+3_1	AF4	A0A0P5J1T6-F1	Daphnia magna	90.9	28S ribosomal protein S30, mitochondrial	IPR010793,IPR039982	
+3_1	AF4	A0A0K8TKG0-F1	Band-eyed brown horse fly	90.9	Putative mitochondrial 28s ribosomal protein s30	IPR010793,IPR039982	
+3_1	AF4	A0A0P5GEL5-F1	Daphnia magna	90.9	28S ribosomal protein S30, mitochondrial	IPR010793,IPR039982	
+3_1	AF4	A0A6L2PVA8-F1	Formosan subterranean termite	90.9	28S ribosomal protein S30, mitochondrial	IPR010793,IPR039982	Cfor_11817
+3_1	AF4	B4MGD3-F1	Fruit fly	90.9	28S ribosomal protein S30, mitochondrial	IPR010793,IPR039982	Dvir\GJ18480 Dvir_GJ18480
+3_1	AF4	A0A195EDZ3-F1	Trachymyrmex cornetzi	90.9	28S ribosomal protein S30, mitochondrial	IPR010793,IPR039982	ALC57_04848
+3_1	AF4	E2C0C1-F1	Jerdon's jumping ant	90.9	39S ribosomal protein L37, mitochondrial	IPR010793	EAI_06248
+3_1	AF4	A0A131XUB2-F1	Common tick	90.9	Putative ribosomal protein s30	IPR010793,IPR039982	
+3_1	AF4	A0A195F1V5-F1	Trachymyrmex septentrionalis	90.9	39S ribosomal protein L37, mitochondrial	IPR010793	ALC56_11468
+3_1	AF4	A0A0P6E4B3-F1	Daphnia magna	90.9	28S ribosomal protein S30, mitochondrial	IPR010793,IPR039982	
+3_1	AF4	S4R9B2-F1	Sea lamprey	90.9	Mitochondrial ribosomal protein S30	IPR010793,IPR039982	MRPS30
+3_1	AF4	A0A3B4GHP5-F1	Pundamilia nyererei	90.9	Mitochondrial ribosomal protein S30	IPR010793,IPR039982	
+3_1	AF4	B4L7L8-F1	Fruit fly	90.9	28S ribosomal protein S30, mitochondrial	IPR010793,IPR039982	Dmoj\GI11197 Dmoj_GI11197
+3_1	AF4	A0A437CEU9-F1	Javanese ricefish	90.9	39S ribosomal protein L37, mitochondrial	IPR010793	OJAV_G00170340
+3_1	AF4	A0A3P9C824-F1	zebra mbuna	90.9	Mitochondrial ribosomal protein S30	IPR010793,IPR039982	
+3_1	AF4	A0A1E1VY78-F1	Cotton pink bollworm	90.9	28S ribosomal protein S30, mitochondrial	IPR010793,IPR039982	g.7739
+3_1	AF4	A0A3R7QPJ8-F1	Whiteleg shrimp	90.8	28S ribosomal protein S30, mitochondrial	IPR010793,IPR039982	C7M84_005797
+3_1	AF4	Q16NZ6-F1	Yellowfever mosquito	90.8	AAEL011814-PA	IPR010793,IPR039982	AAEL011814
+3_1	AF4	B3NXK0-F1	Fruit fly	90.8	28S ribosomal protein S30, mitochondrial	IPR010793,IPR039982	Dere\GG17915 Dere_GG17915
+3_1	AF4	A0A834BXL9-F1	Marine medaka	90.8	28S ribosomal protein S30, mitochondrial	IPR010793,IPR039982	FQA47_016619
+3_1	AF4	A0A7R9K270-F1	Walking stick	90.8	Hypothetical protein	IPR010793	TGEB3V08_LOCUS7752
+3_1	AF4	A0A3B3BB80-F1	Marine medaka	90.8	39S ribosomal protein L37, mitochondrial (Mitochondrial ribosomal protein L37)	IPR010793	FQA47_002842
+3_1	AF4	A0A7M4FEQ0-F1	Saltwater crocodile	90.8	Mitochondrial ribosomal protein S30	IPR010793,IPR039982	MRPS30
+3_1	AF4	A0A1A8UQ93-F1	Turquoise killifish	90.8	Mitochondrial ribosomal protein S30	IPR010793,IPR039982	MRPS30 mrps30
+3_1	AF4	A0A6M2CPC0-F1	Cattle tick	90.8	Putative ribosomal protein s30	IPR010793,IPR039982	
+3_1	AF4	A0A1S4FUE6-F1	Yellowfever mosquito	90.8	Mitochondrial ribosomal protein, S30, putative	IPR010793,IPR039982	5575410
+3_1	AF4	A0A3B3C383-F1	Marine medaka	90.8	Mitochondrial ribosomal protein S30	IPR010793,IPR039982	
+3_1	AF4	A0A0N8C4P0-F1	Daphnia magna	90.8	28S ribosomal protein S30, mitochondrial	IPR010793,IPR039982	
+3_1	AF4	Q17H25-F1	Yellowfever mosquito	90.8	AAEL002783-PA	IPR010793	AAEL002783
+3_1	AF4	A0A0K8RQC7-F1	Common tick	90.8	Putative ribosomal protein s30	IPR010793,IPR039982	
+3_1	AF4	A0A0P6D2T5-F1	Daphnia magna	90.8	28S ribosomal protein S30, mitochondrial	IPR010793,IPR039982	
+3_1	AF4	A0A0J7KW12-F1	Black garden ant	90.8	28s ribosomal protein mitochondrial-like protein	IPR010793,IPR039982	RF55_5397
+3_1	AF4	A0A4D5RP71-F1	Black-legged tick	90.7	Putative mitochondrial ribosomal protein l37	IPR010793	
+3_1	AF4	F7H0G3-F1	Rhesus macaque	90.7	Mitochondrial ribosomal protein L37	IPR010793	MRPL37
+3_1	AF4	C1BG81-F1	Rainbow trout	90.7	Mitochondrial 28S ribosomal protein S30	IPR010793,IPR039982	RT30 GSONMT00071653001
+3_1	AF4	A0A6P3XQC3-F1	South American ant	90.7	28S ribosomal protein S30, mitochondrial	IPR010793,IPR039982	LOC106747429
+3_1	AF4	A0A836K3N2-F1	Acromyrmex charruanus	90.7	RT30 protein	IPR010793,IPR039982	Mrps30 G6Z76_0014377
+3_1	AF4	A0A5C6P5H8-F1	sansaifugu	90.7	39S ribosomal protein L37, mitochondrial	IPR010793	D4764_15G0008640
+3_1	AF4	A0A3P8YDB7-F1	Northern pike	90.7	Mitochondrial ribosomal protein S30	IPR010793,IPR039982	
+3_1	AF4	A0A0V0G8M0-F1	Kissing bug	90.7	Putative mitochondrial ribosomal protein l37	IPR010793	
+3_1	AF4	B4PX69-F1	Fruit fly	90.7	28S ribosomal protein S30, mitochondrial	IPR010793,IPR039982	Dyak\GE17223 Dyak_GE17223
+3_1	AF4	A0A6P3YA69-F1	South American ant	90.6	39S ribosomal protein L37, mitochondrial	IPR010793	LOC106750810
+3_1	AF4	A0A5N4EBV3-F1	Dromedary	90.6	28S ribosomal protein S30	IPR010793,IPR039982	Cadr_000004136
+3_1	AF4	A0A016TE39-F1	Ancylostoma ceylanicum	90.6	Uncharacterized protein	IPR010793,IPR039982	Acey_s0112.g336 Acey-mrps-30 Y032_0112g336
+3_1	AF4	A0A158NXR9-F1	Leafcutter ant	90.6	28S ribosomal protein S30, mitochondrial	IPR010793,IPR039982	105625615
+3_1	AF4	A0A4Y2DT25-F1	Orbweaver spider	90.6	39S ribosomal protein L37, mitochondrial	IPR010793	MRPL37 AVEN_44313_1
+3_1	AF4	A0A1W4V3M6-F1	Fruit fly	90.6	28S ribosomal protein S30, mitochondrial	IPR010793,IPR039982	LOC108094713
+3_1	AF4	B0WNH5-F1	Southern house mosquito	90.6	39S mitochondrial ribosomal protein L37 (Mitochondrial ribosomal protein L37)	IPR010793	6040931 CpipJ_CPIJ008691
+3_1	AF4	A0A1A8BZU3-F1	Nothobranchius kadleci	90.6	Mitochondrial ribosomal protein S30	IPR010793,IPR039982	MRPS30
+3_1	AF4	A0A026WIE1-F1	Clonal raider ant	90.6	39S ribosomal protein L37, mitochondrial	IPR010793	DMN91_011665 X777_03992
+3_1	AF4	A0A026WNJ2-F1	Clonal raider ant	90.6	28S ribosomal protein S30, mitochondrial	IPR010793,IPR039982	DMN91_000886 X777_02268
+3_1	AF4	A0A836EZN3-F1	Acromyrmex insinuator	90.6	RT30 protein	IPR010793,IPR039982	Mrps30 G6Z75_0013089
+3_1	AF4	A0A672INJ0-F1	Jewelled blenny	90.6	Mitochondrial ribosomal protein S30	IPR010793,IPR039982	mrps30
+3_1	AF4	A0A6J1PVP5-F1	Temnothorax curvispinosus	90.6	39S ribosomal protein L37, mitochondrial	IPR010793	LOC112455615
+3_1	AF4	A0A1A8INX6-F1	Beira killifish	90.5	Mitochondrial ribosomal protein S30	IPR010793,IPR039982	MRPS30
+3_1	AF4	A0A2B4S4T2-F1	Smooth cauliflower coral	90.5	39S ribosomal protein L37, mitochondrial	IPR010793	MRPL37 AWC38_SpisGene11346
+3_1	AF4	A0A0N4WXV4-F1	Barber's pole worm	90.5	39S ribosomal protein L37, mitochondrial	IPR010793,IPR039982	HPLM_LOCUS16660
+3_1	AF4	A0A0P5KP47-F1	Daphnia magna	90.5	28S ribosomal protein S30, mitochondrial	IPR010793,IPR039982	
+3_1	AF4	A0A1A7WSE5-F1	Iconisemion striatum	90.5	Mitochondrial ribosomal protein S30	IPR010793,IPR039982	MRPS30
+3_1	AF4	A0A6P8NBY7-F1	Bombus bifarius	90.5	39S ribosomal protein S30, mitochondrial	IPR010793,IPR039982	LOC117211870
+3_1	AF4	A0A6I9W6M5-F1	red harvester ant	90.5	39S ribosomal protein L37, mitochondrial isoform X1	IPR010793	LOC105425286
+3_1	AF4	A0A1A8E0R3-F1	Nothobranchius kadleci	90.5	Mitochondrial ribosomal protein S30	IPR010793,IPR039982	MRPS30
+3_1	AF4	Q9VXP3-F1	Drome	90.5	GH05406p	IPR039982,IPR010793	
+3_1	AF4	B4R5I3-F1	Fruit fly	90.5	GD17243	IPR010793,IPR039982	Dsim\GD17243 Dsim_GD17243
+3_1	AF4	A0A3P9IC43-F1	Japanese rice fish	90.5	Mitochondrial ribosomal protein S30	IPR010793,IPR039982	
+3_1	AF4	A0A673XEM8-F1	Brown trout	90.5	Mitochondrial ribosomal protein S30	IPR010793,IPR039982	mrps30
+3_1	AF4	A0A6J2QAP9-F1	Frogmouth	90.4	39S ribosomal protein S30, mitochondrial	IPR010793,IPR039982	mrps30
+3_1	AF4	A0A1I8CWV5-F1	Rhabditophanes sp	90.4	39S ribosomal protein L37, mitochondrial	IPR010793,IPR039982	
+3_1	AF4	A0A3B3QRT1-F1	Paramormyrops kingsleyae	90.4	Mitochondrial ribosomal protein S30	IPR010793,IPR039982	
+3_1	AF4	B0WYS2-F1	Southern house mosquito	90.4	Mitochondrial ribosomal protein, S30 (Mitochondrial ribosomal protein, S30, putative)	IPR010793,IPR039982	6045144 CpipJ_CPIJ012301
+3_1	AF4	A0A6P8KP85-F1	Fruit fly	90.4	39S ribosomal protein S30, mitochondrial	IPR010793,IPR039982	LOC117147888
+3_1	AF4	A0A6P7W3K5-F1	Black-legged tick	90.4	39S ribosomal protein L37, mitochondrial	IPR010793	LOC8034230
+3_1	AF4	A0A833RT94-F1	Frieseomelitta varia	90.4	28S ribosomal protein S30, mitochondrial	IPR010793,IPR039982	E2986_04457
+3_1	AF4	A0A5E4N3I2-F1	Cinara cedri	90.4	Ribosomal protein L37/S30	IPR010793	CINCED_3A006690
+3_1	AF4	A0A4U5UUS3-F1	Big head croaker	90.3	28S ribosomal protein S30, mitochondrial	IPR010793,IPR039982	D9C73_012743
+3_1	AF4	F7D783-F1	Rhesus macaque	90.3	Mitochondrial ribosomal protein L37	IPR010793	MRPL37
+3_1	AF4	T1ES18-F1	Californian leech	90.3	39S ribosomal protein L37, mitochondrial	IPR010793	20199368 HELRODRAFT_161929
+3_1	AF4	B7PUX9-F1	Black-legged tick	90.3	Ribosomal protein S30, putative	IPR010793,IPR039982	8031714 IscW_ISCW019792
+3_1	AF4	A0A3B4WP85-F1	Seriola lalandi	90.3	Mitochondrial ribosomal protein S30	IPR010793,IPR039982	
+3_1	AF4	A0A3B5LTS6-F1	Monterrey platyfish	90.3	Mitochondrial ribosomal protein S30	IPR010793,IPR039982	
+3_1	AF4	A0A7J7Y0V1-F1	Greater mouse-eared bat	90.3	Mitochondrial ribosomal protein S30	IPR010793,IPR039982	mMyoMyo1_013358
+3_1	AF4	A0A131XHK5-F1	Hyalomma excavatum	90.3	Putative ribosomal protein s30	IPR010793,IPR039982	
+3_1	AF4	A0A1A8QIV5-F1	Nothobranchius pienaari	90.3	Mitochondrial ribosomal protein S30	IPR010793,IPR039982	MRPS30
+3_1	AF4	A0A7R8VL61-F1	Walking stick	90.3	Hypothetical protein	IPR010793	TDIB3V08_LOCUS6829
+3_1	AF4	A0A2S2QT70-F1	yellow sugarcane aphid	90.3	39S ribosomal protein L37 (39S ribosomal protein L37, mitochondrial)	IPR010793	Mrpl37 LOC112683613 g.122938
+3_1	AF4	L7M555-F1	Yellow backed tick	90.3	Putative mitochondrial ribosomal protein s30	IPR010793,IPR039982	
+3_1	AF4	A0A061IG64-F1	Chinese hamster	90.3	28S ribosomal protein S30	IPR010793,IPR039982	H671_2g6881
+3_1	AF4	A0A3B0KDX2-F1	Fruit fly	90.2	Blast:28S ribosomal protein S30, mitochondrial	IPR010793,IPR039982	DGUA_6G008701
+3_1	AF4	A0A7K7X7H0-F1	Mohoua ochrocephala	90.2	RT30 protein	IPR010793,IPR039982	Mrps30 MOHOCH_R02852
+3_1	AF4	A0A2K5WSP1-F1	Crab-eating macaque	90.2	Mitochondrial ribosomal protein L37	IPR010793	MRPL37
+3_1	AF4	E9G8P9-F1	Water flea	90.2	28S ribosomal protein S30, mitochondrial	IPR010793,IPR039982	DAPPUDRAFT_209756
+3_1	AF4	A0A2M4BTR7-F1	Anopheles marajoara	90.2	Putative mitochondrial ribosomal protein s30	IPR010793,IPR039982	
+3_1	AF4	A0A7J7JGJ8-F1	Brown bryozoan	90.2	MRPL37	IPR010793	EB796_016225
+3_1	AF4	A0A3B3XJ75-F1	Poecilia mexicana	90.2	Mitochondrial ribosomal protein S30	IPR010793,IPR039982	
+3_1	AF4	A0A3M0L117-F1	Hirundo rustica	90.2	RT30 protein	IPR010793,IPR039982	DUI87_06640
+3_1	AF4	A0A1I7W305-F1	Eye worm	90.2	Queuosine salvage protein	IPR010793	
+3_1	AF4	A0A151JXG1-F1	Trachymyrmex septentrionalis	90.2	28S ribosomal protein S30, mitochondrial	IPR010793,IPR039982	ALC56_06313
+3_1	AF4	A0A0K8VRF3-F1	Malaysian fruit fly	90.2	39S ribosomal protein L37, mitochondrial	IPR010793	Mrpl37 c0_g1_i1
+3_1	AF4	A0A1A8GVF3-F1	Nothobranchius korthausae	90.1	Mitochondrial ribosomal protein S30	IPR010793,IPR039982	MRPS30
+3_1	AF4	A0A1Q3F6Q2-F1	Encephalitis mosquito	90.1	Putative mitochondrial 28s ribosomal protein s30	IPR010793,IPR039982	
+3_1	AF4	A0A226PPV6-F1	Northern bobwhite	90.1	39S ribosomal protein L37, mitochondrial	IPR010793	H355_008992
+3_1	AF4	A0A226NAF3-F1	Scaled quail	90.1	39S ribosomal protein L37, mitochondrial	IPR010793	ASZ78_016027
+3_1	AF4	A0A671UH34-F1	Gilthead sea bream	90.1	Mitochondrial ribosomal protein S30	IPR010793,IPR039982	mrps30
+3_1	AF4	A0A3B3V880-F1	sailfin molly	90.1	Mitochondrial ribosomal protein S30	IPR010793,IPR039982	
+3_1	AF4	A0A1S3PH63-F1	Atlantic salmon	90.1	28S ribosomal protein S30, mitochondrial-like	IPR010793,IPR039982	LOC106585386 LOC106585739
+3_1	AF4	A0A3Q3NJN7-F1	ballan wrasse	90.1	Mitochondrial ribosomal protein S30	IPR010793,IPR039982	
+3_1	AF4	A0A3Q1BNB3-F1	Clown anemonefish	90.1	Mitochondrial ribosomal protein S30	IPR010793,IPR039982	
+3_1	AF4	A0A293LMS8-F1	European soft tick	90.1	Ribosomal protein S30	IPR010793,IPR039982	
+3_1	AF4	A0A2K6CR22-F1	Pig-tailed macaque	90.1	Mitochondrial ribosomal protein L37	IPR010793	MRPL37
+3_1	AF4	A0A6P8V6M4-F1	Antarctic dragonfish	90.1	39S ribosomal protein S30, mitochondrial	IPR010793,IPR039982	mrps30
+3_1	AF4	A0A6P4EA78-F1	Fruit fly	90.1	28S ribosomal protein S30, mitochondrial	IPR010793,IPR039982	LOC108039566
+3_1	AF4	A0A195B0D7-F1	Atta colombica	90.1	28S ribosomal protein S30, mitochondrial	IPR010793,IPR039982	ALC53_11679
+3_1	AF4	A0A6G0IIS9-F1	Large yellow croaker	90.1	Acyl-coenzyme A thioesterase 11	IPR002913,IPR006683,IPR010793,IPR023393,IPR029069,IPR033120,IPR040170	D5F01_LYC11024
+3_1	AF4	G1P6K3-F1	Little brown bat	90.1	Mitochondrial ribosomal protein S30	IPR010793,IPR039982	MRPS30
+3_1	AF4	A0A0P5K7M4-F1	Daphnia magna	90.1	28S ribosomal protein S30, mitochondrial	IPR010793,IPR039982	
+3_1	AF4	A0A1A8QJU0-F1	bluefin notho	90.0	Mitochondrial ribosomal protein S30	IPR010793,IPR039982	MRPS30
+3_1	AF4	A0A4Y2BDL8-F1	Orbweaver spider	90.0	28S ribosomal protein S30, mitochondrial	IPR010793,IPR039982	MRPS30 AVEN_179616_1
+3_1	AF4	A0A315UWB4-F1	Western mosquitofish	90.0	Mitochondrial ribosomal protein S30	IPR010793,IPR039982	CCH79_00009011
+3_1	AF4	A0A6V7GTH0-F1	Heterotrigona itama	90.0	Hypothetical protein	IPR010793	MHI_LOCUS50367
+3_1	AF4	A0A3L8SPF7-F1	Gouldian finch	90.0	39S ribosomal protein L37, mitochondrial	IPR010793	DV515_00004706
+3_1	AF4	A0A2S2PCB3-F1	Green bug aphid	90.0	39S ribosomal protein L37	IPR010793	Mrpl37 g.2900
+3_1	AF4	M3ZLP1-F1	Southern platyfish	90.0	Mitochondrial ribosomal protein S30	IPR010793,IPR039982	
+3_1	AF4	A0A1A8S4X2-F1	bluefin notho	90.0	Mitochondrial ribosomal protein S30	IPR010793,IPR039982	MRPS30
+3_1	AF4	A0A0J7NT00-F1	Black garden ant	90.0	39s ribosomal protein mitochondrial	IPR010793	RF55_4228
+3_1	AF4	A0A7L1WJE6-F1	short-toed tree-creeper	90.0	RT30 protein	IPR010793,IPR039982	Mrps30 CERBRA_R07480
+3_1	AF4	A0A224Z1E1-F1	Rhipicephalus zambeziensis	90.0	Small subunit ribosomal protein S30	IPR010793,IPR039982	
+3_1	AF4	A0A0N0BIN9-F1	Melipona quadrifasciata	90.0	28S ribosomal protein S30, mitochondrial	IPR010793,IPR039982	WN51_10612
+3_1	AF4	A0A0M3K0P5-F1	Herring worm	90.0	28S ribosomal protein S30, mitochondrial	IPR010793,IPR039982	ASIM_LOCUS13816
+3_1	AF4	A0A2L2YE67-F1	House spider	90.0	39S ribosomal protein L37, mitochondrial	IPR010793	
+3_1	AF4	A0A6J2WTV4-F1	Milkfish	90.0	39S ribosomal protein S30, mitochondrial	IPR010793,IPR039982	mrps30
+3_1	AF4	V5IHR7-F1	Common tick	90.0	Putative mitochondrial ribosomal protein l37	IPR010793	
+3_1	AF4	G0PG05-F1	Nematode worm	89.9	CBN-TAG-264 protein	IPR010793,IPR039982	Cbn-tag-264 CAEBREN_10221
+3_1	AF4	A0A7R9H4M8-F1	Walking stick	89.9	Hypothetical protein	IPR010793	TPSB3V08_LOCUS5137
+3_1	AF4	A0A0B2UUX8-F1	Canine roundworm	89.9	28S ribosomal protein S30, mitochondrial	IPR010793,IPR039982	MRPS30 Tcan_14774
+3_1	AF4	A0A1E1X975-F1	Amblyomma aureolatum	89.9	Putative ribosomal protein l37	IPR010793	
+3_1	AF4	A0A7J7ARD0-F1	Lamprigera yunnana	89.9	28S ribosomal protein S30, mitochondrial	IPR010793,IPR039982	FQA39_LY12749
+3_1	AF4	A0A443S9I4-F1	Leptotrombidium deliense	89.9	28S ribosomal protein S30-like isoform X1	IPR010793,IPR039982	B4U80_07166
+3_1	AF4	A0A6P7J3K9-F1	Indian glassy fish	89.9	39S ribosomal protein S30, mitochondrial	IPR010793,IPR039982	mrps30
+3_1	AF4	A0A6P5VFX0-F1	Fruit fly	89.9	28S ribosomal protein S30, mitochondrial	IPR010793,IPR039982	LOC111075294
+3_1	AF4	A0A085NLI0-F1	pig whipworm	89.8	28S ribosomal protein S30, mitochondrial	IPR010793,IPR039982	M513_06938 M514_06938
+3_1	AF4	A0A131YQ16-F1	Brown ear tick	89.8	Small subunit ribosomal protein S30	IPR010793,IPR039982	
+3_1	AF4	A0A6P4JHG6-F1	Fruit fly	89.8	28S ribosomal protein S30, mitochondrial	IPR010793,IPR039982	LOC108082954
+3_1	AF4	A0A673CCC5-F1	orbiculate cardinalfish	89.8	Mitochondrial ribosomal protein S30	IPR010793,IPR039982	mrps30
+3_1	AF4	H2L6Q8-F1	Japanese rice fish	89.8	Mitochondrial ribosomal protein S30	IPR010793,IPR039982	mrps30
+3_1	AF4	A0A087XN14-F1	Amazon molly	89.8	Mitochondrial ribosomal protein S30	IPR010793,IPR039982	
+3_1	AF4	A0A3P8T2D9-F1	Orange clownfish	89.7	Mitochondrial ribosomal protein S30	IPR010793,IPR039982	
+3_1	AF4	A0A0L8HL20-F1	California two-spotted octopus	89.7	28S ribosomal protein S30, mitochondrial	IPR010793,IPR039982	OCBIM_22013010mg
+3_1	AF4	A0A3P9KJK2-F1	Japanese rice fish	89.7	Mitochondrial ribosomal protein S30	IPR010793,IPR039982	
+3_1	AF4	A0A556V3N2-F1	Goonch	89.7	39S ribosomal protein L37, mitochondrial	IPR010793	Baya_12588
+3_1	AF4	A0A6P4XY19-F1	Amphioxus	89.7	28S ribosomal protein S30, mitochondrial-like	IPR010793,IPR039982	LOC109463088
+3_1	AF4	A0A6J2TZK4-F1	Fruit fly	89.7	28S ribosomal protein S30, mitochondrial	IPR010793,IPR039982	LOC115629258
+3_1	AF4	A0A7I4XZI7-F1	Barber pole worm	89.7	39S ribosomal protein L37, mitochondrial	IPR010793,IPR039982	
+3_1	AF4	A0A6V7HC95-F1	Heterotrigona itama	89.7	Hypothetical protein	IPR010793,IPR039982	MHI_LOCUS658646
+3_1	AF4	A0A3Q1G808-F1	spiny chromis	89.7	Mitochondrial ribosomal protein S30	IPR010793,IPR039982	
+3_1	AF4	B3MPV0-F1	Fruit fly	89.7	28S ribosomal protein S30, mitochondrial	IPR010793,IPR039982	Dana\GF19982 Dana_GF19982
+3_1	AF4	A0A6M2CQL3-F1	Cattle tick	89.7	Putative ribosomal protein s30	IPR010793,IPR039982	
+3_1	AF4	A0A3Q2XQ47-F1	Tiger tail seahorse	89.6	Mitochondrial ribosomal protein S30	IPR010793,IPR039982	
+3_1	AF4	A0A1S0TUC9-F1	Eye worm	89.6	39S ribosomal protein L37, mitochondrial	IPR010793	LOAG_08053
+3_1	AF4	A0A3P9M1X6-F1	Japanese rice fish	89.6	Mitochondrial ribosomal protein S30	IPR010793,IPR039982	
+3_1	AF4	A0A3Q0R0J8-F1	Midas cichlid	89.6	Mitochondrial ribosomal protein L37	IPR010793	
+3_1	AF4	A0A3P9KJU6-F1	Japanese rice fish	89.6	Mitochondrial ribosomal protein S30	IPR010793,IPR039982	
+3_1	AF4	A0A2L2YCC8-F1	House spider	89.6	39S ribosomal protein L37, mitochondrial	IPR010793	
+3_1	AF4	A0A7J6YUY6-F1	Abscondita terminalis	89.6	28S ribosomal protein S30, mitochondrial	IPR010793,IPR039982	FQR65_LT04781
+3_1	AF4	A0A6I9PR22-F1	black rockcod	89.6	28S ribosomal protein S30, mitochondrial	IPR010793,IPR039982	mrps30
+3_1	AF4	A0A665WYX2-F1	Live sharksucker	89.6	Mitochondrial ribosomal protein S30	IPR010793,IPR039982	mrps30
+3_1	AF4	A0A6M2CSC3-F1	Cattle tick	89.6	Putative mitochondrial ribosomal protein l37	IPR010793	
+3_1	AF4	A0A6P3DNU4-F1	Buff-tailed bumblebee	89.6	uncharacterized protein LOC100644113	IPR010793,IPR039982	LOC100644113
+3_1	AF4	A0A6P7NHT2-F1	Siamese fighting fish	89.6	39S ribosomal protein S30, mitochondrial	IPR010793,IPR039982	mrps30
+3_1	AF4	A0A3P7FJP0-F1	Wuchereria bancrofti	89.6	39S ribosomal protein L37, mitochondrial	IPR010793	WBA_LOCUS2951
+3_1	AF4	A0A0H5SIN2-F1	Filarial nematode worm	89.6	BMA-MRPL-37	IPR010793	bma-mrpl-37 Bm1_20510 Bma-mrpl-37 Bm6656 BM_Bm6656
+3_1	AF4	K7F948-F1	Chinese softshell turtle	89.6	Mitochondrial ribosomal protein S30	IPR010793,IPR039982	MRPS30
+3_1	AF4	A0A7J7YXU5-F1	Kuhl's pipistrelle	89.6	Mitochondrial ribosomal protein S30	IPR010793,IPR039982	mPipKuh1_011810
+3_1	AF4	A0A5N3WCG6-F1	Barking deer	89.5	39S ribosomal protein L37, mitochondrial	IPR010793	FD754_003558
+3_1	AF4	B4JJS3-F1	Hawaiian fruit fly	89.5	GH12536	IPR010793,IPR039982	Dgri\GH12536 Dgri_GH12536
+3_1	AF4	A0A3P9NQC0-F1	Guppy	89.5	Mitochondrial ribosomal protein S30	IPR010793,IPR039982	
+3_1	AF4	A0A3Q3IQ38-F1	Swamp eel	89.5	Mitochondrial ribosomal protein S30	IPR010793,IPR039982	
+3_1	AF4	O61818-F1	Caeel	89.4	Mitochondrial Ribosomal Protein, Small	IPR010793,IPR039982	mrps-30 B0511.8 CELE_B0511.8
+3_1	AF4	A0A3P9KK00-F1	Japanese rice fish	89.4	Mitochondrial ribosomal protein S30	IPR010793,IPR039982	
+3_1	AF4	A0A7R8X4Z8-F1	Darwinula stevensoni	89.4	Mitochondrial ribosomal protein L37	IPR010793	DSTB1V02_LOCUS4066
+3_1	AF4	A0A5S6QCH8-F1	Mouse whipworm	89.4	28S ribosomal protein S30, mitochondrial	IPR010793,IPR039982	
+3_1	AF4	A0A0K0F638-F1	Threadworm	89.4	28S ribosomal protein S30, mitochondrial	IPR010793,IPR039982	
+3_1	AF4	A0A2U9BTJ8-F1	Turbot	89.4	Putative 28S ribosomal protein S30 mitochondrial	IPR010793,IPR039982	F2P81_014218 SMAX5B_010286
+3_1	AF4	A0A0N8D282-F1	Daphnia magna	89.4	39S ribosomal protein L37, mitochondrial	IPR010793	APZ42_022109
+3_1	AF4	A0A3Q1HA25-F1	Climbing perch	89.4	Mitochondrial ribosomal protein S30	IPR010793,IPR039982	
+3_1	AF4	A0A6G1PZR9-F1	northern snakehead	89.4	28S ribosomal protein S30, mitochondrial	IPR010793,IPR039982	EXN66_Car011174
+3_1	AF4	A0A5S6QDC5-F1	Mouse whipworm	89.4	39S ribosomal protein L37, mitochondrial	IPR010793	
+3_1	AF4	A0A3Q2D433-F1	Sheepshead minnow	89.3	Mitochondrial ribosomal protein S30	IPR010793,IPR039982	
+3_1	AF4	A0A2K6T3Z7-F1	Bolivian squirrel monkey	89.3	Mitochondrial ribosomal protein L37	IPR010793	MRPL37
+3_1	AF4	A0A3P9KK04-F1	Japanese rice fish	89.3	Mitochondrial ribosomal protein S30	IPR010793,IPR039982	
+3_1	AF4	A0A4Z2F7T1-F1	Tanaka's snailfish	89.3	28S ribosomal protein S30, mitochondrial	IPR010793,IPR039982	MRPS30 EYF80_052975
+3_1	AF4	A0A852KNM4-F1	Red-faced mousebird	89.3	RT30 protein	IPR010793,IPR039982	Mrps30 UROIND_R05786
+3_1	AF4	M3ZBH9-F1	Northern white-cheeked gibbon	89.3	Mitochondrial ribosomal protein L37	IPR010793	MRPL37
+3_1	AF4	A0A0V0G5J5-F1	Kissing bug	89.3	Putative 28s ribosomal protein s30 mitochondrial	IPR010793,IPR039982	
+3_1	AF4	A0A7K4XPS1-F1	Golden-crowned kinglet	89.3	RT30 protein	IPR010793,IPR039982	Mrps30 REGSAT_R08452
+3_1	AF4	A0A0V1KGH4-F1	Parasitic roundworm	89.3	28S ribosomal protein S30, mitochondrial	IPR010793,IPR039982	F42H10.3 T4C_12206
+3_1	AF4	R4FNI7-F1	Triatomid bug	89.3	Putative mitochondrial 28s ribosomal protein s30	IPR010793,IPR039982	
+3_1	AF4	A0A7R9GRS4-F1	Walking stick	89.2	Hypothetical protein	IPR010793,IPR039982	TCEB3V08_LOCUS2824
+3_1	AF4	A0A0R3S571-F1	Elaeophora elaphi	89.2	39S ribosomal protein L37, mitochondrial	IPR010793	
+3_1	AF4	A0A2I3S9T4-F1	Chimpanzee	89.1	Mitochondrial ribosomal protein L37	IPR010793	MRPL37
+3_1	AF4	A0A4W6EIC9-F1	Barramundi	89.1	Mitochondrial ribosomal protein S30	IPR010793,IPR039982	mrps30
+3_1	AF4	C3Y1W2-F1	Florida lancelet	89.1	28S ribosomal protein S30, mitochondrial	IPR010793,IPR039982	BRAFLDRAFT_122138
+3_1	AF4	A0A6A4J9T1-F1	Plant bug	89.1	28S ribosomal protein S30, mitochondrial	IPR010793,IPR039982	GE061_017870 GE061_05498
+3_1	AF4	A0A0K0DMV7-F1	Rat lungworm	89.1	28S ribosomal protein S30, mitochondrial	IPR010793,IPR039982	
+3_1	AF4	E9GB26-F1	Water flea	89.1	39S ribosomal protein L37, mitochondrial	IPR010793	DAPPUDRAFT_301877
+3_1	AF4	A0A0N4ZN34-F1	Possum-specific nematode worm	89.1	28S ribosomal protein S30, mitochondrial	IPR010793,IPR039982	
+3_1	AF4	A0A6P8YU33-F1	Melon thrips	89.0	39S ribosomal protein S30, mitochondrial	IPR010793,IPR039982	LOC117645143
+3_1	AF4	A0A0R3RTJ0-F1	Elaeophora elaphi	89.0	28S ribosomal protein S30, mitochondrial	IPR010793,IPR039982	
+3_1	AF4	F7FT74-F1	Rhesus macaque	89.0	Mitochondrial ribosomal protein S30	IPR010793,IPR039982	MRPS30
+3_1	AF4	A0A5J5N689-F1	Reeves' muntjac	89.0	39S ribosomal protein L37, mitochondrial	IPR010793	FD755_001056
+3_1	AF4	A0A452QRZ3-F1	American black bear	89.0	Mitochondrial ribosomal protein S30	IPR010793,IPR039982	MRPS30
+3_1	AF4	A0A0V0X6L1-F1	Trichinella sp	89.0	28S ribosomal protein S30, mitochondrial	IPR010793,IPR039982	MRPS30 T06_2862
+3_1	AF4	A0A6A5FHI7-F1	European perch	89.0	Mitochondrial ribosomal protein S30	IPR010793,IPR039982	PFLUV_G00073680
+3_1	AF4	Q29CP7-F1	Fruit fly	89.0	28S ribosomal protein S30, mitochondrial	IPR010793,IPR039982	LOC4811746
+3_1	AF4	A0A7L1SNW9-F1	Limpkin	89.0	RT30 protein	IPR010793,IPR039982	Mrps30 ARAGUA_R14895
+3_1	AF4	A0A069DZ91-F1	Panstrongylus megistus	89.0	Putative 28s ribosomal protein s30 mitochondrial	IPR010793,IPR039982	
+3_1	AF4	A0A0V1KGB7-F1	Parasitic roundworm	88.9	28S ribosomal protein S30, mitochondrial	IPR010793,IPR039982	F42H10.3 T4C_12206
+3_1	AF4	A0A1I7S0V1-F1	Pinewood nematode worm	88.9	(pine wood nematode) hypothetical protein	IPR010793,IPR039982	BXYJ_LOCUS2377
+3_1	AF4	A0A0A9YHM5-F1	Western plant bug	88.9	39S ribosomal protein L37, mitochondrial	IPR010793	MRPL37_3 MRPL37_0 CM83_80491 CM83_80493
+3_1	AF4	A0A224XAC2-F1	Panstrongylus lignarius	88.9	Putative mitochondrial 28s ribosomal protein s30	IPR010793,IPR039982	
+3_1	AF4	A0A3P8WVG7-F1	Tongue sole	88.9	Mitochondrial ribosomal protein S30	IPR010793,IPR039982	
+3_1	AF4	A0A2R9CGL7-F1	Pygmy chimpanzee	88.9	Mitochondrial ribosomal protein L37	IPR010793	MRPL37
+3_1	AF4	B4MT37-F1	Fruit fly	88.9	28S ribosomal protein S30, mitochondrial	IPR010793,IPR039982	Dwil\GK19783 Dwil_GK19783
+3_1	AF4	A0A7R9G039-F1	Walking stick	88.9	NADH dehydrogenase [ubiquinone] 1 alpha subcomplex subunit 13 (Complex I-B16.6) (NADH-ubiquinone oxidoreductase B16.6 subunit)	IPR009346,IPR010793,IPR039982	TSIB3V08_LOCUS4990
+3_1	AF4	A0A7K4ZXQ8-F1	Centropus unirufus	88.9	RT30 protein	IPR010793,IPR039982	Mrps30 CENUNI_R01319
+3_1	AF4	A0A0N7Z904-F1	Rhodnius neglectus	88.9	Putative 28s ribosomal protein s30 mitochondrial	IPR010793,IPR039982	
+3_1	AF4	A0A6A4VWF5-F1	Striped barnacle	88.9	28S ribosomal protein S30, mitochondrial	IPR010793,IPR039982	Mrps30 FJT64_006769
+3_1	AF4	A0A0V1JDC6-F1	Parasitic roundworm	88.9	28S ribosomal protein S30, mitochondrial	IPR010793,IPR039982	MRPS30 T4B_3350
+3_1	AF4	A0A2T7NDT1-F1	Golden apple snail	88.8	39S ribosomal protein L37, mitochondrial	IPR010793,IPR039982	C0Q70_19792
+3_1	AF4	A0A6P7S8G0-F1	Common octopus	88.8	39S ribosomal protein S30, mitochondrial	IPR010793,IPR039982	LOC115209920
+3_1	AF4	A0A6L5DFT6-F1	Ephemera danica	88.8	28S ribosomal protein S30, mitochondrial	IPR010793,IPR039982	B566_EDAN007243
+3_1	AF4	R7T3D1-F1	Polychaete worm	88.8	28S ribosomal protein S30, mitochondrial	IPR010793,IPR039982	CAPTEDRAFT_221901
+3_1	AF4	A0A498SBB5-F1	Filarial nematode worm	88.8	Mab-21 domain-containing protein	IPR008930,IPR010793	NAV_LOCUS3841
+3_1	AF4	S4R369-F1	Human	88.8	39S ribosomal protein L37, mitochondrial	IPR010793	MRPL37
+3_1	AF4	A0A2A3EKU5-F1	Oriental honeybee	88.7	28S ribosomal protein S30	IPR010793,IPR039982	APICC_07786
+3_1	AF4	A0A224Z1S2-F1	Rhipicephalus zambeziensis	88.7	Large subunit ribosomal protein L37	IPR010793	
+3_1	AF4	A0A2C9LEF0-F1	Bloodfluke planorb	88.7	28S ribosomal protein S30, mitochondrial	IPR010793,IPR039982	106053986
+3_1	AF4	A0A177BE99-F1	Intoshia linei	88.7	39S ribosomal protein L37, mitochondrial	IPR010793,IPR039982	A3Q56_00340
+3_1	AF4	A0A7M4EC03-F1	Saltwater crocodile	88.6	Mitochondrial ribosomal protein L37	IPR010793	MRPL37
+3_1	AF4	A0A7E4W5R2-F1	Microworm	88.6	Uncharacterized protein	IPR010793,IPR039982	
+3_1	AF4	A0A0V1KGF2-F1	Parasitic roundworm	88.6	28S ribosomal protein S30, mitochondrial	IPR010793,IPR039982	F42H10.3 T4C_12206
+3_1	AF4	A0A1D2NF31-F1	Springtail	88.6	39S ribosomal protein L37, mitochondrial	IPR010793	Ocin01_02783
+3_1	AF4	A0A484DD99-F1	American yellow perch	88.6	Mitochondrial ribosomal protein S30	IPR010793,IPR039982	EPR50_G00053650
+3_1	AF4	A0A5N4B045-F1	Common eastern firefly	88.6	28S ribosomal protein S30, mitochondrial	IPR010793,IPR039982	PPYR_05074
+3_1	AF4	A0A1Y1M8U9-F1	Common eastern firefly	88.5	28S ribosomal protein S30, mitochondrial	IPR010793,IPR039982	
+3_1	AF4	A0A3P6SS45-F1	Filarial nematode worm	88.5	39S ribosomal protein L37, mitochondrial	IPR010793,IPR039982	NLS_LOCUS4179
+3_1	AF4	A0A0V0X788-F1	Trichinella sp	88.5	28S ribosomal protein S30, mitochondrial	IPR010793,IPR039982	MRPS30 T06_2862
+3_1	AF4	A0A1I7ZCS1-F1	Steinernema glaseri	88.5	39S ribosomal protein L37, mitochondrial	IPR010793,IPR039982	
+3_1	AF4	A0A443QUG1-F1	Dinothrombium tinctorium	88.5	28S ribosomal protein S30: mitochondrial-like isoform X1	IPR010793,IPR039982	B4U79_06285
+3_1	AF4	A0A1Y3ETF5-F1	Trichinella nativa	88.4	28S ribosomal protein S30, mitochondrial	IPR010793,IPR039982	D917_01490
+3_1	AF4	A0A653DUZ5-F1	Southern cowpea weevil	88.4	28S ribosomal protein S30, mitochondrial	IPR010793,IPR039982	CALMAC_LOCUS20677
+3_1	AF4	A0A1S3HV57-F1	Lingula unguis	88.4	28S ribosomal protein S30, mitochondrial	IPR010793,IPR039982	LOC106158454
+3_1	AF4	A0A131YQZ6-F1	Brown ear tick	88.4	Large subunit ribosomal protein L37	IPR010793	
+3_1	AF4	A0A3P8WSA0-F1	Tongue sole	88.4	Mitochondrial ribosomal protein S30	IPR010793,IPR039982	
+3_1	AF4	L7M8U1-F1	Yellow backed tick	88.3	Putative mitochondrial ribosomal protein l37	IPR010793	
+3_1	AF4	A0A850TN92-F1	Whooping crane	88.3	RT30 protein	IPR010793,IPR039982	Mrps30 GRUAME_R09936
+3_1	AF4	A0A7L2M2Q4-F1	icterine warbler	88.3	RT30 protein	IPR010793,IPR039982	Mrps30 HIPICT_R10019
+3_1	AF4	A0A6A5HRS4-F1	Caenorhabditis vulgaris	88.3	28S ribosomal protein S30, mitochondrial	IPR010793,IPR039982	GCK72_002437
+3_1	AF4	A0A6A4JPS5-F1	Plant bug	88.3	39S ribosomal protein L37, mitochondrial	IPR010793	GE061_016408 GE061_16334
+3_1	AF4	A0A0B1SQ86-F1	Nodular worm	88.3	Metallophos domain-containing protein	IPR004843,IPR010793,IPR029052,IPR039982	OESDEN_14632
+3_1	AF4	A0A6J1RWV3-F1	Western flower thrips	88.2	28S ribosomal protein S30, mitochondrial	IPR010793,IPR039982	LOC113201743
+3_1	AF4	A0A0K8SKB9-F1	Western plant bug	88.2	28S ribosomal protein S30, mitochondrial	IPR010793,IPR039982	
+3_1	AF4	A0A0V1AGG4-F1	Trichinella patagoniensis	88.2	28S ribosomal protein S30, mitochondrial	IPR010793,IPR039982	MRPS30 T12_15220
+3_1	AF4	A0A016TD59-F1	Ancylostoma ceylanicum	88.2	Metallophos domain-containing protein	IPR004843,IPR010793,IPR029052,IPR039982	Acey_s0112.g336 Acey-mrps-30 Y032_0112g336
+3_1	AF4	A0A0N5ALC7-F1	Syphacia muris	88.2	28S ribosomal protein S30, mitochondrial	IPR010793,IPR039982	
+3_1	AF4	A0A0A9YYN6-F1	Western plant bug	88.2	28S ribosomal protein S30, mitochondrial	IPR010793,IPR039982	MRPS30_2 MRPS30_1 CM83_75140 CM83_75142
+3_1	AF4	A0A7M7NDJ5-F1	Purple sea urchin	88.1	39S ribosomal protein L37, mitochondrial	IPR010793	
+3_1	AF4	A0A2G5VJ30-F1	Caenorhabditis nigoni	88.1	Metallophos domain-containing protein	IPR004843,IPR010793,IPR029052,IPR039982	Cni-mrps-30 Cnig_chr_I.g2104 B9Z55_002104
+3_1	AF4	A0A7M7R6M2-F1	Honeybee	88.0	Uncharacterized protein	IPR010793,IPR039982	412984
+3_1	AF4	A0A261CEM6-F1	Caenorhabditis latens	88.0	28S ribosomal protein S30, mitochondrial	IPR010793,IPR039982	FL83_05171
+3_1	AF4	A0A146LZV8-F1	Western plant bug	88.0	28S ribosomal protein S30, mitochondrial	IPR010793,IPR039982	MRPS30 g.61065
+3_1	AF4	A0A482XPR6-F1	Small brown planthopper	88.0	39S ribosomal protein L37, mitochondrial	IPR010793	LSTR_LSTR007427
+3_1	AF4	A0A0N5D7T5-F1	Oriental eyeworm	87.9	28S ribosomal protein S30, mitochondrial	IPR010793,IPR039982	TCLT_LOCUS9134
+3_1	AF4	A0A7K5CTV1-F1	Pachyramphus minor	87.9	RT30 protein	IPR010793,IPR039982	Mrps30 PACMIN_R05956
+3_1	AF4	G3PKT2-F1	Three-spined stickleback	87.8	Mitochondrial ribosomal protein S30	IPR010793,IPR039982	
+3_1	AF4	A0A7K5KGL6-F1	McConnell's flycatcher	87.8	RT30 protein	IPR010793,IPR039982	Mrps30 MIOMAC_R14797
+3_1	AF4	A0A151XCE8-F1	Trachymyrmex zeteki	87.7	39S ribosomal protein L37, mitochondrial	IPR010793	ALC60_03068
+3_1	AF4	A0A1I7V9M9-F1	Eye worm	87.7	28S ribosomal protein S30, mitochondrial	IPR010793,IPR039982	LOAG_17972
+3_1	AF4	A0A0V1PI07-F1	Trichinella sp	87.7	39S ribosomal protein L37, mitochondrial	IPR010793	dhs-27 T08_6427
+3_1	AF4	A0A195CY73-F1	Cyphomyrmex costatus	87.7	39S ribosomal protein L37, mitochondrial	IPR010793	ALC62_03396
+3_1	AF4	A0A7L0NRM2-F1	Formicarius rufipectus	87.7	RT30 protein	IPR010793,IPR039982	Mrps30 FORRUF_R14497
+3_1	AF4	A0A7L1UEU3-F1	Phainopepla	87.6	RT30 protein	IPR010793,IPR039982	Mrps30 PHANIT_R02735
+3_1	AF4	A0A2K5D8N9-F1	Ma's night monkey	87.6	Mitochondrial ribosomal protein L37	IPR010793	MRPL37
+3_1	AF4	A0A1I7T4H8-F1	Caenorhabditis tropicalis	87.5	28S ribosomal protein S30, mitochondrial	IPR010793,IPR039982	
+3_1	AF4	A0A1B6LLN1-F1	Graphocephala atropunctata	87.5	28S ribosomal protein S30, mitochondrial	IPR010793,IPR039982	g.23365
+3_1	AF4	A0A315W4A0-F1	Western mosquitofish	87.5	39S ribosomal protein L37, mitochondrial	IPR010793	CCH79_00017364
+3_1	AF4	A0A7L3LC52-F1	Little buttonquail	87.5	RT30 protein	IPR010793,IPR039982	Mrps30 TURVEL_R06525
+3_1	AF4	A0A016TE72-F1	Ancylostoma ceylanicum	87.5	Metallophos domain-containing protein	IPR004843,IPR010793,IPR029052,IPR039982	Acey_s0112.g336 Acey-mrps-30 Y032_0112g336
+3_1	AF4	F7IMU9-F1	White-tufted-ear marmoset	87.4	Mitochondrial ribosomal protein L37	IPR010793	MRPL37
+3_1	AF4	A0A0L7QN17-F1	Habropoda laboriosa	87.4	28S ribosomal protein S30, mitochondrial	IPR010793,IPR039982	WH47_09135
+3_1	AF4	A0A7K8C5U2-F1	Rhagologus leucostigma	87.4	RT30 protein	IPR010793,IPR039982	Mrps30 RHALEU_R08629
+3_1	AF4	A0A7L2XM19-F1	Erpornis zantholeuca	87.4	RT30 protein	IPR010793,IPR039982	Mrps30 ERPZAN_R09692
+3_1	AF4	A0A7L0DID9-F1	greater painted-snipe	87.4	RT30 protein	IPR010793,IPR039982	Mrps30 ROSBEN_R04578
+3_1	AF4	A0A816DKJ9-F1	Rotaria magnacalcarata	87.3	Hypothetical protein	IPR010793,IPR039982	GIL414_LOCUS33712 KQP761_LOCUS27440
+3_1	AF4	A0A2I2YDW4-F1	Western lowland gorilla	87.3	Mitochondrial ribosomal protein L37	IPR010793	MRPL37
+3_1	AF4	A0A7L4DLU8-F1	Eurystomus gularis	87.3	RT30 protein	IPR010793,IPR039982	Mrps30 EURGUL_R14428
+3_1	AF4	A0A6J0GXX0-F1	blue-crowned manakin	87.2	28S ribosomal protein S30, mitochondrial isoform X2	IPR010793,IPR039982	MRPS30
+3_1	AF4	A0A3B3SDG6-F1	Paramormyrops kingsleyae	87.2	Mitochondrial ribosomal protein L37	IPR010793	
+3_1	AF4	A0A815AUF2-F1	Rotifer	87.2	Hypothetical protein	IPR010793,IPR039982	XAT740_LOCUS26959
+3_1	AF4	A0A7K7TEV0-F1	broad-billed sapayoa	87.2	RT30 protein	IPR010793,IPR039982	Mrps30 SAPAEN_R07403
+3_1	AF4	A0A7L2RCS4-F1	wattled asity	87.2	RT30 protein	IPR010793,IPR039982	Mrps30 NEOCOR_R00497
+3_1	AF4	A0A7K5BFK1-F1	Furnarius figulus	87.2	RT30 protein	IPR010793,IPR039982	Mrps30 FURFIG_R04493
+3_1	AF4	A0A7K6A7G7-F1	Royal flycatcher	87.1	RT30 protein	IPR010793,IPR039982	Mrps30 ONYCOR_R01384
+3_1	AF4	A0A7L3QNQ8-F1	Cettia cetti	87.1	RT30 protein	IPR010793,IPR039982	Mrps30 CETCET_R01196
+3_1	AF4	A0A851NXQ9-F1	Penelope pileata	87.1	RT30 protein	IPR010793,IPR039982	Mrps30 PENPIL_R08980
+3_1	AF4	A0A151MX44-F1	American alligator	87.1	28S ribosomal protein S30, mitochondrial	IPR010793,IPR039982	MRPS30 Y1Q_0009875
+3_1	AF4	A0A1D2MIJ6-F1	Springtail	87.1	28S ribosomal protein S30, mitochondrial	IPR010793,IPR039982	Ocin01_13927
+3_1	AF4	A0A2J8V916-F1	Sumatran orangutan	87.1	MRPL37 isoform 4	IPR010793	CR201_G0021062
+3_1	AF4	A0A7K7FE54-F1	Black-faced sheathbill	87.0	RT30 protein	IPR010793,IPR039982	Mrps30 CHIMIN_R07267
+3_1	AF4	A0A498SE40-F1	Filarial nematode worm	87.0	28S ribosomal protein S30, mitochondrial	IPR010793,IPR039982	NAV_LOCUS5274
+3_1	AF4	A0A0V1AGF0-F1	Trichinella patagoniensis	87.0	28S ribosomal protein S30, mitochondrial	IPR010793,IPR039982	MRPS30 T12_15220
+3_1	AF4	A0A182E5N5-F1	Filarial nematode worm	87.0	28S ribosomal protein S30, mitochondrial	IPR010793,IPR039982	NOO_LOCUS3316
+3_1	AF4	A0A7L0J4W5-F1	Wing-barred manakin	87.0	RT30 protein	IPR010793,IPR039982	Mrps30_1 PIPCHL_R02989
+3_1	AF4	A0A7L2TJB6-F1	Chestnut-crowned babbler	87.0	RT30 protein	IPR010793,IPR039982	Mrps30 POSRUF_R12282
+3_1	AF4	A0A7L4JSK2-F1	Ceuthmochares aereus	87.0	RT30 protein	IPR010793,IPR039982	Mrps30 CEUAER_R03297
+3_1	AF4	A0A7K6HYN2-F1	rufous bristle-bird	86.9	RT30 protein	IPR010793,IPR039982	Mrps30 DASBRO_R03004
+3_1	AF4	A0A7R8XD06-F1	Darwinula stevensoni	86.9	Hypothetical protein	IPR010793,IPR039982	DSTB1V02_LOCUS7288
+3_1	AF4	A0A131XBZ6-F1	Hyalomma excavatum	86.9	Putative ribosomal protein l37	IPR010793	
+3_1	AF4	A0A0B6Z5S3-F1	Arion vulgaris	86.9	28S ribosomal protein S30, mitochondrial	IPR010793,IPR039982	ORF50132
+3_1	AF4	A0A1B6ICP4-F1	Homalodisca liturata	86.9	28S ribosomal protein S30, mitochondrial	IPR010793,IPR039982	g.35188
+3_1	AF4	A0A0H5SG95-F1	Filarial nematode worm	86.9	BMA-MRPS-30	IPR010793,IPR039982	bma-mrps-30 Bm1_56530 Bma-mrps-30 Bm1840 BM_Bm1840
+3_1	AF4	E2ATA1-F1	Florida carpenter ant	86.9	39S ribosomal protein L37, mitochondrial	IPR010793	EAG_15473
+3_1	AF4	A0A814CRE6-F1	Brachionus calyciflorus	86.9	Hypothetical protein	IPR010793,IPR039982	OXX778_LOCUS13568
+3_1	AF4	A0A7K6PKZ8-F1	blue-capped ifrita	86.9	RT30 protein	IPR010793,IPR039982	Mrps30 IFRKOW_R10195
+3_1	AF4	A0A817AL83-F1	Rotaria magnacalcarata	86.9	Hypothetical protein	IPR010793,IPR039982	MBJ925_LOCUS38472
+3_1	AF4	A0A3Q2ZAS1-F1	Mangrove killifish	86.9	Mitochondrial ribosomal protein L37	IPR010793	
+3_1	AF4	A0A852P249-F1	Atrichornis clamosus	86.9	RT30 protein	IPR010793,IPR039982	Mrps30 ATRCLA_R11735
+3_1	AF4	A0A852M9G4-F1	lesser coucal	86.8	RT30 protein	IPR010793,IPR039982	Mrps30 CENBEN_R01377
+3_1	AF4	A0A7L4F9C8-F1	Western bronze ground-dove	86.8	RT30 protein	IPR010793,IPR039982	Mrps30 ALOBEC_R13400
+3_1	AF4	A0A816C8N2-F1	Rotaria magnacalcarata	86.8	Hypothetical protein	IPR010793,IPR039982	CJN711_LOCUS37639
+3_1	AF4	A0A3M6T5F6-F1	Cauliflower coral	86.8	39S ribosomal protein L37, mitochondrial	IPR010793	pdam_00014988
+3_1	AF4	A0A814P5H9-F1	Rotifer	86.8	Hypothetical protein	IPR010793,IPR039982	EDS130_LOCUS19949
+3_1	AF4	A0A2G5VIV4-F1	Caenorhabditis nigoni	86.8	39S ribosomal protein L37, mitochondrial	IPR010793,IPR039982	Cni-mrps-30 Cnig_chr_I.g2104 B9Z55_002104
+3_1	AF4	A0A851UDB7-F1	spotted wren-babbler	86.7	RT30 protein	IPR010793,IPR039982	Mrps30 ELAFOR_R06895
+3_1	AF4	A0A6G1S1J6-F1	Hypotaenidia okinawae	86.7	Mitochondrial ribosomal protein S30	IPR010793,IPR039982	
+3_1	AF4	A0A7K7Z495-F1	Fan-tailed berrypecker	86.7	RT30 protein	IPR010793,IPR039982	Mrps30 MELVER_R11861
+3_1	AF4	A0A5K4F7G6-F1	Blood fluke	86.7	Putative cytochrome b5	IPR010793	
+3_1	AF4	A0A0V0X709-F1	Trichinella sp	86.7	28S ribosomal protein S30, mitochondrial	IPR010793,IPR039982	MRPS30 T06_2862
+3_1	AF4	A0A7K7UVW3-F1	Elegant crested-tinamou	86.7	RT30 protein	IPR010793,IPR039982	Mrps30 EUDELE_R00293
+3_1	AF4	A0A6H5FV50-F1	Nesidiocoris tenuis	86.7	28S ribosomal protein S30, mitochondrial	IPR010793,IPR039982	NTEN_LOCUS390
+3_1	AF4	A0A7L1CX35-F1	silver-breasted broadbill	86.7	RT30 protein	IPR010793,IPR039982	Mrps30 SERLUN_R04411
+3_1	AF4	A0A0N4V7M0-F1	Human pinworm	86.7	28S ribosomal protein S30, mitochondrial	IPR010793,IPR039982	EVEC_LOCUS5900
+3_1	AF4	A0A7K6FU92-F1	varied sittella	86.6	RT30 protein	IPR010793,IPR039982	Mrps30 DAPCHR_R05325
+3_1	AF4	A0A820F3U7-F1	Rotaria magnacalcarata	86.6	Hypothetical protein	IPR010793,IPR039982	OVN521_LOCUS21420 UXM345_LOCUS31052 WKI299_LOCUS3689 XDN619_LOCUS12721
+3_1	AF4	A0A183XEM2-F1	Wuchereria bancrofti	86.6	28S ribosomal protein S30, mitochondrial	IPR010793,IPR039982	WBA_LOCUS417
+3_1	AF4	A0A7I8VIN9-F1	Dimorphilus gyrociliatus	86.6	DgyrCDS5073	IPR010793,IPR039982	DGYR_LOCUS4799
+3_1	AF4	A0A851F5E7-F1	Hooded pitta	86.6	RT30 protein	IPR010793,IPR039982	Mrps30 PITSOR_R07388
+3_1	AF4	A0A814PP64-F1	Rotaria sordida	86.5	Hypothetical protein	IPR010793,IPR039982	JXQ802_LOCUS30479 PYM288_LOCUS20073
+3_1	AF4	A0A0R3QWE9-F1	Brugia timori	86.5	28S ribosomal protein S30, mitochondrial	IPR010793,IPR039982	BTMF_LOCUS10085
+3_1	AF4	A8XFH5-F1	Caenorhabditis briggsae	86.5	Protein CBR-MRPS-30	IPR010793,IPR039982	mrps-30 Cbr-mrps-30 CBG12459 CBG_12459
+3_1	AF4	A0A815QP31-F1	Adineta steineri	86.5	Hypothetical protein	IPR010793,IPR039982	QVE165_LOCUS41170
+3_1	AF4	A0A7L3Q075-F1	elegant woodcreeper	86.5	RT30 protein	IPR010793,IPR039982	Mrps30 XIPELE_R08425
+3_1	AF4	A0A7K5EA57-F1	Blue-grey gnatcatcher	86.5	RT30 protein	IPR010793,IPR039982	Mrps30 POLCAE_R01439
+3_1	AF4	A0A067QEA0-F1	Dampwood termite	86.5	39S ribosomal protein L37, mitochondrial	IPR010793	L798_07992
+3_1	AF4	A0A7K7VV23-F1	Nothocercus julius	86.4	RT30 protein	IPR010793,IPR039982	Mrps30 NOTJUL_R08442
+3_1	AF4	A0A7L3WT64-F1	Inaccessible Island rail	86.4	RT30 protein	IPR010793,IPR039982	Mrps30 ATLROG_R06621
+3_1	AF4	A0A7L0X5C4-F1	Fork-tailed flycatcher	86.4	RT30 protein	IPR010793,IPR039982	Mrps30 TYRSAV_R10286
+3_1	AF4	A0A851R6L7-F1	Karoo scrub-robin	86.4	RT30 protein	IPR010793,IPR039982	Mrps30 CERCOR_R07194
+3_1	AF4	A0A7K6DRJ5-F1	Origma solitaria	86.4	RT30 protein	IPR010793,IPR039982	Mrps30 ORISOL_R14968
+3_1	AF4	A0A7K5HEJ9-F1	Groove-billed ani	86.4	RT30 protein	IPR010793,IPR039982	Mrps30 CROSUL_R09546
+3_1	AF4	A0A819EYX5-F1	Rotaria sordida	86.4	Hypothetical protein	IPR010793,IPR039982	JBS370_LOCUS18608 ZHD862_LOCUS8789
+3_1	AF4	A8QH79-F1	Filarial nematode worm	86.4	28S ribosomal protein S30, mitochondrial, putative	IPR010793,IPR039982	Bm1_56530
+3_1	AF4	A0A087UV53-F1	African social velvet spider	86.4	28S ribosomal protein S30, mitochondrial	IPR010793,IPR039982	X975_19006
+3_1	AF4	A0A452EYP6-F1	Goat	86.4	39S ribosomal protein L37, mitochondrial	IPR010793	MRPL37
+3_1	AF4	A0A814BE09-F1	Rotaria sordida	86.4	Hypothetical protein	IPR010793,IPR039982	OTI717_LOCUS16591 RFH988_LOCUS10234
+3_1	AF4	A0A7K8DS91-F1	Bali myna	86.3	RT30 protein	IPR010793,IPR039982	Mrps30 LEUROT_R09993
+3_1	AF4	A0A7L4GYD7-F1	Tawny frogmouth	86.3	RT30 protein	IPR010793,IPR039982	Mrps30 PODSTR_R05806
+3_1	AF4	A0A7K5RJA0-F1	Loggerhead shrike	86.3	RT30 protein	IPR010793,IPR039982	Mrps30 LANLUD_R13279
+3_1	AF4	A0A7K6ZHJ9-F1	Nothoprocta pentlandii	86.3	RT30 protein	IPR010793,IPR039982	Mrps30 NOTPEN_R02132
+3_1	AF4	A0A7L1MIV4-F1	Bohemian waxwing	86.3	RT30 protein	IPR010793,IPR039982	Mrps30 BOMGAR_R04351
+3_1	AF4	A0A7L2V3G4-F1	short-legged ground-roller	86.3	RT30 protein	IPR010793,IPR039982	Mrps30 BRALEP_R12497
+3_1	AF4	A0A1V4KRW3-F1	Patagioenas fasciata	86.3	28S ribosomal protein S30, mitochondrial	IPR010793,IPR039982	MRPS30 AV530_015515
+3_1	AF4	H0YVT7-F1	Zebra finch	86.3	Mitochondrial ribosomal protein S30	IPR010793,IPR039982	MRPS30
+3_1	AF4	A0A818IN66-F1	Adineta steineri	86.3	Hypothetical protein	IPR010793,IPR039982	JYZ213_LOCUS30178 KXQ929_LOCUS1328 OXD698_LOCUS3035
+3_1	AF4	A0A3B3ZUJ0-F1	Periophthalmus magnuspinnatus	86.3	Mitochondrial ribosomal protein S30	IPR010793,IPR039982	
+3_1	AF4	A0A7L3HKD2-F1	red-billed oxpecker	86.3	RT30 protein	IPR010793,IPR039982	Mrps30 BUPERY_R00889
+3_1	AF4	A0A7L2QS66-F1	white-throated Oxylabes	86.3	RT30 protein	IPR010793,IPR039982	Mrps30 OXYMAD_R00805
+3_1	AF4	A0A7K8H4Q7-F1	Chowchilla	86.2	RT30 protein	IPR010793,IPR039982	Mrps30 ORTSPA_R07114
+3_1	AF4	A0A7K6QJT0-F1	rufous treecreeper	86.2	RT30 protein	IPR010793,IPR039982	Mrps30 CLIRUF_R07405
+3_1	AF4	A0A7K9PG34-F1	yellow-belllied whistler	86.2	RT30 protein	IPR010793,IPR039982	Mrps30 PACPHI_R07099
+3_1	AF4	A0A4E9FKH4-F1	Filarial nematode worm	86.2	28S ribosomal protein S30, mitochondrial, putative	IPR010793,IPR039982	Bma-mrps-30 BM_BM1840
+3_1	AF4	A0A7K9IQA6-F1	Myiagra hebetior	86.2	RT30 protein	IPR010793,IPR039982	Mrps30 MYIHEB_R14781
+3_1	AF4	A0A7K9WS85-F1	Rhipidura dahli	86.2	RT30 protein	IPR010793,IPR039982	Mrps30 RHIDAH_R14589
+3_1	AF4	A0A7K9ZX05-F1	Dicrurus megarhynchus	86.2	RT30 protein	IPR010793,IPR039982	Mrps30 DICMEG_R11948
+3_1	AF4	A0A818T6G3-F1	Adineta steineri	86.2	Hypothetical protein	IPR010793,IPR039982	IZO911_LOCUS31471 OKA104_LOCUS11101 VCS650_LOCUS27458
+3_1	AF4	A0A7L3TDM6-F1	Black-legged kittiwake	86.1	RT30 protein	IPR010793,IPR039982	Mrps30 RISTRI_R07497
+3_1	AF4	A0A817D3C6-F1	Rotaria sp	86.1	Hypothetical protein	IPR010793,IPR039982	DRW283_LOCUS14944 JQV615_LOCUS1850 NCT539_LOCUS15846 ZIB798_LOCUS10654
+3_1	AF4	A0A7K8HKG3-F1	rufous-naped whistler	86.1	RT30 protein	IPR010793,IPR039982	Mrps30 ALERUF_R04213
+3_1	AF4	A0A7K6KK01-F1	tit berrypecker	86.1	RT30 protein	IPR010793,IPR039982	Mrps30 OREARF_R08602
+3_1	AF4	A0A7K9LLN7-F1	Rhabdornis inornatus	86.1	RT30 protein	IPR010793,IPR039982	Mrps30 RHAINO_R10576
+3_1	AF4	A0A7K5LBD0-F1	Black-whiskered vireo	86.1	RT30 protein	IPR010793,IPR039982	Mrps30 VIRALT_R07521
+3_1	AF4	A0A7L0ZIA7-F1	sharpbill	86.0	RT30 protein	IPR010793,IPR039982	Mrps30 OXYCRI_R07381
+3_1	AF4	A0A7K4S639-F1	Picui ground-dove	86.0	RT30 protein	IPR010793,IPR039982	Mrps30 COLPIC_R03926
+3_1	AF4	A0A7L1JEA7-F1	Black skimmer	86.0	RT30 protein	IPR010793,IPR039982	Mrps30 RYNNIG_R01474
+3_1	AF4	A0A7K4IXC3-F1	Greater roadrunner	86.0	RT30 protein	IPR010793,IPR039982	Mrps30 GEOCAL_R05322
+3_1	AF4	A0A1J1IDH7-F1	Clunio marinus	86.0	CLUMA_CG011186, isoform A	IPR000924,IPR001412,IPR008925,IPR010793,IPR014729,IPR020058,IPR020751,IPR033910,IPR045462	CLUMA_CG011186
+3_1	AF4	A0A7L0LF36-F1	Green crombec	86.0	RT30 protein	IPR010793,IPR039982	Mrps30 SYLVIR_R09850
+3_1	AF4	A0A4S2L855-F1	Opisthorchis felineus	86.0	28S ribosomal protein S30, mitochondrial	IPR010793,IPR039982	CRM22_009097
+3_1	AF4	A0A7K6AMR3-F1	Eurasian hoopoe	86.0	RT30 protein	IPR010793,IPR039982	Mrps30 UPUEPO_R12828
+3_1	AF4	A0A369SLQ0-F1	Trichoplax sp	86.0	28S ribosomal protein S30, mitochondrial	IPR010793,IPR039982	TrispH2_000714
+3_1	AF4	A0A835TQ93-F1	Lamprotornis superbus	85.9	28S ribosomal protein S30, mitochondrial	IPR010793,IPR039982	IHE44_006137
+3_1	AF4	A0A7K6J5C7-F1	Machaerirhynchus nigripectus	85.9	RT30 protein	IPR010793,IPR039982	Mrps30 MACNIG_R02971
+3_1	AF4	A0A6J8D8A6-F1	Sea mussel	85.9	MRPS30	IPR010793,IPR039982	MCOR_38671
+3_1	AF4	A0A0B6Z7T1-F1	Arion vulgaris	85.9	Retrovirus-related Pol polyprotein from transposon TNT 1-94	IPR010793,IPR039982	ORF50137
+3_1	AF4	A0A817JPE8-F1	Rotaria sp	85.9	Hypothetical protein	IPR010793,IPR039982	RHK424_LOCUS14045 RMH319_LOCUS22271
+3_1	AF4	A0A817NQR8-F1	Rotaria sp	85.9	Hypothetical protein	IPR010793,IPR039982	SJO388_LOCUS24124 YTW244_LOCUS15054
+3_1	AF4	A0A7L2Q2Z9-F1	Hypocryptadius cinnamomeus	85.9	RT30 protein	IPR010793,IPR039982	Mrps30 HYPCIN_R08899
+3_1	AF4	A0A7K8FTD0-F1	Struthidea cinerea	85.9	RT30 protein	IPR010793,IPR039982	Mrps30 STRCIN_R13430
+3_1	AF4	A0A814Y9J4-F1	Rotaria sp	85.9	Hypothetical protein	IPR010793,IPR039982	CBO169_LOCUS13935 NZN594_LOCUS26676 NZO219_LOCUS12329 PXF425_LOCUS15240
+3_1	AF4	A0A0N4SZ90-F1	Filarial nematode worm	85.9	28S ribosomal protein S30, mitochondrial	IPR010793,IPR039982	BPAG_LOCUS1097
+3_1	AF4	S9XAB2-F1	Wild bactrian camel	85.9	39S ribosomal protein L37, mitochondrial-like protein	IPR010793	CB1_000466015
+3_1	AF4	A0A7K8CTK4-F1	wattled ploughbill	85.9	RT30 protein	IPR010793,IPR039982	Mrps30 EULNIG_R12049
+3_1	AF4	A0A851SUC5-F1	Nothocercus nigrocapillus	85.8	RT30 protein	IPR010793,IPR039982	Mrps30 NOTNIG_R13388
+3_1	AF4	A0A7K4L9N0-F1	Crypturellus undulatus	85.8	RT30 protein	IPR010793,IPR039982	Mrps30 CRYUND_R10039
+3_1	AF4	A0A821UZJ3-F1	Rotaria sp	85.8	Hypothetical protein	IPR010793,IPR039982	NFQ510_LOCUS25590
+3_1	AF4	A0A833R4A5-F1	Frieseomelitta varia	85.8	39S ribosomal protein L37, mitochondrial	IPR010793	E2986_09116
+3_1	AF4	A0A7K6Z347-F1	Razorbill	85.8	RT30 protein	IPR010793,IPR039982	Mrps30 ALCTOR_R14168
+3_1	AF4	A0A851WTR9-F1	New Caledonian crow	85.8	Mitochondrial ribosomal protein S30 (RT30 protein)	IPR010793,IPR039982	Mrps30 MRPS30 CORMON_R11495
+3_1	AF4	A0A7K5PA87-F1	Erythrocercus mccallii	85.8	RT30 protein	IPR010793,IPR039982	Mrps30 ERYMCC_R00377
+3_1	AF4	A0A7K9Q6D2-F1	Philippine fairy-bluebird	85.8	RT30 protein	IPR010793,IPR039982	Mrps30 IRECYA_R02878
+3_1	AF4	A0A7K5XA81-F1	Dromas ardeola	85.8	RT30 protein	IPR010793,IPR039982	Mrps30 DROARD_R02884
+3_1	AF4	A0A7K9T3W8-F1	Galbula dea	85.8	RT30 protein	IPR010793,IPR039982	Mrps30 GALDEA_R10623
+3_1	AF4	A0A7L0V771-F1	Leptocoma aspasia	85.8	RT30 protein	IPR010793,IPR039982	Mrps30 LEPASP_R11740
+3_1	AF4	A0A7K8LYG1-F1	Ptilorrhoa leucosticta	85.8	RT30 protein	IPR010793,IPR039982	Mrps30 PTILEU_R09544
+3_1	AF4	A0A7L1RP45-F1	Middendorff's grasshopper-warbler	85.8	RT30 protein	IPR010793,IPR039982	Mrps30 LOCOCH_R14540
+3_1	AF4	A0A226MED2-F1	Scaled quail	85.7	RT30 protein	IPR010793,IPR039982	ASZ78_002975
+3_1	AF4	A0A7K5VSM3-F1	Platysteira castanea	85.7	RT30 protein	IPR010793,IPR039982	Mrps30 DYACAS_R08763
+3_1	AF4	A0A0M3HV91-F1	Giant roundworm	85.7	28S ribosomal protein S30, mitochondrial	IPR010793,IPR039982	
+3_1	AF4	A0A851ETJ3-F1	Dryoscopus gambensis	85.7	RT30 protein	IPR010793,IPR039982	Mrps30 DRYGAM_R09089
+3_1	AF4	A0A7K8IHE2-F1	pygmy drongo	85.7	RT30 protein	IPR010793,IPR039982	Mrps30 CHAPAP_R04289
+3_1	AF4	A0A7K7C495-F1	Florida scrub-jay	85.7	RT30 protein	IPR010793,IPR039982	Mrps30 APHCOE_R06889
+3_1	AF4	A0A7K8QZD9-F1	Smithornis capensis	85.7	RT30 protein	IPR010793,IPR039982	Mrps30 SMICAP_R10278
+3_1	AF4	A0A7K5J6D5-F1	California thrasher	85.6	RT30 protein	IPR010793,IPR039982	Mrps30 TOXRED_R01461
+3_1	AF4	A0A7L3SA67-F1	Black guillemot	85.6	RT30 protein	IPR010793,IPR039982	Mrps30 CEPGRY_R13611
+3_1	AF4	A0A7L1FJP9-F1	Garden warbler	85.6	RT30 protein	IPR010793,IPR039982	Mrps30 SYLBOR_R04132
+3_1	AF4	A0A7R9J722-F1	California timema	85.6	(California timema) hypothetical protein	IPR010793	TCMB3V08_LOCUS6332
+3_1	AF4	A0A7K9FJ41-F1	Parasitic jaeger	85.6	RT30 protein	IPR010793,IPR039982	Mrps30 STEPAR_R01378
+3_1	AF4	A0A819BDD6-F1	Rotaria sordida	85.6	Hypothetical protein	IPR010793,IPR039982	FNK824_LOCUS14962 SEV965_LOCUS9427
+3_1	AF4	A0A850V882-F1	Chloropsis hardwickii	85.5	RT30 protein	IPR010793,IPR039982	Mrps30 CHLHAR_R01484
+3_1	AF4	A0A7L2ER96-F1	Southern penduline-tit	85.5	RT30 protein	IPR010793,IPR039982	Mrps30 ANTMIN_R11222
+3_1	AF4	A0A7L4E467-F1	Barn swallow	85.5	RT30 protein	IPR010793,IPR039982	Mrps30 HIRRUS_R05967
+3_1	AF4	A0A7K9KC59-F1	Dicaeum eximium	85.5	RT30 protein	IPR010793,IPR039982	Mrps30 DICEXI_R08742
+3_1	AF4	A0A818FCP9-F1	Rotaria socialis	85.5	Hypothetical protein	IPR010793,IPR039982	FME351_LOCUS30589 GRG538_LOCUS13424 KIK155_LOCUS13970 QYT958_LOCUS15751 TIS948_LOCUS10981 TOA249_LOCUS29152 TSG867_LOCUS13879 UJA718_LOCUS21849
+3_1	AF4	A0A7L1AN93-F1	Australian magpie	85.5	RT30 protein	IPR010793,IPR039982	Mrps30 GYMTIB_R10244
+3_1	AF4	A0A7K5QY00-F1	Prunella himalayana	85.5	RT30 protein	IPR010793,IPR039982	Mrps30 PRUHIM_R02648
+3_1	AF4	A0A7L4L7N8-F1	North Island kokako	85.5	RT30 protein	IPR010793,IPR039982	Mrps30 CALWIL_R02872
+3_1	AF4	A0A852HBK1-F1	Nicator chloris	85.4	RT30 protein	IPR010793,IPR039982	Mrps30 NICCHL_R06727
+3_1	AF4	A0A7L2NKZ0-F1	Red-whiskered bulbul	85.4	RT30 protein	IPR010793,IPR039982	Mrps30 PYCJOC_R04396
+3_1	AF4	A0A0R3WZK3-F1	Feline tapeworm	85.4	39S ribosomal protein L37, mitochondrial	IPR010793	TTAC_LOCUS6216
+3_1	AF4	A0A7L3DHB4-F1	Magellanic plover	85.4	RT30 protein	IPR010793,IPR039982	Mrps30 PLUSOC_R04017
+3_1	AF4	T1KZD2-F1	Two-spotted spider mite	85.4	28S ribosomal protein S30, mitochondrial	IPR010793,IPR039982	107368823
+3_1	AF4	A0A814FCQ6-F1	Rotaria sp	85.4	Hypothetical protein	IPR010793,IPR039982	BAC187_LOCUS13406 DUG663_LOCUS14813 NZN594_LOCUS28192 XKC960_LOCUS14886 XPS770_LOCUS12441
+3_1	AF4	A0A672TT55-F1	Kakapo	85.4	Mitochondrial ribosomal protein S30	IPR010793,IPR039982	MRPS30
+3_1	AF4	A0A7K6LDI5-F1	Eastern shriketit	85.3	RT30 protein	IPR010793,IPR039982	Mrps30 FALFRO_R01317
+3_1	AF4	A0A2B4T066-F1	Smooth cauliflower coral	85.3	39S ribosomal protein L37, mitochondrial	IPR010793	MRPL37 AWC38_SpisGene65
+3_1	AF4	A0A7K4K011-F1	Crypturellus soui	85.3	RT30 protein	IPR010793,IPR039982	Mrps30 CRYSOU_R07408
+3_1	AF4	A0A5K4F484-F1	Blood fluke	85.3	Putative cytochrome b5	IPR001199,IPR010793,IPR036400	
+3_1	AF4	A0A7K8TI09-F1	Rufous potoo	85.3	RT30 protein	IPR010793,IPR039982	Mrps30 NYCBRA_R11652
+3_1	AF4	A0A669PDL8-F1	Common pheasant	85.3	Mitochondrial ribosomal protein L37	IPR010793	
+3_1	AF4	A0A3B3UQG9-F1	sailfin molly	85.3	Mitochondrial ribosomal protein L37	IPR010793	
+3_1	AF4	T1FRX9-F1	Californian leech	85.3	28S ribosomal protein S30, mitochondrial	IPR010793,IPR039982	20211576 HELRODRAFT_190373
+3_1	AF4	A0A820NQD7-F1	Rotaria socialis	85.3	Hypothetical protein	IPR010793,IPR039982	HFQ381_LOCUS19476 LUA448_LOCUS9679
+3_1	AF4	A0A7K7YAT1-F1	Carolina wren	85.3	RT30 protein	IPR010793,IPR039982	Mrps30 THRLUD_R07126
+3_1	AF4	A0A7L2IUL2-F1	Semnornis frantzii	85.3	RT30 protein	IPR010793,IPR039982	Mrps30 SEMFRA_R00859
+3_1	AF4	A0A7K8ACI1-F1	Loria's bird-of-paradise	85.3	RT30 protein	IPR010793,IPR039982	Mrps30 CNELOR_R07484
+3_1	AF4	A0A7K5MMA0-F1	Northern cardinal	85.3	RT30 protein	IPR010793,IPR039982	Mrps30 CARCAR_R14601
+3_1	AF4	A0A7L4MDI9-F1	Collared pratincole	85.2	RT30 protein	IPR010793,IPR039982	Mrps30 GLAPRA_R02835
+3_1	AF4	A0A6P6YAZ5-F1	European house dust mite	85.2	28S ribosomal protein S30, mitochondrial-like	IPR010793,IPR039982	LOC113796378
+3_1	AF4	A0A851Z702-F1	Halcyon senegalensis	85.2	RT30 protein	IPR010793,IPR039982	Mrps30 HALSEN_R10389
+3_1	AF4	A0A7R9IJX2-F1	Timema tahoe	85.2	Hypothetical protein	IPR010793,IPR039982	TTEB3V08_LOCUS7755
+3_1	AF4	A0A851VPQ6-F1	Copsychus sechellarum	85.2	RT30 protein	IPR010793,IPR039982	Mrps30 COPSEC_R11870
+3_1	AF4	A0A7K7PTF7-F1	Great reed-warbler	85.2	RT30 protein	IPR010793,IPR039982	Mrps30 ACRARU_R14381
+3_1	AF4	F6Z589-F1	Transparent sea squirt	85.2	39S ribosomal protein L37, mitochondrial	IPR010793	LOC100186298
+3_1	AF4	A0A7L3DY49-F1	Rufous rock-jumper	85.2	RT30 protein	IPR010793,IPR039982	Mrps30 CHAFRE_R08323
+3_1	AF4	A0A851KZV8-F1	Village indigobird	85.2	RT30 protein	IPR010793,IPR039982	Mrps30 VIDCHA_R13938
+3_1	AF4	A0A8B6FL48-F1	Mediterranean mussel	85.2	Small subunit ribosomal protein S30	IPR010793,IPR039982	MGAL_10B059443
+3_1	AF4	A0A836JVR2-F1	Pseudoatta argentina	85.2	RM37 protein	IPR010793	Mrpl37 G6Z78_0002069
+3_1	AF4	A0A834R9P5-F1	Itch mite	85.1	28S ribosomal protein S30, mitochondrial	IPR010793,IPR039982	SSS_1784
+3_1	AF4	A0A7K5TWT7-F1	Amazonian umbrellabird	85.1	RT30 protein	IPR010793,IPR039982	Mrps30 CEPORN_R01390
+3_1	AF4	A0A851JDL2-F1	Donacobius atricapilla	85.1	RT30 protein	IPR010793,IPR039982	Mrps30 DONATR_R10236
+3_1	AF4	A0A7M5UYA4-F1	Clytia hemisphaerica	85.1	39S ribosomal protein L37, mitochondrial	IPR010793	
+3_1	AF4	A0A7L3IDG6-F1	spotted pardalote	85.1	RT30 protein	IPR010793,IPR039982	Mrps30 PARPUN_R14097
+3_1	AF4	A0A7K6XYC8-F1	Cape sugarbird	85.1	RT30 protein	IPR010793,IPR039982	Mrps30 PROCAF_R08810
+3_1	AF4	A0A1X7VW43-F1	Sponge	85.1	39S ribosomal protein L37, mitochondrial	IPR010793,IPR039982	105312880
+3_1	AF4	A0A1B6F3G6-F1	Cuerna arida	85.1	Ribosomal protein	IPR010793,IPR039982	g.37865
+3_1	AF4	B4HAJ4-F1	Fruit fly	85.1	GL18060	IPR010793,IPR039982	Dper\GL18060 Dper_GL18060
+3_1	AF4	A0A7L2HN00-F1	Secretary bird	85.0	RT30 protein	IPR010793,IPR039982	Mrps30 SAGSER_R05383
+3_1	AF4	U3K9K2-F1	Collared flycatcher	85.0	Mitochondrial ribosomal protein S30	IPR010793,IPR039982	MRPS30
+3_1	AF4	A0A183UGC6-F1	Canine roundworm	85.0	28S ribosomal protein S30, mitochondrial	IPR010793,IPR039982	TCNE_LOCUS7552
+3_1	AF4	A0A7K7ENQ0-F1	blackcap	85.0	RT30 protein	IPR010793,IPR039982	Mrps30 SYLATR_R13663
+3_1	AF4	A0A4S2LR19-F1	Opisthorchis felineus	85.0	39S ribosomal protein L37, mitochondrial	IPR010793	CRM22_005438
+3_1	AF4	A0A7L1GY79-F1	spotted honeyguide	85.0	RT30 protein	IPR010793,IPR039982	Mrps30 INDMAC_R09957
+3_1	AF4	A0A7L2D3L7-F1	Veery	84.9	RT30 protein	IPR010793,IPR039982	Mrps30 CATFUS_R14641
+3_1	AF4	A0A226F4A8-F1	Springtail	84.9	39S ribosomal protein L37, mitochondrial	IPR010793	Fcan01_02181
+3_1	AF4	A0A1B6C0F5-F1	Arizona spittle bug	84.9	28S ribosomal protein S30, mitochondrial	IPR010793,IPR039982	g.14004
+3_1	AF4	A0A1S8X3T0-F1	Opisthorchis viverrini	84.9	Cytochrome b5 heme-binding domain-containing protein	IPR001199,IPR010793,IPR036400	X801_02809
+3_1	AF4	A0A7K9XJ42-F1	common trumpeter	84.9	RT30 protein	IPR010793,IPR039982	Mrps30 PSOCRE_R04348
+3_1	AF4	A0A7K9NKU6-F1	Edolisoma coerulescens	84.9	RT30 protein	IPR010793,IPR039982	Mrps30 EDOCOE_R10322
+3_1	AF4	A0A2I0U509-F1	Limosa lapponica	84.9	28s ribosomal protein mitochondrial	IPR010793,IPR039982	llap_8585
+3_1	AF4	A0A0V1KGC0-F1	Parasitic roundworm	84.8	28S ribosomal protein S30, mitochondrial	IPR010793,IPR039982	F42H10.3 T4C_12206
+3_1	AF4	A0A6J2INV4-F1	Wire-tailed manakin	84.8	39S ribosomal protein S30, mitochondrial	IPR010793,IPR039982	MRPS30
+3_1	AF4	A0A267GFK8-F1	Macrostomum lignano	84.8	MRP-L46 domain-containing protein	IPR010793	BOX15_Mlig018306g1
+3_1	AF4	A0A7K6WVA2-F1	Oilbird	84.8	RT30 protein	IPR010793,IPR039982	Mrps30 STECAR_R14839
+3_1	AF4	A0A6J0GYG2-F1	blue-crowned manakin	84.8	28S ribosomal protein S30, mitochondrial isoform X1	IPR010793,IPR039982	MRPS30
+3_1	AF4	A0A7L2GIC3-F1	Great potoo	84.8	RT30 protein	IPR010793,IPR039982	Mrps30 NYCGRA_R09955
+3_1	AF4	A0A7K5GUE3-F1	Black-legged seriema	84.8	RT30 protein	IPR010793,IPR039982	Mrps30 CHUBUR_R01411
+3_1	AF4	A0A7L2WDM9-F1	Osprey	84.8	RT30 protein	IPR010793,IPR039982	Mrps30 PANHAL_R07545
+3_1	AF4	A0A850WT70-F1	Common squirrel cuckoo	84.8	RT30 protein	IPR010793,IPR039982	Mrps30 PIACAY_R07021
+3_1	AF4	A0A7K5FRZ4-F1	Palm cockatoo	84.8	RT30 protein	IPR010793,IPR039982	Mrps30 PROATE_R04175
+3_1	AF4	A0A6A4TWF8-F1	Turbot	84.8	Ig-like domain-containing protein	IPR002913,IPR006683,IPR007110,IPR010793,IPR023393,IPR029069,IPR033120,IPR036179,IPR040170	F2P81_001127
+3_1	AF4	A0A0V1KG68-F1	Parasitic roundworm	84.7	28S ribosomal protein S30, mitochondrial	IPR010793,IPR039982	F42H10.3 T4C_12206
+3_1	AF4	A0A7K6EHQ0-F1	Grantiella picta	84.7	RT30 protein	IPR010793,IPR039982	Mrps30 GRAPIC_R05568
+3_1	AF4	A0A7L4HJ87-F1	Hammerkop	84.7	RT30 protein	IPR010793,IPR039982	Mrps30 SCOUMB_R10897
+3_1	AF4	A0A7K8U0A5-F1	Wilson's storm petrel	84.7	RT30 protein	IPR010793,IPR039982	Mrps30 OCEOCE_R02352
+3_1	AF4	A0A7K9H6T0-F1	White-winged crossbill	84.7	RT30 protein	IPR010793,IPR039982	Mrps30 LOXLEU_R09019
+3_1	AF4	A0A7L4CLI0-F1	Nyctiprogne leucopyga	84.7	RT30 protein	IPR010793,IPR039982	Mrps30 NYCLEU_R11186
+3_1	AF4	A0A7L3CKP6-F1	Common diving petrel	84.7	RT30 protein	IPR010793,IPR039982	Mrps30 PELURI_R11972
+3_1	AF4	A0A3B4VKT4-F1	Greater amberjack	84.7	Mitochondrial ribosomal protein S30	IPR010793,IPR039982	
+3_1	AF4	A0A7K8LH45-F1	Ardeotis kori	84.7	RT30 protein	IPR010793,IPR039982	Mrps30 ARDKOR_R12924
+3_1	AF4	A0A7L4MZS7-F1	Indigo-banded kingfisher	84.7	RT30 protein	IPR010793,IPR039982	Mrps30 CEYCYA_R11567
+3_1	AF4	G7YU79-F1	Chinese liver fluke	84.7	39S ribosomal protein L37 (39S ribosomal protein L37 mitochondrial) (39S ribosomal protein L37, mitochondrial)	IPR010793	MRPL37 CLF_111029 CSKR_111194 CSKR_11194s
+3_1	AF4	A0A7K4YIQ6-F1	Northern ground-hornbill	84.6	RT30 protein	IPR010793,IPR039982	Mrps30 BUCABY_R13531
+3_1	AF4	A0A7L3AVA9-F1	Pallas's sandgrouse	84.6	RT30 protein	IPR010793,IPR039982	Mrps30 SYRPAR_R01068
+3_1	AF4	A0A7K8PKR0-F1	Boat-billed heron	84.6	RT30 protein	IPR010793,IPR039982	Mrps30 COCCOC_R05465
+3_1	AF4	A0A3L8SQ84-F1	Gouldian finch	84.6	RT30 protein	IPR010793,IPR039982	DV515_00005413
+3_1	AF4	A0A7L4IT39-F1	streak-breasted scimitar babbler	84.6	RT30 protein	IPR010793,IPR039982	Mrps30 PORRUF_R07939
+3_1	AF4	A0A7K8V794-F1	Ciccaba nigrolineata	84.6	RT30 protein	IPR010793,IPR039982	Mrps30 CICNIG_R05840
+3_1	AF4	A0A7L0UMC3-F1	Lesser nighthawk	84.6	RT30 protein	IPR010793,IPR039982	Mrps30 CHOACU_R11716
+3_1	AF4	A0A7L0S7P2-F1	Ferruginous pygmy-owl	84.5	RT30 protein	IPR010793,IPR039982	Mrps30 GLABRA_R11828
+3_1	AF4	A0A7L1HZE4-F1	Nycticryphes semicollaris	84.5	RT30 protein	IPR010793,IPR039982	Mrps30 NYCSEM_R11816
+3_1	AF4	A0A7K4RE74-F1	Neopipo cinnamomea	84.5	RT30 protein	IPR010793,IPR039982	Mrps30 NEOCIN_R07182
+3_1	AF4	A0A7L3Y834-F1	Cory's shearwater	84.5	RT30 protein	IPR010793,IPR039982	Mrps30 CALBOR_R14089
+3_1	AF4	A0A7L2C1X9-F1	Asian short-toed lark	84.4	RT30 protein	IPR010793,IPR039982	Mrps30 ALACHE_R01321
+3_1	AF4	A0A7K8RZB9-F1	Rhodinocichla rosea	84.4	RT30 protein	IPR010793,IPR039982	Mrps30 RHOROS_R04359
+3_1	AF4	A0A1D1UUK1-F1	Water bear	84.3	28S ribosomal protein S30, mitochondrial	IPR010793,IPR039982	RvY_05127-1 RvY_05127.1 RvY_05127
+3_1	AF4	A0A7L0EBP4-F1	Black-tailed trogon	84.3	RT30 protein	IPR010793,IPR039982	Mrps30 TROMEL_R08789
+3_1	AF4	A0A7L0GZB9-F1	Laughing falcon	84.3	RT30 protein	IPR010793,IPR039982	Mrps30 HERCAC_R14847
+3_1	AF4	A0A7L0W8A7-F1	Australian brush turkey	84.2	RT30 protein	IPR010793,IPR039982	Mrps30 ALELAT_R14500
+3_1	AF4	A0A7L0FWX6-F1	Grey go-away-bird	84.2	RT30 protein	IPR010793,IPR039982	Mrps30 CORCON_R10372
+3_1	AF4	A0A2H8TF83-F1	Melanaphis sacchari	84.2	28S ribosomal protein S30, mitochondrial	IPR010793,IPR039982	Mrps30
+3_1	AF4	A0A6G1SAJ4-F1	wheat curl mite	84.2	28S ribosomal protein S30, mitochondrial	IPR010793,IPR039982	MRPS30 g.9713
+3_1	AF4	A0A183SLE2-F1	Tapeworm	84.2	39S ribosomal protein L37	IPR010793	SSLN_LOCUS5040
+3_1	AF4	A0A7K7CR64-F1	Black-headed grosbeak	84.2	RT30 protein	IPR010793,IPR039982	Mrps30 PHEMEL_R09958
+3_1	AF4	T1J5B9-F1	European centipede	84.2	28S ribosomal protein S30, mitochondrial	IPR010793,IPR039982	
+3_1	AF4	A0A2S2PTK4-F1	Green bug aphid	84.2	28S ribosomal protein S30	IPR010793,IPR039982	Mrps30 g.136678
+3_1	AF4	A0A7L1ZSE1-F1	Red-billed leiothrix	84.2	RT30 protein	IPR010793,IPR039982	Mrps30 LEILUT_R04128
+3_1	AF4	A0A0X3PC65-F1	Tapeworm	84.2	39S ribosomal protein L37	IPR010793	RM37 TR99871
+3_1	AF4	A0A3Q1M6Z3-F1	Bovine	84.2	28S ribosomal protein S30, mitochondrial	IPR010793,IPR039982	MRPS30
+3_1	AF4	A0A852ISV3-F1	pied barbet	84.1	RT30 protein	IPR010793,IPR039982	Mrps30 TRILEU_R01332
+3_1	AF4	A0A663F4Y4-F1	Aquila chrysaetos	84.1	Mitochondrial ribosomal protein S30	IPR010793,IPR039982	MRPS30
+3_1	AF4	A0A7K9HND6-F1	collared puffbird	84.1	RT30 protein	IPR010793,IPR039982	Mrps30 BUCCAP_R08787
+3_1	AF4	A0A7L0BV46-F1	black hawk-eagle	84.1	RT30 protein	IPR010793,IPR039982	Mrps30 SPITYR_R01458
+3_1	AF4	A0A669QFF1-F1	Common pheasant	84.0	Mitochondrial ribosomal protein S30	IPR010793,IPR039982	
+3_1	AF4	A0A7L1LNF5-F1	Black-winged stilt	84.0	RT30 protein	IPR010793,IPR039982	Mrps30 HIMHIM_R02926
+3_1	AF4	A0A7J7ZZ40-F1	Greater mouse-eared bat	84.0	Mitochondrial ribosomal protein L37	IPR010793	mMyoMyo1_013317
+3_1	AF4	A0A7K8K3Z1-F1	Lophotis ruficrista	84.0	RT30 protein	IPR010793,IPR039982	Mrps30 LOPRUF_R04371
+3_1	AF4	A0A7K5Z631-F1	Pterocles burchelli	84.0	RT30 protein	IPR010793,IPR039982	Mrps30 PTEBUR_R07254
+3_1	AF4	A0A5N5KZV6-F1	Striped catfish	84.0	39S ribosomal protein L37, mitochondrial	IPR010793	PHYPO_G00123450
+3_1	AF4	A0A4S2L8V5-F1	Opisthorchis felineus	83.9	28S ribosomal protein S30, mitochondrial	IPR010793,IPR039982	CRM22_009097
+3_1	AF4	A0A7K7NDI5-F1	White-tailed sea-eagle	83.9	RT30 protein	IPR010793,IPR039982	Mrps30 HALALB_R13609
+3_1	AF4	A0A852MKP2-F1	Pteruthius melanotis	83.9	RT30 protein	IPR010793,IPR039982	Mrps30 PTEMEL_R07100
+3_1	AF4	A0A7L4A6B4-F1	black-chested snake-eagle	83.9	RT30 protein	IPR010793,IPR039982	Mrps30 CIRPEC_R06082
+3_1	AF4	A0A7L0THD1-F1	Pied-billed grebe	83.9	RT30 protein	IPR010793,IPR039982	Mrps30 PODPOD_R05830
+3_1	AF4	A0A814NHB3-F1	Adineta steineri	83.8	Ribosome biogenesis protein NOP53	IPR010793,IPR011687	BJG266_LOCUS20951
+3_1	AF4	A0A6G0YCA4-F1	Cowpea aphid	83.8	28S ribosomal protein S30, mitochondrial	IPR010793,IPR039982	FWK35_00017544
+3_1	AF4	A0A814TUU3-F1	Didymodactylos carnosus	83.8	Ribosome biogenesis protein NOP53	IPR010793,IPR011687	GPM918_LOCUS21956 OVA965_LOCUS12452 SRO942_LOCUS21952 TMI583_LOCUS12456
+3_1	AF4	A0A7K4VNB4-F1	Emberiza fucata	83.8	RT30 protein	IPR010793,IPR039982	Mrps30 EMBFUC_R11365
+3_1	AF4	H2Z2H7-F1	Pacific transparent sea squirt	83.8	39S ribosomal protein L37, mitochondrial	IPR010793	
+3_1	AF4	A0A4E0RC22-F1	Liver fluke	83.7	28S ribosomal protein S30 mitochondrial	IPR010793,IPR039982	D915_005412
+3_1	AF4	A0A5E4MNK6-F1	Cinara cedri	83.7	28S ribosomal protein S30, mitochondrial	IPR010793,IPR039982	CINCED_3A006840
+3_1	AF4	A0A850VXY3-F1	Magnificent frigatebird	83.7	RT30 protein	IPR010793,IPR039982	Mrps30 FREMAG_R05469
+3_1	AF4	A0A7K9A4M3-F1	variegated antpitta	83.7	RT30 protein	IPR010793,IPR039982	Mrps30 GRAVAR_R01468
+3_1	AF4	A0A0K2UNI5-F1	Salmon louse	83.6	28S ribosomal protein S30, mitochondriallike [Bombus terrestris]	IPR010793,IPR039982	
+3_1	AF4	A0A4E0RU22-F1	Liver fluke	83.6	39S ribosomal protein L37 mitochondrial	IPR010793	D915_008652
+3_1	AF4	A0A7K8MUX8-F1	Southern cassowary	83.6	RT30 protein	IPR010793,IPR039982	Mrps30 CASCAS_R11707
+3_1	AF4	A0A7K6MXE2-F1	Bearded tit	83.6	RT30 protein	IPR010793,IPR039982	Mrps30 PANBIA_R09331
+3_1	AF4	A0A7K7JIK6-F1	Red-winged blackbird	83.6	RT30 protein	IPR010793,IPR039982	Mrps30 AGEPHO_R03294
+3_1	AF4	A0A7L2KHF3-F1	Zosterops hypoxanthus	83.6	RT30 protein	IPR010793,IPR039982	Mrps30 ZOSHYP_R14530
+3_1	AF4	A0A401PC50-F1	Cloudy catshark	83.5	Mitochondrial ribosomal protein S30	IPR010793,IPR039982	scyTo_0008651
+3_1	AF4	A0A851ZCF0-F1	Chestnut-collared longspur	83.5	RT30 protein	IPR010793,IPR039982	Mrps30 CALORN_R10522
+3_1	AF4	A0A6F9DKN7-F1	Phallusia mammillata	83.5	28S ribosomal protein S30, mitochondrial-like	IPR010793,IPR039982	Mrps30
+3_1	AF4	A0A851BNX8-F1	White-necked rockfowl	83.5	RT30 protein	IPR010793,IPR039982	Mrps30 PICGYM_R05559
+3_1	AF4	A0A183JWG9-F1	Schistosoma curassoni	83.5	28S ribosomal protein S30, mitochondrial	IPR010793	SCUD_LOCUS7064
+3_1	AF4	A0A7K7GGD0-F1	European robin	83.5	RT30 protein	IPR010793,IPR039982	Mrps30 ERIRUB_R14245
+3_1	AF4	A0A7K7B5Q0-F1	Nothoprocta ornata	83.4	RT30 protein	IPR010793,IPR039982	Mrps30 NOTORN_R08635
+3_1	AF4	A0A7L3VTL3-F1	Brown-headed cowbird	83.4	RT30 protein	IPR010793,IPR039982	Mrps30 MOLATE_R04283
+3_1	AF4	A0A6S7GT62-F1	Red gorgonian	83.4	39S ribosomal L37, mitochondrial-like	IPR010793	PACLA_6A068196 PACLA_8A068196
+3_1	AF4	F1N9K2-F1	Chicken	83.4	Mitochondrial ribosomal protein S30	IPR010793,IPR039982	MRPS30
+3_1	AF4	A0A7L3JSN7-F1	Atlantic yellow-nosed albatross	83.4	RT30 protein	IPR010793,IPR039982	Mrps30 THACHL_R07115
+3_1	AF4	A0A7L1NCH4-F1	Common scimitarbill	83.3	RT30 protein	IPR010793,IPR039982	Mrps30 RHICYA_R12014
+3_1	AF4	A0A5J4N9Z2-F1	Paragonimus westermani	83.3	Large subunit ribosomal protein L37	IPR010793	DEA37_0008438
+3_1	AF4	A0A2G8KSV6-F1	Sea cucumber	83.3	Putative 39S ribosomal protein L37, mitochondrial	IPR010793	BSL78_12055
+3_1	AF4	T2M6H3-F1	Hydra	83.2	39S ribosomal protein L37, mitochondrial-like (39S ribosomal protein L37,mitochondrial)	IPR010793	MRPL37 LOC101237755
+3_1	AF4	A0A7K9CCN5-F1	Psilopogon haemacephalus	83.2	RT30 protein	IPR010793,IPR039982	Mrps30 PSIHAE_R02779
+3_1	AF4	A0A2S2QWD4-F1	yellow sugarcane aphid	83.2	28S ribosomal protein S30	IPR010793,IPR039982	MRPS30 g.142071
+3_1	AF4	O42270-F1	Chicken	83.2	p52 pro-apototic protein	IPR010793,IPR039982	
+3_1	AF4	A0A7L2UUE5-F1	Shoebill	83.2	RT30 protein	IPR010793,IPR039982	Mrps30 BALREX_R00626
+3_1	AF4	A0A430QKI3-F1	Blood fluke	83.1	Cytochrome b5 heme-binding domain-containing protein	IPR001199,IPR010793,IPR036400	DC041_0007860
+3_1	AF4	A0A7R8W3C7-F1	Cyprideis torosa	83.1	Hypothetical protein	IPR010793,IPR039982	CTOB1V02_LOCUS2054
+3_1	AF4	A0A6I9Z604-F1	Medium ground-finch	83.1	39S ribosomal protein S30, mitochondrial	IPR010793,IPR039982	MRPS30
+3_1	AF4	G4M1K4-F1	Blood fluke	83.0	28S ribosomal protein S30, mitochondrial	IPR010793,IPR039982	
+3_1	AF4	A0A7K7QPV3-F1	Black-capped chickadee	82.9	RT30 protein	IPR010793,IPR039982	Mrps30 POEATR_R08489
+3_1	AF4	A0A7K4TN90-F1	Sinosuthora webbiana	82.8	RT30 protein	IPR010793,IPR039982	Mrps30 SINWEB_R03140
+3_1	AF4	A0A195B1T2-F1	Atta colombica	82.8	39S ribosomal protein L37, mitochondrial	IPR010793	ALC53_11088
+3_1	AF4	A0A504ZC50-F1	Giant liver fluke	82.7	39S ribosomal protein L37 mitochondrial	IPR010793	FGIG_04907
+3_1	AF4	A0A1D1VVG1-F1	Water bear	82.7	39S ribosomal protein L37, mitochondrial	IPR010793	RvY_15593-1 RvY_15593.1 RvY_15593
+3_1	AF4	A0A094ZMK0-F1	Blood fluke	82.7	Cytochrome b5 type B	IPR001199,IPR010793,IPR036400	MS3_0015227 MS3_03488
+3_1	AF4	A0A814DZN8-F1	Didymodactylos carnosus	82.7	Hypothetical protein	IPR010793	GPM918_LOCUS11835 OVA965_LOCUS7266 SRO942_LOCUS11836 TMI583_LOCUS7262
+3_1	AF4	A0A7J7KRL3-F1	Brown bryozoan	82.5	MRPS30	IPR010793,IPR039982	EB796_000870
+3_1	AF4	A0A5E4MKJ8-F1	Cinara cedri	82.5	Ribosomal protein L37/S30	IPR010793,IPR039982	CINCED_3A006840
+3_1	AF4	A0A7L1DVR2-F1	Northern wheatear	82.3	RT30 protein	IPR010793,IPR039982	Mrps30 OENOEN_R08650
+3_1	AF4	A0A7R9I0D3-F1	Timema bartmani	82.2	Hypothetical protein	IPR010793	TBIB3V08_LOCUS5195
+3_1	AF4	A0A3Q3XRJ1-F1	Ocean sunfish	82.0	Mitochondrial ribosomal protein L37	IPR010793	
+3_1	AF4	A0A7K6G634-F1	Red-winged fairywren	82.0	RT30 protein	IPR010793,IPR039982	Mrps30 MALELE_R14326
+3_1	AF4	G7Y3U9-F1	Chinese liver fluke	81.8	28S ribosomal protein S30 (28S ribosomal protein S30 mitochondrial)	IPR010793,IPR039982	Mrps30 CLF_100613 CSKR_101037 CSKR_1037s
+3_1	AF4	A0A4Z2DI59-F1	Blood fluke	81.7	39S ribosomal protein L37	IPR010793	EWB00_000692
+3_1	AF4	A0A218UZ10-F1	Bengalese finch	81.7	28S ribosomal protein S30, mitochondrial	IPR010793,IPR039982	MRPS30 RLOC_00013452
+3_1	AF4	A0A7K9AP55-F1	Emu	81.6	RT30 protein	IPR010793,IPR039982	Mrps30 DRONOV_R13522
+3_1	AF4	A0A2P8YAT6-F1	German cockroach	81.6	39S ribosomal protein L37, mitochondrial	IPR010793,IPR039982	C0J52_19119
+3_1	AF4	A0A0X3P0C7-F1	Tapeworm	81.4	28S ribosomal protein S30	IPR010793,IPR039982	RT30 TR160100
+3_1	AF4	A0A2A6B821-F1	Parasitic nematode	81.3	Mrps-30	IPR004843,IPR010793,IPR029052,IPR039982	PRIPAC_51471
+3_1	AF4	A7S9U2-F1	Starlet sea anemone	81.2	39S ribosomal protein L37, mitochondrial	IPR010793	NEMVEDRAFT_v1g208988
+3_1	AF4	A0A0R3VSL0-F1	Asian tapeworm	81.1	39S ribosomal protein L37, mitochondrial	IPR010793	TASK_LOCUS159
+3_1	AF4	A0A7K4Q2M7-F1	Song sparrow	81.1	RT30 protein	IPR010793,IPR039982	Mrps30 MELMEL_R04063
+3_1	AF4	A0A095AK23-F1	Blood fluke	81.0	28S ribosomal protein S30, mitochondrial	IPR010793,IPR039982	MS3_02623
+3_1	AF4	A0A074Z8V2-F1	Opisthorchis viverrini	81.0	Cytochrome b5 heme-binding domain-containing protein	IPR001199,IPR010793,IPR036400	T265_08530
+3_1	AF4	A0A7K7IIN9-F1	Red crossbill	80.9	RT30 protein	IPR010793,IPR039982	Mrps30 LOXCUR_R06056
+3_1	AF4	A0A1V9XYF4-F1	Tropilaelaps mercedesae	80.6	28S ribosomal protein S30, mitochondrial	IPR010793,IPR039982	BIW11_06370
+3_1	AF4	A0A815CTF7-F1	Rotifer	80.5	Hypothetical protein	IPR010793	EDS130_LOCUS2308 XAT740_LOCUS28131
+3_1	AF4	A0A7M7MF79-F1	Honeybee mite	80.3	28S ribosomal protein S30, mitochondrial	IPR010793,IPR039982	
+3_1	AF4	A0A7M7KXV6-F1	Honeybee mite	80.3	Fungal_trans domain-containing protein	IPR010793,IPR039982	
+3_1	AF4	A0A4U5LUD1-F1	Entomopathogenic nematode	80.3	MRP-S28 domain-containing protein	IPR010793,IPR039982	L596_029342
+3_1	AF4	A0A2A2J8F0-F1	Diploscapter pachys	80.2	28S ribosomal protein S30, mitochondrial	IPR010793,IPR039982	WR25_23819
+3_1	AF4	A0A7K7RPQ4-F1	Nesospiza acunhae	80.1	RT30 protein	IPR010793,IPR039982	Mrps30 NESACU_R12926
+3_1	AF4	A0A0N4Y835-F1	Rat hookworm	79.9	28S ribosomal protein S30, mitochondrial	IPR010793,IPR039982	NBR_LOCUS12355
+3_1	AF4	A0A4Z2DQG3-F1	Blood fluke	79.6	28S ribosomal mitochondrial isoform 2	IPR010793,IPR039982	EWB00_010006
+3_1	AF4	A0A1I8I004-F1	Macrostomum lignano	79.1	Transmembrane protein	IPR009653,IPR010793	
+3_1	AF4	A0A654HTR9-F1	Sparganum proliferum	78.9	28S ribosomal protein S30, mitochondrial	IPR010793,IPR039982	SPRV2_LOCUS16951
+3_1	AF4	A0A0V1KGL6-F1	Parasitic roundworm	78.7	28S ribosomal protein S30, mitochondrial	IPR010793,IPR039982	F42H10.3 T4C_12206
+3_1	AF4	A0A337RVS7-F1	Cat	78.6	Mitochondrial ribosomal protein L37	IPR010793	MRPL37
+3_1	AF4	A0A6D2Y5X3-F1	Chimpanzee	78.3	MRPL37 isoform 4	IPR010793	CK820_G0010556
+3_1	AF4	A0A3Q2ZDA3-F1	Mangrove killifish	78.2	Mitochondrial ribosomal protein L37	IPR010793	
+3_1	AF4	A6NHR2-F1	Human	77.9	39S ribosomal protein L37, mitochondrial	IPR010793	MRPL37
+3_1	AF4	A0A1I8J5J4-F1	Macrostomum lignano	77.7	Transmembrane protein	IPR009653,IPR010793	
+3_1	AF4	A0A851LS65-F1	Great blue turaco	77.7	RT30 protein	IPR010793,IPR039982	Mrps30 CORCRI_R09858
+3_1	AF4	K1QT41-F1	Pacific oyster	77.3	28S ribosomal protein S30, mitochondrial	IPR010793,IPR039982	CGI_10026988
+3_1	AF4	A0A6B0VCJ5-F1	Common tick	77.2	Putative ribosomal protein l37	IPR010793	
+3_1	AF4	A0A834EAX6-F1	pale spear-nosed bat	77.2	Mitochondrial ribosomal protein L37	IPR010793	HJG60_013218
+3_1	AF4	A0A5F9D629-F1	Rabbit	76.4	Mitochondrial ribosomal protein L37	IPR010793	MRPL37
+3_1	AF4	H2ZRS5-F1	Coelacanth	76.3	Mitochondrial ribosomal protein S30	IPR010793,IPR039982	MRPS30
+3_1	AF4	B4IKD2-F1	Fruit fly	76.3	GM22582	IPR010793,IPR039982	Dsec\GM22582 Dsec_GM22582
+3_1	AF4	A0A813PM31-F1	Rotifer	76.2	Hypothetical protein	IPR010793	EDS130_LOCUS820 XAT740_LOCUS517
+3_1	AF4	A0A7R9PM36-F1	Walking stick	75.2	Hypothetical protein	IPR010793,IPR039982	TGEB3V08_LOCUS5321
+3_1	AF4	A0A836JW15-F1	Acromyrmex heyeri	74.7	RM37 protein	IPR010793	Mrpl37 G6Z77_0000273
+3_1	AF4	A0A3P8C9C0-F1	Parasitic roundworm	74.6	39S ribosomal protein L37, mitochondrial	IPR010793,IPR039982	HPBE_LOCUS19345
+3_1	AF4	A0A7J5YRQ3-F1	Antarctic cod	74.4	Uncharacterized protein	IPR010793,IPR039982	F7725_013141
+3_1	AF4	A0A3Q2H0L8-F1	Horse	74.3	Mitochondrial ribosomal protein L37	IPR010793	MRPL37
