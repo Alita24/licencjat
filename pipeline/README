@@ -64,3 +64,4 @@ annotate_interactors.py
     - {GENE_NAME}_interactor_IPR.csv
     - {GENE_NAME}_count_interacter_IPR.csv
 
+# Verified configuration tracking
