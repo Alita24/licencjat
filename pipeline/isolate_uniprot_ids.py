@@ -80,6 +80,35 @@ def combine_list(ids_dir):
                 out_f.write(uid + "\n")
         print(f"Combined {key}: wrote {len(ids)} unique UniProt IDs to {combined_path}")
 
+def isolate_interpro_not_in_alphaknot(ids_dir):
+    """
+    Zwróć listę białek z InterPro (IN), które NIE występują na liście z Alphaknot (GE).
+    Dla wspólnych baz (key) tworzy plik *_uniprot_ids_IN_NOT_IN_GE.txt.
+    """
+    ids_dir = Path(ids_dir)
+    in_files = {f.stem.replace("_uniprot_ids_IN", ""): f for f in ids_dir.glob("*_uniprot_ids_IN.txt")}
+    ge_files = {f.stem.replace("_uniprot_ids_GE", ""): f for f in ids_dir.glob("*_uniprot_ids_GE.txt")}
+
+    shared_keys = set(in_files).intersection(set(ge_files))
+    for key in shared_keys:
+        in_path = in_files[key]
+        ge_path = ge_files[key]
+        out_path = ids_dir / f"{key}_uniprot_ids_IN_NOT_IN_GE.txt"
+
+        # czytaj id z InterPro (IN)
+        with in_path.open("r", encoding="utf-8") as f:
+            in_ids = set(line.strip() for line in f if line.strip())
+        # czytaj id z GE (alphaknot)
+        with ge_path.open("r", encoding="utf-8") as f:
+            ge_ids = set(line.strip() for line in f if line.strip())
+
+        diff_ids = sorted(in_ids - ge_ids)  # te z InterPro, których nie ma w alphaknot
+
+        with out_path.open("w", encoding="utf-8") as out_f:
+            for uid in diff_ids:
+                out_f.write(uid + "\n")
+        print(f"Isolated {len(diff_ids)} UniProt IDs from InterPro not found in Alphaknot for '{key}' into {out_path}")
+
 if __name__ == "__main__":
     isolate_uniprot_ids(
         input_dir=Path("pipeline/DELETE"),
