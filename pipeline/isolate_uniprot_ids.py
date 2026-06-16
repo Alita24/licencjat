@@ -80,7 +80,7 @@ def combine_list(ids_dir):
                 out_f.write(uid + "\n")
         print(f"Combined {key}: wrote {len(ids)} unique UniProt IDs to {combined_path}")
 
-def isolate_interpro_not_in_alphaknot(ids_dir):
+def isolate_unknotted(ids_dir):
     """
     Zwróć listę białek z InterPro (IN), które NIE występują na liście z Alphaknot (GE).
     Dla wspólnych baz (key) tworzy plik *_uniprot_ids_IN_NOT_IN_GE.txt.
@@ -93,7 +93,7 @@ def isolate_interpro_not_in_alphaknot(ids_dir):
     for key in shared_keys:
         in_path = in_files[key]
         ge_path = ge_files[key]
-        out_path = ids_dir / f"{key}_uniprot_ids_IN_NOT_IN_GE.txt"
+        out_path = ids_dir / f"{key}_uniprot_ids_UNKNOTTED.txt"
 
         # czytaj id z InterPro (IN)
         with in_path.open("r", encoding="utf-8") as f:
