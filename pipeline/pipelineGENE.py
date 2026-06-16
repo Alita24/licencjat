@@ -51,12 +51,12 @@ def pipeline_main():
     # print("UniProt IDs combined from alphaknot and interpro (if applicable)")
 
     # # 4. Fetch IntAct interaction data per UniProt ID and via family name
-    # print("Fetching IntAct interaction data per UniProt ID and via family name...")
-    # print("for the knotted proteins:")
-    # intact_uniprot_pipeline(
-    #     ids_dir=here / "uniprot_ids",
-    #     out_dir=here / "intact_uniprot_results/KNOTTED"
-    # )
+    print("Fetching IntAct interaction data per UniProt ID and via family name...")
+    print("for the knotted proteins:")
+    intact_uniprot_pipeline(
+        ids_dir=here / "uniprot_ids",
+        out_dir=here / "intact_uniprot_results/KNOTTED"
+    )
 
     # print("for the unknotted proteins:")
     # intact_uniprot_pipeline(
