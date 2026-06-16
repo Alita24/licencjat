@@ -8,9 +8,9 @@ if str(parent_dir) not in sys.path:
 
 from intAct.api import fetch_intact_interactions
 
-def intact_uniprot_pipeline(ids_dir, out_dir, file_pattern="_uniprot_ids_COMBINED"):
+def intact_uniprot_pipeline(ids_dir, out_dir, file_pattern="_uniprot_ids_GE"):
     """
-    For every file in ids_dir, treat the filename (without '_uniprot_ids_COMBINED.txt') as a gene,
+    For every file in ids_dir, treat the filename (without '_uniprot_ids_GE.txt') as a gene,
     fetch IntAct interactions for each UniProt ID listed, and save results in out_dir.
     """
     ids_dir = Path(ids_dir)
