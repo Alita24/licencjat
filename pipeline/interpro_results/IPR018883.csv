@@ -1,0 +1,515 @@
+protein_accession,protein_name,protein_length,gene,organism_taxid,organism_name,organism_fullname,in_alphafold,interpro_accession,entry_type,entry_integrated,interpro_protein_length,fragment_start,fragment_end,fragment_status
+A0A073J1D9,Cadmium carbonic anhydrase,290,SUH3_13690,1402135,Pseudosulfitobacter pseudonitzschiae,Pseudosulfitobacter pseudonitzschiae,True,IPR018883,family,,290,79,257,CONTINUOUS
+A0A090IAU4,Uncharacterized protein,286,MT2528_4684,80854,Moritella viscosa,Moritella viscosa,True,IPR018883,family,,286,77,255,CONTINUOUS
+A0A090N4Y7,"Carbonic anhydrase, cadmium-binding",348,OT_ostta08g04120,70448,Ostreococcus tauri,Ostreococcus tauri (Marine green alga),True,IPR018883,family,,348,136,303,CONTINUOUS
+A0A094IMX9,Cadmium carbonic anhydrase,280,IDAT_09150,1517416,Pseudidiomarina atlantica,Pseudidiomarina atlantica,True,IPR018883,family,,280,71,248,CONTINUOUS
+A0A099KS52,Cadmium carbonic anhydrase,283,ND2E_2930,28229,Colwellia psychrerythraea,Colwellia psychrerythraea,True,IPR018883,family,,283,74,252,CONTINUOUS
+A0A0A7EH23,Cadmium carbonic anhydrase,257,OM33_12450,1348114,Pseudoalteromonas piratica,Pseudoalteromonas piratica,True,IPR018883,family,,257,52,225,CONTINUOUS
+A0A0D3J9C4,Uncharacterized protein,655,,280463,Emiliania huxleyi (strain CCMP1516),Emiliania huxleyi (strain CCMP1516),True,IPR018883,family,,655,426,614,CONTINUOUS
+A0A0D3JCF4,Uncharacterized protein,292,,280463,Emiliania huxleyi (strain CCMP1516),Emiliania huxleyi (strain CCMP1516),True,IPR018883,family,,292,97,267,CONTINUOUS
+A0A0D3KJ64,Alpha-carbonic anhydrase domain-containing protein,381,,280463,Emiliania huxleyi (strain CCMP1516),Emiliania huxleyi (strain CCMP1516),True,IPR018883,family,,381,97,322,CONTINUOUS
+A0A0F4PPN0,Cadmium carbonic anhydrase,257,TW72_14735,151081,Pseudoalteromonas ruthenica,Pseudoalteromonas ruthenica,True,IPR018883,family,,257,50,224,CONTINUOUS
+A0A0F4QK96,Cadmium carbonic anhydrase,258,TW77_13370,43658,Pseudoalteromonas rubra,Pseudoalteromonas rubra,True,IPR018883,family,,258,53,226,CONTINUOUS
+A0A0H2MU60,Cadmium carbonic anhydrase,289,WH96_13800,1489064,Kiloniella spongiae,Kiloniella spongiae,True,IPR018883,family,,289,79,256,CONTINUOUS
+A0A0K6IMB9,Uncharacterized protein,283,Ga0061065_10679,1137284,Marinomonas fungiae,Marinomonas fungiae,True,IPR018883,family,,283,74,251,CONTINUOUS
+A0A0M0J5S4,Uncharacterized protein,1015,Ctob_001638,1460289,Chrysochromulina tobinii,Chrysochromulina tobinii,True,IPR018883,family,,1015,779,975,CONTINUOUS
+A0A0M0JPR6,EF-hand domain-containing protein,807,Ctob_011236,1460289,Chrysochromulina tobinii,Chrysochromulina tobinii,True,IPR018883,family,,807,570,767,CONTINUOUS
+A0A0M6Y0M0,Cadmium carbonic anhydrase,263,LAL4801_01680,187304,Roseibium aggregatum,Roseibium aggregatum,True,IPR018883,family,,263,56,229,CONTINUOUS
+A0A0N1EVI8,Cadmium carbonic anhydrase,287,ADS77_07645,187330,Pseudoalteromonas porphyrae,Pseudoalteromonas porphyrae,True,IPR018883,family,,287,77,254,CONTINUOUS
+A0A0N7LZK6,Uncharacterized protein,283,TRN7648_01699,441103,Tropicibacter naphthalenivorans,Tropicibacter naphthalenivorans,True,IPR018883,family,,283,74,252,CONTINUOUS
+A0A0P1G5I0,Cadmium carbonic anhydrase,282,TRN7648_01184,441103,Tropicibacter naphthalenivorans,Tropicibacter naphthalenivorans,True,IPR018883,family,,282,75,249,CONTINUOUS
+A0A0P1G5N9,Cadmium carbonic anhydrase,299,TRN7648_01185,441103,Tropicibacter naphthalenivorans,Tropicibacter naphthalenivorans,True,IPR018883,family,,299,56,266,CONTINUOUS
+A0A0S2K106,Cadmium carbonic anhydrase,279,PP2015_1461,161398,Pseudoalteromonas phenolica,Pseudoalteromonas phenolica,True,IPR018883,family,,279,70,247,CONTINUOUS
+A0A0S2TAA2,Cadmium carbonic anhydrase,282,Tel_02325,1748243,Candidatus Tenderia electrophaga,Candidatus Tenderia electrophaga,True,IPR018883,family,,282,69,250,CONTINUOUS
+A0A120DHN5,Cadmium carbonic anhydrase,286,APQ14_18635,1194427,Vibrio toranzoniae,Vibrio toranzoniae,True,IPR018883,family,,286,77,253,CONTINUOUS
+A0A128F3V2,Cadmium carbonic anhydrase repeat protein,285,GMA8713_01659,646534,Grimontia marina,Grimontia marina,True,IPR018883,family,,285,75,252,CONTINUOUS
+A0A128F6Z3,Cadmium carbonic anhydrase repeat protein,285,GCE9029_03008,1796497,Grimontia celer,Grimontia celer,True,IPR018883,family,,285,74,252,CONTINUOUS
+A0A135ICN0,Cadmium carbonic anhydrase,283,ATN88_05885,294935,Enterovibrio coralii,Enterovibrio coralii,True,IPR018883,family,,283,72,249,CONTINUOUS
+A0A166YEI2,Cadmium carbonic anhydrase,261,N475_09525,1365250,Pseudoalteromonas luteoviolacea DSM 6061,Pseudoalteromonas luteoviolacea DSM 6061,True,IPR018883,family,,261,56,229,CONTINUOUS
+A0A1B0ZW06,Cadmium carbonic anhydrase,287,JL2886_03352,60890,Phaeobacter gallaeciensis,Phaeobacter gallaeciensis,True,IPR018883,family,,287,76,254,CONTINUOUS
+A0A1B9QZ98,Cadmium carbonic anhydrase,297,A6E14_10365,723171,Vibrio genomosp. F10,Vibrio genomosp. F10,True,IPR018883,family,,297,79,265,CONTINUOUS
+A0A1C3ER30,Cadmium carbonic anhydrase,285,A8L45_03660,1080227,Veronia pacifica,Veronia pacifica,True,IPR018883,family,,285,76,253,CONTINUOUS
+A0A1C3IKB4,Cadmium carbonic anhydrase,286,ACED57_00600,693153,Vibrio atlanticus,Vibrio atlanticus,True,IPR018883,family,,286,76,253,CONTINUOUS
+A0A1C3J9E0,Cadmium carbonic anhydrase repeat protein,287,VCE7224_00383,446372,Vibrio celticus,Vibrio celticus,True,IPR018883,family,,287,76,253,CONTINUOUS
+A0A1C3JSZ2,Cadmium carbonic anhydrase repeat protein,285,MGA5116_03240,1806667,Marinomonas gallaica,Marinomonas gallaica,True,IPR018883,family,,285,76,253,CONTINUOUS
+A0A1E5CAM3,Cadmium carbonic anhydrase,285,A1OK_07135,1185651,Enterovibrio norvegicus FF-454,Enterovibrio norvegicus FF-454,True,IPR018883,family,,285,74,252,CONTINUOUS
+A0A1E7EUG8,FAS1 domain-containing protein,531,DCA1,635003,Fragilariopsis cylindrus CCMP1102,Fragilariopsis cylindrus CCMP1102,True,IPR018883,family,,531,264,479,CONTINUOUS
+A0A1E7EZ89,Delta carbonic anhydrase,394,DCA2,635003,Fragilariopsis cylindrus CCMP1102,Fragilariopsis cylindrus CCMP1102,True,IPR018883,family,,394,124,350,CONTINUOUS
+A0A1G5PN50,Cadmium carbonic anhydrase repeat-containing protein,282,SAMN04488118_101385,1156985,Epibacterium ulvae,Epibacterium ulvae,True,IPR018883,family,,282,74,250,CONTINUOUS
+A0A1G7GQA1,Cadmium carbonic anhydrase repeat-containing protein,295,SAMN04488105_109141,282683,Salipiger thiooxidans,Salipiger thiooxidans,True,IPR018883,family,,295,87,262,CONTINUOUS
+A0A1G7P8L1,Cadmium carbonic anhydrase-like repeat protein,288,SAMN05216571_102179,284577,Onishia taeanensis,Onishia taeanensis,True,IPR018883,family,,288,78,255,CONTINUOUS
+A0A1G8T7Z6,Cadmium carbonic anhydrase repeat-containing protein,285,SAMN04487993_102842,555512,Salipiger marinus,Salipiger marinus,True,IPR018883,family,,285,77,251,CONTINUOUS
+A0A1H5SWY5,Cadmium carbonic anhydrase repeat-containing protein,283,SAMN04488045_0382,373675,Thalassococcus halodurans,Thalassococcus halodurans,True,IPR018883,family,,283,74,252,CONTINUOUS
+A0A1H6F9G6,Cadmium carbonic anhydrase repeat protein,288,MBHS_01886,1899563,Candidatus Venteria ishoeyi,Candidatus Venteria ishoeyi,True,IPR018883,family,,288,78,256,CONTINUOUS
+A0A1I1KL32,Cadmium carbonic anhydrase repeat-containing protein,285,SAMN02745724_02020,1123010,Pseudoalteromonas denitrificans DSM 6059,Pseudoalteromonas denitrificans DSM 6059,True,IPR018883,family,,285,74,252,CONTINUOUS
+A0A1I1LXM6,Cadmium carbonic anhydrase repeat-containing protein,285,SAMN05421762_2172,517719,Pseudooceanicola nitratireducens,Pseudooceanicola nitratireducens,True,IPR018883,family,,285,74,252,CONTINUOUS
+A0A1I2D4U9,Cadmium carbonic anhydrase repeat-containing protein,260,SAMN04515678_11570,936889,Roseivivax sediminis,Roseivivax sediminis,True,IPR018883,family,,260,55,227,CONTINUOUS
+A0A1I3GC59,Cadmium carbonic anhydrase repeat-containing protein,277,SAMN05216258_10581,1114924,Albimonas pacifica,Albimonas pacifica,True,IPR018883,family,,277,67,244,CONTINUOUS
+A0A1I6P2J7,Cadmium carbonic anhydrase repeat-containing protein,316,SAMN04488050_101271,311180,Alloyangia pacifica,Alloyangia pacifica,True,IPR018883,family,,316,109,283,CONTINUOUS
+A0A1J5TUQ4,Cadmium carbonic anhydrase,289,THERMOS_1151,2360,Bathymodiolus thermophilus thioautotrophic gill symbiont,Bathymodiolus thermophilus thioautotrophic gill symbiont,True,IPR018883,family,,289,79,256,CONTINUOUS
+A0A1L3I611,Uncharacterized protein,288,PhaeoP97_02092,1844006,Phaeobacter porticola,Phaeobacter porticola,True,IPR018883,family,,288,77,255,CONTINUOUS
+A0A1L8CKP7,Cadmium carbonic anhydrase,297,MMIC_P0420,1921010,Mariprofundus micogutta,Mariprofundus micogutta,True,IPR018883,family,,297,86,265,CONTINUOUS
+A0A1M4MVA5,Putative secreted protein,286,KARMA_0394,393278,Donghicola eburneus,Donghicola eburneus,True,IPR018883,family,,286,76,253,CONTINUOUS
+A0A1M4MX71,Calcium carbonic anhydrase,260,KARMA_1331,393278,Donghicola eburneus,Donghicola eburneus,True,IPR018883,family,,260,53,228,CONTINUOUS
+A0A1M4SRU2,Cadmium carbonic anhydrase repeat-containing protein,288,SAMN02745753_00106,1122206,Marinomonas polaris DSM 16579,Marinomonas polaris DSM 16579,True,IPR018883,family,,288,74,252,CONTINUOUS
+A0A1M5Z5J9,Cadmium carbonic anhydrase repeat-containing protein,282,SAMN02745129_4691,299255,Ferrimonas marina,Ferrimonas marina,True,IPR018883,family,,282,72,248,CONTINUOUS
+A0A1M7DPW7,Cadmium carbonic anhydrase repeat-containing protein,285,SAMN05443432_1039,1155722,Roseovarius litoreus,Roseovarius litoreus,True,IPR018883,family,,285,75,252,CONTINUOUS
+A0A1M7GS86,Cadmium carbonic anhydrase repeat-containing protein,267,SAMN05444272_1996,735517,Roseibium suaedae,Roseibium suaedae,True,IPR018883,family,,267,57,234,CONTINUOUS
+A0A1N7IWJ6,Cadmium carbonic anhydrase repeat-containing protein,288,SAMN05421760_101227,619304,Neptunomonas antarctica,Neptunomonas antarctica,True,IPR018883,family,,288,78,254,CONTINUOUS
+A0A1N7JI91,Cadmium carbonic anhydrase repeat-containing protein,285,SAMN05421686_10223,484498,Thalassolituus maritimus,Thalassolituus maritimus,True,IPR018883,family,,285,76,253,CONTINUOUS
+A0A1N7MAR0,Cadmium carbonic anhydrase repeat-containing protein,301,SAMN05421580_105223,453582,Rhodobacter aestuarii,Rhodobacter aestuarii,True,IPR018883,family,,301,92,269,CONTINUOUS
+A0A1P8UZE2,Cadmium carbonic anhydrase repeat-containing protein,285,Ga0080574_TMP4417,1250539,Salipiger abyssi,Salipiger abyssi,True,IPR018883,family,,285,78,252,CONTINUOUS
+A0A1Q9CW16,Uncharacterized protein,869,AK812_SmicGene31718,2951,Symbiodinium microadriaticum,Symbiodinium microadriaticum (Dinoflagellate),True,IPR018883,family,,869,17,210,CONTINUOUS
+A0A1Q9CW16,Uncharacterized protein,869,AK812_SmicGene31718,2951,Symbiodinium microadriaticum,Symbiodinium microadriaticum (Dinoflagellate),True,IPR018883,family,,869,344,530,CONTINUOUS
+A0A1Q9CW16,Uncharacterized protein,869,AK812_SmicGene31718,2951,Symbiodinium microadriaticum,Symbiodinium microadriaticum (Dinoflagellate),True,IPR018883,family,,869,626,819,CONTINUOUS
+A0A1Q9D410,Uncharacterized protein,376,AK812_SmicGene28620,2951,Symbiodinium microadriaticum,Symbiodinium microadriaticum (Dinoflagellate),True,IPR018883,family,,376,151,333,CONTINUOUS
+A0A1Q9DL12,Uncharacterized protein,296,AK812_SmicGene21973,2951,Symbiodinium microadriaticum,Symbiodinium microadriaticum (Dinoflagellate),True,IPR018883,family,,296,134,253,CONTINUOUS
+A0A1Q9DL31,E3 ubiquitin-protein ligase HERC2,1216,AK812_SmicGene21974,2951,Symbiodinium microadriaticum,Symbiodinium microadriaticum (Dinoflagellate),True,IPR018883,family,,1216,134,253,CONTINUOUS
+A0A1Q9DSV6,Uncharacterized protein,444,AK812_SmicGene19326,2951,Symbiodinium microadriaticum,Symbiodinium microadriaticum (Dinoflagellate),True,IPR018883,family,,444,211,398,CONTINUOUS
+A0A1R4B4D1,Cadmium carbonic anhydrase repeat protein,289,VPAL9027_01741,1918946,Vibrio palustris,Vibrio palustris,True,IPR018883,family,,289,78,256,CONTINUOUS
+A0A1S1MND3,Cadmium carbonic anhydrase,283,BET10_00620,1859457,Pseudoalteromonas amylolytica,Pseudoalteromonas amylolytica,True,IPR018883,family,,283,77,250,CONTINUOUS
+A0A1S6HQS0,Uncharacterized protein,285,Sps_02745,225848,Shewanella psychrophila,Shewanella psychrophila,True,IPR018883,family,,285,75,252,CONTINUOUS
+A0A1T4W5S3,Cadmium carbonic anhydrase repeat-containing protein,285,SAMN02745132_04755,1121868,Enterovibrio nigricans DSM 22720,Enterovibrio nigricans DSM 22720,True,IPR018883,family,,285,74,251,CONTINUOUS
+A0A1W1Z9Z7,Cadmium carbonic anhydrase repeat-containing protein,267,SAMN06297251_102275,937218,Fulvimarina manganoxydans,Fulvimarina manganoxydans,True,IPR018883,family,,267,58,234,CONTINUOUS
+A0A1Y0CV22,Cadmium carbonic anhydrase,278,CBP12_02705,1903694,Oceanisphaera avium,Oceanisphaera avium,True,IPR018883,family,,278,72,245,CONTINUOUS
+A0A1Y0D296,Cadmium carbonic anhydrase,294,CBP31_00785,1416627,Oceanisphaera profunda,Oceanisphaera profunda,True,IPR018883,family,,294,84,261,CONTINUOUS
+A0A1Y2K408,Cadmium carbonic anhydrase,290,MAIT1_02512,1434232,Magnetofaba australis IT-1,Magnetofaba australis IT-1,True,IPR018883,family,,290,81,259,CONTINUOUS
+A0A1Y5S412,Cadmium carbonic anhydrase repeat protein,270,OCH7691_00999,745714,Oceanibacterium hippocampi,Oceanibacterium hippocampi,True,IPR018883,family,,270,63,238,CONTINUOUS
+A0A1Y5TJ40,Cadmium carbonic anhydrase,287,PAM7971_03437,658057,Pacificibacter marinus,Pacificibacter marinus,True,IPR018883,family,,287,77,255,CONTINUOUS
+A0A1Y5TU44,Cadmium carbonic anhydrase repeat protein,291,TRL7639_04323,1200284,Falsiruegeria litorea R37,Falsiruegeria litorea R37,True,IPR018883,family,,291,80,258,CONTINUOUS
+A0A1Y6CF06,Cadmium carbonic anhydrase repeat-containing protein,257,SAMN06296036_11932,1513793,Pseudobacteriovorax antillogorgiicola,Pseudobacteriovorax antillogorgiicola,True,IPR018883,family,,257,57,225,CONTINUOUS
+A0A222FHA2,Cadmium carbonic anhydrase,285,CHH28_07005,1249553,Bacterioplanes sanyensis,Bacterioplanes sanyensis,True,IPR018883,family,,285,77,253,CONTINUOUS
+A0A222GAW0,Cadmium carbonic anhydrase,285,B5D82_14285,1967665,Cognaticolwellia beringensis,Cognaticolwellia beringensis,True,IPR018883,family,,285,75,253,CONTINUOUS
+A0A233RDF1,Cadmium carbonic anhydrase,285,B6S08_13080,84158,Oceanimonas doudoroffii,Oceanimonas doudoroffii,True,IPR018883,family,,285,75,252,CONTINUOUS
+A0A238JJR4,Cadmium carbonic anhydrase,289,COL8621_00086,1524263,Actibacterium lipolyticum,Actibacterium lipolyticum,True,IPR018883,family,,289,79,256,CONTINUOUS
+A0A238KEQ0,Cadmium carbonic anhydrase repeat protein,283,PEV8663_02233,696760,Pelagimonas varians,Pelagimonas varians,True,IPR018883,family,,283,76,251,CONTINUOUS
+A0A238YK89,Cadmium carbonic anhydrase repeat-containing protein,264,SAMN06265370_11753,1608407,Puniceibacterium sediminis,Puniceibacterium sediminis,True,IPR018883,family,,264,56,231,CONTINUOUS
+A0A285PDA5,Cadmium carbonic anhydrase repeat-containing protein,283,SAMN06265368_2283,372072,Cohaesibacter gelatinilyticus,Cohaesibacter gelatinilyticus,True,IPR018883,family,,283,75,251,CONTINUOUS
+A0A2A5JR16,Cadmium carbonic anhydrase,259,CEX98_10665,43662,Pseudoalteromonas piscicida,Pseudoalteromonas piscicida,True,IPR018883,family,,259,54,226,CONTINUOUS
+A0A2G8RB38,Cadmium carbonic anhydrase,264,P775_19540,1206336,Puniceibacterium antarcticum,Puniceibacterium antarcticum,True,IPR018883,family,,264,57,231,CONTINUOUS
+A0A2I7LWT3,Cadmium carbonic anhydrase,288,PhaeoP66_01231,221822,Phaeobacter inhibens,Phaeobacter inhibens,True,IPR018883,family,,288,77,255,CONTINUOUS
+A0A2K8KPA8,Cadmium carbonic anhydrase,289,REIFOR_00721,1336806,Reinekea forsetii,Reinekea forsetii,True,IPR018883,family,,289,79,256,CONTINUOUS
+A0A2K8KYW1,Cadmium carbonic anhydrase repeat-containing protein,293,Ga0123461_1765,1921086,Mariprofundus aestuarium,Mariprofundus aestuarium,True,IPR018883,family,,293,83,260,CONTINUOUS
+A0A2K8L2J7,Cadmium carbonic anhydrase repeat-containing protein,293,Ga0123462_0647,1921087,Mariprofundus ferrinatatus,Mariprofundus ferrinatatus,True,IPR018883,family,,293,84,261,CONTINUOUS
+A0A2K9LHM4,Cadmium carbonic anhydrase,284,Kalk_00465,1917421,Ketobacter alkanivorans,Ketobacter alkanivorans,True,IPR018883,family,,284,74,252,CONTINUOUS
+A0A2N3L1I0,Cadmium carbonic anhydrase,283,COO92_19865,744227,Thalassospira lohafexi,Thalassospira lohafexi,True,IPR018883,family,,283,75,251,CONTINUOUS
+A0A2N5Y243,Cadmium carbonic anhydrase,284,CWI75_11925,1905677,Kineobactrum sediminis,Kineobactrum sediminis,True,IPR018883,family,,284,74,251,CONTINUOUS
+A0A2R8C3F0,Cadmium carbonic anhydrase,257,TRM7615_00427,1200281,Falsiruegeria mediterranea M17,Falsiruegeria mediterranea M17,True,IPR018883,family,,257,50,224,CONTINUOUS
+A0A2S3V3W1,Cadmium carbonic anhydrase,286,CLV41_1011036,281252,Roseibium marinum,Roseibium marinum,True,IPR018883,family,,286,77,253,CONTINUOUS
+A0A2S7VPT1,Cadmium carbonic anhydrase,286,BTO10_02220,170679,Vibrio chagasii,Vibrio chagasii,True,IPR018883,family,,286,76,253,CONTINUOUS
+A0A2T0VYJ5,Cadmium carbonic anhydrase-like repeat protein,285,CLV80_106176,1435347,Yoonia maritima,Yoonia maritima,True,IPR018883,family,,285,75,252,CONTINUOUS
+A0A2T0WID3,Cadmium carbonic anhydrase-like repeat protein,287,CLV74_11254,1652492,Donghicola tyrosinivorans,Donghicola tyrosinivorans,True,IPR018883,family,,287,77,254,CONTINUOUS
+A0A2T3JBQ7,Cadmium carbonic anhydrase,273,CTM96_20450,659,Photobacterium phosphoreum,Photobacterium phosphoreum,True,IPR018883,family,,273,70,241,CONTINUOUS
+A0A2T6B2K7,Cadmium carbonic anhydrase-like repeat protein,261,C8N44_105151,1267769,Allosediminivita pacifica,Allosediminivita pacifica,True,IPR018883,family,,261,54,228,CONTINUOUS
+A0A2T7UYQ4,Cadmium carbonic anhydrase,271,DDE23_00065,404875,Pararhodobacter aggregans,Pararhodobacter aggregans,True,IPR018883,family,,271,62,238,CONTINUOUS
+A0A2U2C7N3,Cadmium carbonic anhydrase,279,C4N9_14685,2184063,Pararhodobacter marinus,Pararhodobacter marinus,True,IPR018883,family,,279,69,246,CONTINUOUS
+A0A2V4NVW8,Cadmium carbonic anhydrase,278,DI396_01895,2200892,Litorivita pollutaquae,Litorivita pollutaquae,True,IPR018883,family,,278,57,235,CONTINUOUS
+A0A317CE19,Cadmium carbonic anhydrase,276,DKW60_12600,1247513,Leucothrix pacifica,Leucothrix pacifica,True,IPR018883,family,,276,65,242,CONTINUOUS
+A0A317PYP8,Cadmium carbonic anhydrase-like repeat protein,285,DET45_1263,519453,Pseudidiomarina maritima,Pseudidiomarina maritima,True,IPR018883,family,,285,75,252,CONTINUOUS
+A0A318V7A3,Cadmium carbonic anhydrase-like repeat protein,286,DFP75_102573,491949,Marinomonas alcarazii,Marinomonas alcarazii,True,IPR018883,family,,286,74,252,CONTINUOUS
+A0A327YRR2,Cadmium carbonic anhydrase-like repeat protein,294,ATI53_1002206,568098,Salipiger aestuarii,Salipiger aestuarii,True,IPR018883,family,,294,87,260,CONTINUOUS
+A0A367X9F0,Cadmium carbonic anhydrase,274,TH30_03625,502049,Thalassospira profundimaris,Thalassospira profundimaris,True,IPR018883,family,,274,66,242,CONTINUOUS
+A0A368USP3,Cadmium carbonic anhydrase-like repeat protein,285,DFO81_10836,502365,Pseudidiomarina tainanensis,Pseudidiomarina tainanensis,True,IPR018883,family,,285,75,252,CONTINUOUS
+A0A379C9V9,Uncharacterized protein,288,NCTC12872_00410,146806,Phocoenobacter uteri,Phocoenobacter uteri,True,IPR018883,family,,288,79,256,CONTINUOUS
+A0A399J9X3,Cadmium carbonic anhydrase,207,DL237_01720,2211117,Pseudooceanicola sediminis,Pseudooceanicola sediminis,True,IPR018883,family,,207,1,174,CONTINUOUS
+A0A399R781,Cadmium carbonic anhydrase,274,D1223_15215,2305467,Henriciella mobilis,Henriciella mobilis,True,IPR018883,family,,274,70,241,CONTINUOUS
+A0A399R9T2,Cadmium carbonic anhydrase,275,D1223_17740,2305467,Henriciella mobilis,Henriciella mobilis,True,IPR018883,family,,275,71,242,CONTINUOUS
+A0A3A6QYE1,Cadmium carbonic anhydrase,281,DZ860_02440,2302434,Vibrio sinensis,Vibrio sinensis,True,IPR018883,family,,281,76,249,CONTINUOUS
+A0A3N5XXH8,Cadmium carbonic anhydrase,284,DRW07_16610,2259342,Alteromonas sediminis,Alteromonas sediminis,True,IPR018883,family,,284,75,252,CONTINUOUS
+A0A3T0N7H5,Cadmium carbonic anhydrase,265,EBB79_20105,2483033,Parasedimentitalea marina,Parasedimentitalea marina,True,IPR018883,family,,265,57,231,CONTINUOUS
+A0A418SDM0,Cadmium carbonic anhydrase repeat protein,301,PSAL_006390,1537215,Pseudooceanicola algae,Pseudooceanicola algae,True,IPR018883,family,,301,93,268,CONTINUOUS
+A0A430KMD2,Cadmium carbonic anhydrase,298,EH243_16160,2490544,Amphritea opalescens,Amphritea opalescens,True,IPR018883,family,,298,88,265,CONTINUOUS
+A0A432D2Y3,Cadmium carbonic anhydrase,282,EJ063_05535,2496559,Vibrio aquaticus,Vibrio aquaticus,True,IPR018883,family,,282,72,250,CONTINUOUS
+A0A448ZPF4,Carbonic anhydrase,432,PSNMU_V1.4_AUG-EV-PASAV3_0109370,183589,Pseudo-nitzschia multistriata,Pseudo-nitzschia multistriata,True,IPR018883,family,,432,123,353,CONTINUOUS
+A0A4Q0YV57,Uncharacterized protein,284,CS022_13435,1278244,Veronia nyctiphanis,Veronia nyctiphanis,True,IPR018883,family,,284,74,252,CONTINUOUS
+A0A4R3PQN2,Cadmium carbonic anhydrase-like repeat protein,286,VCR4J5_780197,246167,Vibrio crassostreae,Vibrio crassostreae,True,IPR018883,family,,286,76,253,CONTINUOUS
+A0A4R6MD10,Cadmium carbonic anhydrase-like repeat protein,281,DFP79_0415,491947,Marinomonas balearica,Marinomonas balearica,True,IPR018883,family,,281,71,249,CONTINUOUS
+A0A4R6XEX3,Cadmium carbonic anhydrase-like repeat protein,285,C8D85_0997,28254,Marinomonas communis,Marinomonas communis,True,IPR018883,family,,285,76,253,CONTINUOUS
+A0A4V0ZG89,Cadmium carbonic anhydrase,283,EMK97_12400,718192,Litorilituus sediminis,Litorilituus sediminis,True,IPR018883,family,,283,74,252,CONTINUOUS
+A0A4V5NVC8,Cadmium carbonic anhydrase repeat-containing protein,287,FCL40_09440,2569538,Ferrimonas sediminicola,Ferrimonas sediminicola,True,IPR018883,family,,287,76,254,CONTINUOUS
+A0A4Y8RV32,Cadmium carbonic anhydrase,268,E3C22_02235,2558362,Jiella endophytica,Jiella endophytica,True,IPR018883,family,,268,45,220,CONTINUOUS
+A0A4Z0LUQ5,Cadmium carbonic anhydrase,286,E4634_20510,2562682,Mangrovimicrobium sediminis,Mangrovimicrobium sediminis,True,IPR018883,family,,286,77,254,CONTINUOUS
+A0A511QDL3,Cadmium carbonic anhydrase,279,VSA01S_15020,1219064,Vibrio sagamiensis NBRC 104589,Vibrio sagamiensis NBRC 104589,True,IPR018883,family,,279,77,247,CONTINUOUS
+A0A545T6W0,Cadmium carbonic anhydrase,283,FLL45_15975,1712262,Aliikangiella marina,Aliikangiella marina,True,IPR018883,family,,283,77,251,CONTINUOUS
+A0A545TRT5,Cadmium carbonic anhydrase,289,FKG95_14715,2591009,Denitrobaculum tricleocarpae,Denitrobaculum tricleocarpae,True,IPR018883,family,,289,78,256,CONTINUOUS
+A0A545U8G7,Cadmium carbonic anhydrase,262,FKG94_02155,2591008,Exilibacterium tricleocarpae,Exilibacterium tricleocarpae,True,IPR018883,family,,262,56,230,CONTINUOUS
+A0A545UCK1,Cadmium carbonic anhydrase,278,FLL46_15440,2592383,Aliikangiella coralliicola,Aliikangiella coralliicola,True,IPR018883,family,,278,69,246,CONTINUOUS
+A0A553JV98,Cadmium carbonic anhydrase,287,FN961_01780,25,Shewanella hanedai,Shewanella hanedai,True,IPR018883,family,,287,77,255,CONTINUOUS
+A0A562T9J6,Cadmium carbonic anhydrase-like repeat protein,262,JM93_01279,150831,Roseibium hamelinense,Roseibium hamelinense,True,IPR018883,family,,262,56,229,CONTINUOUS
+A0A5C6QCI3,Cadmium carbonic anhydrase,283,ESZ36_15795,89401,Colwellia demingiae,Colwellia demingiae,True,IPR018883,family,,283,75,252,CONTINUOUS
+A0A5E8GWY8,Cadmium carbonic anhydrase,262,SADFL11_779,244592,Roseibium alexandrii (strain DSM 17067 / NCIMB 14079 / DFL-11),Roseibium alexandrii (strain DSM 17067 / NCIMB 14079 / DFL-11),True,IPR018883,family,,262,57,229,CONTINUOUS
+A0A5M6IEN9,Cadmium carbonic anhydrase,268,F1188_05275,140057,Roseospira marina,Roseospira marina,True,IPR018883,family,,268,61,236,CONTINUOUS
+A0A5M9P3B3,Cadmium carbonic anhydrase,286,F4W18_05550,296199,Vibrio gigantis,Vibrio gigantis,True,IPR018883,family,,286,76,253,CONTINUOUS
+A0A5P1RBS2,Cadmium carbonic anhydrase,286,F0U83_08410,1031538,Neptunomonas concharum,Neptunomonas concharum,True,IPR018883,family,,286,78,256,CONTINUOUS
+A0A5R9GKY7,Cadmium carbonic anhydrase,299,FEF65_11930,2528639,Mariprofundus erugo,Mariprofundus erugo,True,IPR018883,family,,299,86,267,CONTINUOUS
+A0A5S3V758,Cadmium carbonic anhydrase,259,CWC20_11160,43654,Pseudoalteromonas aurantia,Pseudoalteromonas aurantia,True,IPR018883,family,,259,54,227,CONTINUOUS
+A0A5S3XM84,Cadmium carbonic anhydrase,259,CWB97_19935,43655,Pseudoalteromonas citrea,Pseudoalteromonas citrea,True,IPR018883,family,,259,54,227,CONTINUOUS
+A0A640VQP1,Cadmium carbonic anhydrase,331,So717_17450,2602289,Roseobacter cerasinus,Roseobacter cerasinus,True,IPR018883,family,,331,122,299,CONTINUOUS
+A0A6F8PUZ7,Cadmium carbonic anhydrase,287,THMIRHAS_12300,2675054,Thiosulfatimonas sediminis,Thiosulfatimonas sediminis,True,IPR018883,family,,287,77,255,CONTINUOUS
+A0A6L7G0J1,Cadmium carbonic anhydrase,304,GR170_03795,2692189,Pseudooceanicola albus,Pseudooceanicola albus,True,IPR018883,family,,304,96,270,CONTINUOUS
+A0A6M1RFU6,Cadmium carbonic anhydrase,285,G5S52_01950,2711294,Grimontia sedimenti,Grimontia sedimenti,True,IPR018883,family,,285,74,252,CONTINUOUS
+A0A6N9T982,Cadmium carbonic anhydrase,252,GTK09_26815,2696469,Jiella pacifica,Jiella pacifica,True,IPR018883,family,,252,29,204,CONTINUOUS
+A0A7D4P6J2,Cadmium carbonic anhydrase repeat-containing protein,280,HQN79_11980,2739063,Thiomicrorhabdus xiamenensis,Thiomicrorhabdus xiamenensis,True,IPR018883,family,,280,71,248,CONTINUOUS
+A0A7H1J9P6,Cadmium carbonic anhydrase,282,IBG28_06155,383750,Marinomonas arctica,Marinomonas arctica,True,IPR018883,family,,282,71,249,CONTINUOUS
+A0A7L5BWJ0,Cadmium carbonic anhydrase,254,G5B40_01625,2748098,Pikeienuella piscinae,Pikeienuella piscinae,True,IPR018883,family,,254,55,222,CONTINUOUS
+A0A7L9WTB7,Cadmium carbonic anhydrase,207,F3W81_05685,2613965,Pseudooceanicola spongiae,Pseudooceanicola spongiae,True,IPR018883,family,,207,1,174,CONTINUOUS
+A0A7W2FCA0,Cadmium carbonic anhydrase-like repeat protein,272,H3H39_18125,2758570,Rugamonas apoptosis,Rugamonas apoptosis,True,IPR018883,family,,272,71,240,CONTINUOUS
+A0A7W2IBK2,Cadmium carbonic anhydrase repeat-containing protein,274,H3H37_08260,2758569,Rugamonas brunnea,Rugamonas brunnea,True,IPR018883,family,,274,73,242,CONTINUOUS
+A0A7X0DNL4,Cadmium carbonic anhydrase,292,FHS48_001777,189,Novispirillum itersonii,Novispirillum itersonii,True,IPR018883,family,,292,82,259,CONTINUOUS
+A0A7Y5APY8,Cadmium carbonic anhydrase,288,HRH59_07355,2740584,Rheinheimera lutimaris,Rheinheimera lutimaris,True,IPR018883,family,,288,79,256,CONTINUOUS
+A0A7Z7ESV5,Cadmium carbonic anhydrase,279,CWE22_09170,624146,Pseudidiomarina aestuarii,Pseudidiomarina aestuarii,True,IPR018883,family,,279,69,246,CONTINUOUS
+A0A812HTU8,Uncharacterized protein,404,SNAT2548_LOCUS2009,878477,Symbiodinium natans,Symbiodinium natans,True,IPR018883,family,,404,164,354,CONTINUOUS
+A0A812HUV3,Uncharacterized protein,344,SNAT2548_LOCUS2008,878477,Symbiodinium natans,Symbiodinium natans,True,IPR018883,family,,344,99,287,CONTINUOUS
+A0A812HVA8,Uncharacterized protein,214,SNAT2548_LOCUS2007,878477,Symbiodinium natans,Symbiodinium natans,True,IPR018883,family,,214,126,165,CONTINUOUS
+A0A812I674,Uncharacterized protein,316,SNAT2548_LOCUS3099,878477,Symbiodinium natans,Symbiodinium natans,True,IPR018883,family,,316,90,273,CONTINUOUS
+A0A812I695,Uncharacterized protein,376,SNAT2548_LOCUS3098,878477,Symbiodinium natans,Symbiodinium natans,True,IPR018883,family,,376,150,333,CONTINUOUS
+A0A812I7U2,Uncharacterized protein,182,SNAT2548_LOCUS3093,878477,Symbiodinium natans,Symbiodinium natans,True,IPR018883,family,,182,5,139,CONTINUOUS
+A0A812I7V2,Superoxide dismutase copper/zinc binding domain-containing protein,255,SNAT2548_LOCUS3100,878477,Symbiodinium natans,Symbiodinium natans,True,IPR018883,family,,255,150,236,CONTINUOUS
+A0A812I8J7,Uncharacterized protein,314,SNAT2548_LOCUS3095,878477,Symbiodinium natans,Symbiodinium natans,True,IPR018883,family,,314,101,271,CONTINUOUS
+A0A812I8M2,Uncharacterized protein,316,SNAT2548_LOCUS3096,878477,Symbiodinium natans,Symbiodinium natans,True,IPR018883,family,,316,90,273,CONTINUOUS
+A0A812JW14,Uncharacterized protein,376,SNAT2548_LOCUS7676,878477,Symbiodinium natans,Symbiodinium natans,True,IPR018883,family,,376,150,333,CONTINUOUS
+A0A812K0L8,Carbonic anhydrase,247,SNAT2548_LOCUS7782,878477,Symbiodinium natans,Symbiodinium natans,True,IPR018883,family,,247,16,202,CONTINUOUS
+A0A812L574,Uncharacterized protein,1061,SNAT2548_LOCUS10976,878477,Symbiodinium natans,Symbiodinium natans,True,IPR018883,family,,1061,150,333,CONTINUOUS
+A0A812L574,Uncharacterized protein,1061,SNAT2548_LOCUS10976,878477,Symbiodinium natans,Symbiodinium natans,True,IPR018883,family,,1061,509,692,CONTINUOUS
+A0A812L574,Uncharacterized protein,1061,SNAT2548_LOCUS10976,878477,Symbiodinium natans,Symbiodinium natans,True,IPR018883,family,,1061,885,1017,CONTINUOUS
+A0A812MP28,Carbonic anhydrase,100,SPIL2461_LOCUS5863,2952,Symbiodinium pilosum,Symbiodinium pilosum (Dinoflagellate),True,IPR018883,family,,100,1,84,CONTINUOUS
+A0A812NPJ3,Uncharacterized protein,278,SPIL2461_LOCUS7309,2952,Symbiodinium pilosum,Symbiodinium pilosum (Dinoflagellate),True,IPR018883,family,,278,52,235,CONTINUOUS
+A0A812PGB3,Uncharacterized protein,602,SNAT2548_LOCUS19483,878477,Symbiodinium natans,Symbiodinium natans,True,IPR018883,family,,602,376,559,CONTINUOUS
+A0A812RXA2,Uncharacterized protein,484,SNAT2548_LOCUS25264,878477,Symbiodinium natans,Symbiodinium natans,True,IPR018883,family,,484,150,333,CONTINUOUS
+A0A812RYT3,Uncharacterized protein,376,SNAT2548_LOCUS25260,878477,Symbiodinium natans,Symbiodinium natans,True,IPR018883,family,,376,150,333,CONTINUOUS
+A0A812SR53,Uncharacterized protein,326,SPIL2461_LOCUS12630,2952,Symbiodinium pilosum,Symbiodinium pilosum (Dinoflagellate),True,IPR018883,family,,326,49,276,CONTINUOUS
+A0A812T946,Uncharacterized protein,155,SPIL2461_LOCUS13478,2952,Symbiodinium pilosum,Symbiodinium pilosum (Dinoflagellate),True,IPR018883,family,,155,63,154,CONTINUOUS
+A0A812TEA0,Uncharacterized protein,179,SPIL2461_LOCUS14008,2952,Symbiodinium pilosum,Symbiodinium pilosum (Dinoflagellate),True,IPR018883,family,,179,66,156,CONTINUOUS
+A0A812THK8,Uncharacterized protein,183,SPIL2461_LOCUS14066,2952,Symbiodinium pilosum,Symbiodinium pilosum (Dinoflagellate),True,IPR018883,family,,183,88,177,CONTINUOUS
+A0A812TUP3,Uncharacterized protein,376,SNAT2548_LOCUS30468,878477,Symbiodinium natans,Symbiodinium natans,True,IPR018883,family,,376,150,333,CONTINUOUS
+A0A812U7W3,Superoxide dismutase copper/zinc binding domain-containing protein,300,SPIL2461_LOCUS14800,2952,Symbiodinium pilosum,Symbiodinium pilosum (Dinoflagellate),True,IPR018883,family,,300,148,279,CONTINUOUS
+A0A812U8Z2,Uncharacterized protein,226,SPIL2461_LOCUS15214,2952,Symbiodinium pilosum,Symbiodinium pilosum (Dinoflagellate),True,IPR018883,family,,226,8,182,CONTINUOUS
+A0A812ULI5,Uncharacterized protein,376,SNAT2548_LOCUS32392,878477,Symbiodinium natans,Symbiodinium natans,True,IPR018883,family,,376,150,333,CONTINUOUS
+A0A812V4V8,Fe2OG dioxygenase domain-containing protein,510,SNAT2548_LOCUS34045,878477,Symbiodinium natans,Symbiodinium natans,True,IPR018883,family,,510,150,333,CONTINUOUS
+A0A812XTI8,Carbonic anhydrase,347,SPIL2461_LOCUS21826,2952,Symbiodinium pilosum,Symbiodinium pilosum (Dinoflagellate),True,IPR018883,family,,347,111,299,CONTINUOUS
+A0A812XZF5,Uncharacterized protein,374,SPIL2461_LOCUS21997,2952,Symbiodinium pilosum,Symbiodinium pilosum (Dinoflagellate),True,IPR018883,family,,374,148,331,CONTINUOUS
+A0A812YN93,Uncharacterized protein,696,SNEC2469_LOCUS23034,1628268,Symbiodinium necroappetens,Symbiodinium necroappetens,True,IPR018883,family,,696,117,299,CONTINUOUS
+A0A812YN93,Uncharacterized protein,696,SNEC2469_LOCUS23034,1628268,Symbiodinium necroappetens,Symbiodinium necroappetens,True,IPR018883,family,,696,460,646,CONTINUOUS
+A0A813BU97,Uncharacterized protein,230,SNEC2469_LOCUS32223,1628268,Symbiodinium necroappetens,Symbiodinium necroappetens,True,IPR018883,family,,230,156,196,CONTINUOUS
+A0A830HHC5,Delta carbonic anhydrase,373,PPROV_000321100,41880,Pycnococcus provasolii,Pycnococcus provasolii,True,IPR018883,family,,373,137,332,CONTINUOUS
+A0A830HI75,Delta carbonic anhydrase,434,PPROV_000525700,41880,Pycnococcus provasolii,Pycnococcus provasolii,True,IPR018883,family,,434,192,389,CONTINUOUS
+A0A830HZK3,Uncharacterized protein,202,PPROV_000900100,41880,Pycnococcus provasolii,Pycnococcus provasolii,True,IPR018883,family,,202,8,161,CONTINUOUS
+A0A839IK36,Uncharacterized protein,41,H4O21_00435,2760088,Oceanospirillum sediminis,Oceanospirillum sediminis,True,IPR018883,family,,41,2,32,CONTINUOUS
+A0A843YJC0,Cadmium carbonic anhydrase,287,GFB49_15640,2662264,Tritonibacter litoralis,Tritonibacter litoralis,True,IPR018883,family,,287,76,254,CONTINUOUS
+A0A844WAP3,Cadmium carbonic anhydrase repeat-containing protein,272,GLS40_06900,2676438,Pseudooceanicola pacificus,Pseudooceanicola pacificus,True,IPR018883,family,,272,64,239,CONTINUOUS
+A0A845HVN5,Cadmium carbonic anhydrase,274,GTP23_08440,2692177,Duganella fentianensis,Duganella fentianensis,True,IPR018883,family,,274,73,242,CONTINUOUS
+A0A847SI98,Uncharacterized protein,284,HF682_10560,2725557,Leeia aquatica,Leeia aquatica,True,IPR018883,family,,284,74,252,CONTINUOUS
+A0A849VAT9,Cadmium carbonic anhydrase-like repeat protein,276,HG263_04935,2726988,Pseudoalteromonas caenipelagi,Pseudoalteromonas caenipelagi,True,IPR018883,family,,276,70,243,CONTINUOUS
+A0A853IDL4,Cadmium carbonic anhydrase,256,H0A36_19180,2994442,Spartinivicinus marinus,Spartinivicinus marinus,True,IPR018883,family,,256,47,224,CONTINUOUS
+A0A8E2VML7,Cadmium carbonic anhydrase-like repeat protein,309,C8N38_101169,453584,Rhodovulum kholense,Rhodovulum kholense,True,IPR018883,family,,309,101,276,CONTINUOUS
+A0A8H2JLP7,Cadmium carbonic anhydrase,283,FCS21_07490,2304625,Colwellia ponticola,Colwellia ponticola,True,IPR018883,family,,283,74,252,CONTINUOUS
+A0A8I0T5T5,Cadmium carbonic anhydrase,259,PPEP_a2260,1315280,Pseudoalteromonas peptidolytica F12-50-A1,Pseudoalteromonas peptidolytica F12-50-A1,True,IPR018883,family,,259,54,226,CONTINUOUS
+A0A8I2H857,Cadmium carbonic anhydrase,259,R5H13_05165,184924,Pseudoalteromonas maricaloris,Pseudoalteromonas maricaloris,True,IPR018883,family,,259,54,226,CONTINUOUS
+A0A8J2WXS8,Uncharacterized protein,413,PECAL_3P17210,35677,Pelagomonas calceolata,Pelagomonas calceolata,True,IPR018883,family,,413,137,359,CONTINUOUS
+A0A8J3EH14,Cadmium carbonic anhydrase repeat-containing protein,324,GCM10011415_24730,1775170,Salipiger pallidus,Salipiger pallidus,True,IPR018883,family,,324,116,291,CONTINUOUS
+A0A8T6YLJ3,Cadmium carbonic anhydrase,259,CWC29_003615,579562,Pseudoalteromonas galatheae,Pseudoalteromonas galatheae,False,IPR018883,family,,259,54,226,CONTINUOUS
+A0A918KU85,Cadmium carbonic anhydrase,282,GCM10011309_25080,1220491,Litorimonas cladophorae,Litorimonas cladophorae,True,IPR018883,family,,282,76,249,CONTINUOUS
+A0A918MXL2,Cadmium carbonic anhydrase,289,GCM10007391_14940,516698,Alteromonas halophila,Alteromonas halophila,True,IPR018883,family,,289,78,257,CONTINUOUS
+A0A919CMS2,Cadmium carbonic anhydrase repeat-containing protein,288,GCM10017083_04810,1633335,Thalassobaculum fulvum,Thalassobaculum fulvum,True,IPR018883,family,,288,78,255,CONTINUOUS
+A0A934IM97,Cadmium carbonic anhydrase,252,JCR33_17595,2796142,Acuticoccus mangrovi,Acuticoccus mangrovi,True,IPR018883,family,,252,43,214,CONTINUOUS
+A0A934JU99,Cadmium carbonic anhydrase,283,I8J31_06975,2795388,Marinomonas transparens,Marinomonas transparens,True,IPR018883,family,,283,72,250,CONTINUOUS
+A0A939EJH1,Cadmium carbonic anhydrase,264,J0X15_00155,2816037,Roseibium limicola,Roseibium limicola,True,IPR018883,family,,264,56,231,CONTINUOUS
+A0A940MNP0,Cadmium carbonic anhydrase,263,J5474_05175,2820268,Sagittula salina,Sagittula salina,True,IPR018883,family,,263,56,230,CONTINUOUS
+A0A944D8F2,Cadmium carbonic anhydrase,280,I8J34_04540,2795389,Denitromonas iodatirespirans,Denitromonas iodatirespirans,True,IPR018883,family,,280,66,247,CONTINUOUS
+A0A9J7AKE6,Cadmium carbonic anhydrase,265,NUH88_11995,1862145,Nisaea acidiphila,Nisaea acidiphila,True,IPR018883,family,,265,58,232,CONTINUOUS
+A0A9K3LKP9,Cadmium carbonic anhydrase repeat-domain containing protein,379,IV203_037361,303405,Nitzschia inconspicua,Nitzschia inconspicua,True,IPR018883,family,,379,155,336,CONTINUOUS
+A0A9K3PHQ4,Delta carbonic anhydrase,382,IV203_006270,303405,Nitzschia inconspicua,Nitzschia inconspicua,True,IPR018883,family,,382,158,339,CONTINUOUS
+A0A9N8HKX3,Uncharacterized protein,394,SEMRO_766_G199350.1,568900,Seminavis robusta,Seminavis robusta,True,IPR018883,family,,394,161,344,CONTINUOUS
+A0A9N8HS26,Uncharacterized protein,373,SEMRO_1386_G268330.1,568900,Seminavis robusta,Seminavis robusta,True,IPR018883,family,,373,137,329,CONTINUOUS
+A0A9N8HVF0,Uncharacterized protein,374,SEMRO_1795_G298010.1,568900,Seminavis robusta,Seminavis robusta,True,IPR018883,family,,374,146,331,CONTINUOUS
+A0A9N8HWK3,Uncharacterized protein,335,SEMRO_2689_G334670.1,568900,Seminavis robusta,Seminavis robusta,True,IPR018883,family,,335,98,291,CONTINUOUS
+A0A9P1CSE0,Uncharacterized protein,555,C1SCF055_LOCUS24054,2562237,Cladocopium goreaui,Cladocopium goreaui,True,IPR018883,family,,555,104,279,CONTINUOUS
+A0A9P1CSE0,Uncharacterized protein,555,C1SCF055_LOCUS24054,2562237,Cladocopium goreaui,Cladocopium goreaui,True,IPR018883,family,,555,368,508,CONTINUOUS
+A0A9P1CUH2,Plastocyanin-like domain-containing protein,917,C1SCF055_LOCUS24048,2562237,Cladocopium goreaui,Cladocopium goreaui,True,IPR018883,family,,917,119,245,CONTINUOUS
+A0A9P1CUH2,Plastocyanin-like domain-containing protein,917,C1SCF055_LOCUS24048,2562237,Cladocopium goreaui,Cladocopium goreaui,True,IPR018883,family,,917,339,513,CONTINUOUS
+A0A9P1CUH2,Plastocyanin-like domain-containing protein,917,C1SCF055_LOCUS24048,2562237,Cladocopium goreaui,Cladocopium goreaui,True,IPR018883,family,,917,696,870,CONTINUOUS
+A0A9P1DQH7,Uncharacterized protein,465,C1SCF055_LOCUS38386,2562237,Cladocopium goreaui,Cladocopium goreaui,True,IPR018883,family,,465,2,104,CONTINUOUS
+A0A9P1DQH7,Uncharacterized protein,465,C1SCF055_LOCUS38386,2562237,Cladocopium goreaui,Cladocopium goreaui,True,IPR018883,family,,465,243,418,CONTINUOUS
+A0A9P1G1N0,Plastocyanin-like domain-containing protein,972,C1SCF055_LOCUS24043,2562237,Cladocopium goreaui,Cladocopium goreaui,True,IPR018883,family,,972,118,293,CONTINUOUS
+A0A9P1G1N0,Plastocyanin-like domain-containing protein,972,C1SCF055_LOCUS24043,2562237,Cladocopium goreaui,Cladocopium goreaui,True,IPR018883,family,,972,432,583,CONTINUOUS
+A0A9P1G1N0,Plastocyanin-like domain-containing protein,972,C1SCF055_LOCUS24043,2562237,Cladocopium goreaui,Cladocopium goreaui,True,IPR018883,family,,972,774,925,CONTINUOUS
+A0A9P1GTT7,Uncharacterized protein,362,C1SCF055_LOCUS45091,2562237,Cladocopium goreaui,Cladocopium goreaui,True,IPR018883,family,,362,169,332,CONTINUOUS
+A0A9Q6LI95,Uncharacterized protein,266,Psal009_00180,1238,Piscirickettsia salmonis,Piscirickettsia salmonis,True,IPR018883,family,,266,56,233,CONTINUOUS
+A0A9W4QTW4,Cadmium carbonic anhydrase,275,PSECIP111854_01061,2963714,Pseudoalteromonas holothuriae,Pseudoalteromonas holothuriae,True,IPR018883,family,,275,69,242,CONTINUOUS
+A0A9W6Z9I6,Uncharacterized protein,374,TrVE_jg11649,1606542,Triparma verrucosa,Triparma verrucosa,True,IPR018883,family,,374,167,324,CONTINUOUS
+A0A9W7AHT3,Uncharacterized protein,141,TrLO_g12054,1714387,Triparma laevis f. longispina,Triparma laevis f. longispina,True,IPR018883,family,,141,4,105,CONTINUOUS
+A0A9W7C5G1,Uncharacterized protein,346,TrST_g6185,1606541,Triparma strigata,Triparma strigata,True,IPR018883,family,,346,139,296,CONTINUOUS
+A0A9W7C8L8,Plastocyanin-like domain-containing protein,430,TrLO_g11758,1714387,Triparma laevis f. longispina,Triparma laevis f. longispina,True,IPR018883,family,,430,227,387,CONTINUOUS
+A0A9X1T4L5,Cadmium carbonic anhydrase repeat-containing protein,277,LZD57_08830,2907202,Jiella avicenniae,Jiella avicenniae,True,IPR018883,family,,277,54,229,CONTINUOUS
+A0A9X3B3S9,Cadmium carbonic anhydrase,287,NE536_21980,2952223,Shewanella septentrionalis,Shewanella septentrionalis,True,IPR018883,family,,287,77,254,CONTINUOUS
+A0A9X3EFL2,Cadmium carbonic anhydrase,282,OUO13_15850,2997323,Parathalassolituus penaei,Parathalassolituus penaei,True,IPR018883,family,,282,72,250,CONTINUOUS
+A0A9Y2P1W1,Cadmium carbonic anhydrase,283,QPJ95_18280,2997337,Parasedimentitalea psychrophila,Parasedimentitalea psychrophila,True,IPR018883,family,,283,75,251,CONTINUOUS
+A0AA34XQ83,Cadmium carbonic anhydrase,286,K08M4_38060,3034029,Vibrio syngnathi,Vibrio syngnathi,True,IPR018883,family,,286,76,253,CONTINUOUS
+A0AA36HTJ0,VWFD domain-containing protein,364,EVOR1521_LOCUS3636,2562239,Effrenium voratum,Effrenium voratum,True,IPR018883,family,,364,134,318,CONTINUOUS
+A0AA36I501,Uncharacterized protein,381,EVOR1521_LOCUS8949,2562239,Effrenium voratum,Effrenium voratum,True,IPR018883,family,,381,154,338,CONTINUOUS
+A0AA36I6H9,Uncharacterized protein,258,EVOR1521_LOCUS8951,2562239,Effrenium voratum,Effrenium voratum,True,IPR018883,family,,258,31,215,CONTINUOUS
+A0AA36I6M9,Uncharacterized protein,241,EVOR1521_LOCUS8948,2562239,Effrenium voratum,Effrenium voratum,True,IPR018883,family,,241,154,235,CONTINUOUS
+A0AA36I6T7,Uncharacterized protein,381,EVOR1521_LOCUS8950,2562239,Effrenium voratum,Effrenium voratum,True,IPR018883,family,,381,154,338,CONTINUOUS
+A0AA36IWY3,VWFD domain-containing protein,357,EVOR1521_LOCUS19918,2562239,Effrenium voratum,Effrenium voratum,True,IPR018883,family,,357,127,311,CONTINUOUS
+A0AA36J1D6,VWFD domain-containing protein,364,EVOR1521_LOCUS21767,2562239,Effrenium voratum,Effrenium voratum,True,IPR018883,family,,364,134,318,CONTINUOUS
+A0AA36J249,Uncharacterized protein,299,EVOR1521_LOCUS21768,2562239,Effrenium voratum,Effrenium voratum,True,IPR018883,family,,299,66,246,CONTINUOUS
+A0AA36JKF9,Uncharacterized protein,382,EVOR1521_LOCUS29453,2562239,Effrenium voratum,Effrenium voratum,True,IPR018883,family,,382,155,339,CONTINUOUS
+A0AA36JNU3,Uncharacterized protein,291,EVOR1521_LOCUS30209,2562239,Effrenium voratum,Effrenium voratum,True,IPR018883,family,,291,58,238,CONTINUOUS
+A0AA36MIZ6,Uncharacterized protein,381,EVOR1521_LOCUS3703,2562239,Effrenium voratum,Effrenium voratum,True,IPR018883,family,,381,154,338,CONTINUOUS
+A0AA36N7I3,Uncharacterized protein,291,EVOR1521_LOCUS19917,2562239,Effrenium voratum,Effrenium voratum,True,IPR018883,family,,291,58,238,CONTINUOUS
+A0AA36NI89,Uncharacterized protein,381,EVOR1521_LOCUS29454,2562239,Effrenium voratum,Effrenium voratum,True,IPR018883,family,,381,154,338,CONTINUOUS
+A0AA37T384,Cadmium carbonic anhydrase,260,GCM10007852_22560,1431249,Agaribacter marinus,Agaribacter marinus,True,IPR018883,family,,260,51,228,CONTINUOUS
+A0AA41HED8,Cadmium carbonic anhydrase,274,L1274_002544,2849652,Duganella violaceipulchra,Duganella violaceipulchra,True,IPR018883,family,,274,73,242,CONTINUOUS
+A0AA48HYR9,Cadmium carbonic anhydrase,284,MACH26_38290,1631968,Planctobacterium marinum,Planctobacterium marinum,True,IPR018883,family,,284,75,252,CONTINUOUS
+A0AA86XRY5,Cadmium carbonic anhydrase,287,VCR31J2_1280202,1516159,Vibrio coralliirubri,Vibrio coralliirubri,True,IPR018883,family,,287,76,253,CONTINUOUS
+A0AAD2CA75,Delta carbonic anhydrase,389,CYCCA115_LOCUS216,2856,Cylindrotheca closterium,Cylindrotheca closterium,True,IPR018883,family,,389,150,344,CONTINUOUS
+A0AAD2CPP0,Delta carbonic anhydrase,379,CYCCA115_LOCUS2877,2856,Cylindrotheca closterium,Cylindrotheca closterium,True,IPR018883,family,,379,140,333,CONTINUOUS
+A0AAD2G0I3,Delta carbonic anhydrase,416,CYCCA115_LOCUS17598,2856,Cylindrotheca closterium,Cylindrotheca closterium,True,IPR018883,family,,416,177,371,CONTINUOUS
+A0AAD3D4Z8,Delta carbonic anhydrase,392,CTEN210_13332,426638,Chaetoceros tenuissimus,Chaetoceros tenuissimus,True,IPR018883,family,,392,145,350,CONTINUOUS
+A0AAD3HAX6,Delta carbonic anhydrase,362,CTEN210_13331,426638,Chaetoceros tenuissimus,Chaetoceros tenuissimus,True,IPR018883,family,,362,130,317,CONTINUOUS
+A0AAD8XRR8,Delta carbonic anhydrase,375,QTG54_016894,267567,Skeletonema marinoi,Skeletonema marinoi,True,IPR018883,family,,375,130,209,CONTINUOUS
+A0AAD8XRR8,Delta carbonic anhydrase,375,QTG54_016894,267567,Skeletonema marinoi,Skeletonema marinoi,True,IPR018883,family,,375,270,314,CONTINUOUS
+A0AAD8Y457,Cadmium-specific carbonic anhydrase,735,QTG54_009842,267567,Skeletonema marinoi,Skeletonema marinoi,True,IPR018883,family,,735,419,612,CONTINUOUS
+A0AAD8YIT9,Delta carbonic anhydrase,416,QTG54_002122,267567,Skeletonema marinoi,Skeletonema marinoi,True,IPR018883,family,,416,127,332,CONTINUOUS
+A0AAD8YJN7,Delta carbonic anhydrase,351,QTG54_002108,267567,Skeletonema marinoi,Skeletonema marinoi,True,IPR018883,family,,351,126,331,CONTINUOUS
+A0AAD9DFF7,Uncharacterized protein,415,QTG54_003645,267567,Skeletonema marinoi,Skeletonema marinoi,True,IPR018883,family,,415,130,160,CONTINUOUS
+A0AAD9DFF7,Uncharacterized protein,415,QTG54_003645,267567,Skeletonema marinoi,Skeletonema marinoi,True,IPR018883,family,,415,277,322,CONTINUOUS
+A0AAD9DFY6,Cadmium-specific carbonic anhydrase,409,QTG54_003646,267567,Skeletonema marinoi,Skeletonema marinoi,True,IPR018883,family,,409,118,323,CONTINUOUS
+A0AAE0BL82,Delta carbonic anhydrase,460,CYMTET_52050,36881,Cymbomonas tetramitiformis,Cymbomonas tetramitiformis,True,IPR018883,family,,460,225,417,CONTINUOUS
+A0AAE0BR51,Uncharacterized protein,420,CYMTET_49953,36881,Cymbomonas tetramitiformis,Cymbomonas tetramitiformis,True,IPR018883,family,,420,185,377,CONTINUOUS
+A0AAE0CC98,Uncharacterized protein,522,CYMTET_38281,36881,Cymbomonas tetramitiformis,Cymbomonas tetramitiformis,True,IPR018883,family,,522,193,392,CONTINUOUS
+A0AAN0N9T8,Cadmium carbonic anhydrase,286,QYQ95_15590,1136176,Vibrio cyclitrophicus ZF270,Vibrio cyclitrophicus ZF270,True,IPR018883,family,,286,76,253,CONTINUOUS
+A0AAN1WIS4,Cadmium carbonic anhydrase,265,MARGE09_P2550,2721545,Marinagarivorans cellulosilyticus,Marinagarivorans cellulosilyticus,True,IPR018883,family,,265,64,234,CONTINUOUS
+A0AAV3TZ90,Cadmium carbonic anhydrase,304,GCM10025791_09310,1306992,Halioxenophilus aromaticivorans,Halioxenophilus aromaticivorans,True,IPR018883,family,,304,96,272,CONTINUOUS
+A0AAW8B035,Cadmium carbonic anhydrase,260,Q8A57_03955,434086,Porticoccus litoralis,Porticoccus litoralis,True,IPR018883,family,,260,58,228,CONTINUOUS
+A0AAW8R2Q4,Cadmium carbonic anhydrase,287,RM544_13415,3075611,Brumicola blandensis,Brumicola blandensis,True,IPR018883,family,,287,78,255,CONTINUOUS
+A0AAX2AH91,Cadmium carbonic anhydrase,283,CP985_09465,1032238,Malaciobacter mytili LMG 24559,Malaciobacter mytili LMG 24559,True,IPR018883,family,,283,73,251,CONTINUOUS
+A0AB34JFK8,Uncharacterized protein,594,AB1Y20_023223,97485,Prymnesium parvum,Prymnesium parvum (Toxic golden alga),True,IPR018883,family,,594,362,553,CONTINUOUS
+A0AB34JUR4,Uncharacterized protein,616,AB1Y20_020855,97485,Prymnesium parvum,Prymnesium parvum (Toxic golden alga),True,IPR018883,family,,616,384,575,CONTINUOUS
+A0ABD3MN96,Uncharacterized protein,797,ACHAW5_006665,2934178,Stephanodiscus triporus,Stephanodiscus triporus,True,IPR018883,family,,797,113,309,CONTINUOUS
+A0ABD3MP14,Carbonic anhydrase,452,ACHAWO_012129,382360,Cyclotella atomus,Cyclotella atomus,True,IPR018883,family,,452,205,396,CONTINUOUS
+A0ABD3MPG5,Uncharacterized protein,255,ACHAW5_008480,2934178,Stephanodiscus triporus,Stephanodiscus triporus,True,IPR018883,family,,255,31,105,CONTINUOUS
+A0ABD3MPG5,Uncharacterized protein,255,ACHAW5_008480,2934178,Stephanodiscus triporus,Stephanodiscus triporus,True,IPR018883,family,,255,151,187,CONTINUOUS
+A0ABD3N5J9,Uncharacterized protein,362,ACHAWU_005784,259834,Discostella pseudostelligera,Discostella pseudostelligera,True,IPR018883,family,,362,97,310,CONTINUOUS
+A0ABD3NEE9,Delta carbonic anhydrase,373,HJC23_004993,29204,Cyclotella cryptica,Cyclotella cryptica,True,IPR018883,family,,373,125,329,CONTINUOUS
+A0ABD3NET1,Carbonic anhydrase,379,ACHAWU_005783,259834,Discostella pseudostelligera,Discostella pseudostelligera,True,IPR018883,family,,379,130,329,CONTINUOUS
+A0ABD3NU64,Delta carbonic anhydrase,416,ACHAW5_007362,2934178,Stephanodiscus triporus,Stephanodiscus triporus,True,IPR018883,family,,416,145,367,CONTINUOUS
+A0ABD3NZB1,Carbonic anhydrase,468,ACHAWO_000807,382360,Cyclotella atomus,Cyclotella atomus,True,IPR018883,family,,468,221,412,CONTINUOUS
+A0ABD3P7B2,Delta carbonic anhydrase,381,HJC23_013345,29204,Cyclotella cryptica,Cyclotella cryptica,True,IPR018883,family,,381,133,338,CONTINUOUS
+A0ABD3PDF4,Uncharacterized protein,326,HJC23_007335,29204,Cyclotella cryptica,Cyclotella cryptica,True,IPR018883,family,,326,78,283,CONTINUOUS
+A0ABD3PF47,Delta carbonic anhydrase,370,HJC23_000589,29204,Cyclotella cryptica,Cyclotella cryptica,True,IPR018883,family,,370,123,326,CONTINUOUS
+A0ABD3PLE3,Delta carbonic anhydrase,410,HJC23_002631,29204,Cyclotella cryptica,Cyclotella cryptica,True,IPR018883,family,,410,161,365,CONTINUOUS
+A0ABD3PY14,Uncharacterized protein,150,ACHAW5_005812,2934178,Stephanodiscus triporus,Stephanodiscus triporus,True,IPR018883,family,,150,110,134,CONTINUOUS
+A0ABD3PYU7,Delta carbonic anhydrase,386,HJC23_000797,29204,Cyclotella cryptica,Cyclotella cryptica,True,IPR018883,family,,386,138,342,CONTINUOUS
+A0ABD3PZV5,Delta carbonic anhydrase,373,HJC23_000794,29204,Cyclotella cryptica,Cyclotella cryptica,True,IPR018883,family,,373,125,329,CONTINUOUS
+A0ABD3R004,Uncharacterized protein,352,HJC23_007810,29204,Cyclotella cryptica,Cyclotella cryptica,True,IPR018883,family,,352,108,307,CONTINUOUS
+A0ABD3R6N7,Uncharacterized protein,386,ACHAXA_006556,382380,Cyclostephanos tholiformis,Cyclostephanos tholiformis,True,IPR018883,family,,386,136,337,CONTINUOUS
+A0ABD3R7U3,Uncharacterized protein,394,ACHAXA_011420,382380,Cyclostephanos tholiformis,Cyclostephanos tholiformis,True,IPR018883,family,,394,136,345,CONTINUOUS
+A0ABD3RDZ0,Uncharacterized protein,435,ACHAXA_008956,382380,Cyclostephanos tholiformis,Cyclostephanos tholiformis,True,IPR018883,family,,435,179,388,CONTINUOUS
+A0ABD3RTB6,Uncharacterized protein,394,ACHAXA_001961,382380,Cyclostephanos tholiformis,Cyclostephanos tholiformis,True,IPR018883,family,,394,136,345,CONTINUOUS
+A0ABD3SNZ6,Uncharacterized protein,420,ACHAXA_004627,382380,Cyclostephanos tholiformis,Cyclostephanos tholiformis,True,IPR018883,family,,420,173,365,CONTINUOUS
+A0ABM6JMS3,Cadmium carbonic anhydrase,281,SJ2017_3272,93973,Shewanella japonica,Shewanella japonica,False,IPR018883,family,,281,71,249,CONTINUOUS
+A0ABM6N9J6,Cadmium carbonic anhydrase,259,PPIS_a0208,43662,Pseudoalteromonas piscicida,Pseudoalteromonas piscicida,False,IPR018883,family,,259,54,226,CONTINUOUS
+A0ABN0VM21,Cadmium carbonic anhydrase,284,GCM10009129_05330,556327,Psychrobacter aestuarii,Psychrobacter aestuarii,False,IPR018883,family,,284,75,252,CONTINUOUS
+A0ABN4WW29,Cadmium carbonic anhydrase,263,B0E33_21815,2857014,Roseibium algicola,Roseibium algicola,False,IPR018883,family,,263,56,229,CONTINUOUS
+A0ABN5DFV3,Cadmium carbonic anhydrase,288,PhaeoP36_02012,1580596,Phaeobacter piscinae,Phaeobacter piscinae,False,IPR018883,family,,288,77,255,CONTINUOUS
+A0ABN7GBE7,Cadmium carbonic anhydrase,289,AZO1586I_1436,2360,Bathymodiolus thermophilus thioautotrophic gill symbiont,Bathymodiolus thermophilus thioautotrophic gill symbiont,False,IPR018883,family,,289,79,256,CONTINUOUS
+A0ABN9PQ77,Uncharacterized protein,357,PCOR1329_LOCUS4991,2364126,Prorocentrum cordatum,Prorocentrum cordatum,False,IPR018883,family,,357,130,318,CONTINUOUS
+A0ABN9SV69,Carbonic anhydrase,314,PCOR1329_LOCUS32896,2364126,Prorocentrum cordatum,Prorocentrum cordatum,False,IPR018883,family,,314,89,269,CONTINUOUS
+A0ABN9UX15,Carbonic anhydrase,433,PCOR1329_LOCUS52459,2364126,Prorocentrum cordatum,Prorocentrum cordatum,False,IPR018883,family,,433,196,393,CONTINUOUS
+A0ABN9UZH7,Carbonic anhydrase,370,PCOR1329_LOCUS52460,2364126,Prorocentrum cordatum,Prorocentrum cordatum,False,IPR018883,family,,370,133,330,CONTINUOUS
+A0ABN9V989,Carbonic anhydrase,364,PCOR1329_LOCUS55861,2364126,Prorocentrum cordatum,Prorocentrum cordatum,False,IPR018883,family,,364,127,324,CONTINUOUS
+A0ABP0HU66,Uncharacterized protein,119,CCMP2556_LOCUS3345,1381693,Durusdinium trenchii,Durusdinium trenchii,False,IPR018883,family,,119,30,114,CONTINUOUS
+A0ABP0HU68,Uncharacterized protein,185,CCMP2556_LOCUS3365,1381693,Durusdinium trenchii,Durusdinium trenchii,False,IPR018883,family,,185,96,180,CONTINUOUS
+A0ABP0HV81,Uncharacterized protein,119,CCMP2556_LOCUS3365,1381693,Durusdinium trenchii,Durusdinium trenchii,False,IPR018883,family,,119,30,114,CONTINUOUS
+A0ABP0HVK3,Uncharacterized protein,185,CCMP2556_LOCUS3345,1381693,Durusdinium trenchii,Durusdinium trenchii,False,IPR018883,family,,185,96,180,CONTINUOUS
+A0ABP0HVV2,Uncharacterized protein,109,CCMP2556_LOCUS3365,1381693,Durusdinium trenchii,Durusdinium trenchii,False,IPR018883,family,,109,20,104,CONTINUOUS
+A0ABP0HX51,Uncharacterized protein,166,CCMP2556_LOCUS3345,1381693,Durusdinium trenchii,Durusdinium trenchii,False,IPR018883,family,,166,77,161,CONTINUOUS
+A0ABP0HXA6,Uncharacterized protein,104,CCMP2556_LOCUS3365,1381693,Durusdinium trenchii,Durusdinium trenchii,False,IPR018883,family,,104,15,99,CONTINUOUS
+A0ABP0I3W6,Uncharacterized protein,359,CCMP2556_LOCUS4789,1381693,Durusdinium trenchii,Durusdinium trenchii,False,IPR018883,family,,359,134,316,CONTINUOUS
+A0ABP0I3Y4,Uncharacterized protein,381,CCMP2556_LOCUS4797,1381693,Durusdinium trenchii,Durusdinium trenchii,False,IPR018883,family,,381,156,338,CONTINUOUS
+A0ABP0I8J5,Uncharacterized protein,185,SCF082_LOCUS5820,1381693,Durusdinium trenchii,Durusdinium trenchii,False,IPR018883,family,,185,96,180,CONTINUOUS
+A0ABP0IA55,Uncharacterized protein,166,SCF082_LOCUS5820,1381693,Durusdinium trenchii,Durusdinium trenchii,False,IPR018883,family,,166,77,161,CONTINUOUS
+A0ABP0S518,F-box and FNIP repeat-containing protein L60,1225,SCF082_LOCUS50033,1381693,Durusdinium trenchii,Durusdinium trenchii,False,IPR018883,family,,1225,910,996,CONTINUOUS
+A0ABP0SKC9,Uncharacterized protein,323,SCF082_LOCUS52322,1381693,Durusdinium trenchii,Durusdinium trenchii,False,IPR018883,family,,323,98,280,CONTINUOUS
+A0ABP3GBC5,Cadmium carbonic anhydrase,264,GCM10009092_00490,366582,Bowmanella denitrificans,Bowmanella denitrificans,False,IPR018883,family,,264,59,232,CONTINUOUS
+A0ABP3WKX6,Cadmium carbonic anhydrase,284,GCM10009111_19100,517723,Colwellia asteriadis,Colwellia asteriadis,False,IPR018883,family,,284,75,252,CONTINUOUS
+A0ABP7M8Q5,Cadmium carbonic anhydrase,275,GCM10022277_09810,718191,Litoribacillus peritrichatus,Litoribacillus peritrichatus,False,IPR018883,family,,275,67,243,CONTINUOUS
+A0ABP9QMY4,Cadmium carbonic anhydrase,283,GCM10025770_18730,1101404,Viridibacterium curvum,Viridibacterium curvum,False,IPR018883,family,,283,73,251,CONTINUOUS
+A0ABP9ZY23,Cadmium carbonic anhydrase,285,NBRC116585_11610,484498,Thalassolituus maritimus,Thalassolituus maritimus,False,IPR018883,family,,285,76,253,CONTINUOUS
+A0ABQ0A442,Cadmium carbonic anhydrase,272,NBRC116591_02140,2904075,Sessilibacter corallicola,Sessilibacter corallicola,False,IPR018883,family,,272,67,240,CONTINUOUS
+A0ABQ0AHJ4,Cadmium carbonic anhydrase,271,NBRC116598_07760,385492,Pseudophaeobacter arcticus,Pseudophaeobacter arcticus,False,IPR018883,family,,271,60,238,CONTINUOUS
+A0ABQ0MRU7,Cadmium carbonic anhydrase,283,MTCD1_00688,1513592,Colwellia marinimaniae,Colwellia marinimaniae,False,IPR018883,family,,283,74,252,CONTINUOUS
+A0ABQ1I440,Cadmium carbonic anhydrase,288,GCM10007414_24480,680279,Agarivorans gilvus,Agarivorans gilvus,False,IPR018883,family,,288,78,256,CONTINUOUS
+A0ABQ1IZQ1,Cadmium carbonic anhydrase,289,GCM10011502_29420,2017550,Oceanisphaera marina,Oceanisphaera marina,False,IPR018883,family,,289,78,256,CONTINUOUS
+A0ABQ1LG28,Cadmium carbonic anhydrase,286,GCM10011363_45190,1323742,Marivita lacus,Marivita lacus,False,IPR018883,family,,286,77,253,CONTINUOUS
+A0ABQ5V332,Cadmium carbonic anhydrase,272,GCM10007854_20350,1128113,Algimonas porphyrae,Algimonas porphyrae,False,IPR018883,family,,272,67,239,CONTINUOUS
+A0ABQ5V3Z2,Cadmium carbonic anhydrase,277,GCM10007853_01070,1298735,Algimonas ampicilliniresistens,Algimonas ampicilliniresistens,False,IPR018883,family,,277,69,245,CONTINUOUS
+A0ABQ6E4K0,Cadmium carbonic anhydrase,287,GCM10007916_33150,88364,Psychromonas marina,Psychromonas marina,False,IPR018883,family,,287,78,256,CONTINUOUS
+A0ABQ6H0H8,Cadmium carbonic anhydrase,291,tinsulaeT_35850,2056778,Thalassotalea insulae,Thalassotalea insulae,False,IPR018883,family,,291,81,258,CONTINUOUS
+A0ABQ6RKT7,Cadmium carbonic anhydrase,286,EU509_05175,1872678,Pseudoalteromonas fuliginea,Pseudoalteromonas fuliginea,False,IPR018883,family,,286,77,254,CONTINUOUS
+A0ABR1FJ21,C-type lectin domain-containing protein,494,SO694_00082013,44056,Aureococcus anophagefferens,Aureococcus anophagefferens (Harmful bloom alga),False,IPR018883,family,,494,232,453,CONTINUOUS
+A0ABR1FKI8,Uncharacterized protein,413,SO694_00035039,44056,Aureococcus anophagefferens,Aureococcus anophagefferens (Harmful bloom alga),False,IPR018883,family,,413,143,372,CONTINUOUS
+A0ABR1G7S8,C-type lectin domain-containing protein,382,SO694_00048158,44056,Aureococcus anophagefferens,Aureococcus anophagefferens (Harmful bloom alga),False,IPR018883,family,,382,99,301,CONTINUOUS
+A0ABR8LHF1,Cadmium carbonic anhydrase,278,HHX48_04250,2729140,Salinimonas profundi,Salinimonas profundi,False,IPR018883,family,,278,73,245,CONTINUOUS
+A0ABR9C9U1,Cadmium carbonic anhydrase,265,IG617_08760,2571221,Roseibium polysiphoniae,Roseibium polysiphoniae,False,IPR018883,family,,265,57,232,CONTINUOUS
+A0ABR9CJA8,Cadmium carbonic anhydrase,261,IG616_02920,2803841,Roseibium litorale,Roseibium litorale,False,IPR018883,family,,261,55,228,CONTINUOUS
+A0ABR9E4W9,Cadmium carbonic anhydrase,286,PALI_b0655,1314866,Pseudoalteromonas aliena SW19,Pseudoalteromonas aliena SW19,False,IPR018883,family,,286,77,254,CONTINUOUS
+A0ABR9E7U7,Cadmium carbonic anhydrase,259,PAUR_a0364,1314867,Pseudoalteromonas aurantia 208,Pseudoalteromonas aurantia 208,False,IPR018883,family,,259,54,227,CONTINUOUS
+A0ABR9WW17,Cadmium carbonic anhydrase repeat-containing protein,313,IQ782_01305,2865933,Salipiger mangrovisoli,Salipiger mangrovisoli,False,IPR018883,family,,313,106,280,CONTINUOUS
+A0ABS0BUU2,Cadmium carbonic anhydrase,284,H8792_004470,2748010,Thiomicrorhabdus heinhorstiae,Thiomicrorhabdus heinhorstiae,False,IPR018883,family,,284,74,252,CONTINUOUS
+A0ABS1RGW1,Cadmium carbonic anhydrase-like repeat protein,271,JMJ92_12100,364297,Rhodovulum visakhapatnamense,Rhodovulum visakhapatnamense,False,IPR018883,family,,271,63,238,CONTINUOUS
+A0ABS1RR70,Cadmium carbonic anhydrase,271,JMM60_07075,35806,Rhodovulum sulfidophilum,Rhodovulum sulfidophilum,False,IPR018883,family,,271,63,238,CONTINUOUS
+A0ABS3Q310,Cadmium carbonic anhydrase,285,J3998_03815,2818442,Thiomicrorhabdus marina,Thiomicrorhabdus marina,False,IPR018883,family,,285,75,253,CONTINUOUS
+A0ABS4BGJ3,Cadmium carbonic anhydrase,297,J6595_05675,2821407,Jiella mangrovi,Jiella mangrovi,False,IPR018883,family,,297,74,249,CONTINUOUS
+A0ABS6MNV6,Cadmium carbonic anhydrase,285,KQY15_15470,2848612,Arsukibacterium indicum,Arsukibacterium indicum,False,IPR018883,family,,285,74,252,CONTINUOUS
+A0ABS7DYQ0,Cadmium carbonic anhydrase,287,K0625_02650,2864872,Shewanella nanhaiensis,Shewanella nanhaiensis,False,IPR018883,family,,287,77,255,CONTINUOUS
+A0ABS8W5R6,Cadmium carbonic anhydrase,285,K6Y31_03420,2742685,Motilimonas cestriensis,Motilimonas cestriensis,False,IPR018883,family,,285,75,253,CONTINUOUS
+A0ABS9DAL9,Cadmium carbonic anhydrase,288,L0668_17970,3050085,Paraglaciecola algarum,Paraglaciecola algarum,False,IPR018883,family,,288,79,256,CONTINUOUS
+A0ABS9WXA3,Cadmium carbonic anhydrase,272,L3081_00180,2912588,Colwellia maritima,Colwellia maritima,False,IPR018883,family,,272,63,240,CONTINUOUS
+A0ABS9WY33,Cadmium carbonic anhydrase,296,L3081_00175,2912588,Colwellia maritima,Colwellia maritima,False,IPR018883,family,,296,86,264,CONTINUOUS
+A0ABT0GYY3,Cadmium carbonic anhydrase,263,M0H32_20955,2933272,Roseibium sediminicola,Roseibium sediminicola,False,IPR018883,family,,263,56,229,CONTINUOUS
+A0ABT0LF01,Cadmium carbonic anhydrase,271,L2764_14950,212020,Shewanella surugensis,Shewanella surugensis,False,IPR018883,family,,271,62,239,CONTINUOUS
+A0ABT0LJG0,Cadmium carbonic anhydrase,289,L2764_26190,212020,Shewanella surugensis,Shewanella surugensis,False,IPR018883,family,,289,79,256,CONTINUOUS
+A0ABT0N6K4,Cadmium carbonic anhydrase,281,L2725_09785,560080,Shewanella corallii,Shewanella corallii,False,IPR018883,family,,281,72,248,CONTINUOUS
+A0ABT2KI30,Cadmium carbonic anhydrase,318,CLG85_006625,1779329,Alloyangia mangrovi,Alloyangia mangrovi,False,IPR018883,family,,318,110,285,CONTINUOUS
+A0ABT2WUM6,Cadmium carbonic anhydrase,260,OEZ49_17720,2984152,Ruegeria marisflavi,Ruegeria marisflavi,False,IPR018883,family,,260,54,227,CONTINUOUS
+A0ABT3A9G3,Cadmium carbonic anhydrase,290,OE749_09630,2984329,Fluctibacter corallii,Fluctibacter corallii,False,IPR018883,family,,290,80,257,CONTINUOUS
+A0ABT3APZ7,Cadmium carbonic anhydrase repeat protein,260,OE747_20610,2984333,Ruegeria aquimaris,Ruegeria aquimaris,False,IPR018883,family,,260,53,227,CONTINUOUS
+A0ABT3BL84,Delta-class carbonic anhydrase,285,MUB52_23130,2931391,Roseobacter sinensis,Roseobacter sinensis,False,IPR018883,family,,285,72,249,CONTINUOUS
+A0ABT3H4R6,Cadmium carbonic anhydrase repeat-containing protein,305,OKW52_21705,2479545,Pararhodobacter zhoushanensis,Pararhodobacter zhoushanensis,False,IPR018883,family,,305,95,272,CONTINUOUS
+A0ABT4JR07,Cadmium carbonic anhydrase,292,O1D97_01020,3004091,Marinomonas phaeophyticola,Marinomonas phaeophyticola,False,IPR018883,family,,292,80,257,CONTINUOUS
+A0ABT5QFD3,Cadmium carbonic anhydrase repeat-containing protein,273,LRP49_00590,2899818,Enterovibrio qingdaonensis,Enterovibrio qingdaonensis,False,IPR018883,family,,273,62,240,CONTINUOUS
+A0ABT5QW48,Cadmium carbonic anhydrase,285,LRP50_03795,2899819,Enterovibrio gelatinilyticus,Enterovibrio gelatinilyticus,False,IPR018883,family,,285,74,252,CONTINUOUS
+A0ABT5UFR2,Cadmium carbonic anhydrase,270,ORQ98_18355,2994640,Spartinivicinus poritis,Spartinivicinus poritis,False,IPR018883,family,,270,61,237,CONTINUOUS
+A0ABT5UZV4,Cadmium carbonic anhydrase,271,PUN32_07880,3027932,Vibrio chanodichtyis,Vibrio chanodichtyis,False,IPR018883,family,,271,67,239,CONTINUOUS
+A0ABT7EMN4,Cadmium carbonic anhydrase,261,QNM18_14625,3048491,Pseudoalteromonas obscura,Pseudoalteromonas obscura,False,IPR018883,family,,261,56,229,CONTINUOUS
+A0ABT7T175,Cadmium carbonic anhydrase,294,QTP81_16370,3055817,Alteromonas arenosi,Alteromonas arenosi,False,IPR018883,family,,294,84,261,CONTINUOUS
+A0ABT8BSX0,Cadmium carbonic anhydrase,282,QWZ16_07495,526588,Vibrio ostreicida,Vibrio ostreicida,False,IPR018883,family,,282,73,250,CONTINUOUS
+A0ABT9EY97,Cadmium carbonic anhydrase,285,Q8W30_15280,1572645,Neptunomonas phycophila,Neptunomonas phycophila,False,IPR018883,family,,285,75,253,CONTINUOUS
+A0ABT9GHG7,Cadmium carbonic anhydrase,286,QDH73_14295,77608,Pseudoalteromonas distincta,Pseudoalteromonas distincta,False,IPR018883,family,,286,77,254,CONTINUOUS
+A0ABU1W4Z6,Cadmium carbonic anhydrase,286,J2W69_004018,443616,Rheinheimera soli,Rheinheimera soli,False,IPR018883,family,,286,75,253,CONTINUOUS
+A0ABU2ZR24,Cadmium carbonic anhydrase,260,RM552_09530,3075602,Glaciecola petra,Glaciecola petra,False,IPR018883,family,,260,52,228,CONTINUOUS
+A0ABU6HFF6,Delta-class carbonic anhydrase,290,VK792_04710,3111907,Mesobacterium hydrothermale,Mesobacterium hydrothermale,False,IPR018883,family,,290,79,256,CONTINUOUS
+A0ABU8C8T4,Cadmium carbonic anhydrase repeat-containing protein,288,MN202_13365,1193628,Rheinheimera muenzenbergensis,Rheinheimera muenzenbergensis,False,IPR018883,family,,288,79,256,CONTINUOUS
+A0ABU8ES27,Cadmium carbonic anhydrase,257,WAE96_08825,298657,Pseudoalteromonas spongiae,Pseudoalteromonas spongiae,False,IPR018883,family,,257,52,225,CONTINUOUS
+A0ABU8TJ54,Cadmium carbonic anhydrase-like repeat protein,289,V6575_07175,3123038,Roseibium algae,Roseibium algae,False,IPR018883,family,,289,79,256,CONTINUOUS
+A0ABU9FPC7,Cadmium carbonic anhydrase,286,V8Z71_02010,2100116,Vibrio echinoideorum,Vibrio echinoideorum,False,IPR018883,family,,286,76,253,CONTINUOUS
+A0ABU9GZL9,Cadmium carbonic anhydrase,286,V6257_08445,152297,Pseudoalteromonas issachenkonii,Pseudoalteromonas issachenkonii,False,IPR018883,family,,286,77,254,CONTINUOUS
+A0ABU9HAR2,Cadmium carbonic anhydrase,281,V6255_06665,168275,Psychromonas arctica,Psychromonas arctica,False,IPR018883,family,,281,73,250,CONTINUOUS
+A0ABU9TBX6,Cadmium carbonic anhydrase,287,WNY57_00895,394751,Pseudoalteromonas arctica,Pseudoalteromonas arctica,False,IPR018883,family,,287,77,254,CONTINUOUS
+A0ABU9U5H5,Cadmium carbonic anhydrase,287,WNY63_16375,1840331,Pseudoalteromonas neustonica,Pseudoalteromonas neustonica,False,IPR018883,family,,287,77,254,CONTINUOUS
+A0ABU9Z3L6,Cadmium carbonic anhydrase-like repeat protein,283,ABDB84_17945,2024550,Uliginosibacterium sediminicola,Uliginosibacterium sediminicola,False,IPR018883,family,,283,73,251,CONTINUOUS
+A0ABV0FM94,Carbonic anhydrase,272,ABHN84_06515,518738,Shewanella vesiculosa,Shewanella vesiculosa,False,IPR018883,family,,272,62,239,CONTINUOUS
+A0ABV3TZK4,Cadmium carbonic anhydrase,288,AB4875_13970,3238302,Zhongshania arctica,Zhongshania arctica,False,IPR018883,family,,288,79,256,CONTINUOUS
+A0ABV4KVK8,Cadmium carbonic anhydrase,266,ACED35_00275,188144,Enterovibrio norvegicus,Enterovibrio norvegicus,False,IPR018883,family,,266,55,233,CONTINUOUS
+A0ABV4LJR6,Cadmium carbonic anhydrase,286,ACED24_18715,170673,Vibrio kanaloae,Vibrio kanaloae,False,IPR018883,family,,286,77,253,CONTINUOUS
+A0ABV4LNH2,Cadmium carbonic anhydrase,286,ACED33_04900,29497,Vibrio splendidus,Vibrio splendidus,False,IPR018883,family,,286,76,253,CONTINUOUS
+A0ABV4N2S3,Cadmium carbonic anhydrase,286,AB6D66_21760,198832,Vibrio pomeroyi,Vibrio pomeroyi,False,IPR018883,family,,286,76,253,CONTINUOUS
+A0ABV4P5E0,Cadmium carbonic anhydrase repeat-containing protein,285,ACCI49_22125,393907,Microbulbifer epialgicus,Microbulbifer epialgicus,False,IPR018883,family,,285,74,252,CONTINUOUS
+A0ABV7CM52,Cadmium carbonic anhydrase,260,ACFOEE_14590,1737459,Pseudoalteromonas fenneropenaei,Pseudoalteromonas fenneropenaei,False,IPR018883,family,,260,55,228,CONTINUOUS
+A0ABV7FSN6,Cadmium carbonic anhydrase,260,ACFOHL_07590,1902781,Agaribacter flavus,Agaribacter flavus,False,IPR018883,family,,260,51,228,CONTINUOUS
+A0ABV7GHT7,Cadmium carbonic anhydrase,281,ACFOE0_16855,2016376,Shewanella submarina,Shewanella submarina,False,IPR018883,family,,281,72,248,CONTINUOUS
+A0ABV7J809,Cadmium carbonic anhydrase,262,ACFODZ_02380,1792834,Marinicella sediminis,Marinicella sediminis,False,IPR018883,family,,262,51,228,CONTINUOUS
+A0ABV7RB88,Cadmium carbonic anhydrase,279,ACFOMH_19805,1715645,Paracoccus mangrovi,Paracoccus mangrovi,False,IPR018883,family,,279,71,246,CONTINUOUS
+A0ABV8VAT8,Cadmium carbonic anhydrase,285,ACFOX3_17885,1492769,Simiduia curdlanivorans,Simiduia curdlanivorans,False,IPR018883,family,,285,77,254,CONTINUOUS
+A0ABV9KNZ7,Cadmium carbonic anhydrase,262,ACFO5X_24525,1387282,Seohaeicola nanhaiensis,Seohaeicola nanhaiensis,False,IPR018883,family,,262,54,229,CONTINUOUS
+A0ABV9LQC9,Cadmium carbonic anhydrase,255,ACFO4O_00870,521012,Glaciecola siphonariae,Glaciecola siphonariae,False,IPR018883,family,,255,52,223,CONTINUOUS
+A0ABW3KGW0,Cadmium carbonic anhydrase,289,ACFQ1C_08640,914151,Oceanisphaera ostreae,Oceanisphaera ostreae,False,IPR018883,family,,289,78,256,CONTINUOUS
+A0ABW4K234,Cadmium carbonic anhydrase-like repeat protein,272,ACFSC7_13695,2600299,Roseibium aestuarii,Roseibium aestuarii,False,IPR018883,family,,272,56,239,CONTINUOUS
+A0ABW4XJZ1,Delta-class carbonic anhydrase,289,ACFSJ3_04885,1193278,Corallincola platygyrae,Corallincola platygyrae,False,IPR018883,family,,289,79,257,CONTINUOUS
+A0ABW5BMG4,Cadmium carbonic anhydrase,287,ACFSKO_10400,1550907,Kiloniella antarctica,Kiloniella antarctica,False,IPR018883,family,,287,78,253,CONTINUOUS
+A0ABW8NKI1,Cadmium carbonic anhydrase repeat-containing protein,288,WG929_13400,3133425,Oceanobacter antarcticus,Oceanobacter antarcticus,False,IPR018883,family,,288,80,256,CONTINUOUS
+A0ABW9ST33,Cadmium carbonic anhydrase,274,GM655_11810,1890295,Pseudoduganella danionis,Pseudoduganella danionis,False,IPR018883,family,,274,73,242,CONTINUOUS
+A0ABX0W741,Cadmium carbonic anhydrase,265,DL239_06020,2211118,Parasedimentitalea denitrificans,Parasedimentitalea denitrificans,False,IPR018883,family,,265,57,232,CONTINUOUS
+A0ABX2PIN3,Cadmium carbonic anhydrase,294,HJ526_16405,2729614,Donghicola mangrovi,Donghicola mangrovi,False,IPR018883,family,,294,87,262,CONTINUOUS
+A0ABX3B8F4,Cadmium carbonic anhydrase,286,A163_20035,1191324,Vibrio tasmaniensis 1F-267,Vibrio tasmaniensis 1F-267,False,IPR018883,family,,286,76,253,CONTINUOUS
+A0ABX3K739,Transposase,60,BZG73_11860,414286,Salinivibrio siamensis,Salinivibrio siamensis,False,IPR018883,family,,60,5,29,CONTINUOUS
+A0ABX3KHW3,Cadmium carbonic anhydrase,280,BZG74_07680,390883,Salinivibrio sharmensis,Salinivibrio sharmensis,False,IPR018883,family,,280,72,249,CONTINUOUS
+A0ABX5WU69,Uncharacterized protein,288,FM037_04590,2593655,Shewanella psychropiezotolerans,Shewanella psychropiezotolerans,False,IPR018883,family,,288,77,255,CONTINUOUS
+A0ABX6K5V5,Cadmium carbonic anhydrase,281,HBA18_08160,51367,Salinivibrio costicola,Salinivibrio costicola,False,IPR018883,family,,281,74,250,CONTINUOUS
+A0ABX6VAU7,Uncharacterized protein,286,FM038_020455,2593656,Shewanella eurypsychrophilus,Shewanella eurypsychrophilus,False,IPR018883,family,,286,77,255,CONTINUOUS
+A0ABX7IRG7,Cadmium carbonic anhydrase-like repeat protein,286,JSY38_03805,491950,Marinomonas foliarum,Marinomonas foliarum,False,IPR018883,family,,286,74,252,CONTINUOUS
+A0ABX7UZX0,Cadmium carbonic anhydrase,259,J5X90_11395,339617,Pseudoalteromonas viridis,Pseudoalteromonas viridis,False,IPR018883,family,,259,54,227,CONTINUOUS
+A0ABX9DM74,Cadmium carbonic anhydrase-like repeat protein,207,BYZ73_03755,1231134,Rhodovulum viride,Rhodovulum viride,False,IPR018883,family,,207,1,174,CONTINUOUS
+A0ABY1ZFC3,Cadmium carbonic anhydrase,284,EZI54_22915,2528979,Marinobacter halodurans,Marinobacter halodurans,False,IPR018883,family,,284,74,252,CONTINUOUS
+A0ABY3F8I4,Cadmium carbonic anhydrase,288,FQP85_19745,1840331,Pseudoalteromonas neustonica,Pseudoalteromonas neustonica,False,IPR018883,family,,288,78,255,CONTINUOUS
+A0ABY3MZA5,Cadmium carbonic anhydrase,288,CWS31_004260,1982103,Colwellia echini,Colwellia echini,False,IPR018883,family,,288,78,256,CONTINUOUS
+A0ABY4V9S9,Cadmium carbonic anhydrase,285,MJO52_13720,266805,Microbulbifer variabilis,Microbulbifer variabilis,False,IPR018883,family,,285,76,252,CONTINUOUS
+A0ABY4X312,Cadmium carbonic anhydrase,285,K6Q96_20580,2872157,Grimontia kaedaensis,Grimontia kaedaensis,False,IPR018883,family,,285,74,252,CONTINUOUS
+A0ABY7C7T1,Cadmium carbonic anhydrase,195,OH818_06610,2986949,Jiella pelagia,Jiella pelagia,False,IPR018883,family,,195,14,147,CONTINUOUS
+A0ABY7LE54,Cadmium carbonic anhydrase,281,N7E60_08325,334715,Salinivibrio proteolyticus,Salinivibrio proteolyticus,False,IPR018883,family,,281,74,250,CONTINUOUS
+A0ABY7SEG3,Uncharacterized protein,271,JHX88_17845,405559,Paracoccus saliphilus,Paracoccus saliphilus,False,IPR018883,family,,271,63,238,CONTINUOUS
+A0ABY9E7D3,Cadmium carbonic anhydrase,286,M8T91_11685,2944933,Microbulbifer spongiae,Microbulbifer spongiae,False,IPR018883,family,,286,75,253,CONTINUOUS
+A0ABZ0QA08,Cadmium carbonic anhydrase,291,R8Z52_14175,1123496,Vibrio porteresiae DSM 19223,Vibrio porteresiae DSM 19223,False,IPR018883,family,,291,81,259,CONTINUOUS
+A0ACA8ZQU8,Uncharacterized protein,289,AZO1586R_1204,235205,Bathymodiolus azoricus thioautotrophic gill symbiont,Bathymodiolus azoricus thioautotrophic gill symbiont,False,IPR018883,family,,289,79,256,CONTINUOUS
+A0ACD8GCR0,Uncharacterized protein,279,R50072_15520,1435348,Simiduia litorea,Simiduia litorea,False,IPR018883,family,,279,71,248,CONTINUOUS
+A0ACE2RID0,Delta-class carbonic anhydrase,292,PSOS111911_01345,2774154,Pseudoalteromonas ostreae,Pseudoalteromonas ostreae,False,IPR018883,family,,292,82,259,CONTINUOUS
+A0ACG1YDT7,Uncharacterized protein,286,BCV38_006545,136468,Vibrio lentus,Vibrio lentus,False,IPR018883,family,,286,76,253,CONTINUOUS
+A0ACG2KXE9,Delta-class carbonic anhydrase,261,QNM16_07345,3048489,Pseudoalteromonas umbrosa,Pseudoalteromonas umbrosa,False,IPR018883,family,,261,56,229,CONTINUOUS
+A0ACG2LGD8,Delta-class carbonic anhydrase,259,QNM19_17095,3048490,Pseudoalteromonas ardens,Pseudoalteromonas ardens,False,IPR018883,family,,259,54,227,CONTINUOUS
+A0ACG3LSA3,Delta-class carbonic anhydrase,289,V5290_09415,168275,Psychromonas arctica,Psychromonas arctica,False,IPR018883,family,,289,81,258,CONTINUOUS
+A0ACG4CSI8,Delta-class carbonic anhydrase,289,ACLEIV_01675,3390193,Oceanisphaera submarina,Oceanisphaera submarina,False,IPR018883,family,,289,78,256,CONTINUOUS
+A0ACG8EAK4,Uncharacterized protein,283,TH1_06870,1123365,Thalassospira lucentensis MCCC 1A00383 = DSM 14000,Thalassospira lucentensis MCCC 1A00383 = DSM 14000,False,IPR018883,family,,283,75,251,CONTINUOUS
+A0ACH2QZ87,Delta-class carbonic anhydrase,251,AB6B37_00205,570162,Fretibacter rubidus,Fretibacter rubidus,False,IPR018883,family,,251,42,218,CONTINUOUS
+A0ACH2W5F7,Delta-class carbonic anhydrase,253,ABWI01_11060,153233,Oceanicaulis alexandrii,Oceanicaulis alexandrii,False,IPR018883,family,,253,45,220,CONTINUOUS
+A0ACH3HCT9,Uncharacterized protein,292,LG313_00055,206042,Pseudoalteromonas mariniglutinosa,Pseudoalteromonas mariniglutinosa,False,IPR018883,family,,292,82,259,CONTINUOUS
+A0LDG0,Cadmium carbonic anhydrase,287,Mmc1_3518,156889,Magnetococcus marinus (strain ATCC BAA-1437 / JCM 17883 / MC-1),Magnetococcus marinus (strain ATCC BAA-1437 / JCM 17883 / MC-1),True,IPR018883,family,,287,79,255,CONTINUOUS
+A3K6H0,Cadmium carbonic anhydrase,206,SSE37_06774,388399,Sagittula stellata (strain ATCC 700073 / DSM 11524 / E-37),Sagittula stellata (strain ATCC 700073 / DSM 11524 / E-37),True,IPR018883,family,,206,1,173,CONTINUOUS
+A4BHH6,Cadmium carbonic anhydrase,289,MED297_16579,314283,Reinekea blandensis MED297,Reinekea blandensis MED297,True,IPR018883,family,,289,78,256,CONTINUOUS
+A4CDB7,Uncharacterized protein,71,PTD2_16012,87626,Pseudoalteromonas tunicata D2,Pseudoalteromonas tunicata D2,True,IPR018883,family,,71,2,49,CONTINUOUS
+A4S200,Putative delta carbonic anhydrase (Cobalt/zinc),297,DCA1,436017,Ostreococcus lucimarinus (strain CCE9901),Ostreococcus lucimarinus (strain CCE9901),True,IPR018883,family,,297,82,255,CONTINUOUS
+A7UC72,Delta carbonic anhydrase 1,286,ca1,160621,Lingulaulax polyedra,Lingulaulax polyedra (Dinoflagellate),True,IPR018883,family,,286,46,245,CONTINUOUS
+A7UC73,Delta carbonic anhydrase 2,437,ca2,160621,Lingulaulax polyedra,Lingulaulax polyedra (Dinoflagellate),False,IPR018883,family,,437,198,396,CONTINUOUS
+A9CYX8,Cadmium carbonic anhydrase,289,HPDFL43_00665,411684,Hoeflea phototrophica (strain DSM 17068 / NCIMB 14078 / DFL-43),Hoeflea phototrophica (strain DSM 17068 / NCIMB 14078 / DFL-43),True,IPR018883,family,,289,80,257,CONTINUOUS
+B1KH45,Uncharacterized protein,287,Swoo_4101,392500,Shewanella woodyi (strain ATCC 51908 / MS32),Shewanella woodyi (strain ATCC 51908 / MS32),True,IPR018883,family,,287,78,255,CONTINUOUS
+B6BL33,Uncharacterized protein,125,SMGD1_0239,929558,Sulfurimonas gotlandica (strain DSM 19862 / JCM 16533 / GD1),Sulfurimonas gotlandica (strain DSM 19862 / JCM 16533 / GD1),True,IPR018883,family,,125,8,91,CONTINUOUS
+B8BTB4,Delta carbonic anhydrase,262,THAPSDRAFT_233,35128,Thalassiosira pseudonana,Thalassiosira pseudonana (Marine diatom),True,IPR018883,family,,262,14,218,CONTINUOUS
+B8C250,Delta carbonic anhydrase,276,THAPSDRAFT_34125,35128,Thalassiosira pseudonana,Thalassiosira pseudonana (Marine diatom),True,IPR018883,family,,276,33,237,CONTINUOUS
+B8C251,Delta carbonic anhydrase,277,THAPSDRAFT_34094,35128,Thalassiosira pseudonana,Thalassiosira pseudonana (Marine diatom),True,IPR018883,family,,277,31,234,CONTINUOUS
+B8LD32,Delta carbonic anhydrase,308,THAPSDRAFT_814,35128,Thalassiosira pseudonana,Thalassiosira pseudonana (Marine diatom),True,IPR018883,family,,308,41,235,CONTINUOUS
+C1E037,Carbonic anhydrase,287,MICPUN_99052,296587,Micromonas commoda (strain RCC299 / NOUM17 / CCMP2709),Micromonas commoda (strain RCC299 / NOUM17 / CCMP2709) (Picoplanktonic green alga),True,IPR018883,family,,287,46,241,CONTINUOUS
+C1EG17,Uncharacterized protein,403,MICPUN_109346,296587,Micromonas commoda (strain RCC299 / NOUM17 / CCMP2709),Micromonas commoda (strain RCC299 / NOUM17 / CCMP2709) (Picoplanktonic green alga),True,IPR018883,family,,403,114,340,CONTINUOUS
+C5BPF1,Cadmium carbonic anhydrase,288,TERTU_0762,377629,Teredinibacter turnerae (strain ATCC 39867 / T7901),Teredinibacter turnerae (strain ATCC 39867 / T7901),True,IPR018883,family,,288,78,256,CONTINUOUS
+C9QE97,Uncharacterized protein,282,VIA_001436,675816,Vibrio orientalis CIP 102891 = ATCC 33934,Vibrio orientalis CIP 102891 = ATCC 33934,True,IPR018883,family,,282,72,250,CONTINUOUS
+D4ZG09,Cadmium carbonic anhydrase,287,SVI_0637,637905,Shewanella violacea (strain JCM 10179 / CIP 106290 / LMG 19151 / DSS12),Shewanella violacea (strain JCM 10179 / CIP 106290 / LMG 19151 / DSS12),True,IPR018883,family,,287,77,255,CONTINUOUS
+D9SD75,Cadmium carbonic anhydrase,280,Galf_2677,395494,Gallionella capsiferriformans (strain ES-2),Gallionella capsiferriformans (strain ES-2),True,IPR018883,family,,280,68,248,CONTINUOUS
+E1SMY4,Cadmium carbonic anhydrase,286,Fbal_2451,550540,Ferrimonas balearica (strain DSM 9799 / CCM 4581 / KCTC 23876 / PAT),Ferrimonas balearica (strain DSM 9799 / CCM 4581 / KCTC 23876 / PAT),True,IPR018883,family,,286,76,254,CONTINUOUS
+E3BNS4,Cadmium carbonic anhydrase,278,VIBC2010_14824,796620,Vibrio caribbeanicus ATCC BAA-2122,Vibrio caribbeanicus ATCC BAA-2122,True,IPR018883,family,,278,72,243,CONTINUOUS
+E8LT86,Uncharacterized protein,282,VIBR0546_11712,945543,Vibrio brasiliensis LMG 20546,Vibrio brasiliensis LMG 20546,True,IPR018883,family,,282,72,250,CONTINUOUS
+F0XWW1,C-type lectin domain-containing protein,494,AURANDRAFT_60948,44056,Aureococcus anophagefferens,Aureococcus anophagefferens (Harmful bloom alga),True,IPR018883,family,,494,232,453,CONTINUOUS
+F0XX50,Uncharacterized protein,330,CAH,44056,Aureococcus anophagefferens,Aureococcus anophagefferens (Harmful bloom alga),True,IPR018883,family,,330,99,255,CONTINUOUS
+F0Y7L8,Uncharacterized protein,281,AURANDRAFT_25033,44056,Aureococcus anophagefferens,Aureococcus anophagefferens (Harmful bloom alga),True,IPR018883,family,,281,28,240,CONTINUOUS
+F0Y8G3,Uncharacterized protein,281,AURANDRAFT_25857,44056,Aureococcus anophagefferens,Aureococcus anophagefferens (Harmful bloom alga),True,IPR018883,family,,281,28,240,CONTINUOUS
+F2JVM1,Cadmium carbonic anhydrase,282,Marme_1292,717774,Marinomonas mediterranea (strain ATCC 700492 / JCM 21426 / NBRC 103028 / MMB-1),Marinomonas mediterranea (strain ATCC 700492 / JCM 21426 / NBRC 103028 / MMB-1),True,IPR018883,family,,282,72,250,CONTINUOUS
+F6CSW6,Cadmium carbonic anhydrase,282,Mar181_0906,491952,Marinomonas posidonica (strain CECT 7376 / NCIMB 14433 / IVIA-Po-181),Marinomonas posidonica (strain CECT 7376 / NCIMB 14433 / IVIA-Po-181),True,IPR018883,family,,282,72,250,CONTINUOUS
+F7ZH69,CHRD domain-containing protein,285,RLO149_c029550,391595,Roseobacter litoralis (strain ATCC 49566 / DSM 6996 / JCM 21268 / NBRC 15278 / OCh 149),Roseobacter litoralis (strain ATCC 49566 / DSM 6996 / JCM 21268 / NBRC 15278 / OCh 149),True,IPR018883,family,,285,76,253,CONTINUOUS
+G4QE78,Cadmium carbonic anhydrase,292,GNIT_3258,1085623,Brumicola nitratireducens (strain JCM 12485 / KCTC 12276 / FR1064),Brumicola nitratireducens (strain JCM 12485 / KCTC 12276 / FR1064),True,IPR018883,family,,292,82,259,CONTINUOUS
+K0R419,Delta carbonic anhydrase,408,THAOC_34986,159749,Thalassiosira oceanica,Thalassiosira oceanica (Marine diatom),True,IPR018883,family,,408,160,362,CONTINUOUS
+K0RA12,Delta carbonic anhydrase,387,THAOC_20766,159749,Thalassiosira oceanica,Thalassiosira oceanica (Marine diatom),True,IPR018883,family,,387,141,343,CONTINUOUS
+K0SCN2,Uncharacterized protein,420,THAOC_16709,159749,Thalassiosira oceanica,Thalassiosira oceanica (Marine diatom),True,IPR018883,family,,420,150,352,CONTINUOUS
+K0SZQ0,Uncharacterized protein,394,THAOC_12556,159749,Thalassiosira oceanica,Thalassiosira oceanica (Marine diatom),True,IPR018883,family,,394,144,349,CONTINUOUS
+K6Y571,Cadmium carbonic anhydrase,284,GARC_2159,493475,Paraglaciecola arctica BSs20135,Paraglaciecola arctica BSs20135,True,IPR018883,family,,284,75,252,CONTINUOUS
+K6Z6Q1,Cadmium carbonic anhydrase,299,GARC_2158,493475,Paraglaciecola arctica BSs20135,Paraglaciecola arctica BSs20135,True,IPR018883,family,,299,90,267,CONTINUOUS
+K6ZPE3,Cadmium carbonic anhydrase,316,GPAL_3913,1121922,Brumicola pallidula DSM 14239 = ACAM 615,Brumicola pallidula DSM 14239 = ACAM 615,True,IPR018883,family,,316,106,283,CONTINUOUS
+K7A858,Uncharacterized protein,72,C427_1292,1129794,Paraglaciecola psychrophila 170,Paraglaciecola psychrophila 170,True,IPR018883,family,,72,3,40,CONTINUOUS
+K8EQL3,Delta carbonic anhydrase,370,Bathy16g02320,41875,Bathycoccus prasinos,Bathycoccus prasinos,True,IPR018883,family,,370,131,325,CONTINUOUS
+M4RIL3,Uncharacterized protein,106,C427_1291,1129794,Paraglaciecola psychrophila 170,Paraglaciecola psychrophila 170,True,IPR018883,family,,106,2,106,CONTINUOUS
+M4S7J4,Uncharacterized protein,69,C427_4533,1129794,Paraglaciecola psychrophila 170,Paraglaciecola psychrophila 170,True,IPR018883,family,,69,2,66,CONTINUOUS
+Q083D6,Cadmium carbonic anhydrase,287,Sfri_1779,318167,Shewanella frigidimarina (strain NCIMB 400),Shewanella frigidimarina (strain NCIMB 400),True,IPR018883,family,,287,78,255,CONTINUOUS
+Q0VNZ5,Cadmium carbonic anhydrase,292,ABO_1655,393595,Alcanivorax borkumensis (strain ATCC 700651 / DSM 11573 / NCIMB 13689 / SK2),Alcanivorax borkumensis (strain ATCC 700651 / DSM 11573 / NCIMB 13689 / SK2),True,IPR018883,family,,292,79,256,CONTINUOUS
+Q0ZB86,Delta-carbonic anhydrase,702,,2903,Emiliania huxleyi,Emiliania huxleyi (Coccolithophore),True,IPR018883,family,,702,413,661,CONTINUOUS
+Q169G0,Uncharacterized protein,285,RD1_1764,375451,Roseobacter denitrificans (strain ATCC 33942 / OCh 114),Roseobacter denitrificans (strain ATCC 33942 / OCh 114) (Erythrobacter sp. (strain OCh 114)),True,IPR018883,family,,285,75,253,CONTINUOUS
+Q48A90,Cadmium carbonic anhydrase,283,CPS_0256,167879,Colwellia psychrerythraea (strain 34H / ATCC BAA-681),Colwellia psychrerythraea (strain 34H / ATCC BAA-681),True,IPR018883,family,,283,75,252,CONTINUOUS
+Q5U9J1,Delta carbonic anhydrase,281,ca1,1577725,Conticribra weissflogii,Conticribra weissflogii (Marine diatom),True,IPR018883,family,,281,15,215,CONTINUOUS
+Q6V8K7,Intracellular carbonic anhydrase,298,,1577725,Conticribra weissflogii,Conticribra weissflogii (Marine diatom),True,IPR018883,family,,298,32,232,CONTINUOUS
+R1IUQ2,Cadmium carbonic anhydrase,285,D515_04123,1056512,Grimontia indica,Grimontia indica,True,IPR018883,family,,285,74,252,CONTINUOUS
+U3A2Q2,Cadmium carbonic anhydrase,279,VAZ01S_008_00180,1219077,Vibrio azureus NBRC 104587,Vibrio azureus NBRC 104587,True,IPR018883,family,,279,77,247,CONTINUOUS
+U4T379,Uncharacterized protein,122,M917_1519,1354303,Psychrobacter aquaticus CMS 56,Psychrobacter aquaticus CMS 56,True,IPR018883,family,,122,76,117,CONTINUOUS
+U4T633,Uncharacterized protein,132,M917_1518,1354303,Psychrobacter aquaticus CMS 56,Psychrobacter aquaticus CMS 56,True,IPR018883,family,,132,2,100,CONTINUOUS
+W4L2B0,Uncharacterized protein,108,ETSY1_45435,1429438,Entotheonella factor,Entotheonella factor,True,IPR018883,family,,108,57,102,CONTINUOUS
+W4LFV2,Cadmium carbonic anhydrase,266,ETSY1_24905,1429438,Entotheonella factor,Entotheonella factor,True,IPR018883,family,,266,58,234,CONTINUOUS
+W8VUA7,Delta carbonic anhydrase,405,deltaCA,296543,Thalassiosira pseudonana CCMP1335,Thalassiosira pseudonana CCMP1335,True,IPR018883,family,,405,159,362,CONTINUOUS
+W8VYH0,Delta carbonic anhydrase,369,deltaCA,296543,Thalassiosira pseudonana CCMP1335,Thalassiosira pseudonana CCMP1335,True,IPR018883,family,,369,126,330,CONTINUOUS
+X5I1I9,Delta carbonic anhydrase like protein,374,,35128,Thalassiosira pseudonana,Thalassiosira pseudonana (Marine diatom),True,IPR018883,family,,374,107,301,CONTINUOUS
+X7EKN6,Cadmium carbonic anhydrase,205,OCH239_01085,1449350,Roseivivax halodurans JCM 10272,Roseivivax halodurans JCM 10272,True,IPR018883,family,,205,1,172,CONTINUOUS
