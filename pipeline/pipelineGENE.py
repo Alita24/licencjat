@@ -51,12 +51,12 @@ def pipeline_main():
     # print("UniProt IDs combined from alphaknot and interpro (if applicable)")
 
     # # 4. Fetch IntAct interaction data per UniProt ID and via family name
-    print("Fetching IntAct interaction data per UniProt ID and via family name...")
-    print("for the knotted proteins:")
-    intact_uniprot_pipeline(
-        ids_dir=here / "uniprot_ids",
-        out_dir=here / "intact_uniprot_results/KNOTTED"
-    )
+    # print("Fetching IntAct interaction data per UniProt ID and via family name...")
+    # print("for the knotted proteins:")
+    # intact_uniprot_pipeline(
+    #     ids_dir=here / "uniprot_ids",
+    #     out_dir=here / "intact_uniprot_results/KNOTTED"
+    # )
 
     # print("for the unknotted proteins:")
     # intact_uniprot_pipeline(
@@ -93,23 +93,23 @@ def pipeline_main():
     #     add_publication=True
     # )
 
-    # #7. uniprot --> interpro domains
-    # annotate_pipeline(
-    #     input_dir=here/'isolated_partners/KNOTTED',
-    # )
+    #7. uniprot --> interpro domains
+    annotate_pipeline(
+        input_dir=here/'isolated_partners/KNOTTED',
+    )
 
-    # annotate_pipeline(
-    #     input_dir=here/'isolated_partners/UNKNOTTED',
-    # )
+    annotate_pipeline(
+        input_dir=here/'isolated_partners/UNKNOTTED',
+    )
 
-    # count_interpro(
-    #     input_dir=here/'isolated_partners/KNOTTED',
-    #     output_dir=here/'isolated_partners/KNOTTED',
-    # )
-    # count_interpro(
-    #     input_dir=here/'isolated_partners/UNKNOTTED',
-    #     output_dir=here/'isolated_partners/UNKNOTTED',
-    # )
+    count_interpro(
+        input_dir=here/'isolated_partners/KNOTTED',
+        output_dir=here/'isolated_partners/KNOTTED',
+    )
+    count_interpro(
+        input_dir=here/'isolated_partners/UNKNOTTED',
+        output_dir=here/'isolated_partners/UNKNOTTED',
+    )
     
 
 if __name__ == "__main__":
