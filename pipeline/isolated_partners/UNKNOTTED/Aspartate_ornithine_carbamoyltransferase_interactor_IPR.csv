@@ -702,3 +702,87 @@ Q8IWL3,Iron-sulfur cluster co-chaperone protein HscB,Homo sapiens,IPR004640|IPR0
 Q8IZL9,Cyclin-dependent kinase 20,Homo sapiens,IPR050108|IPR048002|IPR011009|IPR000719|IPR017441|IPR008271,doi:10.1016/j.molcel.2020.07.001|imex:IM-29257|pubmed:32707033
 Q8IZP0,Abl interactor 1,Homo sapiens,IPR028457|IPR035725|IPR012849|IPR036028|IPR001452|IPR000727,imex:IM-26434|pubmed:31980649
 Q8N137,Centrobin,Homo sapiens,IPR038923,imex:IM-29848|pubmed:35709258
+Q8N157,Jouberin,Homo sapiens,IPR035832|IPR052803|IPR036028|IPR001452|IPR015943|IPR036322|IPR001680,imex:IM-24512|pubmed:26638075
+Q8NB90,ATPase family gene 2 protein homolog A,Homo sapiens,IPR003593|IPR050168|IPR041569|IPR009010|IPR003959|IPR003960|IPR027417,imex:IM-30175|pubmed:38554706
+Q8NI60,Atypical kinase COQ8A, mitochondrial,Homo sapiens,IPR004147|IPR034646|IPR051409|IPR011009,doi:10.1016/j.molcel.2020.07.001|imex:IM-29257|pubmed:32707033
+Q8TB24,Ras and Rab interactor 3,Homo sapiens,IPR000159|IPR035869|IPR000980|IPR036860|IPR003123|IPR045046|IPR037191,imex:IM-28480|pubmed:32552912
+Q8TC44,POC1 centriolar protein homolog B,Homo sapiens,IPR015943|IPR020472|IPR019775|IPR036322|IPR001680|IPR050505,imex:IM-24512|pubmed:26638075
+Q8TDD2,Transcription factor Sp7,Homo sapiens,IPR036236|IPR013087,imex:IM-28767|pubmed:35140242
+Q91YN9,BAG family molecular chaperone regulator 2,Mus musculus,IPR037689|IPR003103,imex:IM-24272|pubmed:26496610
+Q923J1,Transient receptor potential cation channel subfamily M member 7,Mus musculus,IPR004166|IPR011009|IPR050927|IPR057366|IPR029601|IPR041491|IPR032415|IPR037162|IPR056336,imex:IM-22990|pubmed:24855944
+Q92731,Estrogen receptor beta,Homo sapiens,IPR021064|IPR028355|IPR024178|IPR035500|IPR000536|IPR050200|IPR001723|IPR001628|IPR013088,imex:IM-23333|pubmed:25604459
+Q92918,Mitogen-activated protein kinase kinase kinase kinase 1,Homo sapiens,IPR001180|IPR011009|IPR021160|IPR000719|IPR017441|IPR050629,doi:10.1016/j.molcel.2020.07.001|imex:IM-29257|pubmed:32707033
+Q92934,Bcl2-associated agonist of cell death,Homo sapiens,IPR018868,imex:IM-26434|pubmed:31980649
+Q92985,Interferon regulatory factor 7,Homo sapiens,IPR019817|IPR001346|IPR019471|IPR017855|IPR008984|IPR036388|IPR036390,imex:IM-26691|pubmed:30833792
+Q961G6,Cyclin-Q,Drosophila melanogaster,IPR013763|IPR036915|IPR048055|IPR048053|IPR043198|IPR006671,imex:IM-16524|mint:MINT-5216804|pubmed:14605208
+Q961V9,Brak nazwy,Drosophila melanogaster,IPR020476|IPR015797|IPR003293|IPR020084|IPR000086|IPR040618,mint:MINT-7952455|pubmed:15575970
+Q969Q1,E3 ubiquitin-protein ligase TRIM63,Homo sapiens,IPR017903|IPR050617|IPR042667|IPR027370|IPR000315|IPR001841|IPR013083|IPR017907,doi:10.1242/jcs.233395|imex:IM-25805|pubmed:31391242
+Q96DB2,Histone deacetylase 11,Homo sapiens,IPR044150|IPR000286|IPR023801|IPR037138|IPR023696,imex:IM-18733|pubmed:23752268
+Q96FW1,Ubiquitin thioesterase OTUB1,Homo sapiens,IPR003323|IPR016615|IPR038765|IPR019400|IPR042468|IPR042467,imex:IM-23897|pubmed:26752685
+Q96I59,Asparaginyl-tRNA synthetase,Homo sapiens,IPR004364|IPR006195|IPR045864|IPR004522|IPR002312|IPR012340|IPR004365,doi:10.1016/j.cell.2021.04.011|doi:10.1038/nature22366|imex:IM-25778|imex:IM-29278|pubmed:28514442|pubmed:33961781
+Q96JB6,Lysyl oxidase homolog 4,Homo sapiens,IPR050912|IPR001695|IPR019828|IPR001190|IPR036772,doi:10.1016/j.cell.2021.04.011|imex:IM-29278|pubmed:33961781
+Q96RQ3,Methylcrotonoyl-CoA carboxylase subunit alpha, mitochondrial,Homo sapiens,IPR011761|IPR005481|IPR001882|IPR050856|IPR011764|IPR005482|IPR000089|IPR005479|IPR016185|IPR011054|IPR011053,doi:10.1016/j.cell.2021.04.011|imex:IM-29278|pubmed:33961781
+Q96S53,Dual specificity testis-specific protein kinase 2,Homo sapiens,IPR050940|IPR011009|IPR000719|IPR017441|IPR001245|IPR008266,doi:10.1016/j.molcel.2020.07.001|imex:IM-29257|pubmed:32707033
+Q99189,mRNA transport regulator MTR10,Saccharomyces cerevisiae (strain ATCC 204508 / S288c),IPR011989|IPR016024|IPR013598|IPR001494|IPR051345|IPR057941|IPR057942|IPR058537,pubmed:16429126
+Q99558,Mitogen-activated protein kinase kinase kinase 14,Homo sapiens,IPR011009|IPR042787|IPR050538|IPR017425|IPR000719|IPR017441|IPR008271,imex:IM-26434|imex:IM-26691|mint:MINT-5216883|pubmed:14743216|pubmed:30833792|pubmed:31980649
+Q99615,DnaJ homolog subfamily C member 7,Homo sapiens,IPR001623|IPR036869|IPR011990|IPR019734,imex:IM-24272|pubmed:26496610
+Q99759,Mitogen-activated protein kinase kinase kinase 3,Homo sapiens,IPR011009|IPR053793|IPR000270|IPR034879|IPR000719,mint:MINT-5216883|pubmed:14743216
+Q9BQE3,Tubulin alpha-1C chain,Homo sapiens,IPR002452|IPR008280|IPR000217|IPR037103|IPR018316|IPR036525|IPR023123|IPR017975|IPR003008,imex:IM-24272|pubmed:26496610
+Q9BVQ7,ATPase family gene 2 protein homolog B,Homo sapiens,IPR003593|IPR050168|IPR041569|IPR003959|IPR003960|IPR027417,imex:IM-30175|pubmed:38554706
+Q9BXA6,Testis-specific serine/threonine-protein kinase 6,Homo sapiens,IPR011009|IPR000719|IPR017441|IPR008271|IPR042710,doi:10.1016/j.molcel.2020.07.001|imex:IM-29257|pubmed:32707033
+Q9BY84,Dual specificity protein phosphatase 16,Homo sapiens,IPR000340|IPR008343|IPR029021|IPR001763|IPR036873|IPR016130|IPR000387|IPR020422,imex:IM-25671|pubmed:28330616
+Q9BYB0,SH3 and multiple ankyrin repeat domains protein 3,Homo sapiens,IPR002110|IPR036770|IPR001478|IPR041489|IPR036034|IPR001660|IPR013761|IPR036028|IPR001452|IPR051569,imex:IM-13779|pubmed:20711500
+Q9BYT3,Serine/threonine-protein kinase 33,Homo sapiens,IPR011009|IPR000719|IPR017441|IPR008271,doi:10.1016/j.molcel.2020.07.001|imex:IM-29257|pubmed:32707033
+Q9BYV6,Tripartite motif-containing protein 55,Homo sapiens,IPR017903|IPR050617|IPR027370|IPR000315|IPR001841|IPR013083|IPR017907,doi:10.1242/jcs.233395|imex:IM-25805|pubmed:31391242
+Q9BZR8,Apoptosis facilitator Bcl-2-like protein 14,Homo sapiens,IPR036834|IPR002475,imex:IM-26691|pubmed:30833792
+Q9D1H7,Golgi to ER traffic protein 4 homolog,Mus musculus,IPR007317|IPR011990,imex:IM-24272|pubmed:26496610
+Q9EP53,Hamartin,Mus musculus,IPR016024|IPR007483,doi:10.1038/nn.4594|imex:IM-26285|pubmed:28671696
+Q9GZQ8,Microtubule-associated protein 1 light chain 3 beta,Homo sapiens,IPR004241|IPR029071,imex:IM-15184|pubmed:20562859
+Q9H0R8,Gamma-aminobutyric acid receptor-associated protein-like 1,Homo sapiens,IPR004241|IPR029071,imex:IM-15184|pubmed:20562859
+Q9H3D4-1,Isoform 1 of Tumor protein 63,Homo sapiens,Brak InterPro kodów dla tego białka.,imex:IM-20439|pubmed:20085233
+Q9H3S7,Tyrosine-protein phosphatase non-receptor type 23,Homo sapiens,IPR025304|IPR004328|IPR038499|IPR029021|IPR000242|IPR016130|IPR003595|IPR000387,imex:IM-25671|pubmed:28330616
+Q9H492,Microtubule-associated protein 1 light chain 3 alpha,Homo sapiens,IPR004241|IPR029071,imex:IM-15184|pubmed:20562859
+Q9H4B7,Tubulin beta-1 chain,Homo sapiens,IPR013838|IPR002453|IPR008280|IPR000217|IPR037103|IPR018316|IPR036525|IPR023123|IPR017975|IPR003008,doi:10.1016/j.cell.2021.04.011|doi:10.1038/nature22366|imex:IM-25778|imex:IM-29278|pubmed:28514442|pubmed:33961781
+Q9H9F9,Actin-related protein 5,Homo sapiens,IPR004000|IPR004001|IPR043129,imex:IM-13779|pubmed:20711500
+Q9HC29,Nucleotide-binding oligomerization domain-containing protein 2,Homo sapiens,IPR001315|IPR011029|IPR001611|IPR032675|IPR007111|IPR051261|IPR041267|IPR041075|IPR027417,imex:IM-30072|pubmed:35273242
+Q9HCC8,Glycerophosphodiester phosphodiesterase 3,Homo sapiens,IPR030395|IPR017946,imex:IM-13779|pubmed:20711500
+Q9NH11,Brak nazwy,Brak organizmu,Brak InterPro kodów dla tego białka.,mint:MINT-7952455|pubmed:15575970
+Q9NQU5,Serine/threonine-protein kinase PAK 6,Homo sapiens,IPR000095|IPR036936|IPR011009|IPR051931|IPR033923|IPR000719|IPR017441|IPR035066,doi:10.1016/j.molcel.2020.07.001|imex:IM-29257|pubmed:32707033
+Q9NRM7,Serine/threonine-protein kinase LATS2,Homo sapiens,IPR000961|IPR011009|IPR017892|IPR000719|IPR017441|IPR008271|IPR050236|IPR015940|IPR009060,doi:10.1016/j.molcel.2020.07.001|imex:IM-29257|pubmed:32707033
+Q9NSY0,Nuclear receptor-binding protein 2,Homo sapiens,IPR011009|IPR042697|IPR000719|IPR050588,doi:10.1016/j.molcel.2020.07.001|imex:IM-29257|pubmed:32707033
+Q9NXB0,Tectonic-like complex member MKS1,Homo sapiens,IPR010796,imex:IM-24512|pubmed:26638075
+Q9NYJ8,TGF-beta-activated kinase 1 and MAP3K7-binding protein 2,Homo sapiens,IPR003892|IPR041911|IPR001876|IPR036443,mint:MINT-5216883|pubmed:14743216
+Q9PHL0,ATP-dependent protease ATPase subunit HslU,Campylobacter jejuni subsp. jejuni serotype O:2 (strain ATCC 700819 / NCTC 11168),IPR003593|IPR050052|IPR003959|IPR019489|IPR004491|IPR027417,pubmed:17615063
+Q9PHN0,Peptide methionine sulfoxide reductase MsrA,Campylobacter jejuni subsp. jejuni serotype O:2 (strain ATCC 700819 / NCTC 11168),IPR002569|IPR036509,pubmed:17615063
+Q9PHX2,Glutamyl-tRNA reductase,Campylobacter jejuni subsp. jejuni serotype O:2 (strain ATCC 700819 / NCTC 11168),IPR000343|IPR015896|IPR015895|IPR018214|IPR036453|IPR036343|IPR036291|IPR006151,pubmed:17615063
+Q9PHZ9,Phosphoribosylaminoimidazole-succinocarboxamide synthase,Campylobacter jejuni subsp. jejuni serotype O:2 (strain ATCC 700819 / NCTC 11168),IPR028923|IPR033934|IPR001636|IPR050089|IPR018236,pubmed:17615063
+Q9PI32,Large ribosomal subunit protein bL12,Campylobacter jejuni subsp. jejuni serotype O:2 (strain ATCC 700819 / NCTC 11168),IPR000206|IPR013823|IPR014719|IPR008932|IPR036235,pubmed:17615063
+Q9PIB9,6,7-dimethyl-8-ribityllumazine synthase,Campylobacter jejuni subsp. jejuni serotype O:2 (strain ATCC 700819 / NCTC 11168),IPR034964|IPR002180|IPR036467,pubmed:17615063
+Q9PIE2,Phosphoglucosamine mutase,Campylobacter jejuni subsp. jejuni serotype O:2 (strain ATCC 700819 / NCTC 11168),IPR005844|IPR016055|IPR005845|IPR005846|IPR005843|IPR036900|IPR016066|IPR005841|IPR006352|IPR050060,pubmed:17615063
+Q9PIM5,Probable tautomerase Cj0270,Campylobacter jejuni subsp. jejuni serotype O:2 (strain ATCC 700819 / NCTC 11168),IPR004370|IPR014347,pubmed:17615063
+Q9PIQ3,Bacteriohemerythrin,Campylobacter jejuni subsp. jejuni serotype O:2 (strain ATCC 700819 / NCTC 11168),IPR023504|IPR016131|IPR050669|IPR012312|IPR035938|IPR012827,pubmed:17615063
+Q9PJ85,Flavin-dependent thymidylate synthase,Campylobacter jejuni subsp. jejuni serotype O:2 (strain ATCC 700819 / NCTC 11168),IPR003669|IPR036098,pubmed:17615063
+Q9PM41,Chorismate synthase,Campylobacter jejuni subsp. jejuni serotype O:2 (strain ATCC 700819 / NCTC 11168),IPR000453|IPR035904|IPR020541,pubmed:17615063
+Q9PMD2,Acetyl-coenzyme A synthetase,Campylobacter jejuni subsp. jejuni serotype O:2 (strain ATCC 700819 / NCTC 11168),IPR011904|IPR032387|IPR025110|IPR045851|IPR020845|IPR000873|IPR042099,pubmed:17615063
+Q9PN07,dCTP deaminase,Campylobacter jejuni subsp. jejuni serotype O:2 (strain ATCC 700819 / NCTC 11168),IPR011962|IPR036157|IPR033704,pubmed:17615063
+Q9PNL3,Thiamine-phosphate synthase,Campylobacter jejuni subsp. jejuni serotype O:2 (strain ATCC 700819 / NCTC 11168),IPR013785|IPR036206|IPR022998|IPR034291,pubmed:17615063
+Q9PP15,Ribose-phosphate pyrophosphokinase,Campylobacter jejuni subsp. jejuni serotype O:2 (strain ATCC 700819 / NCTC 11168),IPR000842|IPR029099|IPR029057|IPR000836|IPR005946|IPR037515,pubmed:17615063
+Q9PPB0,NH(3)-dependent NAD(+) synthetase,Campylobacter jejuni subsp. jejuni serotype O:2 (strain ATCC 700819 / NCTC 11168),IPR022310|IPR003694|IPR022926|IPR014729,pubmed:17615063
+Q9PPE0,Thiol peroxidase,Campylobacter jejuni subsp. jejuni serotype O:2 (strain ATCC 700819 / NCTC 11168),IPR013740|IPR036249|IPR013766|IPR002065|IPR018219|IPR050455,pubmed:17615063
+Q9PPF2,Phosphopantetheine adenylyltransferase,Campylobacter jejuni subsp. jejuni serotype O:2 (strain ATCC 700819 / NCTC 11168),IPR004821|IPR001980|IPR014729,pubmed:17615063
+Q9QY53,Nephrocystin-1,Mus musculus,IPR039687|IPR030642|IPR036028|IPR001452,imex:IM-16529|pubmed:21565611
+Q9UFN0,Protein NipSnap homolog 3A,Homo sapiens,IPR011008|IPR012577|IPR051557,doi:10.1038/nature22366|imex:IM-25778|pubmed:28514442
+Q9UN86,Ras GTPase-activating protein-binding protein 2,Homo sapiens,IPR034376|IPR032710|IPR002075|IPR018222|IPR012677|IPR039539|IPR035979|IPR000504,imex:IM-29413|pubmed:34901782
+Q9VSJ8,Exocyst complex component 7,Drosophila melanogaster,IPR016159|IPR004140|IPR046364,imex:IM-16519|mint:MINT-5217543|pubmed:15710747
+Q9Y287,Integral membrane protein 2B,Homo sapiens,IPR007084|IPR040145,imex:IM-29868|pubmed:34446781
+Q9Y572,Receptor-interacting serine/threonine-protein kinase 3,Homo sapiens,IPR011009|IPR000719|IPR017441|IPR025735|IPR008271|IPR051681,mint:MINT-5216883|pubmed:14743216
+Q9Y6K1,DNA (cytosine-5)-methyltransferase 3A,Homo sapiens,IPR025766|IPR044108|IPR050390|IPR018117|IPR001525|IPR054724|IPR040552|IPR049554|IPR000313|IPR029063,imex:IM-13779|pubmed:20711500
+Q9Y6K9,NF-kappa-B essential modulator,Homo sapiens,IPR032419|IPR021063|IPR034735|IPR051301,mint:MINT-5216883|pubmed:14743216
+chebi:"CHEBI:17672"
+chebi:"CHEBI:39112"
+chebi:"CHEBI:45783"
+chebi:"CHEBI:49375"
+chebi:"CHEBI:63452"
+intact:EBI-1330463
+intact:EBI-2695616
+intact:EBI-2825666
