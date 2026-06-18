@@ -81,11 +81,11 @@ def pipeline_main():
     # print("IntAct interaction data combined per UniProt ID and via gene name.")
 
     # # 6. isolate interactors
-    # isolate_partners(
-    #     intact_dir=here/'combined_intact_results',
-    #     output_dir=here/'isolated_partners/KNOTTED',
-    #     add_publication=True
-    # )
+    isolate_partners(
+        intact_dir=here/'intact_uniprot_results/KNOTTED',
+        output_dir=here/'isolated_partners/KNOTTED',
+        add_publication=True
+    )
 
     # isolate_partners(
     #     intact_dir=here / "intact_uniprot_results/UNKNOTTED",
@@ -98,18 +98,18 @@ def pipeline_main():
         input_dir=here/'isolated_partners/KNOTTED',
     )
 
-    annotate_pipeline(
-        input_dir=here/'isolated_partners/UNKNOTTED',
-    )
+    # annotate_pipeline(
+    #     input_dir=here/'isolated_partners/UNKNOTTED',
+    # )
 
     count_interpro(
         input_dir=here/'isolated_partners/KNOTTED',
         output_dir=here/'isolated_partners/KNOTTED',
     )
-    count_interpro(
-        input_dir=here/'isolated_partners/UNKNOTTED',
-        output_dir=here/'isolated_partners/UNKNOTTED',
-    )
+    # count_interpro(
+    #     input_dir=here/'isolated_partners/UNKNOTTED',
+    #     output_dir=here/'isolated_partners/UNKNOTTED',
+    # )
     
 
 if __name__ == "__main__":
