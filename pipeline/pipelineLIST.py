@@ -2,7 +2,6 @@ from pathlib import Path
 import sys
 import csv
 
-
 parent_dir = Path(__file__).resolve().parents[1]
 here = Path(__file__).resolve().parent
 if str(parent_dir) not in sys.path:
@@ -14,7 +13,9 @@ from pipeline.isolate_interactors import isolate_all_uniprot_ids
 from pipeline.anotate_interactors import annotate_pipeline, count_interpro
 
 
-def isolate_ids(list_families, delimiter=';', row_number=0):
+def isolate_ids(list_families, delimiter=';', col_number=0):
+	out_path = here / "uniprot_ids_list"
+	out_path.mkdir(parents=True, exist_ok=True)
 	for file in list_families:
 		file_stem = Path(file).stem
 		print(file_stem)
@@ -22,12 +23,12 @@ def isolate_ids(list_families, delimiter=';', row_number=0):
 		uniprot_ids =[]
 		with open(here/ file, 'r', encoding='utf-8') as b83:
 			reader = csv.reader(b83, delimiter =delimiter)
-			_ = next(reader)
 			for row in reader:
-				if row[row_number]:
-					uniprot_ids.append(row[row_number])
+				if row and not row[0].startswith('#'):
+					if row[col_number]:
+						uniprot_ids.append(row[col_number])
 
-		with open(here/outfile, 'w', encoding='utf-8') as out:
+		with open(out_path/outfile, 'w', encoding='utf-8') as out:
 			for uniID in uniprot_ids:
 				out.write(uniID + '\n')
 
@@ -67,35 +68,43 @@ def partners(group_name, intact_dir, out_path):
 
 def pipeline():
 	'''
-	TODO: napisz komentarz
+	Główna funkcja uruchamiająca cały pipeline przetwarzania danych
+	Przed uruchomieniem wprowadzić w linii:
+	- 80 pliki są poprawne
+	- 84 jest prawidłowy separator oraz kolumna z UniProt ids jest dobrze zdefiniowana
 	'''
 	data_path = parent_dir / "data"
-	list_families = [data_path / "solenoid.csv"]
 	
-	isolate_ids(list_families, delimiter=';', row_number=0)
+	# 1. specify files
+	file_names = ["data.tsv"]
+
+	# 2. isolate the names 
+	list_families = [data_path / file_name for file_name in file_names]
+	isolate_ids(list_families, delimiter='\t', col_number=0)
 	
 	# 4. Fetch IntAct interaction data per UniProt ID
 	print('fetching intact')
 	intact_uniprot_pipeline(
-		ids_dir=here,
+		ids_dir=here / "uniprot_ids_list",
 		out_dir=here / 'intact_list',
 		file_pattern = '_uniprot'
 	)
 	print('finished fetching')
 
-	# 6. isolate interactors
+	# 5. isolate interactors
 	for fam in list_families:
 		file_stem = Path(fam).stem
-		partners(file_stem, intact_dir=here / 'intact_list', out_path=here/'isolated_partners')
+		partners(file_stem, intact_dir=here / 'intact_list', out_path=here/'isolated_partners/LIST')
 
-	# #7. uniprot --> interpro domains
+	# 6. uniprot --> interpro domains
 	annotate_pipeline(
-		input_dir=here/'isolated_partners'
+		input_dir=here/'isolated_partners/LIST'
 	)
 
+	# 7. count the domains
 	count_interpro(
-		input_dir=here/'isolated_partners', 
-		output_dir=here/'isolated_partners'
+		input_dir=here/'isolated_partners/LIST', 
+		output_dir=here/'isolated_partners/LIST'
 	)
 
 if __name__ == '__main__':
