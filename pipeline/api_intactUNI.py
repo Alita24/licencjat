@@ -17,6 +17,8 @@ def intact_uniprot_pipeline(ids_dir, out_dir, file_pattern="_uniprot_ids_GE"):
     out_dir = Path(out_dir)
     out_dir.mkdir(exist_ok=True)
 
+    
+    
     for file in ids_dir.glob('*'+file_pattern+".txt"):
         gene_name = file.stem.replace(file_pattern, "")
 
@@ -32,10 +34,10 @@ def intact_uniprot_pipeline(ids_dir, out_dir, file_pattern="_uniprot_ids_GE"):
             out_file = out_dir / f"intact_{gene_name}_{uniprot_id}.tsv"
             # Check if the specific out_file is already present
             if out_file.exists():
-                print(f"Skipping fetch for {uniprot_id} (gene: {gene_name}): outfile already exists.")
+                print(f"Skipping fetch for {uniprot_id} (name: {gene_name}): outfile already exists.")
                 continue
 
-            print(f"Fetching IntAct for {uniprot_id} (gene: {gene_name})")
+            print(f"Fetching IntAct for {uniprot_id} (name: {gene_name})")
             try:
                 fetch_intact_interactions(uniprot_id, out_tsv_path=out_file)
             except Exception as e:
