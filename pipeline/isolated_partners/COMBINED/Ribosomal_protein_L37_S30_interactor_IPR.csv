@@ -1,0 +1,178 @@
+A0A142I5B9,Genome polyprotein,Zika virus (isolate ZIKV/Human/Cambodia/FSS13025/2010),IPR043502|IPR000069|IPR038302|IPR013755|IPR001122|IPR037172|IPR011492|IPR027287|IPR026470|IPR038345|IPR011998|IPR001157|IPR000752|IPR000487|IPR001850|IPR000404|IPR001528|IPR046811|IPR002535|IPR038688|IPR047530|IPR000208|IPR000336|IPR014412|IPR036253|IPR038055|IPR013756|IPR014001|IPR001650|IPR014756|IPR026490|IPR049486|IPR027417|IPR009003|IPR007094|IPR002877|IPR029063,imex:IM-26452|pubmed:30177828
+A2AHJ4,Bromodomain and WD repeat-containing protein 3,Mus musculus,IPR052060|IPR001487|IPR036427|IPR057451|IPR057452|IPR015943|IPR019775|IPR036322|IPR001680,imex:IM-24272|pubmed:26496610
+A4D1E9,GTP-binding protein 10,Homo sapiens,IPR031167|IPR006073|IPR014100|IPR006169|IPR036726|IPR045086|IPR027417,doi:10.1016/j.cell.2021.04.011|doi:10.1038/nature22366|imex:IM-25778|imex:IM-29278|pubmed:28514442|pubmed:33961781
+B4DEF8,Large ribosomal subunit protein mL45,Homo sapiens,IPR051975|IPR032710|IPR007379,doi:10.1016/j.cell.2021.04.011|imex:IM-29278|pubmed:33961781
+C5E522,Brak nazwy,Brak organizmu,Brak InterPro kodów dla tego białka.,imex:IM-25584|pubmed:28169297
+E9PZI6,Katanin p60 ATPase-containing subunit A1,Mus musculus,IPR003593|IPR041569|IPR003959|IPR003960|IPR028596|IPR048611|IPR048612|IPR036181|IPR050304|IPR027417|IPR015415,imex:IM-24272|pubmed:26496610
+I6TAH8,Nucleoprotein,Influenza A virus (strain A/Aichi/2/1968 H3N2),IPR002141,imex:IM-25584|pubmed:28169297
+O01482,Brak nazwy,Caenorhabditis elegans,IPR051435|IPR027370|IPR001841|IPR013083|IPR017907,pubmed:19123269
+O14561,Acyl carrier protein, mitochondrial,Homo sapiens,IPR003231|IPR036736|IPR009081|IPR006162,doi:10.1016/j.cell.2021.04.011|imex:IM-29278|pubmed:33961781
+O14880,Glutathione S-transferase 3, mitochondrial,Homo sapiens,IPR050997|IPR023352|IPR001129,imex:IM-26301|pubmed:29568061
+O15091,Mitochondrial ribonuclease P catalytic subunit,Homo sapiens,IPR033495|IPR031595|IPR011990,doi:10.1016/j.cell.2021.04.011|imex:IM-29278|pubmed:33961781
+O43347,RNA-binding protein Musashi homolog 1,Homo sapiens,IPR034126|IPR012677|IPR035979|IPR000504,doi:10.1016/j.cell.2021.04.011|imex:IM-29278|pubmed:33961781
+O43493,Trans-Golgi network integral membrane protein 2,Homo sapiens,Brak InterPro kodów dla tego białka.,imex:IM-26301|pubmed:29568061
+O61307,Teneurin-m,Drosophila melanogaster,IPR011042|IPR008969|IPR000742|IPR057627|IPR056823|IPR056822|IPR056820|IPR051216|IPR057629|IPR028916|IPR015943|IPR006530,imex:IM-16527|pubmed:25294943
+O75152,Zinc finger CCCH domain-containing protein 11A,Homo sapiens,IPR041686|IPR000571,imex:IM-30059|pubmed:39251607
+O75394,Large ribosomal subunit protein bL33m,Homo sapiens,IPR052008|IPR001705|IPR038584|IPR011332,doi:10.1016/j.cell.2021.04.011|doi:10.1038/nature22366|imex:IM-25778|imex:IM-29278|pubmed:28514442|pubmed:33961781
+O75879,Glutamyl-tRNA(Gln) amidotransferase subunit B, mitochondrial,Homo sapiens,IPR017959|IPR006075|IPR018027|IPR003789|IPR004413|IPR023168|IPR017958|IPR014746,doi:10.1016/j.cell.2021.04.011|imex:IM-29278|pubmed:33961781
+O95714,E3 ubiquitin-protein ligase HERC2,Homo sapiens,IPR004939|IPR006624|IPR021097|IPR001199|IPR036400|IPR008979|IPR000569|IPR035983|IPR037976|IPR010606|IPR037252|IPR058923|IPR009091|IPR000408|IPR014722|IPR051625|IPR000433|IPR043145|IPR041987,doi:10.1016/j.cell.2021.04.011|imex:IM-29278|pubmed:33961781
+O97159,ATP-dependent chromatin remodeler Mi-2,Drosophila melanogaster,IPR012957|IPR009462|IPR012958|IPR016197|IPR000953|IPR023780|IPR002464|IPR009463|IPR014001|IPR001650|IPR027417|IPR038718|IPR049730|IPR000330|IPR019786|IPR011011|IPR001965|IPR019787|IPR013083,imex:IM-16527|pubmed:25294943
+P00528,Tyrosine-protein kinase Src64B,Drosophila melanogaster,IPR011009|IPR050198|IPR000719|IPR017441|IPR001245|IPR000980|IPR036860|IPR036028|IPR001452|IPR008266|IPR020635,imex:IM-16524|mint:MINT-5216804|pubmed:14605208
+P01112,GTPase HRas,Homo sapiens,IPR027417|IPR005225|IPR001806|IPR020849,imex:IM-30494|pubmed:35839996
+P03466,Nucleoprotein,Influenza A virus (strain A/Puerto Rico/8/1934 H1N1),IPR002141,imex:IM-25584|pubmed:28169297
+P06748,Nucleophosmin,Homo sapiens,IPR032569|IPR004301|IPR024057|IPR036824,imex:IM-30059|pubmed:39251607
+P09001,Large ribosomal subunit protein uL3m,Homo sapiens,IPR000597|IPR019927|IPR019926|IPR009000,doi:10.1016/j.cell.2021.04.011|doi:10.1038/nature22366|imex:IM-25778|imex:IM-29278|pubmed:28514442|pubmed:33961781
+P10075,Zinc finger protein GLI4,Homo sapiens,IPR036236|IPR013087,doi:10.1016/j.cell.2021.04.011|imex:IM-29278|pubmed:33961781
+P10809,60 kDa heat shock protein, mitochondrial,Homo sapiens,IPR018370|IPR001844|IPR002423|IPR027409|IPR027413|IPR027410,doi:10.1016/j.cell.2021.04.011|doi:10.1038/nature22366|imex:IM-25778|imex:IM-26301|imex:IM-29278|pubmed:28514442|pubmed:29568061|pubmed:33961781
+P12694,2-oxoisovalerate dehydrogenase subunit alpha, mitochondrial,Homo sapiens,IPR050771|IPR001017|IPR029061,doi:10.1016/j.cell.2021.04.011|imex:IM-29278|pubmed:33961781
+P13569,Cystic fibrosis transmembrane conductance regulator,Homo sapiens,IPR003593|IPR011527|IPR036640|IPR003439|IPR017871|IPR050173|IPR009147|IPR047082|IPR025837|IPR027417,imex:IM-29540|pubmed:36012204
+P18621,Large ribosomal subunit protein uL22,Homo sapiens,IPR001063|IPR057265|IPR018260|IPR005721|IPR036394,doi:10.1016/j.cell.2021.04.011|imex:IM-29278|pubmed:33961781
+P18824,Armadillo segment polarity protein,Drosophila melanogaster,IPR011989|IPR016024|IPR000225|IPR013284,imex:IM-16527|pubmed:25294943
+P19339-3,Isoform CM1 of Protein sex-lethal,Drosophila melanogaster,Brak InterPro kodów dla tego białka.,imex:IM-16524|mint:MINT-5216804|pubmed:14605208
+P22607,Fibroblast growth factor receptor 3,Homo sapiens,IPR016248|IPR007110|IPR036179|IPR013783|IPR013098|IPR003599|IPR003598|IPR011009|IPR000719|IPR017441|IPR050122|IPR001245|IPR008266|IPR020635,imex:IM-29494|pubmed:35384245
+P26373,Large ribosomal subunit protein eL13,Homo sapiens,IPR001380|IPR018256,doi:10.1016/j.cell.2021.04.011|imex:IM-29278|pubmed:33961781
+P26440,Isovaleryl-CoA dehydrogenase, mitochondrial,Homo sapiens,IPR006089|IPR006091|IPR046373|IPR036250|IPR009075|IPR013786|IPR037069|IPR009100|IPR034183,doi:10.1016/j.cell.2021.04.011|imex:IM-29278|pubmed:33961781
+P29310-2,Isoform VI' of 14-3-3 protein zeta,Drosophila melanogaster,Brak InterPro kodów dla tego białka.,imex:IM-16524|mint:MINT-5216804|pubmed:14605208
+P29376,Leukocyte tyrosine kinase receptor,Homo sapiens,IPR055163|IPR011009|IPR000719|IPR017441|IPR050122|IPR001245|IPR008266|IPR020635|IPR002011,imex:IM-29494|pubmed:35384245
+P36776,Lon protease homolog, mitochondrial,Homo sapiens,IPR003593|IPR003959|IPR004815|IPR054594|IPR008269|IPR027065|IPR003111|IPR046336|IPR027503|IPR027417|IPR008268|IPR015947|IPR020568|IPR014721,doi:10.1016/j.cell.2021.04.011|imex:IM-29278|pubmed:33961781
+P40429,Large ribosomal subunit protein uL13,Homo sapiens,IPR005822|IPR023563|IPR005755|IPR036899,doi:10.1016/j.cell.2021.04.011|imex:IM-29278|pubmed:33961781
+P42766,Large ribosomal subunit protein uL29,Homo sapiens,IPR001854|IPR018254|IPR045059|IPR036049,doi:10.1016/j.cell.2021.04.011|imex:IM-29278|pubmed:33961781
+P46776,Large ribosomal subunit protein uL15,Homo sapiens,IPR027386|IPR030878|IPR021131|IPR036227|IPR001196,doi:10.1016/j.cell.2021.04.011|imex:IM-29278|pubmed:33961781
+P46781,Small ribosomal subunit protein uS4,Homo sapiens,IPR022801|IPR018079|IPR005710|IPR001912|IPR002942|IPR036986,doi:10.1016/j.cell.2021.04.011|imex:IM-29278|pubmed:33961781
+P49406,Large ribosomal subunit protein bL19m,Homo sapiens,IPR001857|IPR038657|IPR008991,doi:10.1016/j.cell.2021.04.011|doi:10.1038/nature22366|imex:IM-25778|imex:IM-29278|pubmed:28514442|pubmed:33961781
+P50336,Protoporphyrinogen oxidase,Homo sapiens,IPR002937|IPR036188|IPR004572|IPR050464,doi:10.1016/j.cell.2021.04.011|imex:IM-29278|pubmed:33961781
+P52815,Large ribosomal subunit protein bL12m,Homo sapiens,IPR000206|IPR013823|IPR014719|IPR008932|IPR036235,doi:10.1016/j.cell.2021.04.011|doi:10.1038/nature22366|imex:IM-25778|imex:IM-29278|pubmed:28514442|pubmed:33961781
+P55075-2,Isoform FGF-8A of Fibroblast growth factor 8,Homo sapiens,Brak InterPro kodów dla tego białka.,doi:10.1038/nature22366|imex:IM-25778|pubmed:28514442
+P61927,Large ribosomal subunit protein eL37,Homo sapiens,IPR001569|IPR011331|IPR018267|IPR011332,doi:10.1016/j.cell.2021.04.011|imex:IM-29278|pubmed:33961781
+P62241,Small ribosomal subunit protein eS8,Homo sapiens,IPR001047|IPR018283|IPR042563|IPR022309,doi:10.1016/j.cell.2021.04.011|doi:10.1038/nature22366|imex:IM-25778|imex:IM-29278|pubmed:28514442|pubmed:33961781
+P62280,Small ribosomal subunit protein uS17,Homo sapiens,IPR012340|IPR000266|IPR028333|IPR019979|IPR032440,imex:IM-30059|pubmed:39251607
+P62750,Large ribosomal subunit protein uL23,Homo sapiens,IPR012677|IPR019985|IPR013025|IPR012678|IPR001014|IPR005633,doi:10.1016/j.cell.2021.04.011|imex:IM-29278|pubmed:33961781
+P62753,Small ribosomal subunit protein eS6,Homo sapiens,IPR001377|IPR014401|IPR018282,doi:10.1016/j.cell.2021.04.011|imex:IM-26301|imex:IM-29278|pubmed:29568061|pubmed:33961781
+P67809,Y-box-binding protein 1,Homo sapiens,IPR050181|IPR011129|IPR019844|IPR002059|IPR012340,doi:10.1016/j.cell.2021.04.011|imex:IM-29278|pubmed:33961781
+P82908,Alpha-ketoglutarate dehydrogenase component 4,Bos taurus,IPR020373,imex:IM-19900|pubmed:11279123
+P84098,Large ribosomal subunit protein eL19,Homo sapiens,IPR035970|IPR039547|IPR023638|IPR000196|IPR015972|IPR033935|IPR057259|IPR057260,doi:10.1016/j.cell.2021.04.011|imex:IM-29278|pubmed:33961781
+P84103,Serine/arginine-rich splicing factor 3,Homo sapiens,IPR012677|IPR035979|IPR000504|IPR050907,doi:10.1016/j.cell.2021.04.011|imex:IM-29278|pubmed:33961781
+Q00839,Heterogeneous nuclear ribonucleoprotein U,Homo sapiens,IPR001870|IPR043136|IPR013320|IPR027417|IPR003034|IPR036361|IPR003877|IPR035778,doi:10.1016/j.cell.2021.04.011|imex:IM-29278|pubmed:33961781
+Q07973,1,25-dihydroxyvitamin D(3) 24-hydroxylase, mitochondrial,Homo sapiens,IPR050479|IPR001128|IPR017972|IPR002401|IPR036396,doi:10.1016/j.cell.2021.04.011|imex:IM-29278|pubmed:33961781
+Q08170,Serine/arginine-rich splicing factor 4,Homo sapiens,IPR012677|IPR035979|IPR047190|IPR000504|IPR050374,doi:10.1016/j.cell.2021.04.011|imex:IM-29278|pubmed:33961781
+Q10713,Mitochondrial-processing peptidase subunit alpha,Homo sapiens,IPR011249|IPR050361|IPR011765|IPR001431|IPR007863,doi:10.1038/nature22366|imex:IM-25778|pubmed:28514442
+Q13084,Large ribosomal subunit protein bL28m,Homo sapiens,IPR026569|IPR034704|IPR037147,doi:10.1016/j.cell.2021.04.011|doi:10.1038/nature22366|imex:IM-25778|imex:IM-29278|pubmed:28514442|pubmed:33961781
+Q13405,Large ribosomal subunit protein mL49,Homo sapiens,IPR007740,doi:10.1016/j.cell.2021.04.011|doi:10.1038/nature22366|imex:IM-25778|imex:IM-29278|pubmed:28514442|pubmed:33961781
+Q13618,Cullin-3,Homo sapiens,IPR045093|IPR059120|IPR016157|IPR016158|IPR036317|IPR001373|IPR019559|IPR016159|IPR036388|IPR036390,doi:10.1016/j.cell.2010.11.017|imex:IM-18651|pubmed:21145461
+Q14197,Large ribosomal subunit protein mL62,Homo sapiens,IPR052104|IPR000352,doi:10.1016/j.cell.2021.04.011|doi:10.1038/nature22366|imex:IM-25778|imex:IM-29278|pubmed:28514442|pubmed:33961781
+Q15031,Leucine--tRNA ligase, mitochondrial,Homo sapiens,IPR001412|IPR002300|IPR002302|IPR025709|IPR013155|IPR014729|IPR009080|IPR009008,doi:10.1016/j.cell.2021.04.011|imex:IM-29278|pubmed:33961781
+Q15070,Mitochondrial inner membrane protein OXA1L,Homo sapiens,IPR001708|IPR028055,doi:10.1016/j.cell.2021.04.011|imex:IM-29278|pubmed:33961781
+Q15118,[Pyruvate dehydrogenase (acetyl-transferring)] kinase isozyme 1, mitochondrial,Homo sapiens,IPR036784|IPR018955|IPR039028|IPR036890|IPR003594|IPR005467,imex:IM-26301|pubmed:29568061
+Q15434,RNA-binding motif, single-stranded-interacting protein 2,Homo sapiens,IPR012677|IPR035979|IPR000504,doi:10.1016/j.cell.2021.04.011|imex:IM-29278|pubmed:33961781
+Q16540,Large ribosomal subunit protein uL23m,Homo sapiens,IPR012677|IPR013025|IPR012678,doi:10.1016/j.cell.2021.04.011|doi:10.1038/nature22366|imex:IM-25778|imex:IM-29278|pubmed:28514442|pubmed:33961781
+Q16629,Serine/arginine-rich splicing factor 7,Homo sapiens,IPR012677|IPR035979|IPR000504|IPR034651|IPR001878|IPR036875,imex:IM-30059|pubmed:39251607
+Q16740,ATP-dependent Clp protease proteolytic subunit, mitochondrial,Homo sapiens,IPR001907|IPR029045|IPR023562|IPR033135|IPR018215,doi:10.1038/nature22366|imex:IM-25778|pubmed:28514442
+Q16777,Histone H2A type 2-C,Homo sapiens,IPR007125|IPR009072|IPR002119|IPR032454|IPR032458,doi:10.1016/j.cell.2021.04.011|imex:IM-29278|pubmed:33961781
+Q18739,Brak nazwy,Caenorhabditis elegans,IPR015897|IPR004119|IPR011009|IPR052961,pubmed:19123269
+Q1K9H2,Nucleoprotein,Influenza A virus (strain A/Wilson-Smith/1933 H1N1),IPR002141,imex:IM-25584|pubmed:28169297
+Q24114,Division abnormally delayed protein,Drosophila melanogaster,IPR001863,imex:IM-16527|pubmed:25294943
+Q3TLR7,Denticleless protein homolog,Mus musculus,IPR051865|IPR015943|IPR019775|IPR036322|IPR001680,imex:IM-24272|pubmed:26496610
+Q4G0F5,Vacuolar protein sorting-associated protein 26B,Homo sapiens,IPR014752|IPR028934,imex:IM-24272|pubmed:26496610
+Q4U2R6,Large ribosomal subunit protein mL51,Homo sapiens,IPR019373,doi:10.1016/j.cell.2021.04.011|doi:10.1038/nature22366|imex:IM-25778|imex:IM-29278|pubmed:28514442|pubmed:33961781
+Q5EP28,Nucleoprotein,Influenza A virus (strain A/Vietnam/1203/2004 H5N1),IPR002141,imex:IM-25584|imex:IM-30237|pubmed:28169297|pubmed:37758692
+Q5S007,Leucine-rich repeat serine/threonine-protein kinase 2,Homo sapiens,IPR056593|IPR036770|IPR011989|IPR016024|IPR056597|IPR056602|IPR032171|IPR057263|IPR011009|IPR001611|IPR003591|IPR032675|IPR027417|IPR000719|IPR017441|IPR020859|IPR008271|IPR051420|IPR005225|IPR015943|IPR036322,imex:IM-26684|pubmed:31046837
+Q5SXM8,DNL-type zinc finger protein,Homo sapiens,IPR024158|IPR007853,doi:10.1016/j.cell.2021.04.011|doi:10.1038/nature22366|imex:IM-25778|imex:IM-29278|pubmed:28514442|pubmed:33961781
+Q5T653,Large ribosomal subunit protein uL2m,Homo sapiens,IPR012340|IPR014722|IPR002171|IPR022669|IPR022666|IPR008991,doi:10.1016/j.cell.2021.04.011|doi:10.1038/nature22366|imex:IM-25778|imex:IM-29278|pubmed:28514442|pubmed:33961781
+Q61166,Microtubule-associated protein RP/EB family member 1,Mus musculus,IPR001715|IPR036872|IPR004953|IPR036133|IPR027328,imex:IM-24272|pubmed:26496610
+Q676U5-1,Isoform 1 of Autophagy-related protein 16-1,Homo sapiens,Brak InterPro kodów dla tego białka.,imex:IM-29997|pubmed:31015422
+Q6P161,Large ribosomal subunit protein mL54,Homo sapiens,IPR013870,doi:10.1016/j.cell.2021.04.011|imex:IM-29278|pubmed:33961781
+Q6P1L8,Large ribosomal subunit protein uL14m,Homo sapiens,IPR000218|IPR036853,doi:10.1016/j.cell.2021.04.011|doi:10.1038/nature22366|imex:IM-25778|imex:IM-29278|pubmed:28514442|pubmed:33961781
+Q6P587,Oxaloacetate tautomerase FAHD1, mitochondrial,Homo sapiens,IPR011234|IPR036663,doi:10.1016/j.cell.2021.04.011|imex:IM-29278|pubmed:33961781
+Q6PI48,Aspartate--tRNA ligase, mitochondrial,Homo sapiens,IPR004364|IPR006195|IPR045864|IPR004524|IPR047089|IPR002312|IPR047090|IPR004115|IPR029351|IPR012340|IPR004365,doi:10.1016/j.cell.2021.04.011|imex:IM-29278|pubmed:33961781
+Q6XE24,RNA-binding motif, single-stranded-interacting protein 3,Homo sapiens,IPR002343|IPR012677|IPR035979|IPR034406|IPR000504,doi:10.1016/j.cell.2021.04.011|imex:IM-29278|pubmed:33961781
+Q75WM6,Testis-specific H1 histone,Homo sapiens,Brak InterPro kodów dla tego białka.,doi:10.1016/j.cell.2021.04.011|imex:IM-29278|pubmed:33961781
+Q7Z2W9,Large ribosomal subunit protein bL21m,Homo sapiens,IPR028909|IPR036164|IPR001787,doi:10.1016/j.cell.2021.04.011|doi:10.1038/nature22366|imex:IM-25778|imex:IM-29278|pubmed:28514442|pubmed:33961781
+Q7Z7F7,Large ribosomal subunit protein mL55,Homo sapiens,IPR018615|IPR044884,doi:10.1016/j.cell.2021.04.011|imex:IM-29278|pubmed:33961781
+Q7Z7F7-2,Isoform 2 of Large ribosomal subunit protein mL55,Homo sapiens,Brak InterPro kodów dla tego białka.,doi:10.1038/nature22366|imex:IM-25778|pubmed:28514442
+Q7Z7H8,Large ribosomal subunit protein uL10m,Homo sapiens,IPR001790|IPR043141|IPR047865,doi:10.1016/j.cell.2021.04.011|doi:10.1038/nature22366|imex:IM-25778|imex:IM-29278|pubmed:28514442|pubmed:33961781
+Q86TS9,Large ribosomal subunit protein mL52,Homo sapiens,IPR034596,doi:10.1016/j.cell.2021.04.011|doi:10.1038/nature22366|imex:IM-25778|imex:IM-29278|pubmed:28514442|pubmed:33961781
+Q8IWL3,Iron-sulfur cluster co-chaperone protein HscB,Homo sapiens,IPR004640|IPR040682|IPR036386|IPR009073|IPR036869,imex:IM-25655|pubmed:28380382
+Q8IXM3,Large ribosomal subunit protein mL41,Homo sapiens,IPR019189,doi:10.1016/j.cell.2021.04.011|doi:10.1038/nature22366|imex:IM-25778|imex:IM-29278|pubmed:28514442|pubmed:33961781
+Q8N5N7,Large ribosomal subunit protein mL50,Homo sapiens,IPR018305,doi:10.1016/j.cell.2021.04.011|doi:10.1038/nature22366|imex:IM-24272|imex:IM-25778|imex:IM-29278|pubmed:26496610|pubmed:28514442|pubmed:33961781
+Q8N983,Large ribosomal subunit protein mL43,Homo sapiens,IPR039927|IPR007741|IPR036249,doi:10.1016/j.cell.2021.04.011|imex:IM-29278|pubmed:33961781
+Q8N983-4,Isoform 4 of Large ribosomal subunit protein mL43,Homo sapiens,Brak InterPro kodów dla tego białka.,doi:10.1038/nature22366|imex:IM-25778|pubmed:28514442
+Q8NB90,ATPase family gene 2 protein homolog A,Homo sapiens,IPR003593|IPR050168|IPR041569|IPR009010|IPR003959|IPR003960|IPR027417,imex:IM-30175|pubmed:38554706
+Q8NCN5,Pyruvate dehydrogenase phosphatase regulatory subunit, mitochondrial,Homo sapiens,IPR006076|IPR036188|IPR032503|IPR028896|IPR029043|IPR013977|IPR006222|IPR001763|IPR027266,doi:10.1016/j.cell.2021.04.011|imex:IM-29278|pubmed:33961781
+Q8TAE8,Large ribosomal subunit protein mL64,Homo sapiens,IPR018472|IPR043035,doi:10.1016/j.cell.2021.04.011|doi:10.1038/nature22366|imex:IM-25778|imex:IM-29278|pubmed:28514442|pubmed:33961781
+Q8TCC3,Large ribosomal subunit protein uL30m,Homo sapiens,IPR036919|IPR005996|IPR016082,doi:10.1016/j.cell.2021.04.011|imex:IM-29278|pubmed:33961781
+Q8TCC3-2,Isoform 2 of Large ribosomal subunit protein uL30m,Homo sapiens,Brak InterPro kodów dla tego białka.,doi:10.1038/nature22366|imex:IM-25778|pubmed:28514442
+Q8WTV1,THAP domain-containing protein 3,Homo sapiens,IPR026520|IPR006612,doi:10.1016/j.cell.2021.04.011|imex:IM-29278|pubmed:33961781
+Q8WUA2,Peptidyl-prolyl cis-trans isomerase-like 4,Homo sapiens,IPR035542|IPR029000|IPR002130|IPR035538|IPR012677|IPR035979|IPR000504,imex:IM-30059|pubmed:39251607
+Q95TJ9,Cyclin G,Drosophila melanogaster,IPR039361|IPR013763|IPR036915|IPR006671,imex:IM-16524|mint:MINT-5216804|pubmed:14605208
+Q969Q0,Ribosomal protein eL42-like,Homo sapiens,IPR000552|IPR053708|IPR011332,doi:10.1038/nature22366|imex:IM-25778|pubmed:28514442
+Q96A35,Large ribosomal subunit protein uL24m,Homo sapiens,IPR005824|IPR014722|IPR003256|IPR057264|IPR005825|IPR041988|IPR008991,doi:10.1016/j.cell.2021.04.011|doi:10.1038/nature22366|imex:IM-25778|imex:IM-29278|pubmed:28514442|pubmed:33961781
+Q96DV4,Large ribosomal subunit protein mL38,Homo sapiens,IPR008914|IPR036610|IPR035810,doi:10.1016/j.cell.2021.04.011|doi:10.1038/nature22366|imex:IM-25778|imex:IM-29278|pubmed:28514442|pubmed:33961781
+Q96E35,Zinc finger MYND domain-containing protein 19,Homo sapiens,IPR044925|IPR003615|IPR032978|IPR002893,doi:10.1016/j.cell.2021.04.011|doi:10.1038/nature22366|imex:IM-25778|imex:IM-29278|pubmed:28514442|pubmed:33961781
+Q96EH3,Mitochondrial assembly of ribosomal large subunit protein 1,Homo sapiens,IPR004394|IPR043519,doi:10.1016/j.cell.2021.04.011|doi:10.1038/nature22366|imex:IM-25778|imex:IM-29278|pubmed:28514442|pubmed:33961781
+Q96EL3,Large ribosomal subunit protein mL53,Homo sapiens,IPR052473|IPR019716,doi:10.1016/j.cell.2021.04.011|doi:10.1038/nature22366|imex:IM-25778|imex:IM-29278|pubmed:28514442|pubmed:33961781
+Q96FI4,Endonuclease 8-like 1,Homo sapiens,IPR015371|IPR012319|IPR035937|IPR015886|IPR010979,doi:10.1016/j.cell.2021.04.011|imex:IM-29278|pubmed:33961781
+Q96GC5,Large ribosomal subunit protein mL48,Homo sapiens,IPR027487|IPR027486|IPR036838,doi:10.1016/j.cell.2021.04.011|doi:10.1038/nature22366|imex:IM-25778|imex:IM-29278|pubmed:28514442|pubmed:33961781
+Q96PU8,KH domain-containing RNA-binding protein QKI,Homo sapiens,IPR045071|IPR055256|IPR004087|IPR036612|IPR032367|IPR032377,imex:IM-30059|pubmed:39251607
+Q99JP4,Anaphase-promoting complex subunit CDC26,Mus musculus,IPR018860,imex:IM-24272|pubmed:26496610
+Q9BQ48,Large ribosomal subunit protein bL34m,Homo sapiens,IPR000271,doi:10.1016/j.cell.2021.04.011|doi:10.1038/nature22366|imex:IM-25778|imex:IM-29278|pubmed:28514442|pubmed:33961781
+Q9BQC6,Large ribosomal subunit protein mL63,Homo sapiens,IPR016576,doi:10.1016/j.cell.2021.04.011|doi:10.1038/nature22366|imex:IM-25778|imex:IM-29278|pubmed:28514442|pubmed:33961781
+Q9BRJ2,Large ribosomal subunit protein mL45,Homo sapiens,IPR051975|IPR032710|IPR007379,doi:10.1038/nature22366|imex:IM-25778|pubmed:28514442
+Q9BRU9,rRNA-processing protein UTP23 homolog,Homo sapiens,IPR006984|IPR029060|IPR057776,doi:10.1016/j.cell.2021.04.011|imex:IM-29278|pubmed:33961781
+Q9BTZ2,Dehydrogenase/reductase SDR family member 4,Homo sapiens,IPR036291|IPR020904|IPR002347,doi:10.1016/j.cell.2021.04.011|doi:10.1038/nature22366|imex:IM-25778|imex:IM-29278|pubmed:28514442|pubmed:33961781
+Q9BVP2,Guanine nucleotide-binding protein-like 3,Homo sapiens,IPR030378|IPR014813|IPR006073|IPR027417|IPR050755,doi:10.1016/j.cell.2021.04.011|imex:IM-29278|pubmed:33961781
+Q9BVQ7,ATPase family gene 2 protein homolog B,Homo sapiens,IPR003593|IPR050168|IPR041569|IPR003959|IPR003960|IPR027417,imex:IM-30175|pubmed:38554706
+Q9BVS5,tRNA (adenine(58)-N(1))-methyltransferase, mitochondrial,Homo sapiens,IPR029063|IPR054151|IPR049470|IPR014816,imex:IM-26301|pubmed:29568061
+Q9BW92,Threonine--tRNA ligase, mitochondrial,Homo sapiens,IPR002314|IPR006195|IPR045864|IPR004154|IPR036621|IPR012675|IPR004095|IPR012676|IPR002320|IPR018163|IPR047246|IPR033728|IPR012947,doi:10.1016/j.cell.2021.04.011|imex:IM-29278|pubmed:33961781
+Q9BYC8,Large ribosomal subunit protein bL32m,Homo sapiens,IPR051991|IPR002677|IPR011332,doi:10.1016/j.cell.2021.04.011|doi:10.1038/nature22366|imex:IM-25778|imex:IM-29278|pubmed:28514442|pubmed:33961781
+Q9BYC9,Large ribosomal subunit protein bL20m,Homo sapiens,IPR005813|IPR035566,doi:10.1016/j.cell.2021.04.011|doi:10.1038/nature22366|imex:IM-25778|imex:IM-29278|pubmed:28514442|pubmed:33961781
+Q9BYD1,Large ribosomal subunit protein uL13m,Homo sapiens,IPR005822|IPR005823|IPR023563|IPR036899,doi:10.1016/j.cell.2021.04.011|doi:10.1038/nature22366|imex:IM-25778|imex:IM-29278|pubmed:28514442|pubmed:33961781
+Q9BYD2,Large ribosomal subunit protein bL9m,Homo sapiens,IPR056864|IPR000244|IPR009027|IPR020070|IPR036935|IPR054302,doi:10.1016/j.cell.2021.04.011|doi:10.1038/nature22366|imex:IM-24272|imex:IM-25778|imex:IM-29278|pubmed:26496610|pubmed:28514442|pubmed:33961781
+Q9BYD3,Large ribosomal subunit protein uL4m,Homo sapiens,IPR002136|IPR013005|IPR023574,doi:10.1016/j.cell.2021.04.011|imex:IM-29278|pubmed:33961781
+Q9BYD3-2,Isoform 2 of Large ribosomal subunit protein uL4m,Homo sapiens,Brak InterPro kodów dla tego białka.,doi:10.1038/nature22366|imex:IM-25778|pubmed:28514442
+Q9BYD6,Large ribosomal subunit protein uL1m,Homo sapiens,IPR023674|IPR028364|IPR016095|IPR005879,doi:10.1016/j.cell.2021.04.011|doi:10.1038/nature22366|imex:IM-24272|imex:IM-25778|imex:IM-29278|pubmed:26496610|pubmed:28514442|pubmed:33961781
+Q9H0U6,Large ribosomal subunit protein uL18m,Homo sapiens,IPR057268|IPR005484|IPR036967,doi:10.1016/j.cell.2021.04.011|doi:10.1038/nature22366|imex:IM-25778|imex:IM-29278|pubmed:28514442|pubmed:33961781
+Q9H2W6,Large ribosomal subunit protein mL46,Homo sapiens,IPR015797|IPR040008|IPR021757|IPR033650,doi:10.1016/j.cell.2021.04.011|doi:10.1038/nature22366|imex:IM-25778|imex:IM-29278|pubmed:28514442|pubmed:33961781
+Q9H9J2,Large ribosomal subunit protein mL44,Homo sapiens,IPR014720|IPR044444|IPR055189|IPR036389,doi:10.1016/j.cell.2021.04.011|doi:10.1038/nature22366|imex:IM-25778|imex:IM-29278|pubmed:28514442|pubmed:33961781
+Q9H9Z2,Protein lin-28 homolog A,Homo sapiens,IPR011129|IPR002059|IPR051373|IPR054081|IPR012340|IPR001878|IPR036875,doi:10.1016/j.cell.2021.04.011|imex:IM-29278|pubmed:33961781
+Q9HC36,rRNA methyltransferase 3, mitochondrial,Homo sapiens,IPR029028|IPR053888|IPR029064|IPR051259|IPR001537|IPR013123|IPR029026,doi:10.1016/j.cell.2021.04.011|doi:10.1038/nature22366|imex:IM-25778|imex:IM-29278|pubmed:28514442|pubmed:33961781
+Q9HD33,Large ribosomal subunit protein uL29m,Homo sapiens,IPR038340|IPR010729,doi:10.1016/j.cell.2021.04.011|imex:IM-29278|pubmed:33961781
+Q9HD33-2,Isoform 2 of Large ribosomal subunit protein uL29m,Homo sapiens,Brak InterPro kodów dla tego białka.,doi:10.1038/nature22366|imex:IM-25778|pubmed:28514442
+Q9NGT3,Mitotic spindle assembly checkpoint protein MAD2A,Caenorhabditis elegans,IPR003511|IPR036570|IPR045091,imex:IM-16523|mint:MINT-5216848|pubmed:14704431
+Q9NQ50,Large ribosomal subunit protein mL40,Homo sapiens,IPR019192|IPR039145,doi:10.1016/j.cell.2021.04.011|doi:10.1038/nature22366|imex:IM-25778|imex:IM-29278|pubmed:28514442|pubmed:33961781
+Q9NRX2,Large ribosomal subunit protein bL17m,Homo sapiens,IPR000456|IPR036373,doi:10.1016/j.cell.2021.04.011|doi:10.1038/nature22366|imex:IM-25778|imex:IM-29278|pubmed:28514442|pubmed:33961781
+Q9NUL7,Probable ATP-dependent RNA helicase DDX28,Homo sapiens,IPR011545|IPR050079|IPR014001|IPR001650|IPR027417|IPR014014,doi:10.1016/j.cell.2021.04.011|imex:IM-29278|pubmed:33961781
+Q9NVS2,Large ribosomal subunit protein mL66,Homo sapiens,IPR001648|IPR036870,doi:10.1016/j.cell.2021.04.011|doi:10.1038/nature22366|imex:IM-25778|imex:IM-29278|pubmed:28514442|pubmed:33961781
+Q9NWT8,Small ribosomal subunit protein bS22, mitochondrial,Homo sapiens,IPR013177,imex:IM-26301|pubmed:29568061
+Q9NWU5,Large ribosomal subunit protein uL22m,Homo sapiens,IPR001063|IPR047867|IPR036394,doi:10.1016/j.cell.2021.04.011|doi:10.1038/nature22366|imex:IM-25778|imex:IM-29278|pubmed:28514442|pubmed:33961781
+Q9NX20,Large ribosomal subunit protein uL16m,Homo sapiens,IPR047873|IPR000114|IPR016180|IPR036920,doi:10.1016/j.cell.2021.04.011|doi:10.1038/nature22366|imex:IM-25778|imex:IM-29278|pubmed:28514442|pubmed:33961781
+Q9NYK5,Large ribosomal subunit protein mL39,Homo sapiens,IPR012675|IPR050062|IPR004095|IPR012676|IPR018163,doi:10.1016/j.cell.2021.04.011|imex:IM-29278|pubmed:33961781
+Q9NYK5-2,Isoform 2 of Large ribosomal subunit protein mL39,Homo sapiens,Brak InterPro kodów dla tego białka.,doi:10.1038/nature22366|imex:IM-25778|pubmed:28514442
+Q9NZE8,Large ribosomal subunit protein bL35m,Homo sapiens,IPR021137|IPR037229|IPR019338,doi:10.1016/j.cell.2021.04.011|doi:10.1038/nature22366|imex:IM-25778|imex:IM-29278|pubmed:28514442|pubmed:33961781
+Q9P015,Large ribosomal subunit protein uL15m,Homo sapiens,IPR030878|IPR021131|IPR036227|IPR005749,doi:10.1016/j.cell.2021.04.011|doi:10.1038/nature22366|imex:IM-25778|imex:IM-29278|pubmed:28514442|pubmed:33961781
+Q9P0J1,[Pyruvate dehydrogenase [acetyl-transferring]]-phosphatase 1, mitochondrial,Homo sapiens,IPR015655|IPR000222|IPR036457|IPR001932,doi:10.1016/j.cell.2021.04.011|doi:10.1038/nature22366|imex:IM-25778|imex:IM-29278|pubmed:28514442|pubmed:33961781
+Q9P0M9,Large ribosomal subunit protein bL27m,Homo sapiens,IPR001684,doi:10.1016/j.cell.2021.04.011|doi:10.1038/nature22366|imex:IM-25778|imex:IM-29278|pubmed:28514442|pubmed:33961781
+Q9UIH9,Krueppel-like factor 15,Homo sapiens,IPR036236|IPR013087,imex:IM-28767|pubmed:35140242
+Q9UL12,Sarcosine dehydrogenase, mitochondrial,Homo sapiens,IPR006076|IPR036188|IPR032503|IPR028896|IPR029043|IPR013977|IPR006222|IPR027266,doi:10.1016/j.cell.2021.04.011|imex:IM-29278|pubmed:33961781
+Q9UNX3,Ribosomal protein uL24-like,Homo sapiens,IPR005824|IPR014722|IPR005825|IPR005756|IPR041988|IPR008991,doi:10.1038/nature22366|imex:IM-25778|pubmed:28514442
+Q9VJ30,non-specific serine/threonine protein kinase,Drosophila melanogaster,IPR011009|IPR000719,imex:IM-16527|pubmed:25294943
+Q9VM97,Brak nazwy,Drosophila melanogaster,IPR013320|IPR000742|IPR001881|IPR000152|IPR018097|IPR009030|IPR049883|IPR003367|IPR017897|IPR008859|IPR024665|IPR028974,imex:IM-16527|pubmed:25294943
+Q9VMT1,receptor protein serine/threonine kinase,Drosophila melanogaster,IPR000472|IPR003605|IPR011009|IPR000719|IPR017441|IPR008271|IPR045860|IPR000333,imex:IM-16527|pubmed:25294943
+Q9VMV9,Reticulon-like protein,Drosophila melanogaster,IPR003388|IPR046964,imex:IM-16527|imex:IM-17304|pubmed:21447707|pubmed:25294943
+Q9VYG2,Brahma-associated protein of 60 kDa,Drosophila melanogaster,IPR038041|IPR019835|IPR036885|IPR003121,imex:IM-16524|mint:MINT-5216804|pubmed:14605208
+Q9W0M6,DUF1308 domain-containing protein,Drosophila melanogaster,IPR010733|IPR041076,imex:IM-16524|mint:MINT-5216804|pubmed:14605208
+Q9W1V2,Tektin,Drosophila melanogaster,IPR048256|IPR000435,imex:IM-16524|mint:MINT-5216804|pubmed:14605208
+Q9Y091,Pre-mRNA-splicing regulator female-lethal(2)D,Drosophila melanogaster,IPR033757,imex:IM-16527|pubmed:25294943
+Q9Y2R5,Small ribosomal subunit protein uS17m,Homo sapiens,IPR012340|IPR000266|IPR039193,doi:10.1016/j.cell.2021.04.011|imex:IM-29278|pubmed:33961781
+Q9Y2T7,Y-box-binding protein 2,Homo sapiens,IPR050181|IPR011129|IPR019844|IPR002059|IPR012340,doi:10.1016/j.cell.2021.04.011|imex:IM-29278|pubmed:33961781
+Q9Y2Z4,Tyrosine--tRNA ligase, mitochondrial,Homo sapiens,IPR001412|IPR002305|IPR014729|IPR036986|IPR002307|IPR024088,doi:10.1016/j.cell.2021.04.011|imex:IM-29278|pubmed:33961781
+Q9Y3B7,Large ribosomal subunit protein uL11m,Homo sapiens,IPR000911|IPR006519|IPR020783|IPR036769|IPR020784|IPR036796,doi:10.1016/j.cell.2021.04.011|imex:IM-29278|pubmed:33961781
+Q9Y3B7-2,Isoform 2 of Large ribosomal subunit protein uL11m,Homo sapiens,Brak InterPro kodów dla tego białka.,doi:10.1038/nature22366|imex:IM-25778|pubmed:28514442
+Q9Y4X4,Krueppel-like factor 12,Homo sapiens,IPR036236|IPR013087,imex:IM-28767|pubmed:35140242
+Q9Y6E7,NAD-dependent protein lipoamidase sirtuin-4, mitochondrial,Homo sapiens,IPR029035|IPR050134|IPR003000|IPR026591|IPR026587|IPR026590,imex:IM-24062|pubmed:25525879
+Q9Y6G3,Large ribosomal subunit protein mL42,Homo sapiens,IPR019346,doi:10.1016/j.cell.2021.04.011|doi:10.1038/nature22366|imex:IM-25778|imex:IM-29278|pubmed:28514442|pubmed:33961781
+intact:EBI-124271
+intact:EBI-16769503
+intact:EBI-22235520
+intact:EBI-25396130
+intact:EBI-25396136
+intact:EBI-25396200
