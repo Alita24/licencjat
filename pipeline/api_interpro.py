@@ -2,8 +2,11 @@ import sys
 from pathlib import Path
 
 parent_dir = Path(__file__).resolve().parents[1]
+here = Path(__file__).resolve().parents[0]
 if str(parent_dir) not in sys.path:
     sys.path.append(str(parent_dir))
+
+
 
 import pandas as pd
 from interpro.api import get_reviewed_proteins_for_interpro, write_combined_csv
@@ -44,8 +47,7 @@ def gather_proteins_for_group(group_name: str, ipr_list: list[str], out_dir: Pat
         DataFrame
     """
     dfs: list[pd.DataFrame] = []
-        # to jest lista dataframeów, by pozniej je polaczyc
-
+    
     for ipr in ipr_list:
         ipr_path = out_dir / f"{ipr}.csv"
         if not ipr_path.exists():
@@ -83,8 +85,16 @@ def interpro_pipeline(
     out_dir = Path(out_dir)
     out_dir.mkdir(parents=True, exist_ok=True)
 
+    alphaknot_dir = here / Path("alphaknot_results")
     for group_name, ipr_list in GENE_TO_IPRS.items():
         print(f"\nProcessing group: {group_name} with IPRs: {ipr_list}")
+
+        alphaknot_file = alphaknot_dir / f"{group_name}.tsv"
+        print(alphaknot_file)
+        if alphaknot_file.exists():
+            print(f"Group {group_name} already present in alphaknot_results ({alphaknot_file}), skipping...")
+            continue
+
         df_group = gather_proteins_for_group(group_name, ipr_list, out_dir=out_dir)
         if not df_group.empty:
             output_file = out_dir / f"{group_name}.tsv"
@@ -108,7 +118,7 @@ def interpro_pipeline(
             ]
             available_columns = [col for col in core_columns if col in df_group.columns]
             df_group[available_columns].to_csv(output_file, sep="\t", index=False)
-                # tworzy df z kolumnami available_columns i zapisuje go do output_file
+            # tworzy df z kolumnami available_columns i zapisuje go do output_file
             print(f"Wrote {len(df_group)} records for {group_name} to {output_file}")
         else:
             print(f"No entries found for group {group_name}")

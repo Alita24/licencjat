@@ -10,7 +10,7 @@ def isolate_uniprot_ids(
     input_dir: Path,
     output_dir: Path,
     file_pattern: str = "*.tsv",
-    interpro: bool = False,
+    interpro: bool = False  
 ):
     """
     wyciaga unikalne identyfikatory UniProt z plików w input_dir i zapisuje je do output_dir
@@ -43,9 +43,9 @@ def isolate_uniprot_ids(
                         found_ids.add(cols[2])
 
         if interpro:
-            out_path = output_dir / f"{file.stem}_uniprot_ids_IN.txt"
+            out_path = output_dir / f"{file.stem}_uniprot_ids_UNKNOT.txt"
         else:
-            out_path = output_dir / f"{file.stem}_uniprot_ids_GE.txt"
+            out_path = output_dir / f"{file.stem}_uniprot_ids_KNOT.txt"
         with out_path.open("w", encoding="utf-8") as out_f:
             for uid in found_ids:
                 if uid.endswith("-F1"):
@@ -60,8 +60,8 @@ def combine_list(ids_dir):
     polacz oba listy z uniprot ids
     """
     ids_dir = Path(ids_dir)
-    in_files = {f.stem.replace("_uniprot_ids_IN", ""): f for f in ids_dir.glob("*_uniprot_ids_IN.txt")}
-    ge_files = {f.stem.replace("_uniprot_ids_GE", ""): f for f in ids_dir.glob("*_uniprot_ids_GE.txt")}
+    in_files = {f.stem.replace("_uniprot_ids_UNKNOT", ""): f for f in ids_dir.glob("*_uniprot_ids_UNKNOT.txt")}
+    ge_files = {f.stem.replace("_uniprot_ids_KNOT", ""): f for f in ids_dir.glob("*_uniprot_ids_KNOT.txt")}
 
     shared_keys = set(in_files).intersection(set(ge_files))
     for key in shared_keys:
@@ -80,34 +80,6 @@ def combine_list(ids_dir):
                 out_f.write(uid + "\n")
         print(f"Combined {key}: wrote {len(ids)} unique UniProt IDs to {combined_path}")
 
-def isolate_unknotted(ids_dir):
-    """
-    Zwróć listę białek z InterPro (IN), które NIE występują na liście z Alphaknot (GE).
-    Dla wspólnych baz (key) tworzy plik *_uniprot_ids_IN_NOT_IN_GE.txt.
-    """
-    ids_dir = Path(ids_dir)
-    in_files = {f.stem.replace("_uniprot_ids_IN", ""): f for f in ids_dir.glob("*_uniprot_ids_IN.txt")}
-    ge_files = {f.stem.replace("_uniprot_ids_GE", ""): f for f in ids_dir.glob("*_uniprot_ids_GE.txt")}
-
-    shared_keys = set(in_files).intersection(set(ge_files))
-    for key in shared_keys:
-        in_path = in_files[key]
-        ge_path = ge_files[key]
-        out_path = ids_dir / f"{key}_uniprot_ids_UNKNOTTED.txt"
-
-        # czytaj id z InterPro (IN)
-        with in_path.open("r", encoding="utf-8") as f:
-            in_ids = set(line.strip() for line in f if line.strip())
-        # czytaj id z GE (alphaknot)
-        with ge_path.open("r", encoding="utf-8") as f:
-            ge_ids = set(line.strip() for line in f if line.strip())
-
-        diff_ids = sorted(in_ids - ge_ids)  # te z InterPro, których nie ma w alphaknot
-
-        with out_path.open("w", encoding="utf-8") as out_f:
-            for uid in diff_ids:
-                out_f.write(uid + "\n")
-        print(f"Isolated {len(diff_ids)} UniProt IDs from InterPro not found in Alphaknot for '{key}' into {out_path}")
 
 if __name__ == "__main__":
     isolate_uniprot_ids(
