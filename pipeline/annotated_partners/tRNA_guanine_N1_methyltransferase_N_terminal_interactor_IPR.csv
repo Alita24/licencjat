@@ -1,0 +1,654 @@
+A0A0H2UQ73,Niacin transporter NiaX,Streptococcus pneumoniae serotype 4 (strain ATCC BAA-334 / TIGR4),Brak InterPro kodów dla tego białka.,imex:IM-18537|psi-mi:"MI:0946"|pubmed:23267104
+A0A1D6EZQ5,Brak nazwy,Brak organizmu,Brak InterPro kodów dla tego białka.,imex:IM-29553|pubmed:36581701
+A0A1D6FPL6,Brak nazwy,Brak organizmu,Brak InterPro kodów dla tego białka.,imex:IM-29553|pubmed:36581701
+A0A1D6GW91,Brak nazwy,Brak organizmu,Brak InterPro kodów dla tego białka.,imex:IM-29553|pubmed:36581701
+A0A1D6MLL0,Brak nazwy,Brak organizmu,Brak InterPro kodów dla tego białka.,imex:IM-29553|pubmed:36581701
+A0A1D6NI87,Kinesin-like protein,Zea mays,IPR027640|IPR019821|IPR001752|IPR036961|IPR027417,imex:IM-29553|pubmed:36581701
+A2VEN5,Brak nazwy,Drosophila melanogaster,IPR002557|IPR036508,imex:IM-28761|pubmed:37061542
+A5PKU2,Brak nazwy,Homo sapiens,IPR051423|IPR007593,imex:IM-25472|pubmed:32296183
+A6NDU8,RAB7A-interacting MON1-CCZ1 complex subunit 1,Homo sapiens,IPR037657,doi:10.1016/j.cell.2021.04.011|imex:IM-29278|pubmed:33961781
+A6NJ78,12S rRNA N(4)-cytidine methyltransferase METTL15,Homo sapiens,IPR002903|IPR023397|IPR029063,doi:10.1016/j.cell.2021.04.011|imex:IM-29278|pubmed:33961781
+A8K2U0,Alpha-2-macroglobulin-like protein 1,Homo sapiens,IPR009048|IPR036595|IPR050473|IPR011625|IPR041813|IPR047565|IPR011626|IPR013783|IPR014756|IPR001599|IPR019742|IPR002890|IPR041555|IPR040839|IPR008930,doi:10.1016/j.cell.2021.04.011|imex:IM-29278|pubmed:33961781
+B3KSW4,Brak nazwy,Homo sapiens,IPR016137|IPR036305|IPR024066|IPR044926,doi:10.1038/nature22366|imex:IM-25778|pubmed:28514442
+B4FRR5,Brak nazwy,Zea mays,IPR011992|IPR018247|IPR002048|IPR039647,imex:IM-29553|pubmed:36581701
+C6KT55,Brak nazwy,Plasmodium falciparum (isolate 3D7),IPR016641|IPR044034|IPR038187|IPR002715,imex:IM-16518|mint:MINT-5218050|pubmed:16267556
+F8VQC1,Signal recognition particle subunit SRP72,Mus musculus,IPR013699|IPR026270|IPR031545|IPR011990|IPR019734,imex:IM-24272|pubmed:26496610
+K7V3H5,Brak nazwy,Zea mays,IPR028386,imex:IM-29553|pubmed:36581701
+K9N4V7,Nucleoprotein,Middle East respiratory syndrome-related coronavirus (isolate United Kingdom/H123990006/2012),IPR044344|IPR044345|IPR043505|IPR001218|IPR037179|IPR037195,imex:IM-29365|pubmed:34232536
+M9PEN8,Brak nazwy,Drosophila melanogaster,IPR029020|IPR024041|IPR002229,imex:IM-28761|pubmed:37061542
+O00159,Unconventional myosin-Ic,Homo sapiens,IPR000048|IPR036961|IPR001609|IPR010926|IPR036072|IPR027417,imex:IM-24272|pubmed:26496610
+O00442,RNA 3'-terminal phosphate cyclase,Homo sapiens,IPR013791|IPR023797|IPR037136|IPR000228|IPR017770|IPR020719|IPR013792|IPR036553,pubmed:17353931
+O00567,Nucleolar protein 56,Homo sapiens,IPR045056|IPR012974|IPR042239|IPR002687|IPR036070|IPR012976,imex:IM-24272|pubmed:26496610
+O14880,Glutathione S-transferase 3, mitochondrial,Homo sapiens,IPR050997|IPR023352|IPR001129,imex:IM-25472|imex:IM-26301|pubmed:29568061|pubmed:32296183
+O15078,Centrosomal protein of 290 kDa,Homo sapiens,IPR032321|IPR026201,imex:IM-24512|pubmed:26638075
+O15091,Mitochondrial ribonuclease P catalytic subunit,Homo sapiens,IPR033495|IPR031595|IPR011990,doi:10.1016/j.cell.2021.04.011|imex:IM-29278|pubmed:33961781
+O15091-2,Isoform 2 of Mitochondrial ribonuclease P catalytic subunit,Homo sapiens,Brak InterPro kodów dla tego białka.,doi:10.1038/nature22366|imex:IM-25778|pubmed:28514442
+O15209,Zinc finger and BTB domain-containing protein 22,Homo sapiens,IPR000210|IPR011333|IPR036236|IPR013087|IPR050457,imex:IM-24995|pubmed:27107014
+O15218,Atypical chemokine receptor 5,Homo sapiens,IPR001350|IPR000276|IPR017452|IPR047143,doi:10.1016/j.cell.2021.04.011|imex:IM-29278|pubmed:33961781
+O15400,Syntaxin-7,Homo sapiens,IPR010989|IPR045242|IPR006012|IPR006011|IPR000727,imex:IM-25472|pubmed:32296183
+O15479,Melanoma-associated antigen B2,Homo sapiens,IPR037445|IPR021072|IPR041898|IPR041899|IPR002190,doi:10.1016/j.cell.2021.04.011|imex:IM-29278|pubmed:33961781
+O15496,Group 10 secretory phospholipase A2,Homo sapiens,IPR001211|IPR016090|IPR033112|IPR033113|IPR036444,doi:10.1016/j.cell.2021.04.011|doi:10.1038/nature22366|imex:IM-25778|imex:IM-29278|pubmed:28514442|pubmed:33961781
+O25338,Endonuclease MutS2,Helicobacter pylori (strain ATCC 700392 / 26695),IPR000432|IPR007696|IPR036187|IPR045076|IPR005747|IPR027417|IPR002625|IPR036063,imex:IM-22256|pubmed:24627523
+O25939,Brak nazwy,Helicobacter pylori (strain ATCC 700392 / 26695),Brak InterPro kodów dla tego białka.,imex:IM-22256|pubmed:24627523
+O25979,Brak nazwy,Helicobacter pylori (strain ATCC 700392 / 26695),Brak InterPro kodów dla tego białka.,imex:IM-22256|pubmed:24627523
+O31863,Uncharacterized protein YozD,Bacillus subtilis (strain 168),IPR025545,imex:IM-16574|pubmed:21630458
+O43149,Zinc finger ZZ-type and EF-hand domain-containing protein 1,Homo sapiens,IPR004939|IPR011992|IPR002048|IPR008979|IPR000433|IPR043145|IPR040099|IPR047052|IPR041986,doi:10.1016/j.cell.2021.04.011|doi:10.1038/nature22366|imex:IM-25778|imex:IM-29278|pubmed:28514442|pubmed:33961781
+O43166,Signal-induced proliferation-associated 1-like protein 1,Homo sapiens,IPR001478|IPR036034|IPR035974|IPR000331|IPR050989|IPR021818,doi:10.1016/j.cell.2021.04.011|imex:IM-29278|pubmed:33961781
+O43169,Cytochrome b5 type B,Homo sapiens,IPR001199|IPR036400|IPR018506|IPR050668,doi:10.1016/j.cell.2021.04.011|imex:IM-29278|pubmed:33961781
+O60506,Heterogeneous nuclear ribonucleoprotein Q,Homo sapiens,IPR041337|IPR006535|IPR034544|IPR034548|IPR012677|IPR035979|IPR000504,imex:IM-24272|pubmed:26496610
+O60573,Eukaryotic translation initiation factor 4E type 2,Homo sapiens,IPR023398|IPR001040|IPR019770,doi:10.1016/j.cell.2021.04.011|imex:IM-29278|pubmed:33961781
+O60911,Cathepsin L2,Homo sapiens,IPR038765|IPR025661|IPR000169|IPR025660|IPR013128|IPR000668|IPR039417|IPR013201,doi:10.1016/j.cell.2021.04.011|imex:IM-29278|pubmed:33961781
+O60939,Sodium channel regulatory subunit beta-2,Homo sapiens,IPR007110|IPR036179|IPR013783|IPR003599|IPR013106|IPR000920,doi:10.1038/nature22366|imex:IM-25778|pubmed:28514442
+O69289,Chaperonin GroEL,Campylobacter jejuni subsp. jejuni serotype O:2 (strain ATCC 700819 / NCTC 11168),IPR018370|IPR001844|IPR002423|IPR027409|IPR027413|IPR027410,pubmed:17615063
+O69297,Protein GrpE,Campylobacter jejuni subsp. jejuni serotype O:2 (strain ATCC 700819 / NCTC 11168),IPR000740|IPR013805|IPR009012,pubmed:17615063
+O75380,NADH dehydrogenase [ubiquinone] iron-sulfur protein 6, mitochondrial,Homo sapiens,IPR016668|IPR019401,doi:10.1016/j.cell.2021.04.011|doi:10.1038/nature22366|imex:IM-25778|imex:IM-29278|pubmed:28514442|pubmed:33961781
+O75409,Huntingtin-interacting protein M,Homo sapiens,IPR009072,doi:10.1016/j.cell.2021.04.011|imex:IM-29278|pubmed:33961781
+O75439,Mitochondrial-processing peptidase subunit beta,Homo sapiens,IPR011249|IPR050361|IPR011765|IPR001431|IPR007863,doi:10.1016/j.cell.2021.04.011|doi:10.1038/nature22366|imex:IM-25778|imex:IM-29278|pubmed:28514442|pubmed:33961781
+O75496,Geminin,Homo sapiens,IPR022786,doi:10.1016/j.cell.2021.04.011|doi:10.1038/nature22366|imex:IM-25778|imex:IM-29278|pubmed:28514442|pubmed:33961781
+O75533,Splicing factor 3B subunit 1,Homo sapiens,IPR011989|IPR016024|IPR054573|IPR015016|IPR038737,imex:IM-30298|pubmed:31474574
+O75569,Interferon-inducible double-stranded RNA-dependent protein kinase activator A,Homo sapiens,IPR014720|IPR044465|IPR044466|IPR044467|IPR051247,doi:10.1016/j.cell.2021.04.011|imex:IM-29278|pubmed:33961781
+O75596,C-type lectin domain family 3 member A,Homo sapiens,IPR001304|IPR016186|IPR018378|IPR051663|IPR016187,doi:10.1038/nature22366|imex:IM-25778|pubmed:28514442
+O75629,Protein CREG1,Homo sapiens,IPR014631|IPR055343|IPR012349,doi:10.1016/j.cell.2021.04.011|imex:IM-29278|pubmed:33961781
+O75940,Survival of motor neuron-related-splicing factor 30,Homo sapiens,IPR010304|IPR002999,pubmed:17353931
+O83133,TPR repeat-containing protein TP_0095,Treponema pallidum (strain DSM 117211 / Nichols),IPR011990|IPR019734,doi:10.1371/journal.pone.0002292|imex:IM-9152|pubmed:18509523
+O83312,Brak nazwy,Treponema pallidum (strain DSM 117211 / Nichols),IPR003329|IPR029044,doi:10.1371/journal.pone.0002292|imex:IM-9152|pubmed:18509523
+O83403,Brak nazwy,Treponema pallidum (strain DSM 117211 / Nichols),IPR026579|IPR034746|IPR013685,doi:10.1371/journal.pone.0002292|imex:IM-9152|pubmed:18509523
+O83532,Brak nazwy,Treponema pallidum (strain DSM 117211 / Nichols),IPR003593|IPR058031|IPR011006|IPR009057|IPR002197|IPR027417|IPR001789|IPR002078|IPR025662|IPR025943|IPR025944,doi:10.1371/journal.pone.0002292|imex:IM-9152|pubmed:18509523
+O83570,Probable tRNA sulfurtransferase,Treponema pallidum (strain DSM 117211 / Nichols),IPR014729|IPR020536|IPR054173|IPR049961|IPR004114|IPR049962|IPR003720|IPR050102,doi:10.1371/journal.pone.0002292|imex:IM-9152|pubmed:18509523
+O83667,Uncharacterized protein TP_0661,Treponema pallidum (strain DSM 117211 / Nichols),Brak InterPro kodów dla tego białka.,doi:10.1371/journal.pone.0002292|imex:IM-9152|pubmed:18509523
+O83745,HD-GYP domain-containing protein,Treponema pallidum (strain DSM 117211 / Nichols),IPR003607|IPR037522,doi:10.1371/journal.pone.0002292|imex:IM-9152|pubmed:18509523
+O83767,Uncharacterized protein TP_0788,Treponema pallidum (strain DSM 117211 / Nichols),Brak InterPro kodów dla tego białka.,doi:10.1371/journal.pone.0002292|imex:IM-9152|pubmed:18509523
+O83927,Brak nazwy,Treponema pallidum (strain DSM 117211 / Nichols),IPR001444|IPR020013|IPR010930|IPR037925|IPR012836|IPR053967,doi:10.1371/journal.pone.0002292|imex:IM-9152|pubmed:18509523
+O83954,Brak nazwy,Treponema pallidum (strain DSM 117211 / Nichols),IPR032640|IPR013783|IPR014756,doi:10.1371/journal.pone.0002292|imex:IM-9152|pubmed:18509523
+O83970,DNA polymerase III subunit gamma/tau,Treponema pallidum (strain DSM 117211 / Nichols),IPR003593|IPR001270|IPR008921|IPR022754|IPR012763|IPR050238|IPR045085|IPR027417,doi:10.1371/journal.pone.0002292|imex:IM-9152|pubmed:18509523
+O85213,Chaperone protein DnaJ,Campylobacter jejuni subsp. jejuni serotype O:2 (strain ATCC 700819 / NCTC 11168),IPR012724|IPR002939|IPR001623|IPR018253|IPR008971|IPR001305|IPR036410|IPR036869,pubmed:17615063
+O94817,Ubiquitin-like protein ATG12,Homo sapiens,IPR007242|IPR029071,pubmed:17353931
+O94925-3,Isoform 3 of Glutaminase kidney isoform, mitochondrial,Homo sapiens,Brak InterPro kodów dla tego białka.,doi:10.1038/nature22366|imex:IM-25778|pubmed:28514442
+O94929,Actin-binding LIM protein 3,Homo sapiens,IPR032402|IPR051618|IPR003128|IPR036886|IPR001781,doi:10.1016/j.cell.2021.04.011|imex:IM-29278|pubmed:33961781
+O95159,Zinc finger protein-like 1,Homo sapiens,IPR058730|IPR039043|IPR058731|IPR013083,imex:IM-25472|pubmed:32296183
+O95196,Chondroitin sulfate proteoglycan 5,Homo sapiens,IPR010555|IPR009505,doi:10.1016/j.cell.2021.04.011|imex:IM-29278|pubmed:33961781
+O95218,Zinc finger Ran-binding domain-containing protein 2,Homo sapiens,IPR001876|IPR036443|IPR017337,imex:IM-30059|pubmed:39251607
+O95260,Arginyl-tRNA--protein transferase 1,Homo sapiens,IPR016181|IPR017137|IPR030700|IPR007472|IPR007471,doi:10.1016/j.cell.2021.04.011|doi:10.1038/nature22366|imex:IM-25778|imex:IM-29278|pubmed:28514442|pubmed:33961781
+O95274,Ly6/PLAUR domain-containing protein 3,Homo sapiens,IPR016054|IPR045860,doi:10.1016/j.cell.2021.04.011|doi:10.1038/nature22366|imex:IM-25778|imex:IM-29278|pubmed:28514442|pubmed:33961781
+O95406,Protein cornichon homolog 1,Homo sapiens,IPR003377|IPR033466,imex:IM-25472|pubmed:32296183
+O95487-2,Isoform 2 of Protein transport protein Sec24B,Homo sapiens,Brak InterPro kodów dla tego białka.,doi:10.1038/nature22366|imex:IM-25778|pubmed:28514442
+P00954,Tryptophan--tRNA ligase,Escherichia coli (strain K12),IPR001412|IPR002305|IPR014729|IPR002306|IPR024109|IPR050203,pubmed:16606699
+P01011,Alpha-1-antichymotrypsin,Homo sapiens,IPR023795|IPR023796|IPR000215|IPR036186|IPR042178|IPR042185,doi:10.1016/j.cell.2021.04.011|imex:IM-29278|pubmed:33961781
+P01100,Protein c-Fos,Homo sapiens,IPR000837|IPR004827|IPR046347,imex:IM-30532|pubmed:38884001
+P01111,GTPase NRas,Homo sapiens,IPR027417|IPR005225|IPR001806|IPR020849,imex:IM-30494|pubmed:35839996
+P01112,GTPase HRas,Homo sapiens,IPR027417|IPR005225|IPR001806|IPR020849,imex:IM-30494|pubmed:35839996
+P01116-1,Isoform 2A of GTPase KRas,Homo sapiens,Brak InterPro kodów dla tego białka.,imex:IM-30494|pubmed:35839996
+P01116-2,Isoform 2B of GTPase KRas,Homo sapiens,Brak InterPro kodów dla tego białka.,imex:IM-30494|pubmed:35839996
+P01375,Tumor necrosis factor,Homo sapiens,IPR006053|IPR002959|IPR021184|IPR006052|IPR008983,imex:IM-25472|pubmed:32296183
+P02293,Histone H2B.1,Saccharomyces cerevisiae (strain ATCC 204508 / S288c),IPR007125|IPR009072|IPR000558|IPR055333,imex:IM-14085|pubmed:21179020
+P02309,Histone H4,Saccharomyces cerevisiae (strain ATCC 204508 / S288c),IPR035425|IPR009072|IPR001951|IPR019809,imex:IM-14085|pubmed:21179020
+P02358,Small ribosomal subunit protein bS6,Escherichia coli (strain K12),IPR000529|IPR020815|IPR035980|IPR020814|IPR014717,doi:10.1038/nature03239|imex:IM-21967|mint:MINT-5217509|pubmed:15690043
+P02359,Small ribosomal subunit protein uS7,Escherichia coli (strain K12),IPR000235|IPR005717|IPR020606|IPR023798|IPR036823,doi:10.1038/nature03239|imex:IM-21967|mint:MINT-5217509|pubmed:15690043|pubmed:16606699
+P02724,Glycophorin-A,Homo sapiens,IPR001195|IPR018938|IPR049535,doi:10.1016/j.cell.2021.04.011|imex:IM-29278|pubmed:33961781
+P02751,Fibronectin,Homo sapiens,IPR050991|IPR000083|IPR003961|IPR036116|IPR000562|IPR036943|IPR013783|IPR013806,imex:IM-14135|pubmed:19738201
+P02808,Statherin,Homo sapiens,IPR030773|IPR005575,imex:IM-25472|pubmed:32296183
+P03007,DNA polymerase III subunit epsilon,Escherichia coli (strain K12),IPR006054|IPR006309|IPR013520|IPR012337|IPR036397,doi:10.1038/nature03239|imex:IM-21967|mint:MINT-5217509|pubmed:15690043
+P03372,Estrogen receptor,Homo sapiens,IPR024178|IPR001292|IPR046944|IPR035500|IPR000536|IPR050200|IPR001723|IPR024736|IPR001628|IPR013088,imex:IM-26954|pubmed:31527615
+P04798,Cytochrome P450 1A1,Homo sapiens,IPR001128|IPR017972|IPR002401|IPR008066|IPR036396,doi:10.1038/nature22366|imex:IM-25778|pubmed:28514442
+P04846,Lipoprotein 28,Escherichia coli (strain K12),IPR004872,imex:IM-22059|pubmed:24561554
+P05020,Dihydroorotase,Escherichia coli (strain K12),IPR006680|IPR004721|IPR002195|IPR032466,imex:IM-22059|pubmed:24561554
+P05090,Apolipoprotein D,Homo sapiens,IPR026222|IPR002969|IPR012674|IPR022271|IPR022272|IPR000566,doi:10.1016/j.cell.2021.04.011|imex:IM-29278|pubmed:33961781
+P05388,Large ribosomal subunit protein uL10,Homo sapiens,IPR050323|IPR001790|IPR040637|IPR043164|IPR043141|IPR030670,doi:10.1038/nature22366|imex:IM-25778|pubmed:28514442
+P06710,DNA polymerase III subunit tau,Escherichia coli (strain K12),IPR003593|IPR001270|IPR008921|IPR022001|IPR022754|IPR012763|IPR021029|IPR050238|IPR045085|IPR027417|IPR038249,doi:10.1038/nature03239|imex:IM-21967|mint:MINT-5217509|pubmed:15690043
+P06748,Nucleophosmin,Homo sapiens,IPR032569|IPR004301|IPR024057|IPR036824,imex:IM-24272|imex:IM-30059|pubmed:26496610|pubmed:39251607
+P07149,Fatty acid synthase subunit beta,Saccharomyces cerevisiae (strain ATCC 204508 / S288c),IPR001227|IPR014043|IPR016035|IPR013785|IPR039569|IPR016452|IPR013565|IPR041099|IPR040883|IPR003965|IPR050830|IPR029069|IPR002539|IPR032088,pubmed:16429126
+P07203,Glutathione peroxidase 1,Homo sapiens,IPR000889|IPR029759|IPR029760|IPR036249,doi:10.1016/j.cell.2021.04.011|imex:IM-29278|pubmed:33961781
+P07910,Heterogeneous nuclear ribonucleoproteins C1/C2,Homo sapiens,IPR017347|IPR012677|IPR035979|IPR000504|IPR051186,imex:IM-30059|pubmed:39251607
+P08247,Synaptophysin,Homo sapiens,IPR008253|IPR001285,imex:IM-25472|pubmed:32296183
+P08621,U1 small nuclear ribonucleoprotein 70 kDa,Homo sapiens,IPR012677|IPR035979|IPR000504|IPR034143|IPR051183|IPR022023,doi:10.1038/nature22366|imex:IM-25778|pubmed:28514442
+P09450,Transcription factor JunB,Mus musculus,IPR050946|IPR004827|IPR046347|IPR005643|IPR002112|IPR008917,imex:IM-24272|pubmed:26496610
+P09668,Pro-cathepsin H,Homo sapiens,IPR038765|IPR025661|IPR000169|IPR025660|IPR013128|IPR000668|IPR039417|IPR013201,doi:10.1016/j.cell.2021.04.011|imex:IM-29278|pubmed:33961781
+P0A6F5,Chaperonin GroEL,Escherichia coli (strain K12),IPR018370|IPR001844|IPR002423|IPR027409|IPR027413|IPR027410,pubmed:16606699
+P0A6G7,ATP-dependent Clp protease proteolytic subunit,Escherichia coli (strain K12),IPR001907|IPR029045|IPR023562|IPR033135|IPR018215,doi:10.1038/nature03239|imex:IM-21967|mint:MINT-5217509|pubmed:15690043
+P0A6K3,Peptide deformylase,Escherichia coli (strain K12),IPR023635|IPR036821,imex:IM-22059|pubmed:24561554
+P0A6W5,Transcription elongation factor GreA,Escherichia coli (strain K12),IPR036953|IPR018151|IPR006359|IPR028624|IPR001437|IPR023459|IPR022691|IPR036805,doi:10.1038/nature03239|imex:IM-21967|mint:MINT-5217509|pubmed:15690043
+P0A6X3,RNA-binding protein Hfq,Escherichia coli (strain K12),IPR005001|IPR010920|IPR047575,doi:10.1038/nature03239|imex:IM-21967|mint:MINT-5217509|pubmed:15690043
+P0A6X7,Integration host factor subunit alpha,Escherichia coli (strain K12),IPR000119|IPR020816|IPR010992|IPR005684,pubmed:16606699
+P0A707,Translation initiation factor IF-3,Escherichia coli (strain K12),IPR036788|IPR036787|IPR019813|IPR001288|IPR019815|IPR019814,doi:10.1038/nature03239|imex:IM-21967|mint:MINT-5217509|pubmed:15690043
+P0A715,2-dehydro-3-deoxyphosphooctonate aldolase,Escherichia coli (strain K12),IPR013785|IPR006218|IPR006269,doi:10.1038/nature03239|imex:IM-21967|mint:MINT-5217509|pubmed:15690043
+P0A717,Ribose-phosphate pyrophosphokinase,Escherichia coli (strain K12),IPR000842|IPR029099|IPR029057|IPR000836|IPR005946|IPR037515,doi:10.1038/nature03239|imex:IM-21967|mint:MINT-5217509|pubmed:15690043
+P0A776,RNA pyrophosphohydrolase,Escherichia coli (strain K12),IPR020476|IPR015797|IPR020084|IPR000086|IPR022927,doi:10.1038/nature03239|imex:IM-21967|mint:MINT-5217509|pubmed:15690043
+P0A7E9,Uridylate kinase,Escherichia coli (strain K12),IPR036393|IPR001048|IPR011817|IPR015963,doi:10.1038/nature03239|imex:IM-21967|mint:MINT-5217509|pubmed:15690043
+P0A7K6,Large ribosomal subunit protein bL19,Escherichia coli (strain K12),IPR001857|IPR018257|IPR038657|IPR008991,doi:10.1038/nature03239|imex:IM-21967|mint:MINT-5217509|pubmed:15690043
+P0A7L0,Large ribosomal subunit protein uL1,Escherichia coli (strain K12),IPR005878|IPR002143|IPR023674|IPR028364|IPR016095|IPR023673,doi:10.1038/nature03239|imex:IM-21967|mint:MINT-5217509|pubmed:15690043|pubmed:16606699
+P0A7L3,Large ribosomal subunit protein bL20,Escherichia coli (strain K12),IPR005813|IPR049946|IPR035566,doi:10.1038/nature03239|imex:IM-21967|mint:MINT-5217509|pubmed:15690043
+P0A7M2,Large ribosomal subunit protein bL28,Escherichia coli (strain K12),IPR026569|IPR034704|IPR001383|IPR037147,doi:10.1038/nature03239|imex:IM-21967|mint:MINT-5217509|pubmed:15690043
+P0A7N9,Large ribosomal subunit protein bL33,Escherichia coli (strain K12),IPR001705|IPR018264|IPR038584|IPR011332,doi:10.1038/nature03239|imex:IM-21967|mint:MINT-5217509|pubmed:15690043
+P0A7R1,Large ribosomal subunit protein bL9,Escherichia coli (strain K12),IPR000244|IPR009027|IPR020594|IPR020069|IPR036791|IPR020070|IPR036935,doi:10.1038/nature03239|imex:IM-21967|mint:MINT-5217509|pubmed:15690043
+P0A7R5,Small ribosomal subunit protein uS10,Escherichia coli (strain K12),IPR001848|IPR018268|IPR027486|IPR036838,doi:10.1038/nature03239|imex:IM-21967|mint:MINT-5217509|pubmed:15690043
+P0A7R9,Small ribosomal subunit protein uS11,Escherichia coli (strain K12),IPR001971|IPR019981|IPR018102|IPR036967,doi:10.1038/nature03239|imex:IM-21967|mint:MINT-5217509|pubmed:15690043
+P0A7S3,Small ribosomal subunit protein uS12,Escherichia coli (strain K12),IPR012340|IPR006032|IPR005679,doi:10.1038/nature03239|imex:IM-21967|mint:MINT-5217509|pubmed:15690043
+P0A7S9,Small ribosomal subunit protein uS13,Escherichia coli (strain K12),IPR027437|IPR001892|IPR010979|IPR019980|IPR018269,doi:10.1038/nature03239|imex:IM-21967|mint:MINT-5217509|pubmed:15690043
+P0A7T3,Small ribosomal subunit protein bS16,Escherichia coli (strain K12),IPR000307|IPR020592|IPR023803,doi:10.1038/nature03239|imex:IM-21967|mint:MINT-5217509|pubmed:15690043
+P0A7T7,Small ribosomal subunit protein bS18,Escherichia coli (strain K12),IPR001648|IPR018275|IPR036870,doi:10.1038/nature03239|imex:IM-21967|mint:MINT-5217509|pubmed:15690043
+P0A7U3,Small ribosomal subunit protein uS19,Escherichia coli (strain K12),IPR002222|IPR005732|IPR020934|IPR023575,doi:10.1038/nature03239|imex:IM-21967|mint:MINT-5217509|pubmed:15690043
+P0A7U7,Small ribosomal subunit protein bS20,Escherichia coli (strain K12),IPR002583|IPR036510,doi:10.1038/nature03239|imex:IM-21967|mint:MINT-5217509|pubmed:15690043
+P0A7V0,Small ribosomal subunit protein uS2,Escherichia coli (strain K12),IPR001865|IPR005706|IPR018130|IPR023591,doi:10.1038/nature03239|imex:IM-21967|mint:MINT-5217509|pubmed:15690043
+P0A7V3,Small ribosomal subunit protein uS3,Escherichia coli (strain K12),IPR004087|IPR015946|IPR004044|IPR009019|IPR036419|IPR057258|IPR005704|IPR001351|IPR018280,doi:10.1038/nature03239|imex:IM-21967|mint:MINT-5217509|pubmed:15690043
+P0A7V8,Small ribosomal subunit protein uS4,Escherichia coli (strain K12),IPR022801|IPR005709|IPR018079|IPR001912|IPR002942|IPR036986,doi:10.1038/nature03239|imex:IM-21967|mint:MINT-5217509|pubmed:15690043|pubmed:16606699
+P0A7W1,Small ribosomal subunit protein uS5,Escherichia coli (strain K12),IPR020568|IPR000851|IPR005712|IPR005324|IPR013810|IPR018192|IPR014721,doi:10.1038/nature03239|imex:IM-21967|mint:MINT-5217509|pubmed:15690043
+P0A7W7,Small ribosomal subunit protein uS8,Escherichia coli (strain K12),IPR000630|IPR047863|IPR035987,doi:10.1038/nature03239|imex:IM-21967|mint:MINT-5217509|pubmed:15690043|pubmed:16606699
+P0A7X3,Small ribosomal subunit protein uS9,Escherichia coli (strain K12),IPR020568|IPR000754|IPR023035|IPR020574|IPR014721,pubmed:16606699
+P0A7Y8,Ribonuclease P protein component,Escherichia coli (strain K12),IPR020568|IPR014721|IPR000100|IPR020539,doi:10.1038/nature03239|imex:IM-21967|mint:MINT-5217509|pubmed:15690043
+P0A832,SsrA-binding protein,Escherichia coli (strain K12),IPR023620|IPR000037|IPR020081,doi:10.1038/nature03239|imex:IM-21967|mint:MINT-5217509|pubmed:15690043|pubmed:16606699
+P0A847,Queuine tRNA-ribosyltransferase,Escherichia coli (strain K12),IPR050076|IPR004803|IPR036511|IPR002616,doi:10.1038/nature03239|imex:IM-21967|mint:MINT-5217509|pubmed:15690043
+P0A850,Trigger factor,Escherichia coli (strain K12),IPR046357|IPR001179|IPR005215|IPR008880|IPR037041|IPR008881|IPR036611|IPR027304,imex:IM-12086|pubmed:19737520
+P0A8G0,UvrABC system protein C,Escherichia coli (strain K12),IPR000305|IPR035901|IPR047296|IPR060101|IPR003583|IPR010994|IPR001943|IPR036876|IPR050066|IPR004791|IPR001162|IPR038476,doi:10.1038/nature03239|imex:IM-21967|mint:MINT-5217509|pubmed:15690043
+P0A8I5,tRNA (guanine-N(7)-)-methyltransferase,Escherichia coli (strain K12),IPR029063|IPR003358|IPR055361,doi:10.1038/nature03239|imex:IM-21967|mint:MINT-5217509|pubmed:15690043
+P0A8W5,UPF0301 protein YqgE,Escherichia coli (strain K12),IPR003774,pubmed:16606699
+P0A968,Cold shock-like protein CspD,Escherichia coli (strain K12),IPR012156|IPR050181|IPR011129|IPR019844|IPR002059|IPR012751|IPR012340,doi:10.1038/nature03239|imex:IM-21967|mint:MINT-5217509|pubmed:15690043
+P0A986,Cold shock-like protein CspI,Escherichia coli (strain K12),IPR012156|IPR050181|IPR011129|IPR019844|IPR002059|IPR012340,pubmed:16606699
+P0A9K3,PhoH-like protein,Escherichia coli (strain K12),IPR027417|IPR003714|IPR051451,doi:10.1038/nature03239|imex:IM-21967|mint:MINT-5217509|pubmed:15690043
+P0A9K9,FKBP-type peptidyl-prolyl cis-trans isomerase SlyD,Escherichia coli (strain K12),IPR046357|IPR001179|IPR048261,pubmed:16606699
+P0A9P6,ATP-dependent RNA helicase DeaD,Escherichia coli (strain K12),IPR021046|IPR034415|IPR005580|IPR011545|IPR044742|IPR050547|IPR057325|IPR028618|IPR014001|IPR001650|IPR012677|IPR027417|IPR000629|IPR014014,doi:10.1038/nature03239|imex:IM-21967|mint:MINT-5217509|pubmed:15690043
+P0A9Y6,Cold shock-like protein CspC,Escherichia coli (strain K12),IPR012156|IPR050181|IPR011129|IPR019844|IPR002059|IPR012340,doi:10.1038/nature03239|imex:IM-21967|mint:MINT-5217509|pubmed:15690043
+P0AA10,Large ribosomal subunit protein uL13,Escherichia coli (strain K12),IPR005822|IPR005823|IPR023563|IPR036899,doi:10.1038/nature03239|imex:IM-21967|mint:MINT-5217509|pubmed:15690043
+P0AA39,Ribosomal large subunit pseudouridine synthase C,Escherichia coli (strain K12),IPR020103|IPR006224|IPR006225|IPR006145|IPR050188|IPR002942|IPR036986,doi:10.1038/nature03239|imex:IM-21967|mint:MINT-5217509|pubmed:15690043
+P0AAS7,Putative RNA-binding protein YbcJ,Escherichia coli (strain K12),IPR036986,doi:10.1038/nature03239|imex:IM-21967|mint:MINT-5217509|pubmed:15690043
+P0AAY6,Uncharacterized protein YbjN,Escherichia coli (strain K12),IPR019660,imex:IM-22059|pubmed:24561554
+P0ABH0,Cell division protein FtsA,Escherichia coli (strain K12),IPR043129|IPR020823|IPR050696|IPR003494,doi:10.1038/nature03239|imex:IM-21967|mint:MINT-5217509|pubmed:15690043
+P0ABS5,DNA primase,Escherichia coli (strain K12),IPR016136|IPR037068|IPR019475|IPR006295|IPR013173|IPR036977|IPR030846|IPR013264|IPR050219|IPR034151|IPR006171|IPR002694,doi:10.1038/nature03239|imex:IM-21967|mint:MINT-5217509|pubmed:15690043
+P0ABS8,DNA polymerase III subunit theta,Escherichia coli (strain K12),IPR009052|IPR036745,doi:10.1038/nature03239|imex:IM-21967|mint:MINT-5217509|pubmed:15690043
+P0ACF0,DNA-binding protein HU-alpha,Escherichia coli (strain K12),IPR000119|IPR020816|IPR010992,doi:10.1038/nature03239|imex:IM-21967|mint:MINT-5217509|pubmed:15690043
+P0ADF8,Acetolactate synthase isozyme 1 small subunit,Escherichia coli (strain K12),IPR004789|IPR045865|IPR002912|IPR039557|IPR054480,pubmed:16606699
+P0ADK8,Uncharacterized protein YibL,Escherichia coli (strain K12),IPR021230,doi:10.1038/nature03239|imex:IM-21967|mint:MINT-5217509|pubmed:15690043
+P0ADY7,Large ribosomal subunit protein uL16,Escherichia coli (strain K12),IPR047873|IPR000114|IPR020798|IPR016180|IPR036920,doi:10.1038/nature03239|imex:IM-21967|mint:MINT-5217509|pubmed:15690043
+P0ADZ4,Small ribosomal subunit protein uS15,Escherichia coli (strain K12),IPR000589|IPR005290|IPR009068,doi:10.1038/nature03239|imex:IM-21967|mint:MINT-5217509|pubmed:15690043
+P0AEB2,D-alanyl-D-alanine carboxypeptidase DacA,Escherichia coli (strain K12),IPR012338|IPR015956|IPR018044|IPR012907|IPR037167|IPR001967,doi:10.1038/nature03239|imex:IM-21967|mint:MINT-5217509|pubmed:15690043
+P0AEF4,Transcriptional regulatory protein DpiA,Escherichia coli (strain K12),IPR051271|IPR011006|IPR048714|IPR024187|IPR001789,pubmed:16606699
+P0AF67,tRNA threonylcarbamoyladenosine biosynthesis protein TsaE,Escherichia coli (strain K12),IPR027417|IPR003442,doi:10.1038/nature03239|imex:IM-21967|mint:MINT-5217509|pubmed:15690043
+P0AF78,Uncharacterized protein YjfJ,Escherichia coli (strain K12),IPR007157,pubmed:16606699
+P0AFG6,Dihydrolipoyllysine-residue succinyltransferase component of 2-oxoglutarate dehydrogenase complex,Escherichia coli (strain K12),IPR003016|IPR050537|IPR001078|IPR000089|IPR023213|IPR036625|IPR004167|IPR011053|IPR006255,pubmed:16606699
+P0AG24,Bifunctional (p)ppGpp synthase/hydrolase SpoT,Escherichia coli (strain K12),IPR045865|IPR002912|IPR012675|IPR003607|IPR006674|IPR043519|IPR004811|IPR045600|IPR060374|IPR007685|IPR004095|IPR012676|IPR033655,doi:10.1038/nature03239|imex:IM-21967|mint:MINT-5217509|pubmed:15690043
+P0AG44,Large ribosomal subunit protein bL17,Escherichia coli (strain K12),IPR000456|IPR047859|IPR036373,pubmed:16606699
+P0AG55,Large ribosomal subunit protein uL6,Escherichia coli (strain K12),IPR000702|IPR036789|IPR020040|IPR019906|IPR002358,doi:10.1038/nature03239|imex:IM-21967|mint:MINT-5217509|pubmed:15690043
+P0AG59,Small ribosomal subunit protein uS14,Escherichia coli (strain K12),IPR001209|IPR023036|IPR018271,doi:10.1038/nature03239|imex:IM-21967|mint:MINT-5217509|pubmed:15690043
+P0AGE0,Single-stranded DNA-binding protein,Escherichia coli (strain K12),IPR012340|IPR000424|IPR011344,doi:10.1038/nature03239|imex:IM-21967|mint:MINT-5217509|pubmed:15690043
+P0AGK4,RNA-binding protein YhbY,Escherichia coli (strain K12),IPR001890|IPR051925|IPR017924|IPR035920,doi:10.1038/nature03239|imex:IM-21967|mint:MINT-5217509|pubmed:15690043
+P0C018,Large ribosomal subunit protein uL18,Escherichia coli (strain K12),IPR057268|IPR005484|IPR004389,doi:10.1038/nature03239|imex:IM-21967|mint:MINT-5217509|pubmed:15690043
+P0CS90,Import motor subunit, mitochondrial,Saccharomyces cerevisiae (strain ATCC 204508 / S288c),IPR043129|IPR012725|IPR018181|IPR029048|IPR029047|IPR013126,pubmed:16429126
+P0DTC9,Nucleoprotein,Severe acute respiratory syndrome coronavirus 2,IPR044344|IPR044345|IPR043505|IPR001218|IPR037179|IPR037195,doi:10.1101/2020.03.31.019216|imex:IM-27901|imex:IM-29027|imex:IM-29266|imex:IM-29365|pmc:PPR138438|pubmed:32838362|pubmed:34029587|pubmed:34232536|pubmed:34578187
+P0DTD1-PRO_0000449620
+P0DTD1-PRO_0000449622
+P0DTD1-PRO_0000449632
+P10591,Heat shock protein SSA1,Saccharomyces cerevisiae (strain ATCC 204508 / S288c),IPR043129|IPR018181|IPR029048|IPR029047|IPR013126,pubmed:19536198
+P10592,Heat shock protein SSA2,Saccharomyces cerevisiae (strain ATCC 204508 / S288c),IPR043129|IPR018181|IPR029048|IPR029047|IPR013126,pubmed:19536198
+P10809,60 kDa heat shock protein, mitochondrial,Homo sapiens,IPR018370|IPR001844|IPR002423|IPR027409|IPR027413|IPR027410,imex:IM-26301|pubmed:29568061
+P11021,Endoplasmic reticulum chaperone BiP,Homo sapiens,IPR043129|IPR042050|IPR018181|IPR029048|IPR029047|IPR013126,doi:10.1074/mcp.ra118.000924|imex:IM-26653|pubmed:30021884
+P11182,Lipoamide acyltransferase component of branched-chain alpha-keto acid dehydrogenase complex, mitochondrial,Homo sapiens,IPR003016|IPR001078|IPR050743|IPR000089|IPR023213|IPR036625|IPR004167|IPR011053,doi:10.1016/j.cell.2021.04.011|doi:10.1038/nature22366|imex:IM-25778|imex:IM-29278|pubmed:28514442|pubmed:33961781
+P11215,Integrin alpha-M,Homo sapiens,IPR013517|IPR013519|IPR000413|IPR018184|IPR013649|IPR048285|IPR028994|IPR032695|IPR048633|IPR002035|IPR036465,imex:IM-25472|pubmed:32296183
+P11308,Transcriptional regulator ERG,Homo sapiens,IPR000418|IPR046328|IPR003118|IPR013761|IPR036388|IPR036390,imex:IM-27626|pubmed:35914814
+P11309,Serine/threonine-protein kinase pim-1,Homo sapiens,IPR011009|IPR017348|IPR051138|IPR000719|IPR017441|IPR008271,doi:10.1016/j.molcel.2020.07.001|imex:IM-29257|pubmed:32707033
+P11484,Ribosome-associated molecular chaperone SSB1,Saccharomyces cerevisiae (strain ATCC 204508 / S288c),IPR043129|IPR018181|IPR029048|IPR029047|IPR013126,pubmed:19536198
+P12036,Neurofilament heavy polypeptide,Homo sapiens,IPR010790|IPR018039|IPR039008,doi:10.1016/j.cell.2021.04.011|imex:IM-29278|pubmed:33961781
+P12036-2,Isoform 2 of Neurofilament heavy polypeptide,Homo sapiens,Brak InterPro kodów dla tego białka.,doi:10.1038/nature22366|imex:IM-25778|pubmed:28514442
+P12429,Annexin A3,Homo sapiens,IPR001464|IPR018502|IPR018252|IPR037104|IPR002390,imex:IM-16517|mint:MINT-5217955|pubmed:16169070
+P12709,Glucose-6-phosphate isomerase,Saccharomyces cerevisiae (strain ATCC 204508 / S288c),IPR001672|IPR023096|IPR018189|IPR046348|IPR035476|IPR035482,pubmed:16429126
+P13236,C-C motif chemokine 4,Homo sapiens,IPR039809|IPR000827|IPR001811|IPR036048,imex:IM-25472|pubmed:32296183
+P13569,Cystic fibrosis transmembrane conductance regulator,Homo sapiens,IPR003593|IPR011527|IPR036640|IPR003439|IPR017871|IPR050173|IPR009147|IPR047082|IPR025837|IPR027417,imex:IM-27204|imex:IM-29540|pubmed:29924966|pubmed:36012204
+P14081,Selenocysteine-specific elongation factor,Escherichia coli (strain K12),IPR057335|IPR004161|IPR050543|IPR015190|IPR031157|IPR027417|IPR015191|IPR000795|IPR009000|IPR009001|IPR004535|IPR036388|IPR036390|IPR048649|IPR048931,doi:10.1038/nature03239|imex:IM-21967|mint:MINT-5217509|pubmed:15690043
+P14091,Cathepsin E,Homo sapiens,IPR001461|IPR001969|IPR012848|IPR033121|IPR021109,imex:IM-16517|mint:MINT-5217955|pubmed:16169070
+P15005,Type IV methyl-directed restriction enzyme EcoKMcrB subunit,Escherichia coli (strain K12),IPR003593|IPR011704|IPR021961|IPR060524|IPR052934|IPR027417,imex:IM-22059|pubmed:24561554
+P15082,Glucitol operon repressor,Escherichia coli (strain K12),IPR050313|IPR014036|IPR001034|IPR037171|IPR018356|IPR036388|IPR036390,doi:10.1038/nature03239|imex:IM-21967|mint:MINT-5217509|pubmed:15690043
+P15108,ATP-dependent molecular chaperone HSC82,Saccharomyces cerevisiae (strain ATCC 204508 / S288c),IPR036890|IPR003594|IPR019805|IPR037196|IPR001404|IPR020575|IPR020568,pubmed:19536198
+P15130,Nucleoprotein,Human coronavirus 229E,IPR044344|IPR044345|IPR042548|IPR001218|IPR037179|IPR037195,imex:IM-29365|pubmed:34232536
+P15309,Prostatic acid phosphatase,Homo sapiens,IPR033379|IPR000560|IPR029033|IPR050645,doi:10.1016/j.cell.2021.04.011|imex:IM-29278|pubmed:33961781
+P15770,Shikimate dehydrogenase (NADP(+)),Escherichia coli (strain K12),IPR046346|IPR036291|IPR041121|IPR011342|IPR013708|IPR022893|IPR006151,imex:IM-22059|pubmed:24561554
+P15822,Zinc finger protein 40,Homo sapiens,IPR051969|IPR036236|IPR013087|IPR034729,imex:IM-16517|mint:MINT-5217955|pubmed:16169070
+P15884,Transcription factor 4,Homo sapiens,IPR011598|IPR036638|IPR051098,doi:10.1016/j.cell.2021.04.011|imex:IM-29278|pubmed:33961781
+P16474,Endoplasmic reticulum chaperone BiP,Saccharomyces cerevisiae (strain ATCC 204508 / S288c),IPR043129|IPR042050|IPR018181|IPR029048|IPR029047|IPR013126,pubmed:19536198
+P16550,Protein APA1,Saccharomyces cerevisiae (strain ATCC 204508 / S288c),IPR009163|IPR043171|IPR045759|IPR019200|IPR036265,pubmed:16429126
+P17152,Transmembrane protein 11, mitochondrial,Homo sapiens,IPR026120,imex:IM-25472|pubmed:32296183
+P17443,UDP-N-acetylglucosamine--N-acetylmuramyl-(pentapeptide) pyrophosphoryl-undecaprenol N-acetylglucosamine transferase,Escherichia coli (strain K12),IPR006009|IPR007235|IPR004276,doi:10.1038/nature03239|imex:IM-21967|imex:IM-22059|mint:MINT-5217509|pubmed:15690043|pubmed:24561554
+P17900,Ganglioside GM2 activator,Homo sapiens,IPR028996|IPR036846|IPR003172,doi:10.1016/j.cell.2021.04.011|imex:IM-29278|pubmed:33961781
+P18431-3,Isoform SGG39 of Protein kinase shaggy,Drosophila melanogaster,Brak InterPro kodów dla tego białka.,imex:IM-16527|pubmed:25294943
+P18847,Cyclic AMP-dependent transcription factor ATF-3,Homo sapiens,IPR000837|IPR004827|IPR046347,imex:IM-30532|pubmed:38884001
+P19882,Heat shock protein 60, mitochondrial,Saccharomyces cerevisiae (strain ATCC 204508 / S288c),IPR018370|IPR001844|IPR002423|IPR027409|IPR027413|IPR027410,pubmed:16429126
+P20930,Filaggrin,Homo sapiens,IPR011992|IPR018247|IPR002048|IPR003303|IPR034325|IPR052503|IPR001751|IPR013787,doi:10.1016/j.cell.2021.04.011|imex:IM-29278|pubmed:33961781
+P20933,N(4)-(beta-N-acetylglucosaminyl)-L-asparaginase,Homo sapiens,IPR029055|IPR000246,doi:10.1016/j.cell.2021.04.011|imex:IM-29278|pubmed:33961781
+P21499,Ribonuclease R,Escherichia coli (strain K12),IPR011129|IPR040476|IPR012340|IPR013223|IPR001900|IPR022966|IPR004476|IPR011805|IPR013668|IPR050180|IPR003029,doi:10.1038/nature03239|imex:IM-21967|mint:MINT-5217509|pubmed:15690043
+P21513,Ribonuclease E,Escherichia coli (strain K12),IPR012340|IPR021968|IPR019307|IPR028878|IPR004659|IPR048583|IPR003029,doi:10.1038/nature03239|imex:IM-21967|mint:MINT-5217509|pubmed:15690043
+P21645,UDP-3-O-(3-hydroxymyristoyl)glucosamine N-acyltransferase,Escherichia coli (strain K12),IPR001451|IPR018357|IPR007691|IPR011004|IPR020573,doi:10.1038/nature03239|imex:IM-21967|mint:MINT-5217509|pubmed:15690043
+P22492,Histone H1t,Homo sapiens,IPR005819|IPR005818|IPR036388|IPR036390,doi:10.1038/nature22366|imex:IM-25778|pubmed:28514442
+P22528,Cornifin-B,Homo sapiens,IPR060016,doi:10.1016/j.cell.2021.04.011|imex:IM-29278|pubmed:33961781
+P23116,Eukaryotic translation initiation factor 3 subunit A,Mus musculus,IPR027512|IPR054711|IPR000717,imex:IM-24272|pubmed:26496610
+P23293,Serine/threonine-protein kinase BUR1,Saccharomyces cerevisiae (strain ATCC 204508 / S288c),IPR050108|IPR011009|IPR000719|IPR017441|IPR008271,pubmed:16429126
+P23481,Hydrogenase-4 component A,Escherichia coli (strain K12),IPR017896|IPR017900|IPR050294,pubmed:16606699
+P23508,Colorectal mutant cancer protein,Homo sapiens,IPR040171|IPR019536,pubmed:17353931
+P23786,Carnitine O-palmitoyltransferase 2, mitochondrial,Homo sapiens,IPR000542|IPR042572|IPR023213|IPR039551|IPR042231,doi:10.1016/j.cell.2021.04.011|doi:10.1038/nature22366|imex:IM-25778|imex:IM-29278|pubmed:28514442|pubmed:33961781
+P23830,CDP-diacylglycerol--serine O-phosphatidyltransferase PssA,Escherichia coli (strain K12),IPR016270|IPR025202|IPR001736,doi:10.1038/nature03239|imex:IM-21967|mint:MINT-5217509|pubmed:15690043
+P24173,Lipopolysaccharide heptosyltransferase 1,Escherichia coli (strain K12),IPR002201|IPR011908|IPR051199,pubmed:16606699
+P25491,Mitochondrial protein import protein MAS5,Saccharomyces cerevisiae (strain ATCC 204508 / S288c),IPR012724|IPR002939|IPR001623|IPR018253|IPR044713|IPR008971|IPR001305|IPR036410|IPR036869,pubmed:19536198
+P25586,KRR1 small subunit processome component,Saccharomyces cerevisiae (strain ATCC 204508 / S288c),IPR004087|IPR036612|IPR041174|IPR048550|IPR048548|IPR048549|IPR024166,pubmed:12150911|pubmed:16429126
+P25635,Periodic tryptophan protein 2,Saccharomyces cerevisiae (strain ATCC 204508 / S288c),IPR024977|IPR027145|IPR011047|IPR007148|IPR015943|IPR020472|IPR019775|IPR036322|IPR001680,pubmed:12150911|pubmed:16429126
+P26196,Probable ATP-dependent RNA helicase DDX6,Homo sapiens,IPR011545|IPR014001|IPR001650|IPR027417|IPR000629|IPR014014,imex:IM-30059|pubmed:39251607
+P27241,Probable 3-deoxy-manno-octulosonic acid transferase,Escherichia coli (strain K12),IPR060654|IPR031026,pubmed:16606699
+P27431,Ribosomal protein uL16 3-hydroxylase,Escherichia coli (strain K12),IPR003347|IPR039994|IPR046799,pubmed:16606699
+P27635,Large ribosomal subunit protein uL16,Homo sapiens,IPR047873|IPR018255|IPR016180|IPR001197|IPR036920,imex:IM-24272|pubmed:26496610
+P28043,Plasmid-derived single-stranded DNA-binding protein,Escherichia coli,IPR012340|IPR000424|IPR011344,doi:10.1038/nature03239|imex:IM-21967|mint:MINT-5217509|pubmed:15690043
+P28630,DNA polymerase III subunit delta,Escherichia coli (strain K12),IPR008921|IPR032780|IPR010372|IPR005790|IPR027417,imex:IM-22059|pubmed:24561554
+P28631,DNA polymerase III subunit delta',Escherichia coli (strain K12),IPR008921|IPR004622|IPR015199|IPR050238|IPR048731|IPR027417,doi:10.1038/nature03239|imex:IM-21967|mint:MINT-5217509|pubmed:15690043
+P29034,Protein S100-A2,Homo sapiens,IPR011992|IPR018247|IPR002048|IPR034325|IPR001751|IPR013787,doi:10.1016/j.cell.2021.04.011|imex:IM-29278|pubmed:33961781
+P29208,o-succinylbenzoate synthase,Escherichia coli (strain K12),IPR036849|IPR029017|IPR029065|IPR013342|IPR010196|IPR041338,pubmed:16606699
+P29508,Serpin B3,Homo sapiens,IPR023795|IPR023796|IPR000215|IPR036186|IPR042178|IPR042185,doi:10.1016/j.cell.2021.04.011|imex:IM-29278|pubmed:33961781
+P29972,Aquaporin-1,Homo sapiens,IPR023271|IPR023274|IPR034294|IPR000425|IPR022357,imex:IM-25472|pubmed:32296183
+P30128,Transcription elongation factor GreB,Escherichia coli (strain K12),IPR036953|IPR018151|IPR028624|IPR001437|IPR023459|IPR022691|IPR036805|IPR006358,pubmed:16606699
+P30301,Lens fiber major intrinsic protein,Homo sapiens,IPR023271|IPR034294|IPR000425|IPR022357,imex:IM-25472|pubmed:32296183
+P31025,Lipocalin-1,Homo sapiens,IPR012674|IPR002345|IPR000566|IPR002450,doi:10.1016/j.cell.2021.04.011|imex:IM-29278|pubmed:33961781
+P31151,Protein S100-A7,Homo sapiens,IPR011992|IPR018247|IPR002048|IPR034325|IPR001751|IPR013787,doi:10.1016/j.cell.2021.04.011|imex:IM-29278|pubmed:33961781
+P31806,Bifunctional NAD(P)H-hydrate repair enzyme Nnr,Escherichia coli (strain K12),IPR017953|IPR000631|IPR030677|IPR029056|IPR004443|IPR036652,doi:10.1038/nature03239|imex:IM-21967|imex:IM-22059|mint:MINT-5217509|pubmed:15690043|pubmed:24561554
+P32169,Rhamnulose-1-phosphate aldolase,Escherichia coli (strain K12),IPR050197|IPR001303|IPR036409|IPR013447,pubmed:16606699
+P32337,Importin subunit beta-3,Saccharomyces cerevisiae (strain ATCC 204508 / S288c),IPR011989|IPR016024|IPR040122|IPR041653|IPR040928|IPR041389|IPR057672,pubmed:16429126
+P32357,A1 cistron-splicing factor AAR2,Saccharomyces cerevisiae (strain ATCC 204508 / S288c),IPR007946|IPR033648|IPR038514|IPR033647|IPR038516,pubmed:16429126
+P32493,ATPase expression protein 1, mitochondrial,Saccharomyces cerevisiae (strain ATCC 204508 / S288c),IPR031467,pubmed:16429126
+P32495,H/ACA ribonucleoprotein complex subunit NHP2,Saccharomyces cerevisiae (strain ATCC 204508 / S288c),IPR050257|IPR002415|IPR029064|IPR004037|IPR004038|IPR018492,pubmed:16429126
+P32582,Cystathionine beta-synthase,Saccharomyces cerevisiae (strain ATCC 204508 / S288c),IPR046353|IPR000644|IPR046342|IPR050214|IPR005857|IPR001216|IPR001926|IPR036052,pubmed:16429126
+P32589,Heat shock protein homolog SSE1,Saccharomyces cerevisiae (strain ATCC 204508 / S288c),IPR043129|IPR018181|IPR029048|IPR029047|IPR013126,pubmed:19536198
+P32598,Serine/threonine-protein phosphatase PP1-2,Saccharomyces cerevisiae (strain ATCC 204508 / S288c),IPR004843|IPR029052|IPR050341|IPR006186|IPR031675,imex:IM-14085|pubmed:21179020
+P33316,Deoxyuridine 5'-triphosphate nucleotidohydrolase, mitochondrial,Homo sapiens,IPR008181|IPR029054|IPR036157|IPR033704,imex:IM-13779|pubmed:20711500
+P33322,H/ACA ribonucleoprotein complex subunit CBF5,Saccharomyces cerevisiae (strain ATCC 204508 / S288c),IPR012960|IPR020103|IPR002501|IPR002478|IPR015947|IPR036974|IPR004802|IPR032819|IPR004521,pubmed:16429126
+P33362,Glycine betaine-binding protein YehZ,Escherichia coli (strain K12),IPR007210,pubmed:16606699
+P33416,Heat shock protein 78, mitochondrial,Saccharomyces cerevisiae (strain ATCC 204508 / S288c),IPR003593|IPR003959|IPR019489|IPR001270|IPR018368|IPR028299|IPR041546|IPR050130|IPR027417,pubmed:19536198
+P33469,Nucleoprotein,Human coronavirus OC43,IPR044344|IPR044345|IPR043505|IPR001218|IPR037179|IPR037195,imex:IM-29365|pubmed:34232536
+P35221,Catenin alpha-1,Homo sapiens,IPR036723|IPR001033|IPR006077|IPR000633,imex:IM-30532|pubmed:38884001
+P35321,Cornifin-A,Homo sapiens,IPR060016,doi:10.1016/j.cell.2021.04.011|imex:IM-29278|pubmed:33961781
+P35613,Basigin,Homo sapiens,IPR007110|IPR036179|IPR013783|IPR003599|IPR003598,doi:10.1016/j.cell.2021.04.011|imex:IM-29278|pubmed:33961781
+P35613-2,Isoform 2 of Basigin,Homo sapiens,Brak InterPro kodów dla tego białka.,doi:10.1038/nature22366|imex:IM-25778|pubmed:28514442
+P35869,Aryl hydrocarbon receptor,Homo sapiens,IPR039091|IPR033348|IPR011598|IPR036638|IPR001610|IPR000014|IPR035965|IPR013767|IPR013655,doi:10.1016/j.cell.2021.04.011|imex:IM-29278|pubmed:33961781
+P36160,Ribosome biogenesis protein RPF2,Saccharomyces cerevisiae (strain ATCC 204508 / S288c),IPR007109|IPR039770,imex:IM-24489|pubmed:23788678
+P36520,Large ribosomal subunit protein uL15m,Saccharomyces cerevisiae (strain ATCC 204508 / S288c),IPR030878|IPR021131|IPR036227|IPR005749,pubmed:16429126
+P36531,Large ribosomal subunit protein bL31m,Saccharomyces cerevisiae (strain ATCC 204508 / S288c),IPR034600|IPR048874,pubmed:16429126
+P36639,Oxidized purine nucleoside triphosphate hydrolase,Homo sapiens,IPR003563|IPR020476|IPR015797|IPR020084|IPR000086,pubmed:17353931
+P36979,Dual-specificity RNA methyltransferase RlmN,Escherichia coli (strain K12),IPR013785|IPR040072|IPR048641|IPR027492|IPR004383|IPR007197|IPR058240,doi:10.1038/nature03239|imex:IM-21967|mint:MINT-5217509|pubmed:15690043
+P37146,Ribonucleoside-diphosphate reductase 2 subunit beta,Escherichia coli (strain K12),IPR009078|IPR012348|IPR026494|IPR033909|IPR030475|IPR000358,pubmed:16606699
+P37182,Hydrogenase 2 maturation protease,Escherichia coli (strain K12),IPR004419|IPR023430|IPR000671,pubmed:16606699
+P37246,Brak nazwy,Brak organizmu,Brak InterPro kodów dla tego białka.,pubmed:16606699
+P37651,Endoglucanase,Escherichia coli (strain K12),IPR008928|IPR012341|IPR002037|IPR019834,pubmed:16606699
+P37765,Ribosomal large subunit pseudouridine synthase B,Escherichia coli (strain K12),IPR020103|IPR006145|IPR000748|IPR018496|IPR050343|IPR002942|IPR036986,doi:10.1038/nature03239|imex:IM-21967|mint:MINT-5217509|pubmed:15690043
+P37898,Alanine/arginine aminopeptidase,Saccharomyces cerevisiae (strain ATCC 204508 / S288c),IPR045357|IPR042097|IPR024571|IPR034016|IPR001930|IPR050344|IPR014782|IPR027268,imex:IM-24623|pubmed:16429126|pubmed:22034500
+P38193,Serine/threonine-protein phosphatase 4 regulatory subunit 2,Saccharomyces cerevisiae (strain ATCC 204508 / S288c),IPR015267,pubmed:16429126
+P38199,Heterogeneous nuclear rnp K-like protein 2,Saccharomyces cerevisiae (strain ATCC 204508 / S288c),IPR004087|IPR004088|IPR036612,pubmed:16429126
+P38333,Essential nuclear protein 1,Saccharomyces cerevisiae (strain ATCC 204508 / S288c),IPR007955,pubmed:12150911|pubmed:16429126
+P38646,Stress-70 protein, mitochondrial,Homo sapiens,IPR043129|IPR012725|IPR018181|IPR029048|IPR029047|IPR013126,doi:10.1016/j.cell.2021.04.011|imex:IM-29278|pubmed:33961781
+P38882,U3 small nucleolar RNA-associated protein 9,Saccharomyces cerevisiae (strain ATCC 204508 / S288c),IPR015943,pubmed:12150911|pubmed:16429126
+P38891,Branched-chain-amino-acid aminotransferase, mitochondrial,Saccharomyces cerevisiae (strain ATCC 204508 / S288c),IPR001544|IPR018300|IPR036038|IPR005786|IPR043132|IPR043131|IPR033939,pubmed:16429126
+P38911,Peptidyl-prolyl cis-trans isomerase,Saccharomyces cerevisiae (strain ATCC 204508 / S288c),IPR041232|IPR046357|IPR001179|IPR023566,imex:IM-14085|pubmed:21179020
+P39077,T-complex protein 1 subunit gamma,Saccharomyces cerevisiae (strain ATCC 204508 / S288c),IPR012719|IPR017998|IPR002194|IPR002423|IPR027409|IPR027413|IPR027410|IPR053374|IPR054827,pubmed:19536198
+P39079,T-complex protein 1 subunit zeta,Saccharomyces cerevisiae (strain ATCC 204508 / S288c),IPR012722|IPR017998|IPR002194|IPR002423|IPR027409|IPR027413|IPR027410,pubmed:19536198
+P39960,GTPase-activating protein BEM2/IPL2,Saccharomyces cerevisiae (strain ATCC 204508 / S288c),IPR011993|IPR001849|IPR000651|IPR023578|IPR001895|IPR036964|IPR050729|IPR008936|IPR000198,pubmed:16429126
+P40150,Ribosome-associated molecular chaperone SSB2,Saccharomyces cerevisiae (strain ATCC 204508 / S288c),IPR043129|IPR018181|IPR029048|IPR029047|IPR013126,pubmed:19536198
+P40207,Ergosterol biosynthesis protein 29,Saccharomyces cerevisiae (strain ATCC 204508 / S288c),Brak InterPro kodów dla tego białka.,pubmed:16429126
+P40259-2,Isoform Short of B-cell antigen receptor complex-associated protein beta chain,Homo sapiens,Brak InterPro kodów dla tego białka.,doi:10.1038/nature22366|imex:IM-25778|pubmed:28514442
+P40413,T-complex protein 1 subunit epsilon,Saccharomyces cerevisiae (strain ATCC 204508 / S288c),IPR012718|IPR017998|IPR002194|IPR002423|IPR027409|IPR027413|IPR027410|IPR053374|IPR054827,pubmed:19536198
+P41181,Aquaporin-2,Homo sapiens,IPR023271|IPR034294|IPR000425|IPR022357,imex:IM-25472|pubmed:32296183
+P41218,Myeloid cell nuclear differentiation antigen,Homo sapiens,IPR004020|IPR011029|IPR040205|IPR004021|IPR012340,imex:IM-23523|pubmed:25665578
+P42184,PRS fimbrial major pilin protein,Escherichia coli,IPR000259|IPR036937|IPR008966|IPR050263,doi:10.1038/nature03239|imex:IM-21967|mint:MINT-5217509|pubmed:15690043
+P42945,U3 small nucleolar RNA-associated protein 10,Saccharomyces cerevisiae (strain ATCC 204508 / S288c),IPR011989|IPR016024|IPR012954|IPR021133|IPR056473|IPR022125|IPR040191,pubmed:12150911|pubmed:16429126
+P43329,ATP-dependent RNA helicase HrpA,Escherichia coli (strain K12),IPR003593|IPR011709|IPR011545|IPR048333|IPR007502|IPR014001|IPR001650|IPR024590|IPR027417|IPR010222,doi:10.1038/nature03239|imex:IM-21967|mint:MINT-5217509|pubmed:15690043
+P46199,Translation initiation factor IF-2, mitochondrial,Homo sapiens,IPR053905|IPR044145|IPR027417|IPR005225|IPR000795|IPR000178|IPR015760|IPR023115|IPR036925|IPR009000,doi:10.1016/j.cell.2021.04.011|doi:10.1038/nature22366|imex:IM-25778|imex:IM-29278|pubmed:28514442|pubmed:33961781
+P46379,Large proline-rich protein BAG6,Homo sapiens,IPR021925|IPR048926|IPR000626|IPR029071|IPR019954,imex:IM-24272|pubmed:26496610
+P46988,Prefoldin subunit 1,Saccharomyces cerevisiae (strain ATCC 204508 / S288c),IPR002777|IPR009053,pubmed:19536198
+P47047,ATP-dependent RNA helicase DOB1,Saccharomyces cerevisiae (strain ATCC 204508 / S288c),IPR025696|IPR011545|IPR014001|IPR001650|IPR048392|IPR027417|IPR011254|IPR050699|IPR016438|IPR012961,imex:IM-29638|pubmed:37070168
+P48353,Protein HLJ1,Saccharomyces cerevisiae (strain ATCC 204508 / S288c),IPR001623|IPR018253|IPR051100|IPR036869,pubmed:19536198
+P48681,Nestin,Homo sapiens,IPR018039|IPR039008|IPR031211,imex:IM-24272|pubmed:26496610
+P49356,Protein farnesyltransferase subunit beta,Homo sapiens,IPR026872|IPR045089|IPR001330|IPR008930,doi:10.1016/j.cell.2021.04.011|imex:IM-29278|pubmed:33961781
+P49638,Alpha-tocopherol transfer protein,Homo sapiens,IPR001251|IPR036865|IPR011074|IPR036273,imex:IM-25472|pubmed:32296183
+P50914,Large ribosomal subunit protein eL14,Homo sapiens,IPR014722|IPR039660|IPR002784|IPR008991,doi:10.1038/nature22366|imex:IM-25778|pubmed:28514442
+P51608,Methyl-CpG-binding protein 2,Homo sapiens,IPR016177|IPR017353|IPR045138|IPR001739,doi:10.1038/nature22366|imex:IM-25778|pubmed:28514442
+P52272,Heterogeneous nuclear ribonucleoprotein M,Homo sapiens,IPR024666|IPR034990|IPR012677|IPR035979|IPR000504|IPR050374,doi:10.1074/mcp.ra118.000924|imex:IM-26653|pubmed:30021884
+P52739,Zinc finger protein 131,Homo sapiens,IPR000210|IPR011333|IPR036236|IPR013087,doi:10.1016/j.cell.2021.04.011|imex:IM-29278|pubmed:33961781
+P52739-2,Isoform 2 of Zinc finger protein 131,Homo sapiens,Brak InterPro kodów dla tego białka.,doi:10.1038/nature22366|imex:IM-25778|pubmed:28514442
+P52798,Ephrin-A4,Homo sapiens,IPR008972|IPR031328|IPR034252|IPR019765|IPR001799,doi:10.1016/j.cell.2021.04.011|imex:IM-29278|pubmed:33961781
+P52815,Large ribosomal subunit protein bL12m,Homo sapiens,IPR000206|IPR013823|IPR014719|IPR008932|IPR036235,doi:10.1016/j.cell.2021.04.011|doi:10.1038/nature22366|imex:IM-25778|imex:IM-29278|pubmed:28514442|pubmed:33961781
+P52927,High mobility group protein HMGI-C,Mus musculus,IPR017956|IPR000116,imex:IM-23312|pubmed:26045162
+P53217,Uncharacterized membrane protein YGR026W,Saccharomyces cerevisiae (strain ATCC 204508 / S288c),IPR051645,pubmed:16429126
+P53254,U3 small nucleolar RNA-associated protein 22,Saccharomyces cerevisiae (strain ATCC 204508 / S288c),IPR005554|IPR035082|IPR035367|IPR035368|IPR035369|IPR035370|IPR035371,pubmed:12150911|pubmed:16429126
+P53622,Coatomer subunit alpha,Saccharomyces cerevisiae (strain ATCC 204508 / S288c),IPR006692|IPR047312|IPR016391|IPR010714|IPR050844|IPR011044|IPR056176|IPR015943|IPR020472|IPR019775|IPR036322|IPR001680,pubmed:16429126
+P54224,Uroporphyrinogen decarboxylase,Synechocystis sp. (strain ATCC 27184 / PCC 6803 / Kazusa),IPR038071|IPR006361|IPR000257,pubmed:18000013
+P59595,Nucleoprotein,Severe acute respiratory syndrome coronavirus,IPR044344|IPR044345|IPR043505|IPR001218|IPR037179|IPR037195,imex:IM-29365|pubmed:34232536
+P60330,Separin,Mus musculus,IPR005314|IPR030397,imex:IM-24272|pubmed:26496610
+P60422,Large ribosomal subunit protein uL2,Escherichia coli (strain K12),IPR012340|IPR014722|IPR002171|IPR005880|IPR022669|IPR022671|IPR014726|IPR022666|IPR008991,doi:10.1038/nature03239|imex:IM-21967|mint:MINT-5217509|pubmed:15690043|pubmed:16606699
+P60438,Large ribosomal subunit protein uL3,Escherichia coli (strain K12),IPR000597|IPR019927|IPR019926|IPR009000,doi:10.1038/nature03239|imex:IM-21967|mint:MINT-5217509|pubmed:15690043
+P61073,C-X-C chemokine receptor type 4,Homo sapiens,IPR050119|IPR022726|IPR000355|IPR001277|IPR000276|IPR017452,doi:10.1016/j.cell.2021.04.011|imex:IM-29278|pubmed:33961781
+P61175,Large ribosomal subunit protein uL22,Escherichia coli (strain K12),IPR001063|IPR005727|IPR047867|IPR018260|IPR036394,doi:10.1038/nature03239|imex:IM-21967|mint:MINT-5217509|pubmed:15690043
+P62508-3,Isoform 3 of Estrogen-related receptor gamma,Homo sapiens,Brak InterPro kodów dla tego białka.,imex:IM-25472|pubmed:32296183
+P62750,Large ribosomal subunit protein uL23,Homo sapiens,IPR012677|IPR019985|IPR013025|IPR012678|IPR001014|IPR005633,doi:10.1016/j.cell.2021.04.011|imex:IM-29278|pubmed:33961781
+P63284,Chaperone protein ClpB,Escherichia coli (strain K12),IPR003593|IPR003959|IPR017730|IPR019489|IPR036628|IPR004176|IPR001270|IPR018368|IPR028299|IPR041546|IPR050130|IPR027417,doi:10.1038/nature03239|imex:IM-21967|mint:MINT-5217509|pubmed:15690043
+P67775,Serine/threonine-protein phosphatase 2A catalytic subunit alpha isoform,Homo sapiens,IPR004843|IPR029052|IPR047129|IPR006186,doi:10.1016/j.cell.2021.04.011|imex:IM-29278|pubmed:33961781
+P68431,Histone H3.1,Homo sapiens,IPR007125|IPR009072|IPR000164,imex:IM-26301|pubmed:29568061
+P68679,Small ribosomal subunit protein bS21,Escherichia coli (strain K12),IPR001911|IPR018278|IPR038380,doi:10.1038/nature03239|imex:IM-21967|mint:MINT-5217509|pubmed:15690043
+P72656,Ribonuclease E,Synechocystis sp. (strain ATCC 27184 / PCC 6803 / Kazusa),IPR012340|IPR019307|IPR004659|IPR003029,pubmed:18000013
+P72858,Brak nazwy,Synechocystis sp. (strain ATCC 27184 / PCC 6803 / Kazusa),IPR012427,pubmed:18000013
+P72957,Brak nazwy,Synechocystis sp. (strain ATCC 27184 / PCC 6803 / Kazusa),Brak InterPro kodów dla tego białka.,pubmed:18000013
+P73033,Glycerol-3-phosphate dehydrogenase [NAD(P)+],Synechocystis sp. (strain ATCC 27184 / PCC 6803 / Kazusa),IPR008927|IPR013328|IPR006168|IPR006109|IPR011128|IPR036291,pubmed:18000013
+P73183,High light-inducible protein HliA,Synechocystis sp. (strain ATCC 27184 / PCC 6803 / Kazusa),Brak InterPro kodów dla tego białka.,pubmed:18000013
+P73304,Small ribosomal subunit protein uS5,Synechocystis sp. (strain ATCC 27184 / PCC 6803 / Kazusa),IPR020568|IPR000851|IPR005712|IPR005324|IPR013810|IPR018192|IPR014721,pubmed:18000013
+P73509,Brak nazwy,Synechocystis sp. (strain ATCC 27184 / PCC 6803 / Kazusa),IPR009056|IPR036909|IPR051811,pubmed:18000013
+P73532,DNA replication and repair protein RecF,Synechocystis sp. (strain ATCC 27184 / PCC 6803 / Kazusa),IPR001238|IPR018078|IPR027417|IPR003395|IPR042174,pubmed:18000013
+P73580,UvrABC system protein C,Synechocystis sp. (strain ATCC 27184 / PCC 6803 / Kazusa),IPR041663|IPR000305|IPR035901|IPR047296|IPR003583|IPR010994|IPR001943|IPR036876|IPR050066|IPR004791|IPR001162|IPR038476,pubmed:18000013
+P73697,Brak nazwy,Synechocystis sp. (strain ATCC 27184 / PCC 6803 / Kazusa),IPR002636,pubmed:18000013
+P73821,D-3-phosphoglycerate dehydrogenase,Synechocystis sp. (strain ATCC 27184 / PCC 6803 / Kazusa),IPR045865|IPR002912|IPR029009|IPR050857|IPR006139|IPR029753|IPR029752|IPR006140|IPR036291|IPR006236|IPR045626,pubmed:18000013
+P73926,Circadian input-output histidine kinase CikA,Synechocystis sp. (strain ATCC 27184 / PCC 6803 / Kazusa),IPR011006|IPR036890|IPR003594|IPR005467|IPR003661|IPR036097|IPR036641|IPR005330|IPR001610|IPR000014|IPR000700|IPR035965|IPR004358|IPR008207|IPR001789,pubmed:18000013
+P74054,Brak nazwy,Synechocystis sp. (strain ATCC 27184 / PCC 6803 / Kazusa),Brak InterPro kodów dla tego białka.,pubmed:18000013
+P74396,Brak nazwy,Synechocystis sp. (strain ATCC 27184 / PCC 6803 / Kazusa),IPR018711,pubmed:18000013
+P74587,Carbamoyl phosphate synthase small chain,Synechocystis sp. (strain ATCC 27184 / PCC 6803 / Kazusa),IPR050472|IPR006274|IPR002474|IPR036480|IPR029062|IPR035686|IPR017926,pubmed:18000013
+P74688,Brak nazwy,Synechocystis sp. (strain ATCC 27184 / PCC 6803 / Kazusa),IPR000305|IPR035901,pubmed:18000013
+P75438,ATP-dependent DNA helicase PcrA-short,Mycoplasmoides pneumoniae (strain ATCC 29342 / M129 / Subtype 1),IPR013986|IPR014017|IPR000212|IPR027417|IPR014016,imex:IM-11644|pubmed:19965468
+P75749,Uncharacterized fimbrial chaperone YbgP,Escherichia coli (strain K12),IPR013783|IPR008962|IPR050643|IPR036316|IPR001829|IPR016148|IPR018046|IPR016147,pubmed:16606699
+P75792,Sugar phosphatase YbiV,Escherichia coli (strain K12),IPR000150|IPR036412|IPR006379|IPR023214,pubmed:16606699
+P75864,Ribosomal RNA large subunit methyltransferase K/L,Escherichia coli (strain K12),IPR017244|IPR002052|IPR000241|IPR053943|IPR054170|IPR019614|IPR029063|IPR004114,doi:10.1038/nature03239|imex:IM-21967|mint:MINT-5217509|pubmed:15690043
+P75882,Uncharacterized lipoprotein GfcD,Escherichia coli (strain K12),IPR010344,pubmed:16606699
+P75914,Probable phosphatase YcdX,Escherichia coli (strain K12),IPR023710|IPR004013|IPR050243|IPR003141|IPR016195,pubmed:16606699
+P75989,HTH-type transcriptional repressor BluR,Escherichia coli (strain K12),IPR009061|IPR000551|IPR047057|IPR053987|IPR053988,pubmed:16606699
+P75992,Probable two-component-system connector protein YmgA,Escherichia coli (strain K12),Brak InterPro kodów dla tego białka.,pubmed:16606699
+P76513,Uncharacterized protein YfdQ,Escherichia coli (strain K12),IPR019276,imex:IM-22059|pubmed:24561554
+P76555,Acetate kinase EutQ,Escherichia coli (strain K12),IPR010424|IPR014710|IPR011051,pubmed:16606699
+P76578,Alpha-2-macroglobulin,Escherichia coli (strain K12),IPR049120|IPR011625|IPR049122|IPR040639|IPR026284|IPR047565|IPR011626|IPR021868|IPR041203|IPR041462|IPR041246|IPR001599|IPR002890|IPR008930|IPR051802,doi:10.1038/nature03239|imex:IM-21967|mint:MINT-5217509|pubmed:15690043
+P77301,Uncharacterized protein YbaP,Escherichia coli (strain K12),IPR002816|IPR047111,pubmed:16606699
+P77499,Probable ATP-dependent transporter SufC,Escherichia coli (strain K12),IPR003593|IPR003439|IPR017871|IPR010230|IPR027417,doi:10.1038/nature03239|imex:IM-21967|mint:MINT-5217509|pubmed:15690043
+P77624,Carbamate kinase-like protein YahI,Escherichia coli (strain K12),IPR036393|IPR001048|IPR003964,pubmed:16606699
+P77627,Uncharacterized protein YbeR,Escherichia coli (strain K12),IPR009677,pubmed:16606699
+P77779,Putative uncharacterized protein YbfO,Escherichia coli (strain K12),IPR001826|IPR022385|IPR050708,doi:10.1038/nature03239|imex:IM-21967|mint:MINT-5217509|pubmed:15690043
+P77791,Maltose O-acetyltransferase,Escherichia coli (strain K12),IPR001451|IPR018357|IPR051159|IPR024688|IPR011004,pubmed:16606699
+P78549,Endonuclease III-like protein 1,Homo sapiens,IPR011257|IPR004036|IPR003651|IPR003265|IPR023170|IPR000445|IPR030841,pubmed:17353931
+P84103,Serine/arginine-rich splicing factor 3,Homo sapiens,IPR012677|IPR035979|IPR000504|IPR050907,doi:10.1016/j.cell.2021.04.011|imex:IM-29278|pubmed:33961781
+P97363,Serine palmitoyltransferase 2,Mus musculus,IPR001917|IPR004839|IPR050087|IPR015424|IPR015421|IPR015422,imex:IM-24272|pubmed:26496610
+Q00955,Acetyl-CoA carboxylase,Saccharomyces cerevisiae (strain ATCC 204508 / S288c),IPR049076|IPR049074|IPR034733|IPR013537|IPR011761|IPR013815|IPR005481|IPR001882|IPR011764|IPR005482|IPR000089|IPR029045|IPR011763|IPR011762|IPR005479|IPR016185|IPR011054|IPR011053,pubmed:16429126
+Q02159,Ubiquitin-conjugating enzyme E2 7,Saccharomyces cerevisiae (strain ATCC 204508 / S288c),IPR050113|IPR000608|IPR023313|IPR016135,pubmed:14690591
+Q02223,Tumor necrosis factor receptor superfamily member 17,Homo sapiens,IPR015337|IPR043521|IPR022320,doi:10.1016/j.cell.2021.04.011|doi:10.1038/nature22366|imex:IM-25778|imex:IM-29278|pubmed:28514442|pubmed:33961781
+Q02354,U3 small nucleolar RNA-associated protein 6,Saccharomyces cerevisiae (strain ATCC 204508 / S288c),IPR003107|IPR011990|IPR013949|IPR055347,pubmed:12150911|pubmed:16429126
+Q02539,Histone H1.1,Homo sapiens,IPR005819|IPR005818|IPR036388|IPR036390,doi:10.1038/nature22366|imex:IM-25778|pubmed:28514442
+Q02796,Transcriptional regulatory protein LGE1,Saccharomyces cerevisiae (strain ATCC 204508 / S288c),IPR021581,imex:IM-14085|pubmed:21179020
+Q05329,Glutamate decarboxylase 2,Homo sapiens,IPR002129|IPR015424|IPR015421|IPR021115,imex:IM-25472|pubmed:32296183
+Q05672,RNA-binding suppressor of PAS kinase protein 1,Saccharomyces cerevisiae (strain ATCC 204508 / S288c),IPR001374|IPR036867|IPR051937,pubmed:18719252
+Q06205,FK506-binding protein 4,Saccharomyces cerevisiae (strain ATCC 204508 / S288c),IPR041232|IPR046357|IPR001179|IPR023566,imex:IM-14085|pubmed:21179020
+Q06218,ATP-dependent RNA helicase DBP9,Saccharomyces cerevisiae (strain ATCC 204508 / S288c),IPR011545|IPR050079|IPR014001|IPR001650|IPR027417|IPR014014,pubmed:16429126
+Q06323,Proteasome activator complex subunit 1,Homo sapiens,IPR003186|IPR036997|IPR036996|IPR009077|IPR003185|IPR036252,imex:IM-16517|mint:MINT-5217955|pubmed:16169070
+Q06512,Nucleolar complex protein 4,Saccharomyces cerevisiae (strain ATCC 204508 / S288c),IPR005612|IPR027193,pubmed:12150911|pubmed:16429126
+Q06616,CDC5 pindle pole body anchor protein 1,Saccharomyces cerevisiae (strain ATCC 204508 / S288c),IPR013743,pubmed:16429126
+Q06625,Glycogen debranching enzyme,Saccharomyces cerevisiae (strain ATCC 204508 / S288c),IPR008928|IPR012341|IPR010401|IPR032788|IPR029436|IPR032792|IPR032790|IPR017853|IPR006421,pubmed:16429126
+Q06631,Protein BFR2,Saccharomyces cerevisiae (strain ATCC 204508 / S288c),IPR025160|IPR039223|IPR012617,pubmed:16429126
+Q07021,Complement component 1 Q subcomponent-binding protein, mitochondrial,Homo sapiens,IPR003428|IPR036561,imex:IM-27620|pubmed:28565870
+Q07666,KH domain-containing, RNA-binding, signal transduction-associated protein 1,Homo sapiens,IPR045071|IPR055256|IPR004087|IPR036612|IPR032571|IPR032335,imex:IM-16517|mint:MINT-5217955|pubmed:16169070
+Q07892,Eclosion hormone,Drosophila melanogaster,IPR006825,imex:IM-28761|pubmed:37061542
+Q07973,1,25-dihydroxyvitamin D(3) 24-hydroxylase, mitochondrial,Homo sapiens,IPR050479|IPR001128|IPR017972|IPR002401|IPR036396,doi:10.1016/j.cell.2021.04.011|imex:IM-29278|pubmed:33961781
+Q08162,Exosome complex exonuclease DIS3,Saccharomyces cerevisiae (strain ATCC 204508 / S288c),IPR041505|IPR012340|IPR029060|IPR002716|IPR001900|IPR022966|IPR050180|IPR033771|IPR033770|IPR003029,imex:IM-29638|pubmed:37070168
+Q08285,Exosome complex component RRP40,Saccharomyces cerevisiae (strain ATCC 204508 / S288c),IPR026699|IPR004088|IPR036612|IPR012340|IPR049469|IPR041054|IPR037319,imex:IM-29638|pubmed:37070168
+Q08965,Ribosome biogenesis protein BMS1,Saccharomyces cerevisiae (strain ATCC 204508 / S288c),IPR012948|IPR003959|IPR039761|IPR037875|IPR007034|IPR030387|IPR027417,pubmed:16429126
+Q0P7V5,1,4-dihydroxy-6-naphtoate synthase,Campylobacter jejuni subsp. jejuni serotype O:2 (strain ATCC 700819 / NCTC 11168),IPR003773|IPR030869,pubmed:17615063
+Q0P7W3,Brak nazwy,Campylobacter jejuni subsp. jejuni serotype O:2 (strain ATCC 700819 / NCTC 11168),IPR007332,pubmed:17615063
+Q0P7X5,Brak nazwy,Campylobacter jejuni subsp. jejuni serotype O:2 (strain ATCC 700819 / NCTC 11168),IPR052062|IPR000064|IPR038765,pubmed:17615063
+Q0P7X8,Brak nazwy,Campylobacter jejuni subsp. jejuni serotype O:2 (strain ATCC 700819 / NCTC 11168),IPR032411|IPR038315,pubmed:17615063
+Q0P8A8,Brak nazwy,Campylobacter jejuni subsp. jejuni serotype O:2 (strain ATCC 700819 / NCTC 11168),IPR017896|IPR017900|IPR050954,pubmed:17615063
+Q0P8E6,Brak nazwy,Campylobacter jejuni subsp. jejuni serotype O:2 (strain ATCC 700819 / NCTC 11168),IPR003593|IPR027417|IPR001482,pubmed:17615063
+Q0P8F5,Brak nazwy,Campylobacter jejuni subsp. jejuni serotype O:2 (strain ATCC 700819 / NCTC 11168),Brak InterPro kodów dla tego białka.,pubmed:17615063
+Q0P8M9,Brak nazwy,Campylobacter jejuni subsp. jejuni serotype O:2 (strain ATCC 700819 / NCTC 11168),IPR051470|IPR012336|IPR036249,pubmed:17615063
+Q0P8R0,Brak nazwy,Campylobacter jejuni subsp. jejuni serotype O:2 (strain ATCC 700819 / NCTC 11168),IPR008532|IPR051608,pubmed:17615063
+Q0P8S6,Brak nazwy,Campylobacter jejuni subsp. jejuni serotype O:2 (strain ATCC 700819 / NCTC 11168),IPR036291|IPR002347,pubmed:17615063
+Q0P8X3,Brak nazwy,Campylobacter jejuni subsp. jejuni serotype O:2 (strain ATCC 700819 / NCTC 11168),IPR036291|IPR006037|IPR003148|IPR050721,pubmed:17615063
+Q0P9C2,Predicted 3'-5' exonuclease PolB-like domain-containing protein,Campylobacter jejuni subsp. jejuni serotype O:2 (strain ATCC 700819 / NCTC 11168),IPR019288|IPR012337|IPR036397,pubmed:17615063
+Q0P9E6,Chaperone protein ClpB,Campylobacter jejuni subsp. jejuni serotype O:2 (strain ATCC 700819 / NCTC 11168),IPR003593|IPR003959|IPR019489|IPR036628|IPR004176|IPR001270|IPR028299|IPR041546|IPR050130|IPR027417,pubmed:17615063
+Q0P9N3,Brak nazwy,Campylobacter jejuni subsp. jejuni serotype O:2 (strain ATCC 700819 / NCTC 11168),IPR051010|IPR028081|IPR028082,pubmed:17615063
+Q0P9N8,Brak nazwy,Campylobacter jejuni subsp. jejuni serotype O:2 (strain ATCC 700819 / NCTC 11168),IPR003593|IPR003439|IPR017871|IPR052156|IPR027417,pubmed:17615063
+Q0P9P8,Brak nazwy,Campylobacter jejuni subsp. jejuni serotype O:2 (strain ATCC 700819 / NCTC 11168),IPR021533,pubmed:17615063
+Q0P9X9,Brak nazwy,Campylobacter jejuni subsp. jejuni serotype O:2 (strain ATCC 700819 / NCTC 11168),IPR010065|IPR043429|IPR000515|IPR035906,pubmed:17615063
+Q0P9Z0,Brak nazwy,Campylobacter jejuni subsp. jejuni serotype O:2 (strain ATCC 700819 / NCTC 11168),IPR007410|IPR058248|IPR036182,pubmed:17615063
+Q0PAF4,Molybdopterin adenylyltransferase,Campylobacter jejuni subsp. jejuni serotype O:2 (strain ATCC 700819 / NCTC 11168),IPR036425|IPR001453|IPR051920,pubmed:17615063
+Q0PAH6,DUF3972 domain-containing protein,Campylobacter jejuni subsp. jejuni serotype O:2 (strain ATCC 700819 / NCTC 11168),IPR025002,pubmed:17615063
+Q0PAM1,3-deoxy-D-manno-octulosonate 8-phosphate phosphatase KdsC,Campylobacter jejuni subsp. jejuni serotype O:2 (strain ATCC 700819 / NCTC 11168),IPR050793|IPR036412|IPR006549|IPR023214|IPR010023,pubmed:17615063
+Q0PAS1,Putative peptidyl-prolyl cis-trans isomerase Cbf2,Campylobacter jejuni subsp. jejuni serotype O:2 (strain ATCC 700819 / NCTC 11168),IPR046357|IPR000297|IPR023058|IPR050245,pubmed:17615063
+Q0PAT3,DNA polymerase III subunit delta,Campylobacter jejuni subsp. jejuni serotype O:2 (strain ATCC 700819 / NCTC 11168),IPR027417,pubmed:17615063
+Q0PAU2,Acetolactate synthase small subunit,Campylobacter jejuni subsp. jejuni serotype O:2 (strain ATCC 700819 / NCTC 11168),IPR004789|IPR027271|IPR019455|IPR045865|IPR002912|IPR039557|IPR054480,pubmed:17615063
+Q0PB14,Brak nazwy,Campylobacter jejuni subsp. jejuni serotype O:2 (strain ATCC 700819 / NCTC 11168),IPR052908|IPR039383|IPR011146|IPR036265,pubmed:17615063
+Q0PB75,3-oxoacyl-[acyl-carrier-protein] reductase,Campylobacter jejuni subsp. jejuni serotype O:2 (strain ATCC 700819 / NCTC 11168),IPR011284|IPR057326|IPR036291|IPR020904|IPR050259|IPR002347,pubmed:17615063
+Q0PBB8,Pyruvate kinase,Campylobacter jejuni subsp. jejuni serotype O:2 (strain ATCC 700819 / NCTC 11168),IPR001697|IPR015813|IPR040442|IPR011037|IPR015793|IPR015795|IPR036918|IPR015806,pubmed:17615063
+Q0PBD8,Brak nazwy,Campylobacter jejuni subsp. jejuni serotype O:2 (strain ATCC 700819 / NCTC 11168),IPR005494|IPR016185,pubmed:17615063
+Q0PBX4,Brak nazwy,Campylobacter jejuni subsp. jejuni serotype O:2 (strain ATCC 700819 / NCTC 11168),Brak InterPro kodów dla tego białka.,pubmed:17615063
+Q0PC10,Acetyl-coenzyme A carboxylase carboxyl transferase subunit beta,Campylobacter jejuni subsp. jejuni serotype O:2 (strain ATCC 700819 / NCTC 11168),IPR034733|IPR000438|IPR029045|IPR011762|IPR041010,pubmed:17615063
+Q0PC22,Peptidyl-prolyl cis-trans isomerase,Campylobacter jejuni subsp. jejuni serotype O:2 (strain ATCC 700819 / NCTC 11168),IPR046357|IPR001179|IPR048261,pubmed:17615063
+Q0VD86,Protein INCA1,Homo sapiens,IPR026238,imex:IM-26469|pubmed:21750715
+Q0ZME3,Nucleoprotein,Human coronavirus HKU1 (isolate N5),IPR044344|IPR044345|IPR043505|IPR001218|IPR037179|IPR037195,imex:IM-29365|pubmed:34232536
+Q10471,Polypeptide N-acetylgalactosaminyltransferase 2,Homo sapiens,IPR045885|IPR001173|IPR029044|IPR035992|IPR000772,imex:IM-25472|pubmed:32296183
+Q10713,Mitochondrial-processing peptidase subunit alpha,Homo sapiens,IPR011249|IPR050361|IPR011765|IPR001431|IPR007863,doi:10.1016/j.cell.2021.04.011|doi:10.1038/nature22366|imex:IM-25778|imex:IM-29278|pubmed:28514442|pubmed:33961781
+Q12495,Chromatin assembly factor 1 subunit A,Saccharomyces cerevisiae (strain ATCC 204508 / S288c),IPR048800|IPR021644|IPR022043,imex:IM-14085|pubmed:21179020
+Q12499,Nucleolar protein 58,Saccharomyces cerevisiae (strain ATCC 204508 / S288c),IPR045056|IPR012974|IPR042239|IPR002687|IPR036070|IPR012976,pubmed:12150911|pubmed:16429126
+Q13084,Large ribosomal subunit protein bL28m,Homo sapiens,IPR026569|IPR034704|IPR037147,doi:10.1016/j.cell.2021.04.011|doi:10.1038/nature22366|imex:IM-25778|imex:IM-29278|pubmed:28514442|pubmed:33961781
+Q13296-2,Isoform 2 of Mammaglobin-A,Homo sapiens,Brak InterPro kodów dla tego białka.,doi:10.1038/nature22366|imex:IM-25778|pubmed:28514442
+Q13304,Uracil nucleotide/cysteinyl leukotriene receptor,Homo sapiens,IPR000276|IPR017452,doi:10.1016/j.cell.2021.04.011|imex:IM-29278|pubmed:33961781
+Q13415,Origin recognition complex subunit 1,Homo sapiens,IPR003593|IPR041083|IPR003959|IPR001025|IPR043151|IPR015163|IPR050311|IPR027417,imex:IM-24272|pubmed:26496610
+Q13616,Cullin-1,Homo sapiens,IPR045093|IPR059120|IPR016157|IPR016158|IPR036317|IPR001373|IPR019559|IPR016159|IPR036388|IPR036390,doi:10.1016/j.cell.2010.11.017|imex:IM-18651|pubmed:21145461
+Q13617,Cullin-2,Homo sapiens,IPR045093|IPR059120|IPR016157|IPR016158|IPR036317|IPR001373|IPR019559|IPR016159|IPR036388|IPR036390,doi:10.1038/nature22366|imex:IM-25778|pubmed:17353931|pubmed:28514442
+Q13643,Four and a half LIM domains protein 3,Homo sapiens,IPR056807|IPR001781,imex:IM-23318|imex:IM-25472|pubmed:25416956|pubmed:32296183
+Q14103,Heterogeneous nuclear ribonucleoprotein D0,Homo sapiens,IPR012956|IPR012677|IPR035979|IPR000504,imex:IM-24272|pubmed:26496610
+Q14162,Scavenger receptor class F member 1,Homo sapiens,IPR000742|IPR057138|IPR009030|IPR002049|IPR042635,imex:IM-25472|pubmed:32296183
+Q14696,LRP chaperone MESD,Homo sapiens,IPR019330,imex:IM-25472|pubmed:32296183
+Q14978,Nucleolar and coiled-body phosphoprotein 1,Homo sapiens,IPR006594|IPR039191|IPR007718,imex:IM-30059|pubmed:39251607
+Q15006,ER membrane protein complex subunit 2,Homo sapiens,IPR039856|IPR011990|IPR055217|IPR019734,imex:IM-24272|pubmed:26496610
+Q15031,Leucine--tRNA ligase, mitochondrial,Homo sapiens,IPR001412|IPR002300|IPR002302|IPR025709|IPR013155|IPR014729|IPR009080|IPR009008,doi:10.1016/j.cell.2021.04.011|imex:IM-29278|pubmed:33961781
+Q15118,[Pyruvate dehydrogenase (acetyl-transferring)] kinase isozyme 1, mitochondrial,Homo sapiens,IPR036784|IPR018955|IPR039028|IPR036890|IPR003594|IPR005467,imex:IM-26301|pubmed:29568061
+Q15654,Thyroid receptor-interacting protein 6,Homo sapiens,IPR001781,pubmed:17353931
+Q15848,Adiponectin,Homo sapiens,IPR001073|IPR008160|IPR050392|IPR008983,imex:IM-25472|pubmed:32296183
+Q16666-2,Isoform 2 of Gamma-interferon-inducible protein 16,Homo sapiens,Brak InterPro kodów dla tego białka.,imex:IM-23523|pubmed:25665578
+Q16799,Reticulon-1,Homo sapiens,IPR003388|IPR046964,doi:10.1016/j.cell.2021.04.011|imex:IM-29278|pubmed:33961781
+Q24114,Division abnormally delayed protein,Drosophila melanogaster,IPR001863,imex:IM-16527|pubmed:25294943
+Q24568,Netrin-B,Drosophila melanogaster,IPR050440|IPR008211|IPR002049|IPR056863|IPR001134|IPR018933|IPR008993,imex:IM-16527|pubmed:25294943
+Q3V3W4,Brak nazwy,Mus musculus,IPR000210|IPR011333|IPR036236|IPR013087,imex:IM-24272|pubmed:26496610
+Q42453,Zinc finger protein ZAT7,Arabidopsis thaliana,IPR036236|IPR013087,pubmed:17259181
+Q4G0F5,Vacuolar protein sorting-associated protein 26B,Homo sapiens,IPR014752|IPR028934,doi:10.1016/j.cell.2021.04.011|doi:10.1038/nature22366|imex:IM-25778|imex:IM-29278|pubmed:28514442|pubmed:33961781
+Q4G0J3,La-related protein 7,Homo sapiens,IPR045180|IPR006630|IPR014886|IPR034946|IPR034887|IPR034910|IPR002344|IPR012677|IPR035979|IPR000504|IPR036388|IPR036390,imex:IM-30059|pubmed:39251607
+Q4J6C6,Prolyl endopeptidase-like,Homo sapiens,IPR029058|IPR023302|IPR001375|IPR004106|IPR002470|IPR051543,doi:10.1016/j.cell.2021.04.011|imex:IM-29278|pubmed:33961781
+Q53EZ4,Centrosomal protein of 55 kDa,Homo sapiens,IPR038926|IPR022008,doi:10.1038/s41467-019-11959-3|imex:IM-27438|pubmed:31515488
+Q53GS9,Ubiquitin carboxyl-terminal hydrolase 39,Homo sapiens,IPR038765|IPR001394|IPR050185|IPR028889|IPR033809|IPR013083|IPR001607,imex:IM-12079|pubmed:19615732
+Q55553,Brak nazwy,Synechocystis sp. (strain ATCC 27184 / PCC 6803 / Kazusa),IPR038109|IPR011109|IPR006119|IPR036162|IPR050639,pubmed:18000013
+Q55580,Brak nazwy,Synechocystis sp. (strain ATCC 27184 / PCC 6803 / Kazusa),IPR022244|IPR050218,pubmed:18000013
+Q55633,Brak nazwy,Synechocystis sp. (strain ATCC 27184 / PCC 6803 / Kazusa),IPR051455|IPR001638,pubmed:18000013
+Q55762,Brak nazwy,Synechocystis sp. (strain ATCC 27184 / PCC 6803 / Kazusa),Brak InterPro kodów dla tego białka.,pubmed:18000013
+Q58FF6,Putative heat shock protein HSP 90-beta 4,Homo sapiens,IPR036890|IPR003594|IPR037196|IPR001404|IPR020575|IPR020568,doi:10.1016/j.cell.2021.04.011|imex:IM-29278|pubmed:33961781
+Q5BJF2,Sigma intracellular receptor 2,Homo sapiens,IPR033118|IPR051987|IPR016964,imex:IM-25472|pubmed:32296183
+Q5GAN6,Inactive ribonuclease-like protein 10,Homo sapiens,IPR001427|IPR036816|IPR023412,imex:IM-25472|pubmed:32296183
+Q5T447,E3 ubiquitin-protein ligase HECTD3,Homo sapiens,IPR004939|IPR008979|IPR000569|IPR035983|IPR042469,doi:10.1016/j.cell.2021.04.011|doi:10.1038/nature22366|imex:IM-25778|imex:IM-29278|pubmed:28514442|pubmed:33961781
+Q5T653,Large ribosomal subunit protein uL2m,Homo sapiens,IPR012340|IPR014722|IPR002171|IPR022669|IPR022666|IPR008991,doi:10.1016/j.cell.2021.04.011|imex:IM-29278|pubmed:33961781
+Q659A1,Little elongation complex subunit 2,Homo sapiens,IPR019535,doi:10.1016/j.cell.2021.04.011|imex:IM-29278|pubmed:33961781
+Q68CJ9,Cyclic AMP-responsive element-binding protein 3-like protein 3,Homo sapiens,IPR004827|IPR046347|IPR051381,doi:10.1016/j.cell.2021.04.011|imex:IM-29278|pubmed:33961781
+Q69YG0,Transmembrane protein 42,Homo sapiens,IPR037185|IPR039632,imex:IM-25472|pubmed:32296183
+Q6GTS8,N-fatty-acyl-amino acid synthase/hydrolase PM20D1,Homo sapiens,IPR036264|IPR047177|IPR002933|IPR011650,doi:10.1016/j.cell.2021.04.011|imex:IM-29278|pubmed:33961781
+Q6NTF9-3,Isoform 3 of Rhomboid domain-containing protein 2,Homo sapiens,Brak InterPro kodów dla tego białka.,imex:IM-25472|pubmed:32296183
+Q6PL45-2,Isoform 2 of BRICHOS domain-containing protein 5,Homo sapiens,Brak InterPro kodów dla tego białka.,imex:IM-25472|pubmed:32296183
+Q6Q1R8,Nucleoprotein,Human coronavirus NL63,IPR044344|IPR044345|IPR042548|IPR001218|IPR037179|IPR037195,imex:IM-29365|pubmed:34232536
+Q6RW13,Type-1 angiotensin II receptor-associated protein,Homo sapiens,IPR009436,imex:IM-23318|pubmed:25416956
+Q6RW13-2,Isoform 2 of Type-1 angiotensin II receptor-associated protein,Homo sapiens,Brak InterPro kodów dla tego białka.,imex:IM-25472|pubmed:32296183
+Q6UVJ0,Spindle assembly abnormal protein 6 homolog,Homo sapiens,IPR032396|IPR038558|IPR041513,imex:IM-24512|pubmed:26638075
+Q6UX27-3,Isoform 3 of V-set and transmembrane domain-containing protein 1,Homo sapiens,Brak InterPro kodów dla tego białka.,imex:IM-25472|pubmed:32296183
+Q6UY11,Protein delta homolog 2,Homo sapiens,IPR000742|IPR001881|IPR000152|IPR018097|IPR051022,doi:10.1016/j.cell.2021.04.011|imex:IM-29278|pubmed:33961781
+Q6UY11-2,Isoform 2 of Protein delta homolog 2,Homo sapiens,Brak InterPro kodów dla tego białka.,doi:10.1038/nature22366|imex:IM-25778|pubmed:28514442
+Q6Y7W6,GRB10-interacting GYF protein 2,Homo sapiens,IPR051640|IPR003169|IPR035445,doi:10.1016/j.cell.2021.04.011|imex:IM-29278|pubmed:33961781
+Q6ZVX7,F-box only protein 50,Homo sapiens,IPR007397|IPR039752|IPR008979,doi:10.1016/j.cell.2021.04.011|imex:IM-29278|pubmed:33961781
+Q6ZWV7,Large ribosomal subunit protein uL29,Mus musculus,IPR001854|IPR018254|IPR045059|IPR036049,imex:IM-24272|pubmed:26496610
+Q72C30,Bifunctional enzyme IspD/IspF,Nitratidesulfovibrio vulgaris (strain ATCC 29579 / DSM 644 / CCUG 34227 / NCIMB 8303 / VKM B-1760 / Hildenborough),IPR001228|IPR026596|IPR034683|IPR018294|IPR003526|IPR020555|IPR036571|IPR029044,imex:IM-22740|pubmed:26873250
+Q72D36,Argininosuccinate lyase,Nitratidesulfovibrio vulgaris (strain ATCC 29579 / DSM 644 / CCUG 34227 / NCIMB 8303 / VKM B-1760 / Hildenborough),IPR029419|IPR009049|IPR024083|IPR020557|IPR000362|IPR022761|IPR008948,pubmed:unassigned1256
+Q72FB7,DUF4911 domain-containing protein,Nitratidesulfovibrio vulgaris (strain ATCC 29579 / DSM 644 / CCUG 34227 / NCIMB 8303 / VKM B-1760 / Hildenborough),IPR032587,imex:IM-22740|pubmed:26873250
+Q7K087,Brak nazwy,Drosophila melanogaster,Brak InterPro kodów dla tego białka.,imex:IM-28761|pubmed:37061542
+Q7K527,Tetraspanin,Drosophila melanogaster,IPR018499|IPR000301|IPR008952,imex:IM-28761|pubmed:37061542
+Q7L592-2,Isoform 2 of Protein arginine methyltransferase NDUFAF7, mitochondrial,Homo sapiens,Brak InterPro kodów dla tego białka.,doi:10.1038/nature22366|imex:IM-25778|pubmed:28514442
+Q7L985,Leucine-rich repeat and immunoglobulin-like domain-containing nogo receptor-interacting protein 2,Homo sapiens,IPR007110|IPR036179|IPR013783|IPR013098|IPR003599|IPR003598|IPR001611|IPR003591|IPR032675|IPR050541|IPR000372,doi:10.1016/j.cell.2021.04.011|imex:IM-29278|pubmed:33961781
+Q7RTS1,Class A basic helix-loop-helix protein 15,Homo sapiens,IPR011598|IPR050359|IPR036638,doi:10.1016/j.cell.2021.04.011|imex:IM-29278|pubmed:33961781
+Q7Z5A8,Chemokine-like protein TAFA-3,Homo sapiens,IPR020350|IPR051743,doi:10.1016/j.cell.2021.04.011|imex:IM-29278|pubmed:33961781
+Q7Z5A8-2,Isoform 2 of Chemokine-like protein TAFA-3,Homo sapiens,Brak InterPro kodów dla tego białka.,doi:10.1038/nature22366|imex:IM-25778|pubmed:28514442
+Q7Z5G4,Golgin subfamily A member 7,Homo sapiens,IPR019383|IPR051371,doi:10.1016/j.cell.2021.04.011|imex:IM-29278|pubmed:33961781
+Q7Z6M3,Allergin-1,Homo sapiens,IPR036179|IPR013783|IPR040878,doi:10.1016/j.cell.2021.04.011|imex:IM-29278|pubmed:33961781
+Q7Z7H8,Large ribosomal subunit protein uL10m,Homo sapiens,IPR001790|IPR043141|IPR047865,doi:10.1016/j.cell.2021.04.011|imex:IM-29278|pubmed:33961781
+Q7Z7L7,Protein zer-1 homolog,Homo sapiens,IPR011989|IPR016024|IPR000225|IPR032675|IPR056845|IPR055142|IPR051341,doi:10.1016/j.cell.2021.04.011|doi:10.1038/nature22366|imex:IM-25778|imex:IM-29278|pubmed:28514442|pubmed:33961781
+Q86V59,Paraneoplastic antigen-like protein 8A,Homo sapiens,IPR049131|IPR026523|IPR048271,doi:10.1016/j.cell.2021.04.011|imex:IM-29278|pubmed:33961781
+Q86VP6,Cullin-associated NEDD8-dissociated protein 1,Homo sapiens,IPR011989|IPR016024|IPR039852|IPR013932,doi:10.1016/j.cell.2010.11.017|imex:IM-18651|pubmed:21145461
+Q86WC4,Osteopetrosis-associated transmembrane protein 1,Homo sapiens,IPR019172,doi:10.1016/j.cell.2021.04.011|imex:IM-29278|pubmed:33961781
+Q86XK7,V-set and immunoglobulin domain-containing protein 1,Homo sapiens,IPR007110|IPR036179|IPR013783|IPR003599|IPR003598|IPR013106|IPR000920|IPR029861,doi:10.1016/j.cell.2021.04.011|doi:10.1038/nature22366|imex:IM-25778|imex:IM-29278|pubmed:28514442|pubmed:33961781
+Q8IKM7,Brak nazwy,Plasmodium falciparum (isolate 3D7),Brak InterPro kodów dla tego białka.,imex:IM-16518|mint:MINT-5218050|pubmed:16267556
+Q8IVT5,Kinase suppressor of Ras 1,Homo sapiens,IPR046349|IPR011009|IPR002219|IPR000719|IPR013761|IPR046861|IPR046933|IPR001245|IPR008271|IPR050167,imex:IM-25748|pubmed:27086506
+Q8IWV7,E3 ubiquitin-protein ligase UBR1,Homo sapiens,IPR003769|IPR042065|IPR044046|IPR014719|IPR047507|IPR039164|IPR055194|IPR036390|IPR003126,doi:10.1016/j.cell.2021.04.011|doi:10.1038/nature22366|imex:IM-25778|imex:IM-29278|pubmed:28514442|pubmed:33961781
+Q8IWV8,E3 ubiquitin-protein ligase UBR2,Homo sapiens,IPR003769|IPR042065|IPR044046|IPR014719|IPR047508|IPR039164|IPR055194|IPR036390|IPR003126,doi:10.1016/j.cell.2021.04.011|imex:IM-29278|pubmed:33961781
+Q8IWV8-4,Isoform 4 of E3 ubiquitin-protein ligase UBR2,Homo sapiens,Brak InterPro kodów dla tego białka.,doi:10.1038/nature22366|imex:IM-25778|pubmed:28514442
+Q8IXM6,Nurim,Homo sapiens,IPR033580,imex:IM-25472|pubmed:32296183
+Q8IY31,Intraflagellar transport protein 20 homolog,Homo sapiens,IPR028172,doi:10.1016/j.cell.2021.04.011|imex:IM-29278|pubmed:33961781
+Q8IYB8,ATP-dependent RNA helicase SUPV3L1, mitochondrial,Homo sapiens,IPR055206|IPR001650|IPR027417|IPR050699|IPR022192|IPR041082|IPR044774|IPR041453,imex:IM-30059|pubmed:39251607
+Q8N0U8,Vitamin K epoxide reductase complex subunit 1-like protein 1,Homo sapiens,IPR012932|IPR038354|IPR042406,imex:IM-25472|pubmed:32296183
+Q8N1G0,Zinc finger protein 687,Homo sapiens,IPR045914|IPR041697|IPR057356|IPR036236|IPR013087,imex:IM-13779|pubmed:20711500
+Q8N5M1,ATP synthase mitochondrial F1 complex assembly factor 2,Homo sapiens,IPR011419|IPR042272|IPR023335,doi:10.1016/j.cell.2021.04.011|doi:10.1038/nature22366|imex:IM-25778|imex:IM-29278|pubmed:28514442|pubmed:33961781
+Q8N5M9,Protein jagunal homolog 1,Homo sapiens,IPR009787,imex:IM-25472|pubmed:32296183
+Q8N5N7,Large ribosomal subunit protein mL50,Homo sapiens,IPR018305,doi:10.1016/j.cell.2021.04.011|doi:10.1038/nature22366|imex:IM-25778|imex:IM-29278|pubmed:28514442|pubmed:33961781
+Q8NA69,Stabilizer of axonemal microtubules 5,Homo sapiens,IPR028001,doi:10.1038/nature22366|imex:IM-25778|pubmed:28514442
+Q8NC51,SERPINE1 mRNA-binding protein 1,Homo sapiens,IPR039764|IPR006861|IPR032381,doi:10.1016/j.cell.2021.04.011|imex:IM-29278|pubmed:33961781
+Q8NEX9,Short-chain dehydrogenase/reductase family 9C member 7,Homo sapiens,IPR036291|IPR020904|IPR002347,doi:10.1016/j.cell.2021.04.011|imex:IM-29278|pubmed:33961781
+Q8NHW4,C-C motif chemokine 4-like,Homo sapiens,IPR039809|IPR000827|IPR001811|IPR036048,imex:IM-25472|pubmed:32296183
+Q8NI60,Atypical kinase COQ8A, mitochondrial,Homo sapiens,IPR004147|IPR034646|IPR051409|IPR011009,imex:IM-25472|pubmed:32296183
+Q8T0T9,Novel acetylcholine receptor chaperone,Drosophila melanogaster,IPR032808|IPR040399,imex:IM-28761|pubmed:37061542
+Q8TAA5,GrpE protein homolog 2, mitochondrial,Homo sapiens,IPR000740|IPR013805|IPR009012,doi:10.1016/j.cell.2021.04.011|doi:10.1038/nature22366|imex:IM-25778|imex:IM-29278|pubmed:28514442|pubmed:33961781
+Q8TAF3,WD repeat-containing protein 48,Homo sapiens,IPR015943|IPR020472|IPR019775|IPR036322|IPR001680|IPR051246|IPR021772,imex:IM-12079|pubmed:19615732
+Q8TBZ3,WD repeat-containing protein 20,Homo sapiens,IPR015943|IPR036322|IPR001680|IPR051362,doi:10.1016/j.cell.2021.04.011|imex:IM-29278|pubmed:33961781
+Q8TBZ3-2,Isoform 2 of WD repeat-containing protein 20,Homo sapiens,Brak InterPro kodów dla tego białka.,doi:10.1038/nature22366|imex:IM-25778|pubmed:28514442
+Q8TCC3,Large ribosomal subunit protein uL30m,Homo sapiens,IPR036919|IPR005996|IPR016082,doi:10.1016/j.cell.2021.04.011|imex:IM-29278|pubmed:33961781
+Q8TD20,Solute carrier family 2, facilitated glucose transporter member 12,Homo sapiens,IPR020846|IPR005828|IPR050820|IPR036259|IPR003663|IPR005829,doi:10.1038/nature22366|imex:IM-25778|pubmed:28514442
+Q8TDD1,ATP-dependent RNA helicase DDX54,Homo sapiens,IPR012541|IPR033517|IPR011545|IPR050079|IPR014001|IPR001650|IPR027417|IPR000629|IPR014014,doi:10.1016/j.cell.2021.04.011|imex:IM-29278|pubmed:33961781
+Q8TEB1,DDB1- and CUL4-associated factor 11,Homo sapiens,IPR051859|IPR017399|IPR015943|IPR020472|IPR036322|IPR001680,doi:10.1016/j.cell.2021.04.011|imex:IM-29278|pubmed:33961781
+Q8WUA2,Peptidyl-prolyl cis-trans isomerase-like 4,Homo sapiens,IPR035542|IPR029000|IPR002130|IPR035538|IPR012677|IPR035979|IPR000504,imex:IM-30059|pubmed:39251607
+Q8WVV5,Butyrophilin subfamily 2 member A2,Homo sapiens,IPR001870|IPR043136|IPR053896|IPR003879|IPR013320|IPR007110|IPR036179|IPR013783|IPR003599|IPR013106|IPR050504|IPR006574|IPR037958|IPR003877,imex:IM-25472|pubmed:32296183
+Q8WVX3-2,Isoform 2 of Sarcoplasmic/endoplasmic reticulum calcium ATPase regulator ARLN,Homo sapiens,Brak InterPro kodów dla tego białka.,imex:IM-25472|pubmed:32296183
+Q92482,Aquaporin-3,Homo sapiens,IPR023271|IPR023275|IPR000425|IPR050363|IPR022357,imex:IM-25472|pubmed:32296183
+Q92731,Estrogen receptor beta,Homo sapiens,IPR021064|IPR028355|IPR024178|IPR035500|IPR000536|IPR050200|IPR001723|IPR001628|IPR013088,imex:IM-13781|pubmed:21182203
+Q92796,Disks large homolog 3,Homo sapiens,IPR019583|IPR016313|IPR019590|IPR035763|IPR008145|IPR008144|IPR020590|IPR027417|IPR001478|IPR036034|IPR036028|IPR001452|IPR050614,doi:10.1016/j.cell.2021.04.011|imex:IM-29278|pubmed:33961781
+Q92804,TATA-binding protein-associated factor 2N,Homo sapiens,IPR012677|IPR035979|IPR000504|IPR034870|IPR001876|IPR036443,imex:IM-30059|pubmed:39251607
+Q92817,Envoplakin,Homo sapiens,IPR041615|IPR043197|IPR035915|IPR058847|IPR001101|IPR001452|IPR018159|IPR055419,doi:10.1016/j.cell.2021.04.011|imex:IM-29278|pubmed:33961781
+Q92917,G-patch domain and KOW motifs-containing protein,Homo sapiens,IPR000467|IPR041993|IPR041994|IPR005824|IPR014722|IPR045166|IPR026822,imex:IM-30059|pubmed:39251607
+Q92956,Tumor necrosis factor receptor superfamily member 14,Homo sapiens,IPR001368|IPR022332|IPR034031,pubmed:17353931
+Q93015,N-alpha-acetyltransferase 80,Homo sapiens,IPR016181|IPR000182|IPR039840,imex:IM-16517|mint:MINT-5217955|pubmed:16169070
+Q93079,Histone H2B type 1-H,Homo sapiens,IPR007125|IPR009072|IPR000558|IPR055333,doi:10.1074/mcp.ra118.000924|imex:IM-26653|pubmed:30021884
+Q969L2,Protein MAL2,Homo sapiens,IPR013295|IPR008253|IPR050578,imex:IM-25472|pubmed:32296183
+Q969Y0,NXPE family member 3,Homo sapiens,IPR014756|IPR057106|IPR026845,imex:IM-25472|pubmed:32296183
+Q969Z0,FAST kinase domain-containing protein 4,Homo sapiens,IPR013579|IPR050870|IPR010622|IPR013584,imex:IM-30059|pubmed:39251607
+Q96AQ6,Pre-B-cell leukemia transcription factor-interacting protein 1,Homo sapiens,IPR051990,doi:10.1016/j.cell.2021.04.011|imex:IM-29278|pubmed:33961781
+Q96BW5,N-acetyltaurine hydrolase,Homo sapiens,IPR017947|IPR032466|IPR001559,doi:10.1016/j.cell.2021.04.011|imex:IM-29278|pubmed:33961781
+Q96BW5-2,Isoform 2 of N-acetyltaurine hydrolase,Homo sapiens,Brak InterPro kodów dla tego białka.,doi:10.1038/nature22366|imex:IM-25778|pubmed:28514442
+Q96CS3,FAS-associated factor 2,Homo sapiens,IPR049483|IPR036249|IPR006577|IPR009060|IPR054109|IPR029071|IPR001012|IPR050730,doi:10.1016/j.cell.2021.04.011|doi:10.1038/nature22366|imex:IM-25778|imex:IM-29278|pubmed:28514442|pubmed:33961781
+Q96DW6,Mitochondrial glycine transporter,Homo sapiens,IPR030847|IPR023395|IPR018108,imex:IM-16517|mint:MINT-5217955|pubmed:16169070
+Q96DZ9-2,Isoform 2 of CKLF-like MARVEL transmembrane domain-containing protein 5,Homo sapiens,Brak InterPro kodów dla tego białka.,imex:IM-25472|pubmed:32296183
+Q96E93,Killer cell lectin-like receptor subfamily G member 1,Homo sapiens,IPR001304|IPR016186|IPR016187|IPR042190|IPR033992,imex:IM-25472|pubmed:32296183
+Q96EH3,Mitochondrial assembly of ribosomal large subunit protein 1,Homo sapiens,IPR004394|IPR043519,doi:10.1016/j.cell.2021.04.011|doi:10.1038/nature22366|imex:IM-25778|imex:IM-29278|pubmed:28514442|pubmed:33961781
+Q96EL3,Large ribosomal subunit protein mL53,Homo sapiens,IPR052473|IPR019716,doi:10.1016/j.cell.2021.04.011|imex:IM-29278|pubmed:33961781
+Q96JC9,ELL-associated factor 1,Homo sapiens,IPR027093|IPR019194,doi:10.1038/nature22366|imex:IM-25778|pubmed:28514442
+Q96LL9,DnaJ homolog subfamily C member 30, mitochondrial,Homo sapiens,IPR001623|IPR036869|IPR053025,imex:IM-25472|pubmed:32296183
+Q96ME7,Zinc finger protein 512,Homo sapiens,IPR052274|IPR048408|IPR048403|IPR036236|IPR013087,doi:10.1038/nature22366|imex:IM-25778|pubmed:28514442
+Q96MX0,CKLF-like MARVEL transmembrane domain-containing protein 3,Homo sapiens,IPR008253|IPR050578,imex:IM-25472|pubmed:32296183
+Q96PE5,Opalin,Homo sapiens,IPR026609,doi:10.1016/j.cell.2021.04.011|imex:IM-29278|pubmed:33961781
+Q96QK1,Vacuolar protein sorting-associated protein 35,Homo sapiens,IPR016024|IPR005378|IPR042491,doi:10.1016/j.cell.2021.04.011|doi:10.1038/nature22366|imex:IM-25778|imex:IM-29278|pubmed:28514442|pubmed:33961781
+Q96S79,Ras-like protein family member 10B,Homo sapiens,IPR027417|IPR052661|IPR001806,doi:10.1038/nature22366|imex:IM-25778|pubmed:28514442
+Q96SZ6,Mitochondrial tRNA methylthiotransferase CDK5RAP1,Homo sapiens,IPR006638|IPR005839|IPR020612|IPR013848|IPR038135|IPR006463|IPR007197|IPR023404|IPR058240|IPR002792,doi:10.1016/j.cell.2021.04.011|imex:IM-29278|pubmed:33961781
+Q96T37,RNA-binding protein 15,Homo sapiens,IPR012677|IPR035979|IPR034470|IPR034472|IPR034473|IPR000504|IPR016194|IPR012921|IPR010912,imex:IM-30059|pubmed:39251607
+Q96T88,E3 ubiquitin-protein ligase UHRF1,Homo sapiens,IPR015947|IPR036987|IPR003105|IPR021991|IPR000626|IPR029071|IPR047406|IPR045134|IPR011011|IPR001965|IPR019787|IPR001841|IPR013083|IPR017907,doi:10.1016/j.cell.2021.04.011|doi:10.1038/nature22366|imex:IM-25778|imex:IM-29278|pubmed:28514442|pubmed:33961781
+Q99207,Nucleolar complex protein 14,Saccharomyces cerevisiae (strain ATCC 204508 / S288c),IPR007276,doi:10.1261/rna.062927.117|imex:IM-24374|imex:IM-25795|pubmed:11694595|pubmed:12150911|pubmed:16429126|pubmed:29054886
+Q99436,Proteasome subunit beta type-7,Homo sapiens,IPR029055|IPR000243|IPR024689|IPR016050|IPR001353|IPR023333,imex:IM-16517|mint:MINT-5217955|pubmed:16169070
+Q99523,Sortilin,Homo sapiens,IPR031777|IPR031778|IPR006581|IPR050310|IPR015943,imex:IM-24272|pubmed:26496610
+Q99598,Translin-associated protein X,Homo sapiens,IPR016069|IPR002848|IPR016068|IPR036081,imex:IM-24272|pubmed:26496610
+Q99788,Chemerin-like receptor 1,Homo sapiens,IPR002258|IPR000826|IPR000276|IPR017452,doi:10.1016/j.cell.2021.04.011|imex:IM-29278|pubmed:33961781
+Q99797,Mitochondrial intermediate peptidase,Homo sapiens,IPR033851|IPR024079|IPR024077|IPR045090|IPR001567,doi:10.1016/j.cell.2021.04.011|doi:10.1038/nature22366|imex:IM-25778|imex:IM-29278|pubmed:28514442|pubmed:33961781
+Q99PL5,Ribosome-binding protein 1,Mus musculus,IPR007794|IPR040248,imex:IM-24272|pubmed:26496610
+Q9BQG1,Synaptotagmin-3,Homo sapiens,IPR000008|IPR035892|IPR001565,imex:IM-25472|pubmed:32296183
+Q9BRK4,Leucine zipper putative tumor suppressor 2,Homo sapiens,IPR045329|IPR028597,doi:10.1016/j.cell.2021.04.011|imex:IM-29278|pubmed:33961781
+Q9BRU9,rRNA-processing protein UTP23 homolog,Homo sapiens,IPR006984|IPR029060|IPR057776,doi:10.1016/j.cell.2021.04.011|imex:IM-29278|pubmed:33961781
+Q9BSG1,Zinc finger protein 2,Homo sapiens,IPR001909|IPR036051|IPR050758|IPR036236|IPR013087,doi:10.1038/nature22366|imex:IM-25778|pubmed:28514442
+Q9BT56,Spexin,Homo sapiens,IPR028126,imex:IM-25472|pubmed:32296183
+Q9BU79,Transmembrane protein 243,Homo sapiens,IPR022564,imex:IM-25472|pubmed:32296183
+Q9BVL4,Protein adenylyltransferase SelO, mitochondrial,Homo sapiens,IPR003846,doi:10.1016/j.cell.2021.04.011|doi:10.1038/nature22366|imex:IM-25778|imex:IM-29278|pubmed:28514442|pubmed:33961781
+Q9BVS5,tRNA (adenine(58)-N(1))-methyltransferase, mitochondrial,Homo sapiens,IPR029063|IPR054151|IPR049470|IPR014816,doi:10.1016/j.cell.2021.04.011|imex:IM-26301|imex:IM-29278|pubmed:29568061|pubmed:33961781
+Q9BVV7,Mitochondrial import inner membrane translocase subunit Tim21,Homo sapiens,IPR013261|IPR038552,doi:10.1016/j.cell.2021.04.011|imex:IM-29278|pubmed:33961781
+Q9BXA6,Testis-specific serine/threonine-protein kinase 6,Homo sapiens,IPR011009|IPR000719|IPR017441|IPR008271|IPR042710,doi:10.1016/j.molcel.2020.07.001|imex:IM-29257|pubmed:32707033
+Q9BYD1,Large ribosomal subunit protein uL13m,Homo sapiens,IPR005822|IPR005823|IPR023563|IPR036899,doi:10.1016/j.cell.2021.04.011|imex:IM-29278|pubmed:33961781
+Q9BYD3,Large ribosomal subunit protein uL4m,Homo sapiens,IPR002136|IPR013005|IPR023574,doi:10.1016/j.cell.2021.04.011|imex:IM-29278|pubmed:33961781
+Q9BYD3-2,Isoform 2 of Large ribosomal subunit protein uL4m,Homo sapiens,Brak InterPro kodów dla tego białka.,doi:10.1038/nature22366|imex:IM-25778|pubmed:28514442
+Q9C0D3,Protein zyg-11 homolog B,Homo sapiens,IPR011989|IPR016024|IPR001611|IPR032675|IPR056845|IPR055142|IPR051341,doi:10.1016/j.cell.2021.04.011|doi:10.1038/nature22366|imex:IM-25778|imex:IM-29278|pubmed:28514442|pubmed:33961781
+Q9GZS1,DNA-directed RNA polymerase I subunit RPA49,Homo sapiens,IPR009668,pubmed:17353931
+Q9H0U6,Large ribosomal subunit protein uL18m,Homo sapiens,IPR057268|IPR005484|IPR036967,doi:10.1016/j.cell.2021.04.011|imex:IM-29278|pubmed:33961781
+Q9H0X4,Protein FAM234A,Homo sapiens,IPR055409|IPR045232|IPR011047,doi:10.1016/j.cell.2021.04.011|imex:IM-29278|pubmed:33961781
+Q9H2F3,3 beta-hydroxysteroid dehydrogenase type 7,Homo sapiens,IPR002225|IPR036291|IPR050425,imex:IM-25472|pubmed:32296183
+Q9H2Y7,Zinc finger protein 106,Homo sapiens,IPR015943|IPR036322|IPR001680|IPR042622|IPR013087,doi:10.1016/j.cell.2021.04.011|imex:IM-29278|pubmed:33961781
+Q9H444,Charged multivesicular body protein 4b,Homo sapiens,IPR005024,imex:IM-24272|pubmed:26496610
+Q9H5H4,Zinc finger protein 768,Homo sapiens,IPR000684|IPR036236|IPR013087,imex:IM-25472|pubmed:32296183
+Q9H6L5,Reticulophagy regulator 1,Homo sapiens,IPR055255|IPR057282|IPR043384,doi:10.1016/j.cell.2021.04.011|imex:IM-29278|pubmed:33961781
+Q9H6Q3,Src-like-adapter 2,Homo sapiens,IPR043539|IPR000980|IPR036860|IPR036028|IPR001452|IPR035052,doi:10.1016/j.cell.2021.04.011|imex:IM-29278|pubmed:33961781
+Q9H857,5'-nucleotidase domain-containing protein 2,Homo sapiens,IPR036412|IPR008380|IPR023214|IPR016695,doi:10.1016/j.cell.2021.04.011|imex:IM-29278|pubmed:33961781
+Q9HD33,Large ribosomal subunit protein uL29m,Homo sapiens,IPR038340|IPR010729,doi:10.1016/j.cell.2021.04.011|imex:IM-29278|pubmed:33961781
+Q9HD33-2,Isoform 2 of Large ribosomal subunit protein uL29m,Homo sapiens,Brak InterPro kodów dla tego białka.,doi:10.1038/nature22366|imex:IM-25778|pubmed:28514442
+Q9N415,Brak nazwy,Caenorhabditis elegans,IPR003961|IPR057884|IPR036116|IPR013783|IPR035753|IPR035755|IPR040325|IPR036028|IPR001452,imex:IM-18681|pubmed:23549480
+Q9NP92,Large ribosomal subunit protein mL65,Homo sapiens,IPR010793|IPR039982,doi:10.1016/j.cell.2021.04.011|doi:10.1038/nature22366|imex:IM-25778|imex:IM-29278|pubmed:28514442|pubmed:33961781
+Q9NQ29,Putative RNA-binding protein Luc7-like 1,Homo sapiens,IPR004882,doi:10.1016/j.cell.2021.04.011|imex:IM-29278|pubmed:33961781
+Q9NQ29-2,Isoform 2 of Putative RNA-binding protein Luc7-like 1,Homo sapiens,Brak InterPro kodów dla tego białka.,doi:10.1038/nature22366|imex:IM-25778|pubmed:28514442
+Q9NQW6,Anillin,Homo sapiens,IPR012966|IPR031970|IPR051364|IPR011993|IPR037840|IPR001849,doi:10.1016/j.cell.2021.04.011|imex:IM-29278|pubmed:33961781
+Q9NRW1,Ras-related protein Rab-6B,Homo sapiens,IPR027417|IPR050227|IPR005225|IPR001806,doi:10.1016/j.cell.2021.04.011|doi:10.1038/nature22366|imex:IM-25778|imex:IM-29278|pubmed:28514442|pubmed:33961781
+Q9NUL7,Probable ATP-dependent RNA helicase DDX28,Homo sapiens,IPR011545|IPR050079|IPR014001|IPR001650|IPR027417|IPR014014,doi:10.1016/j.cell.2021.04.011|imex:IM-29278|pubmed:33961781
+Q9NVV5-2,Isoform 1 of Androgen-induced gene 1 protein,Homo sapiens,Brak InterPro kodów dla tego białka.,imex:IM-25472|pubmed:32296183
+Q9NWT8,Small ribosomal subunit protein bS22, mitochondrial,Homo sapiens,IPR013177,imex:IM-26301|pubmed:29568061
+Q9NX40,OCIA domain-containing protein 1,Homo sapiens,IPR040187|IPR009764,doi:10.1016/j.cell.2021.04.011|imex:IM-29278|pubmed:33961781
+Q9NY72,Sodium channel regulatory subunit beta-3,Homo sapiens,IPR007110|IPR036179|IPR013783|IPR003599|IPR013106|IPR027098,doi:10.1016/j.cell.2021.04.011|doi:10.1038/nature22366|imex:IM-25778|imex:IM-29278|pubmed:28514442|pubmed:33961781
+Q9NYK5,Large ribosomal subunit protein mL39,Homo sapiens,IPR012675|IPR050062|IPR004095|IPR012676|IPR018163,doi:10.1016/j.cell.2021.04.011|imex:IM-29278|pubmed:33961781
+Q9NYK5-2,Isoform 2 of Large ribosomal subunit protein mL39,Homo sapiens,Brak InterPro kodów dla tego białka.,doi:10.1038/nature22366|imex:IM-25778|pubmed:28514442
+Q9P031,Thyroid transcription factor 1-associated protein 26,Homo sapiens,IPR013730,doi:10.1038/nature22366|imex:IM-25778|pubmed:28514442
+Q9P2K6,Kelch-like protein 42,Homo sapiens,IPR011705|IPR056737|IPR000210|IPR052392|IPR015915|IPR006652|IPR044727|IPR011333,doi:10.1016/j.cell.2021.04.011|doi:10.1038/nature22366|imex:IM-25778|imex:IM-29278|pubmed:28514442|pubmed:33961781
+Q9PHK9,ATP-dependent protease subunit HslV,Campylobacter jejuni subsp. jejuni serotype O:2 (strain ATCC 700819 / NCTC 11168),IPR022281|IPR029055|IPR001353|IPR023333,pubmed:17615063
+Q9PIB9,6,7-dimethyl-8-ribityllumazine synthase,Campylobacter jejuni subsp. jejuni serotype O:2 (strain ATCC 700819 / NCTC 11168),IPR034964|IPR002180|IPR036467,pubmed:17615063
+Q9PIH4,Exodeoxyribonuclease 7 large subunit,Campylobacter jejuni subsp. jejuni serotype O:2 (strain ATCC 700819 / NCTC 11168),IPR003753|IPR020579|IPR025824,pubmed:17615063
+Q9PIK3,Aspartate 1-decarboxylase,Campylobacter jejuni subsp. jejuni serotype O:2 (strain ATCC 700819 / NCTC 11168),IPR009010|IPR003190,pubmed:17615063
+Q9PIQ3,Bacteriohemerythrin,Campylobacter jejuni subsp. jejuni serotype O:2 (strain ATCC 700819 / NCTC 11168),IPR023504|IPR016131|IPR050669|IPR012312|IPR035938|IPR012827,pubmed:17615063
+Q9PLV2,Homoserine O-acetyltransferase,Campylobacter jejuni subsp. jejuni serotype O:2 (strain ATCC 700819 / NCTC 11168),IPR029062|IPR033752,pubmed:17615063
+Q9PML1,UPF0306 protein Cj1449c,Campylobacter jejuni subsp. jejuni serotype O:2 (strain ATCC 700819 / NCTC 11168),IPR012349|IPR011194,pubmed:17615063
+Q9PMT4,Glutamine--fructose-6-phosphate aminotransferase [isomerizing],Campylobacter jejuni subsp. jejuni serotype O:2 (strain ATCC 700819 / NCTC 11168),IPR017932|IPR005855|IPR047084|IPR035466|IPR035490|IPR029055|IPR001347|IPR046348,pubmed:17615063
+Q9PN59,Pyridoxine 5'-phosphate synthase,Campylobacter jejuni subsp. jejuni serotype O:2 (strain ATCC 700819 / NCTC 11168),IPR013785|IPR004569|IPR036130,pubmed:17615063
+Q9PNT2,3-dehydroquinate synthase,Campylobacter jejuni subsp. jejuni serotype O:2 (strain ATCC 700819 / NCTC 11168),IPR050071|IPR016037|IPR030963|IPR030960|IPR056179,pubmed:17615063
+Q9PP15,Ribose-phosphate pyrophosphokinase,Campylobacter jejuni subsp. jejuni serotype O:2 (strain ATCC 700819 / NCTC 11168),IPR000842|IPR029099|IPR029057|IPR000836|IPR005946|IPR037515,pubmed:17615063
+Q9UBK5,Hematopoietic cell signal transducer,Homo sapiens,IPR009861,doi:10.1016/j.cell.2021.04.011|imex:IM-29278|pubmed:33961781
+Q9UBY5,Lysophosphatidic acid receptor 3,Homo sapiens,IPR000276|IPR017452|IPR004065|IPR005385,imex:IM-25472|pubmed:32296183
+Q9UET6,tRNA (cytidine(32)/guanosine(34)-2'-O)-methyltransferase,Homo sapiens,IPR028590|IPR050082|IPR002877|IPR015507|IPR029063,imex:IM-24272|pubmed:26496610
+Q9UFW8,CGG triplet repeat-binding protein 1,Homo sapiens,IPR033375,doi:10.1016/j.cell.2021.04.011|doi:10.1038/nature22366|imex:IM-25472|imex:IM-25778|imex:IM-29278|pubmed:28514442|pubmed:32296183|pubmed:33961781
+Q9UHX1,Poly(U)-binding-splicing factor PUF60,Homo sapiens,IPR012677|IPR006532|IPR051974|IPR034209|IPR034211|IPR034212|IPR035979|IPR000504|IPR003954,pubmed:17353931
+Q9UK00,Uncharacterized protein C3orf18,Homo sapiens,IPR042351,doi:10.1016/j.cell.2021.04.011|imex:IM-29278|pubmed:33961781
+Q9UKR5,Ergosterol biosynthetic protein 28 homolog,Homo sapiens,IPR005352,imex:IM-25472|pubmed:32296183
+Q9ULK2,Ataxin-7-like protein 1,Homo sapiens,IPR052237|IPR013243,doi:10.1016/j.cell.2021.04.011|imex:IM-29278|pubmed:33961781
+Q9ULV5,Heat shock factor protein 4,Homo sapiens,IPR000232|IPR036388|IPR036390,imex:IM-22301|pubmed:25036637
+Q9ULW3,Activator of basal transcription 1,Homo sapiens,IPR039119|IPR034353|IPR012677|IPR035979,doi:10.1016/j.cell.2021.04.011|imex:IM-29278|pubmed:33961781
+Q9UNA1-1,Isoform 1 of Rho GTPase-activating protein 26,Homo sapiens,Brak InterPro kodów dla tego białka.,imex:IM-26436|pubmed:32203420
+Q9UQ80,Proliferation-associated protein 2G4,Homo sapiens,IPR036005|IPR004545|IPR047113|IPR000994|IPR018349|IPR036388|IPR036390,doi:10.1074/mcp.ra118.000924|imex:IM-26653|pubmed:30021884
+Q9VH81,protein-serine/threonine phosphatase,Drosophila melanogaster,IPR004843|IPR029052|IPR041753|IPR013235|IPR051134|IPR006186|IPR011990|IPR019734,imex:IM-16527|pubmed:25294943
+Q9VKS2,Brak nazwy,Drosophila melanogaster,Brak InterPro kodów dla tego białka.,imex:IM-28761|pubmed:37061542
+Q9VUQ1,BAG family molecular chaperone regulator 2,Drosophila melanogaster,IPR037689,imex:IM-16524|mint:MINT-5216804|pubmed:14605208
+Q9W3F6,Bleomycin hydrolase,Drosophila melanogaster,IPR038765|IPR000169|IPR004134,imex:IM-16527|pubmed:25294943
+Q9W4F9,C2H2-type domain-containing protein,Drosophila melanogaster,IPR050331|IPR036236|IPR013087,imex:IM-16524|mint:MINT-5216804|pubmed:14605208
+Q9Y2H6,Fibronectin type-III domain-containing protein 3A,Homo sapiens,IPR050617|IPR003961|IPR036116|IPR013783,imex:IM-13779|pubmed:20711500
+Q9Y2Z4,Tyrosine--tRNA ligase, mitochondrial,Homo sapiens,IPR001412|IPR002305|IPR014729|IPR036986|IPR002307|IPR024088,doi:10.1016/j.cell.2021.04.011|doi:10.1038/nature22366|imex:IM-25778|imex:IM-29278|pubmed:28514442|pubmed:33961781
+Q9Y3D6,Mitochondrial fission 1 protein,Homo sapiens,IPR016543|IPR033745|IPR028061|IPR028058|IPR011990,doi:10.1016/j.cell.2021.04.011|imex:IM-29278|pubmed:33961781
+Q9Y478,5'-AMP-activated protein kinase subunit beta-1,Homo sapiens,IPR032640|IPR006828|IPR037256|IPR050827|IPR013783|IPR014756,pubmed:17353931
+Q9Y4Z2,Neurogenin-3,Homo sapiens,IPR011598|IPR050359|IPR036638|IPR032656,doi:10.1016/j.cell.2021.04.011|imex:IM-29278|pubmed:33961781
+Q9Y5W5,Wnt inhibitory factor 1,Homo sapiens,IPR050969|IPR000742|IPR013032|IPR003306|IPR038677|IPR013309,doi:10.1016/j.cell.2021.04.011|imex:IM-29278|pubmed:33961781
+Q9Y5Z9,UbiA prenyltransferase domain-containing protein 1,Homo sapiens,IPR000537|IPR044878|IPR026046,imex:IM-25472|pubmed:32296183
+Q9Y639,Neuroplastin,Homo sapiens,IPR007110|IPR036179|IPR013783|IPR013098|IPR003599|IPR003598,doi:10.1016/j.cell.2021.04.011|imex:IM-29278|pubmed:33961781
+Q9Y680,Peptidyl-prolyl cis-trans isomerase FKBP7,Homo sapiens,IPR011992|IPR018247|IPR002048|IPR046357|IPR052273|IPR001179,imex:IM-25472|pubmed:32296183
+Q9Y6D0,Selenoprotein K,Homo sapiens,IPR024491,imex:IM-25472|pubmed:32296183
+Q9Y6G3,Large ribosomal subunit protein mL42,Homo sapiens,IPR019346,doi:10.1016/j.cell.2021.04.011|doi:10.1038/nature22366|imex:IM-25778|imex:IM-29278|pubmed:28514442|pubmed:33961781
+X2JCC3,poly(A)-specific ribonuclease,Drosophila melanogaster,IPR039637|IPR006941|IPR012337|IPR036397,imex:IM-16527|pubmed:25294943
+chebi:"CHEBI:15414"
+intact:EBI-10247271
+intact:EBI-1033611
+intact:EBI-10821373
+intact:EBI-11515716
+intact:EBI-16769503
+intact:EBI-25396188
+intact:EBI-5333164
+intact:EBI-5333168
+intact:EBI-5333185
+intact:EBI-5333230
+intact:EBI-5333232
+intact:EBI-5333234
+intact:EBI-5333236
+intact:EBI-5333238
+intact:EBI-5333273
