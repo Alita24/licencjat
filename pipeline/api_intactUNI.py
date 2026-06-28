@@ -1,7 +1,7 @@
 import sys
 from pathlib import Path
 import pandas as pd
-from shutil import rmtree
+import shutil
 
 parent_dir = Path(__file__).resolve().parents[1]
 if str(parent_dir) not in sys.path:
@@ -61,8 +61,15 @@ def intact_uniprot_pipeline(ids_dir, out_dir, file_pattern="_uniprot_ids"):
             all_results.append(df)
         if all_results:
             pd.concat(all_results).to_csv(combined_file, sep="\t", index=False)
+
+            try:
+                shutil.rmtree(fam_subdir)
+            except Exception as e:
+                print(f"Warning: Could not remove temporary directory {fam_subdir}: {e}")
         else:
             combined_file.touch(exist_ok=True)
+     
+        
  
 
 

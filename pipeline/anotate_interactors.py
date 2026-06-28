@@ -93,15 +93,23 @@ def uniprot_ids_to_interpro(csv_file, output_file):
             write_failure_to_file(output_file, uid)
 
 
-def annotate_pipeline(input_dir):
+def annotate_pipeline(input_dir, output_dir):
     """
     processes all reactors_*.csv files in the given directory,
     writing output interpro_kody_{protein}.csv for each.
     """
     input_dir = Path(input_dir)
+    output_dir = Path(output_dir)
+    output_dir.mkdir(parents=True, exist_ok=True)
+
     for reactor_file in input_dir.glob("*_partners.csv"):
         protein = reactor_file.stem.replace("_partners", "")
-        output_file = input_dir / f"{protein}_interactor_IPR.csv"
+        print(f'[ANNOTATING PROTEINS WITH DOMAINS] for {protein}')
+        # Check if the output file already exists to avoid unnecessary processing
+        output_file = output_dir / f"{protein}_interactor_IPR.csv"
+        if output_file.exists():
+            print(f'    [SKIP] Output file already exists: {output_file}')
+            continue
         uniprot_ids_to_interpro(reactor_file, output_file)
 
 
@@ -144,7 +152,13 @@ def count_interpro(input_dir, output_dir):
 
     for reactor_file in input_dir.glob("*_interactor_IPR.csv"):
         protein = reactor_file.stem.replace("_interactor_IPR", "")
-        output_file = output_dir / f"{protein}_count_interacter_IPR.csv"
+        # Check if the output file already exists to avoid unnecessary processing
+        output_file = output_dir / f"{protein}_count_interactor_IPR.csv"
+        if output_file.exists():
+            print(f'    [SKIP] Output file already exists: {output_file}')
+            continue
+        print(f'[COUNTING INTERPRO DOMAINS] for {protein}')
+        output_file = output_dir / f"{protein}_count_interactor_IPR.csv"
         print(f"Processing file: {reactor_file} for protein: {protein}")
         
         interpro_counts = Counter()
@@ -156,6 +170,9 @@ def count_interpro(input_dir, output_dir):
                 if len(row) < 4:
                     continue
                 interpro_raw = row[3].strip()
+                if not interpro_raw.startswith('IPR'):
+                    continue
+           
                 pubmed_raw = row[4].strip()
 
                 if not interpro_raw or 'Brak InterPro kodów dla tego białka.' in interpro_raw:
@@ -169,6 +186,7 @@ def count_interpro(input_dir, output_dir):
                 for code in codes:
                     interpro_counts[code]+=1
                     interpro_pubmeds[code].update(pubmed_ids)
+
         print(f"Writing InterPro domain counts to: {output_file}")
         with open(output_file, 'w', encoding='utf-8', newline='') as out:
             writer = csv.writer(out, delimiter=';')

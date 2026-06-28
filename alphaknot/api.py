@@ -63,6 +63,17 @@ def fetch_alphaknot_for_gene(
     out_path = Path(out_dir)
     out_path.mkdir(parents=True, exist_ok=True)
     tsv_path = out_path / f"{gene_name}.tsv"
+
+    non_empty_lines = 0
+    for ln in resp.text.splitlines():
+        if ln.strip() != "":
+            non_empty_lines += 1
+            if non_empty_lines > 2:
+                break
+    if non_empty_lines <= 2:
+        print(f"{gene_name}: Response from AlphaKnot contains too few lines ({non_empty_lines}), skipping save.")
+        return None
+
     tsv_path.write_text(resp.text, encoding="utf-8")
     if tsv_path.exists():
         print(f"{gene_name}: TSV file already exists at {tsv_path}, skipping fetch.")
