@@ -24,7 +24,7 @@ def pipeline_main():
     """
     here = Path(__file__).resolve().parent
     
-    # 1. alphaknot results - for knotted proteins
+    # # 1. alphaknot results - for knotted proteins
     # alphaknot_pipeline(
     #     out_dir=here / "alphaknot_results"
     # )
@@ -35,20 +35,20 @@ def pipeline_main():
     #     out_dir=here/ "interpro_results"
     # )
 
-    # # 3. Extract UniProt IDs per group from alphaknot (should already be in uniprot_ids/*.txt)
-    # isolate_uniprot_ids(
-    #     input_dir=here / "alphaknot_results",
-    #     output_dir=here / "uniprot_ids"
-    # )
+    # 3. Extract UniProt IDs per group from alphaknot (should already be in uniprot_ids/*.txt)
+    isolate_uniprot_ids(
+        input_dir=here / "alphaknot_results",
+        output_dir=here / "uniprot_ids"
+    )
 
-    # isolate_uniprot_ids(
-    #     input_dir=here / "interpro_results",
-    #     output_dir=here / "uniprot_ids",
-    #     interpro=True
-    # )
+    isolate_uniprot_ids(
+        input_dir=here / "interpro_results",
+        output_dir=here / "uniprot_ids",
+        interpro=True
+    )
 
-    # # 4. Fetch IntAct interaction data per UniProt ID and via family name
-    # print("Fetching IntAct interaction data per UniProt ID and via family name...")
+    # 4. Fetch IntAct interaction data per UniProt ID and via family name
+    print("Fetching IntAct interaction data per UniProt ID and via family name...")
 
     intact_uniprot_pipeline(
         ids_dir=here / "uniprot_ids",
@@ -60,25 +60,25 @@ def pipeline_main():
         out_dir=here / "intact_fam_uniprot",
         file_pattern="_uniprot_ids_UNKNOT"
     )
-    # print("IntAct interaction data fetched per UniProt ID.")
+    print("IntAct interaction data fetched per UniProt ID.")
 
-    # # 6. isolate interactors
-    # isolate_partners(
-    #     intact_dir=here/'intact_fam_uniprot',
-    #     output_dir=here/'isolated_partners',
-    #     add_publication=True
-    # )
+    # 6. isolate interactors
+    isolate_partners(
+        intact_dir=here/'intact_fam_uniprot',
+        output_dir=here/'isolated_partners',
+        add_publication=True
+    )
 
-    # #7. uniprot --> interpro domains
-    # annotate_pipeline(
-    #     input_dir=here/'isolated_partners',
-    #     output_dir=here/'annotated_partners'
-    # )
+    #7. uniprot --> interpro domains
+    annotate_pipeline(
+        input_dir=here/'isolated_partners',
+        output_dir=here/'annotated_partners'
+    )
 
-    # count_interpro(
-    #     input_dir=here/'annotated_partners',
-    #     output_dir=here/'count_files',
-    # )
+    count_interpro(
+        input_dir=here/'annotated_partners',
+        output_dir=here/'count_files',
+    )
     
 
 if __name__ == "__main__":

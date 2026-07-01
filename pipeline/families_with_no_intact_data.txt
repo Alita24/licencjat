@@ -1,0 +1,6 @@
+DUF2254_membrane_partners
+Lantibiotic_dehydratase_partners
+Delta_carbonic_anhydrase_partners
+S_adenosylmethionine_synthetase_archaea_partners
+DUF4253_partners
+Aspartate_ornithine_carbamoyltransferase_partners

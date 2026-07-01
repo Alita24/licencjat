@@ -1,10 +1,12 @@
 import sys
+import os
 from pathlib import Path
 import csv
 import requests
 from collections import Counter, defaultdict
 
 parent_dir = Path(__file__).resolve().parents[1]
+here = Path(__file__).resolve().parent
 if str(parent_dir) not in sys.path:
     sys.path.append(str(parent_dir))
 
@@ -54,19 +56,23 @@ def write_failure_to_file(output_file, uid):
     with open(output_file, "a", encoding="utf-8") as outf:
         outf.write(f'{uid}\n')
 
-def uniprot_ids_to_interpro(csv_file, output_file):
+def uniprot_ids_to_interpro(csv_file, output_file, no_data_file):
     """
-    process all UniProt IDs from a CSV and write InterPro and metadata results to output_file.
+    Process all UniProt IDs from a CSV and write InterPro and metadata results to output_file.
+    If the input CSV is empty (no data after header), write the file name to a special file
+    ('families_with_no_intact_data.txt') as a record of families with no intact data.
     """
     uniprot_ids = {}
+    has_data = False
 
     with open(csv_file, encoding='utf-8') as f:
         reader = csv.reader(f)
         next(reader, None)  # safely skip header
 
         for row in reader:
-            if not row:
+            if not row or all([r.strip() == "" for r in row]):
                 continue
+            has_data = True
 
             row = [x.strip() for x in row]
 
@@ -75,18 +81,27 @@ def uniprot_ids_to_interpro(csv_file, output_file):
             elif row[0]:
                 uniprot_ids[row[0]] = None
 
+    # If there's no data beyond the header, record this file
+    if not has_data:
+        # We will write the family name (without _partners.csv or the like!)
+        # e.g. "tRNA_guanine_N1_methyltransferase_N_terminal_partners.csv" -> "tRNA_guanine_N1_methyltransferase_N_terminal"
+        # Or just the base file name
+        family_name = os.path.splitext(os.path.basename(csv_file))[0]
+        with open(no_data_file, "a", encoding="utf-8") as f:
+            f.write(f"{family_name}\n")
+        return
 
     for uid in uniprot_ids:
-        if not uid :
+        if not uid:
             continue
-        
+
         print(f"\nDane dla {uid}:")
         try:
             data = get_uniprot_data(uid)
             if data:
                 nazwa, organizm, interpro_list = extract_interpro_data(data)
                 print(uniprot_ids.get(uid))
-                write_interpro_to_file(output_file, uid, nazwa, organizm, interpro_list,uniprot_ids.get(uid))
+                write_interpro_to_file(output_file, uid, nazwa, organizm, interpro_list, uniprot_ids.get(uid))
             else:
                 print("Nie udało się pobrać danych z UniProt.")
         except Exception:
@@ -101,16 +116,22 @@ def annotate_pipeline(input_dir, output_dir):
     input_dir = Path(input_dir)
     output_dir = Path(output_dir)
     output_dir.mkdir(parents=True, exist_ok=True)
+    # Remove the families_with_no_intact_data.txt file if it exists in the output directory
+    no_data_file = here / "families_with_no_intact_data.txt"
+    print(no_data_file)
+    if no_data_file.exists():
+        no_data_file.unlink()
 
     for reactor_file in input_dir.glob("*_partners.csv"):
         protein = reactor_file.stem.replace("_partners", "")
         print(f'[ANNOTATING PROTEINS WITH DOMAINS] for {protein}')
         # Check if the output file already exists to avoid unnecessary processing
         output_file = output_dir / f"{protein}_interactor_IPR.csv"
+    
         if output_file.exists():
             print(f'    [SKIP] Output file already exists: {output_file}')
             continue
-        uniprot_ids_to_interpro(reactor_file, output_file)
+        uniprot_ids_to_interpro(reactor_file, output_file, no_data_file)
 
 
 # zliczanie wystepujacych domen interpro i sortowanie po czestosci
@@ -154,12 +175,10 @@ def count_interpro(input_dir, output_dir):
         protein = reactor_file.stem.replace("_interactor_IPR", "")
         # Check if the output file already exists to avoid unnecessary processing
         output_file = output_dir / f"{protein}_count_interactor_IPR.csv"
+        print(f'[COUNTING INTERPRO DOMAINS] for {protein}')
         if output_file.exists():
             print(f'    [SKIP] Output file already exists: {output_file}')
             continue
-        print(f'[COUNTING INTERPRO DOMAINS] for {protein}')
-        output_file = output_dir / f"{protein}_count_interactor_IPR.csv"
-        print(f"Processing file: {reactor_file} for protein: {protein}")
         
         interpro_counts = Counter()
         interpro_pubmeds = defaultdict(set)
