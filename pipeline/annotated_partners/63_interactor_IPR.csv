@@ -1,0 +1,87 @@
+A6NI15,Mesogenin-1,Homo sapiens,IPR011598|IPR036638|IPR040259,imex:IM-25472|pubmed:32296183
+D6RGG3,Collagen alpha-1(XII) chain,Homo sapiens,IPR008160|IPR013320|IPR050525|IPR003961|IPR036116|IPR013783|IPR048287|IPR002035|IPR036465,imex:IM-24272|pubmed:26496610
+K7EMM4,Transcription factor E2-alpha,Homo sapiens,IPR011598|IPR036638|IPR051098,imex:IM-24272|pubmed:26496610
+O00534,von Willebrand factor A domain-containing protein 5A,Homo sapiens,IPR013694|IPR002035|IPR036465,doi:10.1016/j.cell.2021.04.011|imex:IM-25472|imex:IM-29278|pubmed:32296183|pubmed:33961781
+O14936,Peripheral plasma membrane protein CASK,Homo sapiens,IPR035473|IPR008145|IPR008144|IPR020590|IPR011009|IPR014775|IPR004172|IPR036892|IPR050716|IPR027417|IPR001478|IPR036034|IPR000719|IPR036028|IPR001452,pubmed:15694377
+O43824,Putative GTP-binding protein 6,Homo sapiens,IPR030394|IPR006073|IPR032305|IPR016496|IPR025121|IPR042108|IPR027417,doi:10.1016/j.cell.2021.04.011|imex:IM-29278|pubmed:33961781
+O75564,Jerky protein homolog,Homo sapiens,IPR050863|IPR004875|IPR009057|IPR006600|IPR007889,doi:10.1016/j.cell.2021.04.011|imex:IM-29278|pubmed:33961781
+O75925,E3 SUMO-protein ligase PIAS1,Homo sapiens,IPR023321|IPR038654|IPR003034|IPR036361|IPR004181|IPR013083,imex:IM-24272|pubmed:26496610
+O94763,Unconventional prefoldin RPB5 interactor 1,Homo sapiens,IPR009053|IPR004127|IPR052255,doi:10.1016/j.cell.2021.04.011|imex:IM-29278|pubmed:33961781
+P06396,Gelsolin,Homo sapiens,IPR029006|IPR007123|IPR007122,doi:10.1016/j.celrep.2020.108050|imex:IM-28217|pubmed:32814053
+P0CG47,Polyubiquitin-B,Homo sapiens,IPR000626|IPR029071|IPR019954|IPR019956|IPR050158,doi:10.1016/j.cell.2021.04.011|imex:IM-29278|pubmed:33961781
+P11908,Ribose-phosphate pyrophosphokinase 2,Homo sapiens,IPR000842|IPR029099|IPR029057|IPR000836|IPR005946|IPR037515,doi:10.1016/j.cell.2021.04.011|imex:IM-29278|pubmed:33961781
+P13349,Myogenic factor 5,Homo sapiens,IPR011598|IPR036638|IPR022032|IPR002546|IPR039704,imex:IM-25472|pubmed:32296183
+P15173,Myogenin,Homo sapiens,IPR011598|IPR036638|IPR002546|IPR039704,imex:IM-25472|pubmed:32296183
+P15884,Transcription factor 4,Homo sapiens,IPR011598|IPR036638|IPR051098,doi:10.1016/j.cell.2021.04.011|doi:10.1038/nature22366|imex:IM-15364|imex:IM-25778|imex:IM-29278|pubmed:21988832|pubmed:28514442|pubmed:33961781
+P15884-3,Isoform SEF2-1D of Transcription factor 4,Homo sapiens,Brak InterPro kodów dla tego białka.,imex:IM-25472|pubmed:32296183
+P15923,Transcription factor E2-alpha,Homo sapiens,IPR011598|IPR036638|IPR051098,imex:IM-24272|pubmed:26496610
+P15923-1,Isoform E12 of Transcription factor E2-alpha,Homo sapiens,Brak InterPro kodów dla tego białka.,imex:IM-19434|pubmed:10915743
+P15923-2,Isoform E47 of Transcription factor E2-alpha,Homo sapiens,Brak InterPro kodów dla tego białka.,imex:IM-24272|pubmed:26496610
+P15923-3,Isoform 3 of Transcription factor E2-alpha,Homo sapiens,Brak InterPro kodów dla tego białka.,imex:IM-25472|pubmed:32296183
+P22607,Fibroblast growth factor receptor 3,Homo sapiens,IPR016248|IPR007110|IPR036179|IPR013783|IPR013098|IPR003599|IPR003598|IPR011009|IPR000719|IPR017441|IPR050122|IPR001245|IPR008266|IPR020635,doi:10.1016/j.celrep.2020.108050|imex:IM-28217|pubmed:32814053
+P28329-3,Isoform R of Choline O-acetyltransferase,Homo sapiens,Brak InterPro kodów dla tego białka.,doi:10.1016/j.celrep.2020.108050|imex:IM-28217|pubmed:32814053
+P40424,Pre-B-cell leukemia transcription factor 1,Homo sapiens,IPR001356|IPR017970|IPR009057|IPR008422|IPR005542|IPR050224,doi:10.1016/j.cell.2021.04.011|imex:IM-29278|pubmed:33961781
+P40425,Pre-B-cell leukemia transcription factor 2,Homo sapiens,IPR001356|IPR017970|IPR009057|IPR008422|IPR005542|IPR050224,doi:10.1016/j.cell.2021.04.011|imex:IM-29278|pubmed:33961781
+P40426,Pre-B-cell leukemia transcription factor 3,Homo sapiens,IPR001356|IPR017970|IPR009057|IPR008422|IPR005542|IPR050224,doi:10.1016/j.cell.2021.04.011|imex:IM-29278|pubmed:33961781
+P41134,DNA-binding protein inhibitor ID-1,Homo sapiens,IPR011598|IPR026052|IPR036638,doi:10.1016/j.cell.2010.01.044|doi:10.1016/j.cell.2021.04.011|doi:10.1016/j.celrep.2020.108050|doi:10.1242/jcs.233395|imex:IM-14939|imex:IM-15364|imex:IM-19434|imex:IM-22632|imex:IM-24272|imex:IM-25472|imex:IM-25805|imex:IM-28217|imex:IM-28774|imex:IM-29278|pubmed:10915743|pubmed:15694377|pubmed:17855368|pubmed:17891176|pubmed:20211142|pubmed:21988832|pubmed:25814554|pubmed:26496610|pubmed:31391242|pubmed:32296183|pubmed:32814053|pubmed:33961781
+P41134-1,Isoform ID-A of DNA-binding protein inhibitor ID-1,Homo sapiens,Brak InterPro kodów dla tego białka.,pubmed:15694377
+P41134-2,Isoform ID-B of DNA-binding protein inhibitor ID-1,Homo sapiens,Brak InterPro kodów dla tego białka.,doi:10.1038/nature22366|imex:IM-25778|pubmed:15694377|pubmed:28514442
+P41223,Protein BUD31 homolog,Homo sapiens,IPR001748|IPR018230,imex:IM-24272|pubmed:26496610
+P53618,Coatomer subunit beta,Homo sapiens,IPR011989|IPR016024|IPR002553|IPR011710|IPR016460|IPR029446,imex:IM-15364|pubmed:21988832
+P55036,26S proteasome non-ATPase regulatory subunit 4,Homo sapiens,IPR027040|IPR049590|IPR003903|IPR002035|IPR036465,imex:IM-14939|pubmed:17891176
+P55347,Homeobox protein PKNOX1,Homo sapiens,IPR001356|IPR009057|IPR008422|IPR032453|IPR050224,doi:10.1016/j.cell.2021.04.011|imex:IM-29278|pubmed:33961781
+P56962,Syntaxin-17,Homo sapiens,IPR010989|IPR059001|IPR028676|IPR045242|IPR006012|IPR000727,doi:10.1016/j.cell.2021.04.011|imex:IM-29278|pubmed:33961781
+P61764,Syntaxin-binding protein 1,Homo sapiens,IPR043154|IPR043127|IPR001619|IPR027482|IPR036045,imex:IM-24272|pubmed:26496610
+P62158,Brak nazwy,Brak organizmu,Brak InterPro kodów dla tego białka.,imex:IM-19867|pubmed:16512683
+P83876,Thioredoxin-like protein 4A,Homo sapiens,IPR004123|IPR036249,imex:IM-24272|pubmed:26496610
+Q00013-3,Isoform 3 of 55 kDa erythrocyte membrane protein,Homo sapiens,Brak InterPro kodów dla tego białka.,imex:IM-24272|pubmed:26496610
+Q02577,Helix-loop-helix protein 2,Homo sapiens,IPR011598|IPR036638|IPR040238,doi:10.1016/j.cell.2021.04.011|imex:IM-29278|pubmed:33961781
+Q03135,Caveolin-1,Homo sapiens,IPR001612|IPR018361,pubmed:17855368
+Q16401,26S proteasome non-ATPase regulatory subunit 5,Homo sapiens,IPR011989|IPR016024|IPR019538,imex:IM-24272|pubmed:26496610
+Q5T200,Zinc finger CCCH domain-containing protein 13,Homo sapiens,IPR052824|IPR000571|IPR036855,imex:IM-24272|pubmed:26496610
+Q6FHY5,Brak nazwy,Homo sapiens,IPR001356|IPR020479|IPR017970|IPR009057|IPR042634,imex:IM-25472|pubmed:32296183
+Q6SPF0,Sterile alpha motif domain-containing protein 1,Homo sapiens,IPR001660|IPR013761|IPR056983|IPR048589,doi:10.1016/j.cell.2021.04.011|imex:IM-29278|pubmed:33961781
+Q6XD76,Achaete-scute homolog 4,Homo sapiens,IPR011598|IPR050283|IPR036638,doi:10.1016/j.cell.2021.04.011|imex:IM-29278|pubmed:33961781
+Q7L0Y3,tRNA methyltransferase 10 homolog C,Homo sapiens,IPR028564|IPR038459|IPR025812|IPR007356,doi:10.1016/j.cell.2021.04.011|imex:IM-29278|pubmed:33961781
+Q7Z333,Helicase senataxin,Homo sapiens,IPR045055|IPR041679|IPR041677|IPR027417|IPR047187,doi:10.1016/j.cell.2021.04.011|imex:IM-29278|pubmed:33961781
+Q7Z699,Sprouty-related, EVH1 domain-containing protein 1,Homo sapiens,IPR023337|IPR011993|IPR041937|IPR007875|IPR000697,doi:10.1016/j.celrep.2020.108050|imex:IM-28217|pubmed:32814053
+Q86W42,THO complex subunit 6,Homo sapiens,IPR056551|IPR042626|IPR015943|IPR019775|IPR036322|IPR001680,imex:IM-24272|pubmed:26496610
+Q86WJ1,ATP-dependent chromatin remodeler CHD1L,Homo sapiens,IPR031053|IPR002464|IPR014001|IPR001650|IPR002589|IPR043472|IPR027417|IPR038718|IPR049730|IPR000330,imex:IM-24272|pubmed:26496610
+Q8BW96,Calcium/calmodulin-dependent protein kinase type 1D,Mus musculus,IPR011009|IPR000719|IPR017441|IPR008271,imex:IM-19867|pubmed:16512683
+Q8NFJ9,BBSome complex member BBS1,Homo sapiens,IPR028784|IPR032728|IPR056419|IPR011047,doi:10.1016/j.cell.2021.04.011|imex:IM-29278|pubmed:33961781
+Q92785,Zinc finger protein ubi-d4,Homo sapiens,IPR025750|IPR036236|IPR013087|IPR011011|IPR001965|IPR019787|IPR013083,imex:IM-24272|pubmed:26496610
+Q969Q1,E3 ubiquitin-protein ligase TRIM63,Homo sapiens,IPR017903|IPR050617|IPR042667|IPR027370|IPR000315|IPR001841|IPR013083|IPR017907,doi:10.1242/jcs.233395|imex:IM-25805|pubmed:31391242
+Q96BD6,SPRY domain-containing SOCS box protein 1,Homo sapiens,IPR001870|IPR043136|IPR013320|IPR050672|IPR001496|IPR003877,imex:IM-25472|pubmed:32296183
+Q96ES7,SAGA-associated factor 29,Homo sapiens,IPR037802|IPR010750|IPR047288|IPR047287,doi:10.1016/j.cell.2021.04.011|imex:IM-29278|pubmed:33961781
+Q96JB3,Hypermethylated in cancer 2 protein,Homo sapiens,IPR000210|IPR011333|IPR036236|IPR013087,doi:10.1016/j.cell.2021.04.011|imex:IM-29278|pubmed:33961781
+Q96KN3,Homeobox protein PKNOX2,Homo sapiens,IPR001356|IPR009057|IPR008422|IPR032453|IPR050224,doi:10.1016/j.cell.2021.04.011|imex:IM-29278|pubmed:33961781
+Q96MH2,Protein HEXIM2,Homo sapiens,IPR024872,doi:10.1016/j.cell.2021.04.011|imex:IM-29278|pubmed:33961781
+Q99081,Transcription factor 12,Homo sapiens,IPR011598|IPR036638|IPR051098,doi:10.1016/j.cell.2010.01.044|imex:IM-24272|imex:IM-28774|pubmed:20211142|pubmed:26496610
+Q99081-3,Isoform 3 of Transcription factor 12,Homo sapiens,Brak InterPro kodów dla tego białka.,imex:IM-25472|pubmed:32296183
+Q9BQ90,Kelch domain-containing protein 3,Homo sapiens,IPR015915|IPR006652|IPR052637,doi:10.1016/j.cell.2021.04.011|imex:IM-29278|pubmed:33961781
+Q9BS26,Endoplasmic reticulum resident protein 44,Homo sapiens,IPR052643|IPR041870|IPR041862|IPR036249|IPR013766,imex:IM-24272|pubmed:26496610
+Q9BUB5-2,Isoform 2 of MAP kinase-interacting serine/threonine-protein kinase 1,Homo sapiens,Brak InterPro kodów dla tego białka.,imex:IM-24272|pubmed:26496610
+Q9BX63,Fanconi anemia group J protein,Homo sapiens,IPR006555|IPR045028|IPR014013|IPR006554|IPR014001|IPR027417|IPR010614|IPR013020,doi:10.1016/j.cell.2021.04.011|imex:IM-29278|pubmed:33961781
+Q9BYV6,Tripartite motif-containing protein 55,Homo sapiens,IPR017903|IPR050617|IPR027370|IPR000315|IPR001841|IPR013083|IPR017907,doi:10.1242/jcs.233395|imex:IM-25805|pubmed:31391242
+Q9H3S7,Tyrosine-protein phosphatase non-receptor type 23,Homo sapiens,IPR025304|IPR004328|IPR038499|IPR029021|IPR000242|IPR016130|IPR003595|IPR000387,doi:10.1016/j.cell.2021.04.011|imex:IM-29278|pubmed:33961781
+Q9H6U6,BCAS3 microtubule associated cell migration factor,Homo sapiens,IPR045142|IPR022175|IPR048382|IPR015943|IPR036322,doi:10.1016/j.cell.2021.04.011|imex:IM-29278|pubmed:33961781
+Q9H792,Inactive tyrosine-protein kinase PEAK1,Homo sapiens,IPR011009|IPR051511|IPR000719|IPR008266,doi:10.1016/j.cell.2021.04.011|imex:IM-29278|pubmed:33961781
+Q9NQ33,Achaete-scute homolog 3,Homo sapiens,IPR011598|IPR050283|IPR036638,imex:IM-25472|pubmed:32296183
+Q9NRG1,Phosphoribosyltransferase domain-containing protein 1,Homo sapiens,IPR050408|IPR005904|IPR029057|IPR000836,imex:IM-25472|pubmed:32296183
+Q9NS37,CREB/ATF bZIP transcription factor,Homo sapiens,IPR004827|IPR046347,doi:10.1016/j.cell.2021.04.011|imex:IM-29278|pubmed:33961781
+Q9NTJ4,Alpha-mannosidase 2C1,Homo sapiens,IPR054723|IPR011013|IPR041147|IPR011330|IPR011682|IPR015341|IPR037094|IPR000602|IPR027291|IPR028995,doi:10.1016/j.cell.2021.04.011|imex:IM-29278|pubmed:33961781
+Q9NUX5,Protection of telomeres protein 1,Homo sapiens,IPR012340|IPR028389|IPR048953|IPR032042|IPR011564,imex:IM-24272|pubmed:26496610
+Q9NVV4,Poly(A) RNA polymerase, mitochondrial,Homo sapiens,IPR054708|IPR043519|IPR002058|IPR041252,doi:10.1016/j.cell.2021.04.011|imex:IM-29278|pubmed:33961781
+Q9NWZ5,Uridine-cytidine kinase-like 1,Homo sapiens,IPR027417|IPR006083|IPR029057|IPR000836|IPR000764,doi:10.1016/j.cell.2021.04.011|imex:IM-29278|pubmed:33961781
+Q9NX01,Thioredoxin-like protein 4B,Homo sapiens,IPR004123|IPR036249,doi:10.1016/j.cell.2021.04.011|imex:IM-29278|pubmed:33961781
+Q9NXL9,DNA helicase MCM9,Homo sapiens,IPR003593|IPR031327|IPR058768|IPR001208|IPR041562|IPR033762|IPR012340|IPR027417,doi:10.1016/j.cell.2021.04.011|imex:IM-29278|pubmed:33961781
+Q9UBV7,Beta-1,4-galactosyltransferase 7,Homo sapiens,IPR003859|IPR027791|IPR027995|IPR029044,imex:IM-24272|pubmed:26496610
+Q9UEY8,Gamma-adducin,Homo sapiens,IPR051017|IPR001303|IPR036409,doi:10.1016/j.cell.2021.04.011|imex:IM-29278|pubmed:33961781
+Q9UH62,Armadillo repeat-containing X-linked protein 3,Homo sapiens,IPR011989|IPR006911|IPR016024|IPR000225|IPR051303,doi:10.1016/j.cell.2021.04.011|imex:IM-29278|pubmed:33961781
+Q9UJA3,DNA helicase MCM8,Homo sapiens,IPR003593|IPR031327|IPR056875|IPR058767|IPR001208|IPR041562|IPR033762|IPR012340|IPR027417,doi:10.1016/j.cell.2021.04.011|imex:IM-29278|pubmed:33961781
+Q9UKG1,DCC-interacting protein 13-alpha,Homo sapiens,IPR027267|IPR004148|IPR047181|IPR037929|IPR011993|IPR001849|IPR047236|IPR006020|IPR047237,imex:IM-22632|pubmed:25814554
+Q9Y3X0,Coiled-coil domain-containing protein 9,Homo sapiens,IPR029336,imex:IM-24272|pubmed:26496610
+Q9Y4E8,Ubiquitin carboxyl-terminal hydrolase 15,Homo sapiens,IPR035927|IPR038765|IPR006615|IPR001394|IPR013792|IPR050185|IPR028135|IPR029071|IPR028889|IPR029346|IPR018200,imex:IM-24272|pubmed:26496610
+Q9Y649,Brak nazwy,Homo sapiens,Brak InterPro kodów dla tego białka.,doi:10.1016/j.celrep.2020.108050|imex:IM-28217|pubmed:32814053
+Q9Y6K9,NF-kappa-B essential modulator,Homo sapiens,IPR032419|IPR021063|IPR034735|IPR051301,doi:10.1016/j.cell.2010.01.044|imex:IM-28774|pubmed:20211142
+intact:EBI-22617209

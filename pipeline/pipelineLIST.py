@@ -34,7 +34,9 @@ def isolate_ids(list_families, delimiter=';', col_number=0):
 
 def partners(group_name, intact_dir, out_path):
     """
-	TODO: napisz
+	This function finds all interactor UniProt IDs (partners) for a given group, 
+	removes any that are already in the starting list for that group, 
+	and writes the remaining interactors and their publications to a CSV file.
     """
     print(f"Starting collection for group: {group_name}")
 
@@ -76,7 +78,7 @@ def pipeline():
 	data_path = parent_dir / "data"
 	
 	# 1. specify files
-	file_names = ["data.tsv"]
+	file_names = ["63.tsv", 'solenoid.tsv']
 
 	# 2. isolate the names 
 	list_families = [data_path / file_name for file_name in file_names]
@@ -94,17 +96,18 @@ def pipeline():
 	# 5. isolate interactors
 	for fam in list_families:
 		file_stem = Path(fam).stem
-		partners(file_stem, intact_dir=here / 'intact_list', out_path=here/'isolated_partners/LIST')
+		partners(file_stem, intact_dir=here / 'intact_list', out_path=here/'isolated_partners')
 
 	# 6. uniprot --> interpro domains
 	annotate_pipeline(
-		input_dir=here/'isolated_partners/LIST'
+		input_dir=here/'isolated_partners',
+		output_dir = here/'annotated_partners'
 	)
 
 	# 7. count the domains
 	count_interpro(
-		input_dir=here/'isolated_partners/LIST', 
-		output_dir=here/'isolated_partners/LIST'
+		input_dir=here/'annotated_partners', 
+		output_dir=here/'count_files'
 	)
 
 if __name__ == '__main__':
