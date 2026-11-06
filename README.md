@@ -1,27 +1,21 @@
-# Analiza interakcji białek i domen InterPro
+# Protein interaction analysis pipeline
 
-Repozytorium zawiera skrypty i dane do analizy białek należących do wybranych rodzin: od wyszukania białek i ich interakcji w bazach AlphaKnot, InterPro i IntAct po wskazanie domen InterPro najczęściej spotykanych u partnerów interakcji.
+This directory contains scripts for collecting protein interaction data and identifying InterPro domains that occur frequently among the interaction partners of selected protein groups.
 
-## Co znajduje się w repozytorium
+## Project configuration and components
 
-- `data/targets.py` — konfiguracja 20 grup białek i powiązanych z nimi identyfikatorów InterPro (IPR). To tutaj dodaje się lub zmienia analizowane grupy.
-- `alphaknot/api.py`, `interpro/api.py`, `intAct/api.py` — funkcje komunikujące się z bazami AlphaKnot, InterPro i IntAct.
-- `pipeline/` — skrypty łączące etapy pobierania, przetwarzania i anotacji oraz zapisane wyniki pośrednie i końcowe.
-- `data/63.tsv`, `data/list.tsv`, `data/solenoid.tsv` — dodatkowe tabele danych; `list.tsv` jest obecnie pusty.
+- `../data/targets.py` defines the protein groups and their InterPro (IPR) identifiers.
+- `api_alphaknot.py` and `api_interpro.py` retrieve protein data from AlphaKnot and InterPro.
+- `isolate_uniprot_ids.py` extracts and compares UniProt accession lists.
+- `api_intactUNI.py` and `api_intactGENE.py` retrieve IntAct interactions by UniProt accession or group name.
+- `combine_intact.py` combines and deduplicates interaction tables.
+- `isolate_interactors.py` extracts interaction partners, excluding proteins already listed for the target group.
+- `anotate_interactors.py` retrieves UniProt annotations for partners and counts their InterPro domains.
+- `pipelineGENE.py` and `pipelineLIST.py` are the pipeline entry-point scripts.
 
-## Jak działa analiza
+## Run the current analysis
 
-1. Grupy białek i ich identyfikatory IPR są odczytywane z `data/targets.py`.
-2. AlphaKnot i InterPro dostarczają listy białek powiązanych z tymi grupami.
-3. Identyfikatory UniProt są zbierane i wykorzystywane do pobrania interakcji z IntAct. Skrypty mogą też pobierać interakcje po nazwie grupy.
-4. Dane interakcji są łączone, a identyfikatory UniProt partnerów są oddzielane od identyfikatorów białek z analizowanej grupy.
-5. Partnerzy są anotowani na podstawie danych UniProt. Skrypt zlicza występowanie przypisanych im domen InterPro i zapisuje ich nazwy oraz opisy.
-
-W katalogach `KNOTTED` i `UNKNOTTED` etykiety odzwierciedlają sposób przygotowania list w tym projekcie: `KNOTTED` zawiera identyfikatory uzyskane z AlphaKnot, a `UNKNOTTED` — identyfikatory z InterPro, których nie znaleziono na liście AlphaKnot. Brak białka w AlphaKnot sam w sobie nie potwierdza, że jego struktura nie zawiera węzła.
-
-## Uruchomienie
-
-Wymagany jest Python 3.10 lub nowszy oraz pakiety `requests` i `pandas`. Z katalogu głównego repozytorium utwórz środowisko i zainstaluj zależności:
+Use Python 3.10 or newer. From the repository root, create an environment and install the required packages:
 
 ```bash
 python3 -m venv .venv
@@ -29,35 +23,37 @@ source .venv/bin/activate
 python -m pip install requests pandas
 ```
 
-Następnie uruchom aktualny etap analizy:
+Run the current group-based analysis:
 
 ```bash
 python pipeline/pipelineGENE.py
 ```
 
-Skrypt korzysta z zapisanych wcześniej interakcji w `pipeline/intact_uniprot_results/KNOTTED/`, tworzy listy partnerów w `pipeline/isolated_partners/KNOTTED/`, pobiera ich anotacje z UniProt i zapisuje zliczenia domen InterPro. Do pobrania anotacji potrzebne jest połączenie z internetem.
+The script reads existing interaction tables from `pipeline/intact_uniprot_results/KNOTTED/` and UniProt accession lists from `pipeline/uniprot_ids/`. It writes partner lists, retrieves partner annotations from UniProt, and counts InterPro domains. Network access is required for the annotation and domain metadata requests.
 
-**To polecenie nie odświeża całego zbioru danych.** Kroki pobierania danych z AlphaKnot, InterPro i IntAct są w `pipeline/pipelineGENE.py` zakomentowane. Skrypty do poszczególnych etapów znajdują się w `pipeline/`; przed pełnym odświeżeniem należy sprawdzić ich konfigurację i wskazane katalogi wejściowe oraz wyjściowe. Eksperymentalny skrypt `pipeline/pipelineLIST.py` oczekuje pliku `data/data.tsv`, którego obecnie nie ma w repozytorium.
+The current `pipelineGENE.py` run does **not** refresh the AlphaKnot, InterPro, or IntAct input data. Those download and preparation calls are commented out. It currently processes the `KNOTTED` results; the corresponding `UNKNOTTED` calls are also commented out.
 
-Przy ponownym uruchomieniu anotacji warto usunąć lub przenieść istniejące pliki `*_interactor_IPR.csv` z katalogu wynikowego: anotacje są dopisywane do tych plików, więc ponowne wykonanie może powielić wiersze.
+## Results
 
-## Wyniki
+The repository includes previously downloaded data and intermediate results in these directories:
 
-W repozytorium znajdują się już dane pobrane i wyniki dla części etapów. Najważniejsze pliki wynikowe to:
+- `alphaknot_results/` — AlphaKnot TSV files.
+- `interpro_results/` — InterPro protein data.
+- `uniprot_ids/` — UniProt accession lists used by the analysis.
+- `intact_uniprot_results/` and `intact_gene_results/` — IntAct interaction tables.
+- `combined_intact_results/` — merged and deduplicated interaction tables.
+- `isolated_partners/` — partner lists and InterPro annotations and frequency summaries.
 
-- `pipeline/alphaknot_results/` — wyniki zapytań do AlphaKnot w formacie TSV.
-- `pipeline/interpro_results/` — pobrane i połączone dane InterPro.
-- `pipeline/intact_uniprot_results/` i `pipeline/intact_gene_results/` — tabele interakcji z IntAct.
-- `pipeline/isolated_partners/` — listy partnerów (`*_partners.csv`), anotacje UniProt/InterPro (`*_interactor_IPR.csv`) oraz podsumowania częstości domen (`*_count_interacter_IPR.csv`).
+For each group, the main derived files in `isolated_partners/` are:
 
-Końcowym rezultatem są tabele dla poszczególnych grup białek: lista wykrytych partnerów, ich identyfikatory publikacji oraz ranking domen InterPro według częstości. Zakres dostępnych wyników różni się między grupami; repozytorium nie zawiera jednego zbiorczego raportu z interpretacją biologiczną.
+- `*_partners.csv` — partner UniProt accessions and, when available, publication identifiers.
+- `*_interactor_IPR.csv` — partner protein names, organisms, InterPro accessions, and publication identifiers.
+- `*_count_interacter_IPR.csv` — InterPro domain counts, names, descriptions, and associated publications.
 
-## Najważniejsze skrypty
+The `KNOTTED` and `UNKNOTTED` directory labels describe how the input lists were formed in this project. `UNKNOTTED` contains InterPro accessions not found in the AlphaKnot list; absence from AlphaKnot alone does not establish that a protein has no structural knot. Results are provided as tables, and coverage varies between groups; there is no single consolidated report with biological interpretation.
 
-- `pipeline/api_alphaknot.py` — pobieranie danych z AlphaKnot dla grup z `data/targets.py`.
-- `pipeline/api_interpro.py` — pobieranie białek przypisanych do skonfigurowanych identyfikatorów IPR.
-- `pipeline/isolate_uniprot_ids.py` — wyodrębnianie, łączenie i porównywanie list UniProt.
-- `pipeline/api_intactUNI.py` i `pipeline/api_intactGENE.py` — pobieranie interakcji z IntAct po identyfikatorach UniProt lub nazwie grupy.
-- `pipeline/combine_intact.py` — łączenie i deduplikacja tabel interakcji.
-- `pipeline/isolate_interactors.py` — wyodrębnianie partnerów interakcji.
-- `pipeline/anotate_interactors.py` — pobieranie anotacji UniProt i zliczanie domen InterPro.
+## Current limitations
+
+- `pipelineLIST.py` expects `data/data.tsv`, which is not currently present in the repository.
+- Running the annotation stage again can append duplicate rows to existing `*_interactor_IPR.csv` files. Move or clear those generated annotation files before recalculating them.
+- The standalone block at the bottom of `api_intactGENE.py` passes an unsupported `input_dir` argument. The function should be called with `output_dir` only, or that entry point should be corrected, before using the script directly.
